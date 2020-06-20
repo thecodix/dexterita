@@ -1,4 +1,5 @@
-import Vue from 'vue';
+// eslint-disable-next-line import/extensions
+import Vue from 'vue/dist/vue.js';
 import App from './App.vue';
 
 Vue.config.productionTip = false;

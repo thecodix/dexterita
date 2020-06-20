@@ -1,0 +1,72 @@
+[
+  {
+    "id":"soc-20-jun-2p-1week",
+    "name":"Psicología Social",
+    "country":"United States",
+    "course":"Primero",
+    "subject":"social",
+    "year": 20,
+    "rating":20,
+    "questions":25,
+    "color":"#b7b583",
+    "slogan":"Junio 2020",
+    "logo":"#logo1",
+    "keywords":["business-focused","product optimization","emulation"]
+  },
+  {
+    "id":"at-20-jun-1week",
+    "name":"P. de la Atención",
+    "country":"France",
+    "course":"Primero",
+    "subject":"atencion",
+    "year": 20,
+    "rating":20,
+    "questions":20,
+    "color":"#50afb1",
+    "slogan":"Junio 2020",
+    "logo":"#logo2",
+    "keywords":["customer loyalty"]
+  },
+  {
+    "id":"em-20-jun-1week",
+    "name":"P. de la Emoción",
+    "country":"Brazil",
+    "course":"Segundo",
+    "subject":"emocion",
+    "year": 20,
+    "rating":20,
+    "questions":40,
+    "color":"#5a8285",
+    "slogan":"Junio 2020",
+    "logo":"#logo3",
+    "keywords":["user-centric","data-warehouse","emulation"]
+  },
+  {
+    "id":"em-19-sep-1week",
+    "name":"P. de la Emoción",
+    "country":"Brazil",
+    "course":"Segundo",
+    "subject":"emocion",
+    "year": 19,
+    "rating":19,
+    "questions":40,
+    "color":"#5a8285",
+    "slogan":"Septiembre 2019",
+    "logo":"#logo3",
+    "keywords":["user-centric","data-warehouse","emulation"]
+  },
+  {
+    "id":"apr-15-sep-1week",
+    "name":"Aprendizaje",
+    "country":"Brazil",
+    "course":"Segundo",
+    "subject":"aprendizaje",
+    "year": 15,
+    "rating":15,
+    "questions":40,
+    "color":"#5a8285",
+    "slogan":"Septiembre 2015",
+    "logo":"#logo4",
+    "keywords":["user-centric","data-warehouse","emulation"]
+  }
+]
