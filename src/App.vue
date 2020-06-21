@@ -116,56 +116,14 @@
                       leave-active-class="animated zoomOut"
                       mode="out-in">
 
-            <!--chooseQuiz-->
-            <div v-if="!chosenQuiz"
-                 v-bind:key="questionIndex"
-                 class="questionContainer">
-
-              <header>
-                <h2 class="title is-6">Elige asignatura</h2>
-              </header>
-
-              <!--options-->
-              <div class="optionContainer">
-                <b-form-group id="input-group-4">
-                  <b-button-group vertical v-model="form.buttons4" id="buttons4" size="sm">
-                    <b-button
-                      id="but-social"
-                      variant="primary"
-                      class="button actionButton"
-                      v-on:click="chooseSubject(social)">
-                      Psicología Social
-                    </b-button>
-                    <b-button
-                      id="but-emocion"
-                      variant="primary"
-                      class="button actionButton"
-                      v-on:click="chooseSubject(emocion)">
-                      Psicología de la Emoción
-                    </b-button>
-                    <b-button
-                      id="but-atencion"
-                      variant="primary"
-                      class="button actionButton"
-                      v-on:click="chooseSubject(atencion)">
-                      Psicología de la Atención
-                    </b-button>
-                  </b-button-group>
-                </b-form-group>
-              </div>
-              <!--/options-->
-
-            </div>
-            <!--/chooseQuiz-->
-
-            <!--qusetionContainer-->
+            <!--questionContainer-->
             <div class="questionContainer"
                  v-if="chosenQuiz && questionIndex<quiz.questions.length"
                  v-bind:key="questionIndex">
 
               <header>
                 <h1 class="title is-6">{{title}}</h1>
-                <h4>Tests examen 2020</h4>
+                <h4>Tests examen</h4>
                 <!--progress-->
                 <div class="progressContainer">
                   <div class="progress">
@@ -288,9 +246,6 @@
 </template>
 <script>
 import _ from 'lodash';
-import { BButton } from 'bootstrap-vue/esm/components/button';
-import { BFormGroup } from 'bootstrap-vue/esm/components/form-group';
-import { BButtonGroup } from 'bootstrap-vue/esm/components/button-group';
 import MOCK_DATA from './mock-data.json';
 import ATE_JUN_20 from './json/atencion/atencion_jun_20.json';
 import EM_JUN_20 from './json/emocion/emocion_jun_20.json';
@@ -325,9 +280,6 @@ const numQuestions = 2;
 
 export default {
   components: {
-    BButton,
-    BButtonGroup,
-    BFormGroup,
     icon: { template: '<svg><use :xlink:href="use"/></svg>', props: ['use'] },
   },
 
@@ -459,18 +411,16 @@ export default {
     setFilter(filter, option) {
       if (filter === 'segundo') {
         if (!this.filters[filter][option]) {
-          this.filters.primero = {
-            social: false,
-            atencion: false,
-            emocion: false,
-          };
+          Object.keys(this.filters.primero).forEach((f) => {
+            this.filters.primero[f] = false;
+          });
         }
         this.filters[filter][option] = !this.filters[filter][option];
       } else if (filter === 'primero') {
         if (!this.filters[filter][option]) {
-          this.filters.segundo = {
-            aprendizaje: false,
-          };
+          Object.keys(this.filters.segundo).forEach((f) => {
+            this.filters.segundo[f] = false;
+          });
         }
         this.filters[filter][option] = !this.filters[filter][option];
       } else {
@@ -587,15 +537,12 @@ export default {
   beforeMount() {
     this.companies = MOCK_DATA;
 
-    this.filters.primero = {
-      social: false,
-      atencion: false,
-      emocion: false,
-    };
-    this.filters.segundo = {
-      aprendizaje: false,
-    };
-    this.companies.forEach(({ rating }) => {
+    this.companies.forEach(({ rating, subject, course }) => {
+      if (course === 'Segundo') {
+        this.$set(this.filters.segundo, subject, false);
+      } else if (course === 'Primero') {
+        this.$set(this.filters.primero, subject, false);
+      }
       if (this.convocatoria.max < rating) this.convocatoria.max = rating;
       if (this.convocatoria.min > rating) {
         this.convocatoria.min = rating;
