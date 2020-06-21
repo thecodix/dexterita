@@ -363,7 +363,7 @@ export default {
         title: 'P. de la Emoción',
         examNames: EXAMENES_EMOCION,
         numQuestions: 40,
-        time: 20 * 60, // in seconds
+        time: 40 * 60, // in seconds
         plusScore: 0.25,
         minusScore: 0.25,
       },
@@ -371,7 +371,7 @@ export default {
         title: 'P. de la Atención',
         examNames: EXAMENES_ATENCION,
         numQuestions: 20,
-        time: 30 * 60, // in seconds
+        time: 40 * 60, // in seconds
         plusScore: 0.5,
         minusScore: 0.25,
       },

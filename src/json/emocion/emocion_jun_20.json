@@ -187,8 +187,8 @@
       "modelo": "1"
     },
     "responses": [
-      { "text": "Características no emocionales de los estímulos presentados en esa fase" },
-      { "text": "El contenido emocional de los estímulos presentados en esa fase", "correct": true }
+      { "text": "Características no emocionales de los estímulos presentados en esa fase", "correct": true },
+      { "text": "El contenido emocional de los estímulos presentados en esa fase" }
     ]
   },
   {
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "text": "La emoción que se desencadena cuando la valoración congnitiva lleva a la persona a concluir que la meta perdida no puede ser restaurada mediante un plan de acción preciso es la",
+    "text": "La emoción que se desencadena cuando la valoración cognitiva lleva a la persona a concluir que la meta perdida no puede ser restaurada mediante un plan de acción preciso es la",
     "fecha": {
       "mes": "Junio",
       "year": "2020",
@@ -549,6 +549,162 @@
     "responses": [
       { "text": "En todas subyace algún tipo de evaluación relativa al yo", "correct": true },
       { "text": "Son emociones primarias" }
+    ]
+  },
+  {
+    "text": "El efecto de congruencia motivacional hace referencia a si la situación es:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Consistente o inconsistente con los deseos y las metas" },
+      { "text": "Relevante o no para el individuo", "correct": true }
+    ]
+  },
+  {
+    "text": "La ley de la menor carga y el mayor beneficio formula que",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Cuando una situación puede ser vista desde distintas alternativas existe una tendencia a verla desde aquella postura que minimice la carga emocional negativa y/o que maximice una ganancia emocional", "correct": true },
+      { "text": "La intensidad de una emoción dependerá de la relación entre el evento ante el que se tiene sea emoción y el marco de referencia en el que es evaluado" }
+    ]
+  },
+  {
+    "text": "Comparando la forma de procesamiento del miedo con el procesamiento cognitivo de la ansiedad, este caracteriza porque:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Presenta una mayor urgencia para actuar" },
+      { "text": "Presenta una mayor capacidad para hacer frente a la situación", "correct": true }
+    ]
+  },
+  {
+    "text": "El paradigma de búsqueda visual explica cómo la atención se dirige principalmente hacia los estímulos:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Neutros" },
+      { "text": "Con valencia afectiva", "correct": true }
+    ]
+  },
+  {
+    "text": "En el orgullo, la evaluación por parte del sujeto es una:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Evaluación positiva de carácter global" },
+      { "text": "Evaluación positiva de una acción propia", "correct": true }
+    ]
+  },
+  {
+    "text": "El propósito de la alostasis, como mecanismo de regulación fisiológica es:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Mantener cada parámetro del organismo en un nivel óptimo." },
+      { "text": "Predecir el nivel de activación necesario basándose en la anticipación de las demandas del organismo", "correct": true }
+    ]
+  },
+  {
+    "text": "El postulado que comparten la teoría bifactorial de la emoción y la teoría de la evaluación discrepancia es:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La activación fisiológica tiene un carácter indiferenciado.", "correct": true },
+      { "text": "La activación fisiológica determina la cualidad emocional" }
+    ]
+  },
+  {
+    "text": "La función que cumple el córtex orbitofrontal en la respuesta emocional es:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Ejerce un control emocional inhibitorio que permite el cambio de conducta en función del significado emocional de los estímulos.", "correct": true },
+      { "text": "Controla la activación del sistema nervioso autónomo asociada a acontecimientos emocionales" }
+    ]
+  },
+  {
+    "text": "Los efectos fisiológicos de la hostilidad son:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Más intensos, más breves y menos resistentes a la habituación que los de la ira" },
+      { "text": "Menos intensos, más duraderos y más resistentes a la habituación que los de la ira", "correct": true }
+    ]
+  },
+  {
+    "text": "El logro de un objetivo relevante producirá mayor nivel de satisfacción y bienestar subjetivo cuando:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "El nivel de reto o desafío de la meta es alto" },
+      { "text": "El logro de la meta depende de un sistema motivacional de aproximación", "correct": true }
+    ]
+  },
+  {
+    "text": "En el estudio de la felicidad, la perspectiva hedónica asocia el bienestar con:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La consecución de metas y objetivos valiosos para la persona", "correct": true },
+      { "text": "La consecución de los valores que nos hacen crecer como persona" }
+    ]
+  },
+  {
+    "text": "En relación con la emoción de felicidad, los modelos de trabajo de apego hacen referencia a:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Estilos de vinculación afectiva entre el cuidador primario y el niño" },
+      { "text": "Esquemas cognitivo-afectivo-motivacionales de relación interpersonal", "correct": true }
+    ]
+  },
+  {
+    "text": "La tendencia a la rumiación que presentan las personas hostiles tienen como consecuencia una:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Reducción en la duración de la emoción positiva" },
+      { "text": "Prolongación de la experiencia subjetiva de ira", "correct": true }
     ]
   }
 ]
