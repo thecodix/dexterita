@@ -14,7 +14,7 @@
           {{ menu }}
         </li>
 
-        <li class="nav__label nav__label--clear" @click="clearAllFilters">Clear all</li>
+        <li class="nav__label nav__label--clear" @click="clearAllFilters">Borrar filtros</li>
       </menu>
 
       <label class="nav__label" @click="modal = !modal">Autor</label>
@@ -59,15 +59,14 @@
         <ul class="company__details">
           <li class="company__data">
             <label class="company__label">Curso</label>
-            <p class="company__subject"
-               @click="clearFilter('segundo', company.subject)">
-              {{ company.course }}
+            <p class="company__subject">
+              {{ company.course_dg }}º
             </p>
           </li>
 
           <li class="company__data">
-            <label class="company__label">Preguntas</label>
-            <p class="company__rating">{{ company.questions }}</p>
+            <label class="company__label">{{ company.minutes }}:00 minutos</label>
+            <p class="company__rating">{{ company.questions }} Preguntas</p>
           </li>
         </ul>
       </li>
@@ -288,6 +287,7 @@
   </main>
 </template>
 <script>
+import _ from 'lodash';
 import { BButton } from 'bootstrap-vue/esm/components/button';
 import { BFormGroup } from 'bootstrap-vue/esm/components/form-group';
 import { BButtonGroup } from 'bootstrap-vue/esm/components/button-group';
@@ -402,7 +402,7 @@ export default {
     list() {
       const { segundo, primero } = this.activeFilters;
 
-      return this.companies.filter(({
+      const c = this.companies.filter(({
         subject, rating,
       }) => {
         if (rating < this.filters.convocatoria) return false;
@@ -414,6 +414,8 @@ export default {
         // return !categories.length || categories.every((cat) => ~keywords.indexOf(cat));´
         return true;
       });
+      // eslint-disable-next-line no-undef
+      return _.orderBy(c, '-year');
     },
 
     activeFilters() {
@@ -499,12 +501,13 @@ export default {
     },
 
     restart() {
-      this.chosenQuiz = false;
+      this.clearAllFilters();
       this.questionIndex = 0;
       this.corrects = 0;
       this.incorrects = 0;
       this.userResponses = Array(this.quiz.questions.length).fill(null);
       this.time = 50 * 60;
+      this.chosenQuiz = false;
     },
     chooseSubject(subject, year, month) {
       this.title = this[subject].title;
@@ -789,7 +792,7 @@ fetch('https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mock-logos.svg')
   .company:hover {
     cursor: pointer;
     background-color: #0e4850;
-    transition: background-color 0.8s;
+    transition: background-color 0.8s, color 0.8s;
     color: white;
   }
   @media (min-width: 800px) {
@@ -1057,8 +1060,8 @@ fetch('https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mock-logos.svg')
     z-index: 1;
   }
   .main_transition-enter-active, .main_transition-leave-active {
-    -webkit-transition: opacity 2000ms, margin-top 0s .2s;
-    transition: opacity 2000ms, margin-top 0s .2s;
+    -webkit-transition: opacity 1500ms, margin-top 0s .2s;
+    transition: opacity 1500ms, margin-top 0s .2s;
   }
   .main_transition-enter, .main_transition-leave-to {
     opacity: 0;
@@ -1387,6 +1390,11 @@ fetch('https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mock-logos.svg')
       -webkit-box-orient: vertical;
       -webkit-box-direction: normal;
       flex-direction: column;
+    }
+  }
+  @media screen and (max-width: 769px) {
+    .questionBox {
+      width: 100%;
     }
   }
 </style>
