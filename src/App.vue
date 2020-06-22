@@ -48,7 +48,7 @@
     <transition-group name="company" tag="ul" class="content__list">
       <li class="company"
           v-for="company in list"
-          @click="chooseSubject(company.subject, company.year, company.month)"
+          @click="chooseSubject(company.subject, company)"
           :key="company.id">
         <div class="company__info">
           <icon class="company__logo" :style="`fill:${company.color}`" :use="company.logo"></icon>
@@ -123,7 +123,7 @@
 
               <header>
                 <h1 class="title is-6">{{title}}</h1>
-                <h4>Tests examen</h4>
+                <h4>{{examDate}}</h4>
                 <!--progress-->
                 <div class="progressContainer">
                   <div class="progress">
@@ -250,6 +250,8 @@ import MOCK_DATA from './mock-data.json';
 import ATE_JUN_20 from './json/atencion/atencion_jun_20.json';
 import EM_JUN_20 from './json/emocion/emocion_jun_20.json';
 import EM_SEP_19 from './json/emocion/emocion_sep_19.json';
+import PERC_SEP_17 from './json/percepcion/percepcion_sep_17.json';
+import SOC_JUN_19 from './json/social/social_jun_19.json';
 import SOC_JUN_20 from './json/social/social_jun_20.json';
 import SOC_SIM_20 from './json/social/social_simulacro2p_20.json';
 
@@ -273,6 +275,14 @@ const EXAMS = {
   social: {
     20: {
       june: SOC_JUN_20,
+    },
+    19: {
+      june: SOC_JUN_19,
+    },
+  },
+  percepcion: {
+    17: {
+      september: PERC_SEP_17,
     },
   },
 };
@@ -459,21 +469,22 @@ export default {
       this.time = 50 * 60;
       this.chosenQuiz = false;
     },
-    chooseSubject(subject, year, month) {
-      this.title = this[subject].title;
+    chooseSubject(name, subject) {
+      this.title = subject.name;
+      this.examDate = subject.slogan;
+      this.numQuestions = subject.questions;
       // const exams = this[subject].examNames[0].concat(this[subject].examNames[1]);
-      const exams = EXAMS[subject][year][month];
+      const exams = EXAMS[name][subject.year][subject.month];
       this.quiz.questions = exams
         .sort(() => Math.random() - 0.5)
-        .slice(0, this[subject].numQuestions);
-      this.userResponses = Array(this[subject].numQuestions).fill(null);
-      this.rightWrong = Array(this[subject].numQuestions).fill(null);
-      this.time = this[subject].time;
+        .slice(0, subject.questions);
+      this.userResponses = Array(subject.questions).fill(null);
+      this.rightWrong = Array(subject.questions).fill(null);
+      this.time = subject.minutes * 60;
       this.corrects = 0;
       this.incorrects = 0;
-      this.blank = 0;
-      this.plusScore = this[subject].plusScore;
-      this.minusScore = this[subject].minusScore;
+      this.plusScore = subject.plusScore;
+      this.minusScore = subject.minusScore;
       this.chosenQuiz = true;
     },
     selectOption(index, response) {
@@ -495,30 +506,11 @@ export default {
         this.questionIndex -= 1;
       }
     },
-    // Return "true" count in userResponses
+    // Return "true" count in rightWrong
     score() {
-      let score = 0;
-      // eslint-disable-next-line no-plusplus
-      for (let i = 0; i < this.userResponses.length; i++) {
-        if (
-          typeof this.quiz.questions[i].responses[
-            this.userResponses[i]
-          ] !== 'undefined'
-          && this.quiz.questions[i].responses[this.userResponses[i]].correct
-        ) {
-          score += this.plusScore;
-        }
-        if (
-          typeof this.quiz.questions[i].responses[
-            this.userResponses[i]] !== 'undefined'
-          && !this.quiz.questions[i].responses[this.userResponses[i]].correct
-        ) {
-          score -= this.minusScore;
-        }
-      }
+      let score = this.rightWrong.filter((v) => v).length * this.plusScore;
+      score -= this.rightWrong.filter((v) => v === false).length * this.minusScore;
       return Math.max(Math.round(score * 100) / 100, 0);
-
-      // return this.userResponses.filter(function(val) { return val }).length;
     },
     decrementOrAlert() {
       if (this.time > 0) {
@@ -536,6 +528,7 @@ export default {
   },
   beforeMount() {
     this.companies = MOCK_DATA;
+    this.companies = this.companies.filter((company) => company.verified);
 
     this.companies.forEach(({ rating, subject, course }) => {
       if (course === 'Segundo') {
