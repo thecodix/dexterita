@@ -559,8 +559,8 @@
       "modelo": "1"
     },
     "responses": [
-      { "text": "Consistente o inconsistente con los deseos y las metas" },
-      { "text": "Relevante o no para el individuo", "correct": true }
+      { "text": "Consistente o inconsistente con los deseos y las metas", "correct": true },
+      { "text": "Relevante o no para el individuo" }
     ]
   },
   {

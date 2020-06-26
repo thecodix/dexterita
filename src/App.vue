@@ -1,104 +1,126 @@
 <template>
   <main id="app" class="content">
-    <div v-if="!chosenQuiz">
-    <nav class="nav">
-      <menu class="nav__controls">
-        <icon class="nav__icon" use="#filter"></icon>
-
-        <li v-for="(active, menu) in menus" class="nav__label"
-            v-bind:key="active"
-            :class="{
-            'nav__label--active' : active,
-            'nav__label--filter': activeFilters[menu].length
-          }" @click="setMenu(menu, active)">
-          {{ menu }}
-        </li>
-
-        <li class="nav__label nav__label--clear" @click="clearAllFilters">Borrar filtros</li>
-      </menu>
-
-      <label class="nav__label" @click="modal = !modal">Autor</label>
-    </nav>
-
-    <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">
-      <menu v-for="(options, filter) in filters" class="filters"
-            v-show="menus[filter]" ref="menu" :key="filter">
-
-        <li v-if="filter === 'convocatoria'" class="filters__convocatoria">
-          <output>
-            <label>Desde el año:&nbsp;</label>
-            20{{ filters.convocatoria }}
-          </output>
-
-          <input v-model="filters.convocatoria" class="filters__range" type="range"
-                 :min="convocatoria.min" :max="convocatoria.max" step="1"/>
-        </li>
-
-        <template v-else>
-          <li v-for="(active, option) in options" class="filters__item"
-              v-bind:key="active"
-              :class="{ 'filters__item--active': active }"
-              @click="setFilter(filter, option)">
-            {{ option }}
-          </li>
-        </template>
-      </menu>
-    </transition-group>
-
-    <transition-group name="company" tag="ul" class="content__list">
-      <li class="company"
-          v-for="company in list"
-          @click="chooseSubject(company.subject, company)"
-          :key="company.id">
-        <div class="company__info">
-          <icon class="company__logo" :style="`fill:${company.color}`" :use="company.logo"></icon>
-          <h2 class="company__name">{{ company.name }}</h2>
-          <blockquote class="company__slogan">{{ company.slogan }}</blockquote>
-        </div>
-
-        <ul class="company__details">
-          <li class="company__data">
-            <label class="company__label">Curso</label>
-            <p class="company__subject">
-              {{ company.course_dg }}º
-            </p>
-          </li>
-
-          <li class="company__data">
-            <label class="company__label">{{ company.minutes }}:00 minutos</label>
-            <p class="company__rating">{{ company.questions }} Preguntas</p>
-          </li>
-        </ul>
-      </li>
-    </transition-group>
-
-    <transition name="modal">
-      <section v-if="modal" class="modal" @click="modal = false">
-        <article class="modal__content" @click.stop>
-          <h4 class="modal__title">Alfredo Romeu</h4>
-
-<!--          <h5 class="modal__link" @click="modal = false">-->
-<!--            <a href="https://snipcart.com/blog/vuejs-transitions-animations" target="_blank">-->
-<!--              Con un poco de inspiración de aquí-->
-<!--            </a>-->
-<!--          </h5>-->
-
-          <button class="modal__close" @click="modal = false">&times;</button>
-        </article>
-      </section>
-    </transition>
-    </div>
-
-    <div v-if="chosenQuiz">
-      <nav class="nav">
+    <div v-if="!chosenSubject">
+      <nav class="nav" v-if="!chosenSubject">
         <menu class="nav__controls">
           <icon class="nav__icon" use="#filter"></icon>
 
-          <li class="nav__label">
-            {{ title }}
+          <li v-for="(active, menu) in menus" class="nav__label"
+              v-bind:key="active"
+              :class="{
+              'nav__label--active' : active,
+              'nav__label--filter': activeFilters[menu].length
+            }" @click="setMenu(menu, active)">
+            {{ menu }}
           </li>
+
+          <li class="nav__label nav__label--clear" @click="clearAllFilters">Borrar filtros</li>
         </menu>
 
+        <label class="nav__label" @click="modal = !modal">Autor</label>
+      </nav>
+
+      <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">
+        <menu v-for="(options, filter) in filters" class="filters"
+              v-show="menus[filter]" ref="menu" :key="filter">
+
+          <li v-if="filter === 'convocatoria'" class="filters__convocatoria">
+            <output>
+              <label>Desde el año:&nbsp;</label>
+              20{{ filters.convocatoria }}
+            </output>
+
+            <input v-model="filters.convocatoria" class="filters__range" type="range"
+                   :min="convocatoria.min" :max="convocatoria.max" step="1"/>
+          </li>
+
+          <template v-else>
+            <li v-for="(active, option) in options" class="filters__item"
+                v-bind:key="active"
+                :class="{ 'filters__item--active': active }"
+                @click="setFilter(filter, option)">
+              {{ option }}
+            </li>
+          </template>
+        </menu>
+      </transition-group>
+
+      <transition-group
+        v-if="!chosenSubject" name="company" tag="ul" class="content__list">
+        <li class="company"
+            v-for="company in list"
+            @click="chooseSubject(company.subject, company)"
+            :key="company.id">
+          <div class="company__info">
+            <icon class="company__logo" :style="`fill:${company.color}`" :use="company.logo"></icon>
+            <h2 class="company__name">{{ company.name }}</h2>
+            <blockquote class="company__slogan">{{ company.slogan }}</blockquote>
+          </div>
+
+          <ul class="company__details">
+            <li class="company__data">
+              <label class="company__label">Curso</label>
+              <p class="company__subject">
+                {{ company.course_dg }}º
+              </p>
+            </li>
+
+            <li class="company__data">
+              <label class="company__label">{{ company.minutes }}:00 minutos</label>
+              <p class="company__rating">{{ company.questions }} Preguntas</p>
+            </li>
+          </ul>
+        </li>
+      </transition-group>
+
+
+      <transition name="modal">
+        <section v-if="modal" class="modal" @click="modal = false">
+          <article class="modal__content" @click.stop>
+            <h4 class="modal__title">Alfredo Romeu</h4>
+
+  <!--          <h5 class="modal__link" @click="modal = false">-->
+  <!--            <a href="https://snipcart.com/blog/vuejs-transitions-animations" target="_blank">-->
+  <!--              Con un poco de inspiración de aquí-->
+  <!--            </a>-->
+  <!--          </h5>-->
+
+            <button class="modal__close" @click="modal = false">&times;</button>
+          </article>
+        </section>
+      </transition>
+    </div>
+
+    <div v-show="chosenSubject">
+      <nav class="nav" v-if="!chosenQuiz">
+        <menu class="nav__controls">
+          <icon class="nav__icon" use="#filter"></icon>
+          <li class="nav__label">{{ title }}</li>
+        </menu>
+        <label class="nav__label" @click="restart()">Volver</label>
+      </nav>
+      <h2 v-if="!chosenQuiz" class="testTime">Elige el tiempo</h2>
+      <transition-group v-if="!chosenQuiz" name="quizoptions" tag="ul" class="content__list">
+        <li class="company"
+            v-for="opt in quizOptions"
+            @click="chooseOptions(opt)"
+            :key="opt.id"
+            :class="opt.id"
+        >
+          <div class="company__info">
+            <h2 class="company__name">{{ opt.subjectMinutes }}:00 minutos</h2>
+            <blockquote class="company__slogan">{{ opt.title }}</blockquote>
+          </div>
+        </li>
+      </transition-group>
+    </div>
+
+    <div v-if="chosenQuiz">
+      <nav class="nav" v-if="chosenSubject">
+        <menu class="nav__controls">
+          <icon class="nav__icon" use="#filter"></icon>
+          <li class="nav__label">{{ title }}</li>
+        </menu>
         <label class="nav__label" @click="restart()">Volver</label>
       </nav>
 
@@ -307,6 +329,7 @@ export default {
         primero: false, segundo: false, convocatoria: false,
       },
       chosenQuiz: false,
+      subjectMinutes: 40,
       corrects: 0,
       incorrects: 0,
       quiz: {
@@ -378,6 +401,26 @@ export default {
       });
       // eslint-disable-next-line no-undef
       return _.orderBy(c, '-year');
+    },
+
+    quizOptions() {
+      return {
+        easy: {
+          id: 'easy',
+          title: 'Fácil',
+          subjectMinutes: this.subjectMinutes + 20,
+        },
+        standard: {
+          id: 'standard',
+          title: 'Estándar',
+          subjectMinutes: this.subjectMinutes,
+        },
+        hard: {
+          id: 'hard',
+          title: 'Difícil',
+          subjectMinutes: 20,
+        },
+      };
     },
 
     activeFilters() {
@@ -468,6 +511,7 @@ export default {
       this.userResponses = Array(this.quiz.questions.length).fill(null);
       this.time = 50 * 60;
       this.chosenQuiz = false;
+      this.chosenSubject = false;
     },
     chooseSubject(name, subject) {
       this.title = subject.name;
@@ -481,10 +525,16 @@ export default {
       this.userResponses = Array(subject.questions).fill(null);
       this.rightWrong = Array(subject.questions).fill(null);
       this.time = subject.minutes * 60;
+      this.subjectMinutes = subject.minutes;
       this.corrects = 0;
       this.incorrects = 0;
       this.plusScore = subject.plusScore;
       this.minusScore = subject.minusScore;
+      this.chosenSubject = true;
+    },
+    chooseOptions(option) {
+      this.subjectMinutes = option.subjectMinutes;
+      this.time = this.subjectMinutes * 60;
       this.chosenQuiz = true;
     },
     selectOption(index, response) {
@@ -729,7 +779,7 @@ fetch('https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mock-logos.svg')
     transform-origin: 10% 50%;
     z-index: 1;
   }
-  .company:hover {
+  .company:hover, .company.easy:hover, .company.hard:hover {
     cursor: pointer;
     background-color: #0e4850;
     transition: background-color 0.8s, color 0.8s;
@@ -760,6 +810,12 @@ fetch('https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mock-logos.svg')
   .company-enter {
     -webkit-transform: scale(0.9);
     transform: scale(0.9);
+  }
+  .company.easy {
+    background-color: #e2ffe6;
+  }
+  .company.hard {
+    background-color: #fde2e2;
   }
   .company__data {
     line-height: 1.3;
@@ -1071,6 +1127,12 @@ fetch('https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mock-logos.svg')
     opacity: 1;
   }
 
+  .testTime {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.3em;
+  }
+
   body {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -1117,8 +1179,6 @@ fetch('https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/mock-logos.svg')
 
   .questionBox {
     margin: 0 auto;
-    max-width: 30rem;
-    width: 30rem;
     min-height: 30rem;
     background: #fafafa;
     position: relative;
