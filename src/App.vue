@@ -268,19 +268,28 @@
 </template>
 <script>
 import _ from 'lodash';
-import MOCK_DATA from './mock-data.json';
+import ASIGNATURAS_PRIMERO from './json/_meta/asignaturas-primero.json';
+import ASIGNATURAS_SEGUNDO from './json/_meta/asignaturas-segundo.json';
+import ANTRO_FEB_20 from './json/antropologia/antropologia_feb_20.json';
 import ATE_JUN_20 from './json/atencion/atencion_jun_20.json';
 import EM_JUN_20 from './json/emocion/emocion_jun_20.json';
 import EM_SEP_19 from './json/emocion/emocion_sep_19.json';
+import FIS_FEB_20 from './json/fisiologica/fisiologica_feb_20.json';
 import PERC_SEP_17 from './json/percepcion/percepcion_sep_17.json';
 import SOC_JUN_19 from './json/social/social_jun_19.json';
 import SOC_JUN_20 from './json/social/social_jun_20.json';
 import SOC_SIM_20 from './json/social/social_simulacro2p_20.json';
 
+const ASIGNATURAS = ASIGNATURAS_PRIMERO.concat(ASIGNATURAS_SEGUNDO);
 const EXAMENES_ATENCION = [ATE_JUN_20];
 const EXAMENES_EMOCION = [EM_JUN_20, EM_SEP_19];
 const EXAMENES_SOCIAL = [SOC_JUN_20, SOC_SIM_20];
 const EXAMS = {
+  antropologia: {
+    20: {
+      february: ANTRO_FEB_20,
+    },
+  },
   atencion: {
     20: {
       june: ATE_JUN_20,
@@ -292,6 +301,11 @@ const EXAMS = {
     },
     19: {
       september: EM_SEP_19,
+    },
+  },
+  fisiologica: {
+    20: {
+      february: FIS_FEB_20,
     },
   },
   social: {
@@ -577,7 +591,7 @@ export default {
     this.timer = setInterval(this.decrementOrAlert, 1000);
   },
   beforeMount() {
-    this.companies = MOCK_DATA;
+    this.companies = ASIGNATURAS;
     this.companies = this.companies.filter((company) => company.verified);
 
     this.companies.forEach(({ rating, subject, course }) => {

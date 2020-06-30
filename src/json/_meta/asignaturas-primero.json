@@ -2,7 +2,6 @@
   {
     "id":"soc-20-jun-2p-1week",
     "name":"Psicología Social",
-    "country":"United States",
     "course":"Primero",
     "course_dg":"1",
     "subject":"social",
@@ -22,7 +21,6 @@
   {
     "id":"soc-19-jun-2p-1week",
     "name":"Psicología Social",
-    "country":"United States",
     "course":"Primero",
     "course_dg":"1",
     "subject":"social",
@@ -42,7 +40,6 @@
   {
     "id":"at-20-jun-1week",
     "name":"P. de la Atención",
-    "country":"France",
     "course":"Primero",
     "course_dg":"1",
     "subject":"atencion",
@@ -62,7 +59,6 @@
   {
     "id":"em-20-jun-1week",
     "name":"P. de la Emoción",
-    "country":"Brazil",
     "course":"Primero",
     "course_dg":"1",
     "subject":"emocion",
@@ -82,7 +78,6 @@
   {
     "id":"em-19-sep-1week",
     "name":"P. de la Emoción",
-    "country":"Brazil",
     "course":"Primero",
     "course_dg":"1",
     "subject":"emocion",
@@ -97,26 +92,6 @@
     "slogan":"Septiembre 2019",
     "verified": true,
     "logo":"#logo7",
-    "keywords":["user-centric","data-warehouse","emulation"]
-  },
-  {
-    "id":"perc-17-sep-1week",
-    "name":"Percepción",
-    "country":"Brazil",
-    "course":"Segundo",
-    "course_dg":"2",
-    "subject":"percepcion",
-    "year": 17,
-    "month": "september",
-    "rating":17,
-    "questions": 30,
-    "plusScore": 0.33,
-    "minusScore":  0.16,
-    "minutes": 45,
-    "color":"#5a8285",
-    "slogan":"Septiembre 2017",
-    "verified": true,
-    "logo":"#logo4",
     "keywords":["user-centric","data-warehouse","emulation"]
   }
 ]
