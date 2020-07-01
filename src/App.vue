@@ -11,7 +11,7 @@
               'nav__label--active' : active,
               'nav__label--filter': activeFilters[menu].length
             }" @click="setMenu(menu, active)">
-            {{ menu }}
+            {{ getDisplay(menu) }}
           </li>
 
           <li class="nav__label nav__label--clear" @click="clearAllFilters">Borrar filtros</li>
@@ -281,14 +281,14 @@ import PERC_SEP_17 from './json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from './json/p-grupos/p-grupos_feb_19.json';
 import SOC_JUN_19 from './json/social/social_jun_19.json';
 import SOC_JUN_20 from './json/social/social_jun_20.json';
-import SOC_SIM_20 from './json/social/social_simulacro2p_20.json';
+// import SOC_SIM_20 from './json/social/social_simulacro2p_20.json';
 
 const ASIGNATURAS = ASIGNATURAS_PRIMERO.concat(
   ASIGNATURAS_SEGUNDO, ASIGNATURAS_TERCERO, ASIGNATURAS_CUARTO,
 );
-const EXAMENES_ATENCION = [ATE_JUN_20];
-const EXAMENES_EMOCION = [EM_JUN_20, EM_SEP_19];
-const EXAMENES_SOCIAL = [SOC_JUN_20, SOC_SIM_20];
+// const EXAMENES_ATENCION = [ATE_JUN_20];
+// const EXAMENES_EMOCION = [EM_JUN_20, EM_SEP_19];
+// const EXAMENES_SOCIAL = [SOC_JUN_20, SOC_SIM_20];
 const EXAMS = {
   antropologia: {
     20: {
@@ -360,30 +360,7 @@ export default {
         user: 'Dave',
         questions: {},
       },
-      social: {
-        title: 'Psicología Social',
-        examNames: EXAMENES_SOCIAL,
-        numQuestions: 20,
-        time: 40 * 60, // in seconds
-        plusScore: 0.45,
-        minusScore: 0.20,
-      },
-      emocion: {
-        title: 'P. de la Emoción',
-        examNames: EXAMENES_EMOCION,
-        numQuestions: 40,
-        time: 40 * 60, // in seconds
-        plusScore: 0.25,
-        minusScore: 0.25,
-      },
-      atencion: {
-        title: 'P. de la Atención',
-        examNames: EXAMENES_ATENCION,
-        numQuestions: 20,
-        time: 40 * 60, // in seconds
-        plusScore: 0.5,
-        minusScore: 0.25,
-      },
+      display: 5,
       questionIndex: 0,
       userResponses: Array(numQuestions).fill(null),
       rightWrong: Array(numQuestions).fill(null),
@@ -495,6 +472,28 @@ export default {
   },
 
   methods: {
+    onResize() {
+      if (window.innerWidth > 760) {
+        this.display = 'big';
+      } else {
+        this.display = 'smol';
+      }
+    },
+    getDisplay(menu) {
+      if (menu === 'convocatoria') return 'Año';
+      if (menu === 'cuarto') {
+        if (this.display === 'big') return 'Cuarto';
+        return '4º';
+      } if (menu === 'tercero') {
+        if (this.display === 'big') return 'Tercero';
+        return '3º';
+      } if (menu === 'segundo') {
+        if (this.display === 'big') return 'Segundo';
+        return '2º';
+      }
+      if (this.display === 'big') return 'Primero';
+      return '1º';
+    },
     setFilter(filter, option) {
       if (filter === 'cuarto') {
         if (!this.filters[filter][option]) {
@@ -647,6 +646,10 @@ export default {
 
   created() {
     this.timer = setInterval(this.decrementOrAlert, 1000);
+    window.addEventListener('resize', this.onResize);
+  },
+  beforeDestroy() {
+    window.removeEventListener('resize', this.onResize);
   },
   beforeMount() {
     this.companies = ASIGNATURAS;
