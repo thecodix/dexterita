@@ -19,22 +19,22 @@
     "keywords":["user-centric","data-warehouse","emulation"]
   },
   {
-    "id":"fisio-20-feb-1week",
-    "name":"Psicología Fisiológica",
-    "course":"Segundo",
-    "course_dg":"2",
-    "subject":"fisiologica",
-    "year": 20,
+    "id":"pgroup-19-feb-1week",
+    "name":"Psicología de los Grupos",
+    "course":"Tercero",
+    "course_dg":"3",
+    "subject":"psicologia_de_grupos",
+    "year": 19,
     "month": "february",
-    "rating": 20,
-    "questions": 24,
-    "plusScore": 0.4,
-    "minusScore":  0.2,
-    "minutes": 45,
+    "rating": 19,
+    "questions": 27,
+    "plusScore": 0.33,
+    "minusScore":  0.17,
+    "minutes": 90,
     "color":"#5a8285",
-    "slogan":"Febrero 2020",
+    "slogan":"Febrero 2019",
     "verified": true,
-    "logo":"#logo12",
-    "keywords":["user-centric","data-warehouse","emulation"]
+    "logo":"#logo13",
+    "keywords":["grupos","tercero","emulation"]
   }
 ]

@@ -270,17 +270,22 @@
 import _ from 'lodash';
 import ASIGNATURAS_PRIMERO from './json/_meta/asignaturas-primero.json';
 import ASIGNATURAS_SEGUNDO from './json/_meta/asignaturas-segundo.json';
+import ASIGNATURAS_TERCERO from './json/_meta/asignaturas-tercero.json';
+import ASIGNATURAS_CUARTO from './json/_meta/asignaturas-cuarto.json';
 import ANTRO_FEB_20 from './json/antropologia/antropologia_feb_20.json';
 import ATE_JUN_20 from './json/atencion/atencion_jun_20.json';
 import EM_JUN_20 from './json/emocion/emocion_jun_20.json';
 import EM_SEP_19 from './json/emocion/emocion_sep_19.json';
 import FIS_FEB_20 from './json/fisiologica/fisiologica_feb_20.json';
 import PERC_SEP_17 from './json/percepcion/percepcion_sep_17.json';
+import PGROUP_FEB_19 from './json/p-grupos/p-grupos_feb_19.json';
 import SOC_JUN_19 from './json/social/social_jun_19.json';
 import SOC_JUN_20 from './json/social/social_jun_20.json';
 import SOC_SIM_20 from './json/social/social_simulacro2p_20.json';
 
-const ASIGNATURAS = ASIGNATURAS_PRIMERO.concat(ASIGNATURAS_SEGUNDO);
+const ASIGNATURAS = ASIGNATURAS_PRIMERO.concat(
+  ASIGNATURAS_SEGUNDO, ASIGNATURAS_TERCERO, ASIGNATURAS_CUARTO,
+);
 const EXAMENES_ATENCION = [ATE_JUN_20];
 const EXAMENES_EMOCION = [EM_JUN_20, EM_SEP_19];
 const EXAMENES_SOCIAL = [SOC_JUN_20, SOC_SIM_20];
@@ -306,6 +311,11 @@ const EXAMS = {
   fisiologica: {
     20: {
       february: FIS_FEB_20,
+    },
+  },
+  psicologia_de_grupos: {
+    19: {
+      february: PGROUP_FEB_19,
     },
   },
   social: {
@@ -337,10 +347,10 @@ export default {
       dropdown: { height: 0 },
       convocatoria: { min: 20, max: 0 },
       filters: {
-        primero: {}, segundo: {}, convocatoria: 0,
+        primero: {}, segundo: {}, tercero: {}, cuarto: {}, convocatoria: 0,
       },
       menus: {
-        primero: false, segundo: false, convocatoria: false,
+        primero: false, segundo: false, tercero: false, cuarto: false, convocatoria: false,
       },
       chosenQuiz: false,
       subjectMinutes: 40,
@@ -399,12 +409,18 @@ export default {
     },
 
     list() {
-      const { segundo, primero } = this.activeFilters;
+      const {
+        cuarto, tercero, segundo, primero,
+      } = this.activeFilters;
 
       const c = this.companies.filter(({
         subject, rating,
       }) => {
         if (rating < this.filters.convocatoria) return false;
+        // eslint-disable-next-line no-bitwise
+        if (cuarto.length && !~cuarto.indexOf(subject)) return false;
+        // eslint-disable-next-line no-bitwise
+        if (tercero.length && !~tercero.indexOf(subject)) return false;
         // eslint-disable-next-line no-bitwise
         if (segundo.length && !~segundo.indexOf(subject)) return false;
         // eslint-disable-next-line no-bitwise
@@ -438,9 +454,13 @@ export default {
     },
 
     activeFilters() {
-      const { segundo, primero } = this.filters;
+      const {
+        cuarto, tercero, segundo, primero,
+      } = this.filters;
 
       return {
+        cuarto: Object.keys(cuarto).filter((c) => cuarto[c]),
+        tercero: Object.keys(tercero).filter((c) => tercero[c]),
         segundo: Object.keys(segundo).filter((c) => segundo[c]),
         // categories: Object.keys(categories).filter((c) => categories[c]),
         primero: Object.keys(primero).filter((c) => primero[c]),
@@ -476,10 +496,42 @@ export default {
 
   methods: {
     setFilter(filter, option) {
-      if (filter === 'segundo') {
+      if (filter === 'cuarto') {
         if (!this.filters[filter][option]) {
           Object.keys(this.filters.primero).forEach((f) => {
             this.filters.primero[f] = false;
+          });
+          Object.keys(this.filters.segundo).forEach((f) => {
+            this.filters.segundo[f] = false;
+          });
+          Object.keys(this.filters.tercero).forEach((f) => {
+            this.filters.tercero[f] = false;
+          });
+        }
+        this.filters[filter][option] = !this.filters[filter][option];
+      } else if (filter === 'tercero') {
+        if (!this.filters[filter][option]) {
+          Object.keys(this.filters.primero).forEach((f) => {
+            this.filters.primero[f] = false;
+          });
+          Object.keys(this.filters.segundo).forEach((f) => {
+            this.filters.segundo[f] = false;
+          });
+          Object.keys(this.filters.cuarto).forEach((f) => {
+            this.filters.cuarto[f] = false;
+          });
+        }
+        this.filters[filter][option] = !this.filters[filter][option];
+      } else if (filter === 'segundo') {
+        if (!this.filters[filter][option]) {
+          Object.keys(this.filters.primero).forEach((f) => {
+            this.filters.primero[f] = false;
+          });
+          Object.keys(this.filters.tercero).forEach((f) => {
+            this.filters.tercero[f] = false;
+          });
+          Object.keys(this.filters.cuarto).forEach((f) => {
+            this.filters.cuarto[f] = false;
           });
         }
         this.filters[filter][option] = !this.filters[filter][option];
@@ -487,6 +539,12 @@ export default {
         if (!this.filters[filter][option]) {
           Object.keys(this.filters.segundo).forEach((f) => {
             this.filters.segundo[f] = false;
+          });
+          Object.keys(this.filters.tercero).forEach((f) => {
+            this.filters.tercero[f] = false;
+          });
+          Object.keys(this.filters.cuarto).forEach((f) => {
+            this.filters.cuarto[f] = false;
           });
         }
         this.filters[filter][option] = !this.filters[filter][option];
@@ -595,7 +653,11 @@ export default {
     this.companies = this.companies.filter((company) => company.verified);
 
     this.companies.forEach(({ rating, subject, course }) => {
-      if (course === 'Segundo') {
+      if (course === 'Cuarto') {
+        this.$set(this.filters.cuarto, subject, false);
+      } else if (course === 'Tercero') {
+        this.$set(this.filters.tercero, subject, false);
+      } else if (course === 'Segundo') {
         this.$set(this.filters.segundo, subject, false);
       } else if (course === 'Primero') {
         this.$set(this.filters.primero, subject, false);
