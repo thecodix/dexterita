@@ -1,0 +1,21 @@
+[
+  {
+    "id":"finvest-20-jun-1week",
+    "name":"F. Investigación",
+    "course":"Primero",
+    "course_dg":"1",
+    "subject":"fundamentos_de_investigacion",
+    "year": 20,
+    "month": "june",
+    "rating":20,
+    "questions":40,
+    "plusScore": 0.25,
+    "minusScore":  0.25,
+    "minutes": 30,
+    "color":"#5a8285",
+    "slogan":"Junio 2020",
+    "verified": true,
+    "logo":"#logo7",
+    "keywords":["user-centric","data-warehouse","emulation"]
+  }
+]

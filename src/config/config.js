@@ -1,7 +1,9 @@
-import ASIGNATURAS_PRIMERO from '../json/_meta/asignaturas-primero.json';
-import ASIGNATURAS_SEGUNDO from '../json/_meta/asignaturas-segundo.json';
+import { ASIGNATURAS_PRIMERO } from '../json/_meta/primero/index';
+import { ASIGNATURAS_SEGUNDO } from '../json/_meta/segundo/index';
+
 import ASIGNATURAS_TERCERO from '../json/_meta/asignaturas-tercero.json';
 import ASIGNATURAS_CUARTO from '../json/_meta/asignaturas-cuarto.json';
+
 import ANTRO_FEB_20 from '../json/antropologia/antropologia_feb_20.json';
 import ATE_JUN_20 from '../json/atencion/atencion_jun_20.json';
 import EM_JUN_20 from '../json/emocion/emocion_jun_20.json';
@@ -15,6 +17,7 @@ import SOC_JUN_20 from '../json/social/social_jun_20.json';
 // const EXAMENES_ATENCION = [ATE_JUN_20];
 // const EXAMENES_EMOCION = [EM_JUN_20, EM_SEP_19];
 // const EXAMENES_SOCIAL = [SOC_JUN_20, SOC_SIM_20];
+
 export const ASIGNATURAS = Object.freeze(ASIGNATURAS_PRIMERO.concat(
   ASIGNATURAS_SEGUNDO, ASIGNATURAS_TERCERO, ASIGNATURAS_CUARTO,
 ));
