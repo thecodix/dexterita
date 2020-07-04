@@ -1,0 +1,21 @@
+[
+  {
+    "id":"psicobio-19-jun-2p-1week",
+    "name":"Psicobiología",
+    "course":"Primero",
+    "course_dg":"1",
+    "subject":"psicobiologia",
+    "year": 19,
+    "month": "june",
+    "rating": 19,
+    "questions":30,
+    "plusScore": 0.3,
+    "minusScore":  0.15,
+    "minutes": 40,
+    "color":"#b7b583",
+    "slogan":"Junio 2019",
+    "verified": true,
+    "logo":"#logo8",
+    "keywords":["biologia","psicobiologia"]
+  }
+]

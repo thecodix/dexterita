@@ -1,0 +1,21 @@
+[
+  {
+    "id":"motiv-19-feb-1week",
+    "name":"P. de la Motivación",
+    "course":"Primero",
+    "course_dg":"1",
+    "subject":"motivacion",
+    "year": 19,
+    "month": "june",
+    "rating":20,
+    "questions":30,
+    "plusScore": 0.3,
+    "minusScore":  0.15,
+    "minutes": 40,
+    "color":"#b7b583",
+    "slogan":"Junio 2019",
+    "verified": true,
+    "logo":"#logo7",
+    "keywords":["motivacion"]
+  }
+]
