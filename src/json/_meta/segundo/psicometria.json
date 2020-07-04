@@ -1,21 +1,21 @@
 [
   {
-    "id":"perc-17-sep-1week",
-    "name":"Percepción",
+    "id":"psicomet-18-sep-1week",
+    "name":"Psicometría",
     "course":"Segundo",
     "course_dg":"2",
-    "subject":"percepcion",
-    "year": 17,
+    "subject":"psicometria",
+    "year": 18,
     "month": "september",
-    "rating":17,
+    "rating": 18,
     "questions": 30,
     "plusScore": 0.33,
     "minusScore":  0.16,
     "minutes": 45,
     "color":"#5a8285",
-    "slogan":"Septiembre 2017",
+    "slogan":"Septiembre 2018",
     "verified": true,
-    "logo":"#logo16",
+    "logo":"#logo18",
     "keywords":["user-centric","data-warehouse","emulation"]
   }
 ]

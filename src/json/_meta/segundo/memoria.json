@@ -1,21 +1,21 @@
 [
   {
-    "id":"fisio-20-feb-1week",
-    "name":"Psicología Fisiológica",
+    "id":"memo-20-feb-1week",
+    "name":"P. de la Memoria",
     "course":"Segundo",
     "course_dg":"2",
-    "subject":"fisiologica",
+    "subject":"memoria",
     "year": 20,
     "month": "february",
     "rating": 20,
-    "questions": 24,
-    "plusScore": 0.4,
-    "minusScore":  0.2,
-    "minutes": 45,
+    "questions": 40,
+    "plusScore": 0.25,
+    "minusScore":  0.25,
+    "minutes": 50,
     "color":"#5a8285",
     "slogan":"Febrero 2020",
     "verified": true,
-    "logo":"#logo17",
+    "logo":"#logo14",
     "keywords":["user-centric","data-warehouse","emulation"]
   }
 ]
