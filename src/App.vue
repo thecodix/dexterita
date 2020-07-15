@@ -55,6 +55,7 @@
             <icon class="company__logo" :style="`fill:${company.color}`" :use="company.logo"></icon>
             <h2 class="company__name">{{ company.name }}</h2>
             <blockquote class="company__slogan">{{ company.slogan }}</blockquote>
+            <blockquote class="company__label">{{ company.week }}</blockquote>
           </div>
 
           <ul class="company__details">
