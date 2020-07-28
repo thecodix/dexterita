@@ -5,8 +5,15 @@ import { ASIGNATURAS_CUARTO } from '../json/_meta/cuarto/index';
 
 import ANTRO_FEB_20 from '../json/antropologia/antropologia_feb_20.json';
 import ATE_JUN_20 from '../json/atencion/atencion_jun_20.json';
+
 import EM_JUN_20 from '../json/emocion/emocion_jun_20.json';
 import EM_SEP_19 from '../json/emocion/emocion_sep_19.json';
+import EM_JUN_19 from '../json/emocion/Emocion_Jun_19_1semana.json';
+import EM_SEP_18 from '../json/emocion/Emocion_Sep_18_1semana.json';
+import EM_JUN_18 from '../json/emocion/Emocion_Jun_18_1semana.json';
+import EM_SEP_17 from '../json/emocion/Emocion_Sep_17_1semana.json';
+import EM_JUN_17 from '../json/emocion/Emocion_Jun_17_1semana.json';
+
 import FIS_FEB_20 from '../json/fisiologica/fisiologica_feb_20.json';
 import MOTIV_SEP_19_1 from '../json/motivacion/motivacion_sep_19_1semana.json';
 import MOTIV_FEB_20_2 from '../json/motivacion/motivacion_feb_20_2semana.json';
@@ -36,6 +43,15 @@ export const EXAMS = Object.freeze({
     },
     19: {
       september: EM_SEP_19,
+      june: EM_JUN_19,
+    },
+    18: {
+      september: EM_SEP_18,
+      june: EM_JUN_18,
+    },
+    17: {
+      september: EM_SEP_17,
+      june: EM_JUN_17,
     },
   },
   fisiologica: {
