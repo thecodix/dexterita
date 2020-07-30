@@ -161,11 +161,11 @@
         },
         "responses": [
             {
-                "text": "La ansiedad es a menudo “preestímulo”, mientras que el miedo es “postestímulo”.",
+                "text": "La ansiedad es a menudo 'preestímulo', mientras que el miedo es 'postestímulo'.",
                 "correct": "true"
             },
             {
-                "text": "El miedo es “preestímulo”, mientras que la ansiedad es a menudo “postestímulo”."
+                "text": "El miedo es 'preestímulo', mientras que la ansiedad es a menudo 'postestímulo'."
             }
         ]
     },

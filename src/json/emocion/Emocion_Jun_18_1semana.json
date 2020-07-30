@@ -51,7 +51,7 @@
         ]
     },
     {
-        "text": "Durante el episodio de hilaridad, la aparición de patrones sonoros “jo-jo” o “ju-ju” se asocia con una expresión desinhibida de la alegría:",
+        "text": "Durante el episodio de hilaridad, la aparición de patrones sonoros 'jo-jo' o 'ju-ju' se asocia con una expresión desinhibida de la alegría:",
         "fecha": {
             "mes": "Junio",
             "year": "2018",
@@ -93,11 +93,11 @@
         },
         "responses": [
             {
-                "text": "“emociones autoevaluativas”.",
+                "text": "Emociones autoevaluativas.",
                 "correct": "true"
             },
             {
-                "text": "“emociones sobre emociones”."
+                "text": "Emociones sobre emociones."
             }
         ]
     },
@@ -416,7 +416,7 @@
         },
         "responses": [
             {
-                "text": "La teoría de james-lange.",
+                "text": "La teoría de James-Lange.",
                 "correct": "true"
             },
             {

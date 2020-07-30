@@ -1,6 +1,6 @@
 [
     {
-        "text": "Según Tangney (1999), el orgullo “beta” se refiere al:",
+        "text": "Según Tangney (1999), el orgullo 'beta' se refiere al:",
         "fecha": {
             "mes": "Septiembre",
             "year": "2018",
@@ -178,7 +178,7 @@
         },
         "responses": [
             {
-                "text": "La información que llega a la amígdala directamente desde el tálamo es suficiente para que se forme la asociación entre el tono (ec) y el shock (ei).",
+                "text": "La información que llega a la amígdala directamente desde el tálamo es suficiente para que se forme la asociación entre el tono (EC) y el shock (EI).",
                 "correct": "true"
             },
             {
@@ -467,7 +467,7 @@
         },
         "responses": [
             {
-                "text": "Verdadera."
+                "text": "Verdadero."
             },
             {
                 "text": "Falso.",
