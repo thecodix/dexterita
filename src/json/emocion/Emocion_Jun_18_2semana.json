@@ -12,7 +12,7 @@
             },
             {
                 "text": "Favorecer la introspección y el análisis constructivo.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -29,7 +29,7 @@
             },
             {
                 "text": "Establece asociaciones entre estímulos dotadas de contenido afectivo (memoria implícita).",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -46,7 +46,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -63,7 +63,7 @@
             },
             {
                 "text": "La que postula la existencia de patrones específicos de respuesta asociados a cada emoción.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -77,7 +77,7 @@
         "responses": [
             {
                 "text": "Seriedad.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Amabilidad."
@@ -97,7 +97,7 @@
             },
             {
                 "text": "Enmascaradora.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -114,7 +114,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -128,7 +128,7 @@
         "responses": [
             {
                 "text": "Una especie de orgullo exagerado.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La emoción que surge como consecuencia de una evaluación negativa del yo de carácter global."
@@ -145,7 +145,7 @@
         "responses": [
             {
                 "text": "Los cambios comportamentales que producen las emociones y que hacen que las personas se preparen para la acción.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Los cambios en la percepción de las acciones."
@@ -165,7 +165,7 @@
             },
             {
                 "text": "Los indicadores de activación somática y conductual pueden estar disociados.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -179,7 +179,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -199,7 +199,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -213,7 +213,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -233,7 +233,7 @@
             },
             {
                 "text": "Interviene en el afrontamiento como elemento motivador de las acciones a tomar.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -250,7 +250,7 @@
             },
             {
                 "text": "Emociones autoconscientes.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -267,7 +267,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -284,7 +284,7 @@
             },
             {
                 "text": "Diferencia entre mecanismos automáticos y controlados vinculados a la emoción.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -301,7 +301,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -315,7 +315,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -332,7 +332,7 @@
         "responses": [
             {
                 "text": "La predicción del nivel de activación necesario basándose en la anticipación de las demandas del organismo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El mantenimiento de los parámetros de activación del organismo en un nivel óptimo."
@@ -352,7 +352,7 @@
             },
             {
                 "text": "La existencia de importantes diferencias individuales en las emociones que las personas adultas llegan a desarrollar.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -369,7 +369,7 @@
             },
             {
                 "text": "Los compromisos personales y al grado en que la situación es relevante.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -383,7 +383,7 @@
         "responses": [
             {
                 "text": "Apasionado.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Perfecto."
@@ -400,7 +400,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -420,7 +420,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -437,7 +437,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -451,7 +451,7 @@
         "responses": [
             {
                 "text": "La información cargada afectivamente llega a incorporarse a los procesos cognitivos.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La información cargada afectivamente provoca reacciones emocionales en los observadores."
@@ -468,7 +468,7 @@
         "responses": [
             {
                 "text": "Tener alta tolerancia a la percepción de la activación fisiológica.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Mantener un alto estado de hipervigilancia."
@@ -485,7 +485,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -502,7 +502,7 @@
         "responses": [
             {
                 "text": "La extroversión.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El optimismo."
@@ -519,7 +519,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -536,7 +536,7 @@
         "responses": [
             {
                 "text": "Ira.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Tristeza."
@@ -556,7 +556,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -570,7 +570,7 @@
         "responses": [
             {
                 "text": "Estímulos atemorizantes condicionados.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Peligros evolutivos especiales."
@@ -590,7 +590,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -607,7 +607,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -624,7 +624,7 @@
             },
             {
                 "text": "Síntomas derivados de la activación del sistema simpático.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -638,7 +638,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -658,7 +658,7 @@
             },
             {
                 "text": "Aparece a menudo como un rasgo asociado a alteraciones de la estructura básica de la persona.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -672,7 +672,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."

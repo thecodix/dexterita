@@ -12,7 +12,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -29,7 +29,7 @@
             },
             {
                 "text": "Datos de la incidencia de la enfermedad coronaria en sujetos con puntuaciones altas en medidas de hostilidad.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -46,7 +46,7 @@
             },
             {
                 "text": "La culpa.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -60,7 +60,7 @@
         "responses": [
             {
                 "text": "Propone un único código de representación para elementos tan dispares como las respuestas fisiológicas, las características del elemento instigador de la emoción o la experiencia emocional subjetiva.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Propone distintos códigos de representación para elementos tan dispares como las respuestas fisiológicas, las características del elemento instigador de la emocióno la experiencia emocional subjetiva."
@@ -80,7 +80,7 @@
             },
             {
                 "text": "Pasión e intimidad.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -97,7 +97,7 @@
             },
             {
                 "text": "Zajonc.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -114,7 +114,7 @@
             },
             {
                 "text": "La presencia de condiciones favorables o desfavorables, facilitará la aparición de la respuesta emocional, pero es necesario que esas condiciones se den como fruto decambios reales.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -131,7 +131,7 @@
             },
             {
                 "text": "El segundo filtro, basado en el aprendizaje y la cultura.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -145,7 +145,7 @@
         "responses": [
             {
                 "text": "Menos sentimientos de ira que los introvertidos.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Más sentimientos de ira que los introvertidos."
@@ -162,7 +162,7 @@
         "responses": [
             {
                 "text": "Los procesos de evaluación y atribución interna de la conducta.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Los estímulos que las elicitan y las formas de expresión."
@@ -182,7 +182,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -199,7 +199,7 @@
             },
             {
                 "text": "La ira.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -213,7 +213,7 @@
         "responses": [
             {
                 "text": "Los indicadores de activación somática y conductual pueden estar disociados.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Ciertas situaciones tienden a elicitar el mismo patrón de reactividadpsicofisiológica."
@@ -233,7 +233,7 @@
             },
             {
                 "text": "Reacciones aprendidas y anticipadas de amenaza.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -250,7 +250,7 @@
             },
             {
                 "text": "Atenuar la atención hacia el ambiente.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -264,7 +264,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -281,7 +281,7 @@
         "responses": [
             {
                 "text": "La teoría bifactorial de la emoción.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Las teorías cognitivas de la valoración."
@@ -298,7 +298,7 @@
         "responses": [
             {
                 "text": "Sensación de desasosiego y malestar.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El de mente en blanco."
@@ -318,7 +318,7 @@
             },
             {
                 "text": "La valoración que alude a los compromisos personales y al grado en que lasituación es relevante para la persona.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -335,7 +335,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -349,7 +349,7 @@
         "responses": [
             {
                 "text": "Persona engreída.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Persona orgullosa."
@@ -366,7 +366,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -386,7 +386,7 @@
             },
             {
                 "text": "Los recursos de afrontamiento se movilizan antes que la amenaza se haya cumplido.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -403,7 +403,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -420,7 +420,7 @@
             },
             {
                 "text": "Bloquean la respuesta del animal tanto al ec (tono) como al contexto en que seproduce el condicionamiento.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -437,7 +437,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -454,7 +454,7 @@
             },
             {
                 "text": "El temperamento de comportamiento inhibido.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -468,7 +468,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -485,7 +485,7 @@
         "responses": [
             {
                 "text": "Mejoran la memoria para los detalles principales y dificultan la de los detalles secundarios.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Dificultan la memoria para los detalles principales y mejoran la de los detallessecundarios."
@@ -505,7 +505,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -519,7 +519,7 @@
         "responses": [
             {
                 "text": "Una evaluación negativa de carácter global.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Una evaluación negativa referida a una acción concreta."
@@ -539,7 +539,7 @@
             },
             {
                 "text": "Alarma.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -553,7 +553,7 @@
         "responses": [
             {
                 "text": "El córtex prefrontal ventromedial.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El hipotálamo."
@@ -570,7 +570,7 @@
         "responses": [
             {
                 "text": "La pose facial determina la intensidad del estado afectivo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La evaluación de diversión al ver los cómic era igual en ambas formas de sostenerel lápiz."
@@ -590,7 +590,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -604,7 +604,7 @@
         "responses": [
             {
                 "text": "Las personas en sus relaciones interpersonales puedan satisfacer las necesidades de autonomía, competencia y afiliación.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Las relaciones sociales se incrementen y, por tanto, aumente su bienestar."
@@ -621,7 +621,7 @@
         "responses": [
             {
                 "text": "Un efecto subjetivo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Un sesgo cognitivo."
@@ -638,7 +638,7 @@
         "responses": [
             {
                 "text": "La falta de higiene.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El dominio moral del asco."
@@ -658,7 +658,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -672,7 +672,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."

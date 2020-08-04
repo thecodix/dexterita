@@ -12,7 +12,7 @@
             },
             {
                 "text": "Edad y estado civil.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -26,7 +26,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -43,7 +43,7 @@
         "responses": [
             {
                 "text": "Autoconscientes.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Primarias."
@@ -63,7 +63,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -80,7 +80,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -97,7 +97,7 @@
             },
             {
                 "text": "Anticipa las consecuencias que tendrían determinadas líneas de afrontamiento sobre acontecimientos futuros.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -111,7 +111,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -128,7 +128,7 @@
         "responses": [
             {
                 "text": "Inducción hipnótica de estados emocionales.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Procedimiento del enmascaramiento hacia atrás."
@@ -148,7 +148,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -162,7 +162,7 @@
         "responses": [
             {
                 "text": "Redirigir la atención fuera de las condiciones amenazantes.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Evitar la utilización de recursos atencionales."
@@ -179,7 +179,7 @@
         "responses": [
             {
                 "text": "Irritabilidad, hostilidad y agresividad.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Miedo, ansiedad y asco."
@@ -199,7 +199,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -216,7 +216,7 @@
             },
             {
                 "text": "La valoración del estado de activación y del contexto en que tiene lugar la activación.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -233,7 +233,7 @@
             },
             {
                 "text": "Permite simplificar el proceso de razonamiento.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -247,7 +247,7 @@
         "responses": [
             {
                 "text": "La sorpresa.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El miedo."
@@ -264,7 +264,7 @@
         "responses": [
             {
                 "text": "La teoría de la interferencia concurrente.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La teoría del contagio."
@@ -281,7 +281,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -298,7 +298,7 @@
         "responses": [
             {
                 "text": "La existencia de importantes diferencias individuales en las emociones que las personas adultas llegan a desarrollar.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La existencia de características únicas y distintivas para cada categoría emocional."
@@ -315,7 +315,7 @@
         "responses": [
             {
                 "text": "La estrategia más sencilla y que consiste en recuperar valoraciones y reacciones ya existentes previamente en el sistema de análisis.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Estrategias que tienen como objetivo primordial el lograr metas específicas de forma autorregulada."
@@ -332,7 +332,7 @@
         "responses": [
             {
                 "text": "Se puede procesar la información emocional de manera no consciente para el individuo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Se puede procesar la información emocional de manera consciente para el individuo."
@@ -352,7 +352,7 @@
             },
             {
                 "text": "Automáticos.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -369,7 +369,7 @@
             },
             {
                 "text": "Sensación de pérdida de control.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -383,7 +383,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -403,7 +403,7 @@
             },
             {
                 "text": "La culpa.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -420,7 +420,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -434,7 +434,7 @@
         "responses": [
             {
                 "text": "Limpiar el sistema nervioso de la actividad que pudiera interferir con el ajuste a un cambio imprevisto producido en nuestro medio ambiente.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Preparar al organismo para que ejecute eficazmente un rechazo de condiciones ambientales potencialmente dañinas."
@@ -451,7 +451,7 @@
         "responses": [
             {
                 "text": "Orgullo relativo a la conducta.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Orgullo relativo al self."
@@ -471,7 +471,7 @@
             },
             {
                 "text": "Es la experiencia subjetiva de la emoción.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -485,7 +485,7 @@
         "responses": [
             {
                 "text": "Hilarante.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Miedo."
@@ -502,7 +502,7 @@
         "responses": [
             {
                 "text": "Subsistema de soporte.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Subsistema de procesamiento de la información."
@@ -522,7 +522,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -539,7 +539,7 @@
             },
             {
                 "text": "Sensibilizadoras.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -553,7 +553,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -573,7 +573,7 @@
             },
             {
                 "text": "Que el procesamiento de la información concurrente neutra no se deteriore.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -590,7 +590,7 @@
             },
             {
                 "text": "El compromiso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -604,7 +604,7 @@
         "responses": [
             {
                 "text": "La modulación y regulación de la respuesta emocional.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La inhibición de la respuesta a estímulos aversivos."
@@ -624,7 +624,7 @@
             },
             {
                 "text": "No.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -638,7 +638,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -658,7 +658,7 @@
             },
             {
                 "text": "Alta sorpresividad, baja familiaridad y baja predictibilidad.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -675,7 +675,7 @@
             },
             {
                 "text": "Siempre tienen como antecedente algún tipo de juicio de la persona sobre sus propias acciones.",
-                "correct": "true"
+                "correct": true
             }
         ]
     }

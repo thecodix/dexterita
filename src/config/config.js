@@ -15,9 +15,12 @@ import EM_SEP_17 from '../json/emocion/Emocion_Sep_17_1semana.json';
 import EM_JUN_17 from '../json/emocion/Emocion_Jun_17_1semana.json';
 
 import FIS_FEB_20 from '../json/fisiologica/fisiologica_feb_20.json';
+
+import MOTIV_FEB_19_1 from '../json/motivacion/motivacion_feb_19_1semana.json';
 import MOTIV_SEP_19_1 from '../json/motivacion/motivacion_sep_19_1semana.json';
 import MOTIV_FEB_20_2 from '../json/motivacion/motivacion_feb_20_2semana.json';
 import MOTIV_JAN_20_1 from '../json/motivacion/motivacion_jan_20_1semana.json';
+
 import PERC_SEP_17 from '../json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from '../json/p-grupos/p-grupos_feb_19.json';
 import SOC_JUN_19 from '../json/social/social_jun_19.json';
@@ -66,6 +69,7 @@ export const EXAMS = Object.freeze({
     },
     19: {
       september: MOTIV_SEP_19_1,
+      february: MOTIV_FEB_19_1,
     },
   },
   psicologia_de_grupos: {

@@ -51,7 +51,7 @@
  "keywords": ["placeholder"], "logo": "#logo5",
  "id": "motivacion-19-feb-1week",
  "subject": "motivacion",
- "verified": false,
+ "verified": true,
  "name": "P. de la Motivacion",
  "plusScore": 0.3, "minutes": 40}, {"week": "Semana 2",
  "rating": "19",

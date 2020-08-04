@@ -9,7 +9,7 @@
         "responses": [
             {
                 "text": "Sus propias acciones.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Las acciones de otras personas."
@@ -29,7 +29,7 @@
             },
             {
                 "text": "Influencias recíprocas de la amígdala y las estructuras corticales superiores responsables del procesamiento cognitivo.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -43,7 +43,7 @@
         "responses": [
             {
                 "text": "Sesgos en la interpretación.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Sesgos en la memoria."
@@ -60,7 +60,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -80,7 +80,7 @@
             },
             {
                 "text": "La independencia entre los procesos emocionales y cognitivos.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -94,7 +94,7 @@
         "responses": [
             {
                 "text": "Emociones autoevaluativas.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Emociones sobre emociones."
@@ -114,7 +114,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -128,7 +128,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -145,7 +145,7 @@
         "responses": [
             {
                 "text": "Emociones autoconscientes.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Emociones yóicas."
@@ -162,7 +162,7 @@
         "responses": [
             {
                 "text": "Postula que las emociones tendrían orígenes no conscientes o preatencionales.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Demuestra el paradigma de feedback fisiológico falso."
@@ -182,7 +182,7 @@
             },
             {
                 "text": "Una razón de inspiración-espiración más baja que en otros estados emocionales.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -196,7 +196,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -213,7 +213,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -230,7 +230,7 @@
         "responses": [
             {
                 "text": "Algún cambio significativo para nosotros.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Algún cambio en el entorno."
@@ -250,7 +250,7 @@
             },
             {
                 "text": "Los 15 y los 24 meses.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -264,7 +264,7 @@
         "responses": [
             {
                 "text": "El rechazo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La exploración."
@@ -281,7 +281,7 @@
         "responses": [
             {
                 "text": "Mientras que la vergüenza a menudo es provocada por factores externos, la culpa es una experiencia emocional más interna.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Mientras que la vergüenza se asocia a la transgresión de normas, la culpa se asocia al fracaso en el logro de metas."
@@ -298,7 +298,7 @@
         "responses": [
             {
                 "text": "La atención se dirige principalmente hacia los estímulos con valencia afectiva y hace que éstos se procesen más rápidamente que los estímulos con valencia neutra.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La atención se dirige principalmente hacia los estímulos novedosos, independientemente de su valencia afectiva."
@@ -318,7 +318,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -332,7 +332,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -352,7 +352,7 @@
             },
             {
                 "text": "El grado de activación estaría relacionado con la disposición del organismo para la acción.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -369,7 +369,7 @@
             },
             {
                 "text": "El afecto positivo influye en la categorización del material de tono emocional positivo y neutro, pero no en la del material negativo.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -386,7 +386,7 @@
             },
             {
                 "text": "Disposición a la interacción social.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -400,7 +400,7 @@
         "responses": [
             {
                 "text": "La adaptación de la conducta en función del significado emocional de los estímulos.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La inhibición de la respuesta a estímulos aversivos."
@@ -417,7 +417,7 @@
         "responses": [
             {
                 "text": "La teoría de James-Lange.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La teoría emergentista de las emociones."
@@ -437,7 +437,7 @@
             },
             {
                 "text": "La de controlar la conducta de los demás.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -451,7 +451,7 @@
         "responses": [
             {
                 "text": "Subsistema de monitorización.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Subsistema ejecutivo."
@@ -468,7 +468,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -488,7 +488,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -505,7 +505,7 @@
             },
             {
                 "text": "El autocontrol.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -519,7 +519,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -536,7 +536,7 @@
         "responses": [
             {
                 "text": "La ira y la hostilidad.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Sólo de la hostilidad."
@@ -556,7 +556,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -570,7 +570,7 @@
         "responses": [
             {
                 "text": "Vivencias autotélicas.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Vivencias eudaimónicas."
@@ -590,7 +590,7 @@
             },
             {
                 "text": "Suele evolucionar a un amor de compañero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -604,7 +604,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -624,7 +624,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -641,7 +641,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -658,7 +658,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -672,7 +672,7 @@
         "responses": [
             {
                 "text": "Perder fuerza.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Ganar fuerza."

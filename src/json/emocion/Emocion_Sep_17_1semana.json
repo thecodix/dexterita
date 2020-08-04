@@ -9,7 +9,7 @@
         "responses": [
             {
                 "text": "De compañero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Romántico."
@@ -29,7 +29,7 @@
             },
             {
                 "text": "Puede esbozar una sonrisa cuando se le pide que lo haga.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -46,7 +46,7 @@
             },
             {
                 "text": "Pesimista.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -60,7 +60,7 @@
         "responses": [
             {
                 "text": "Las emociones primarias.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Las emociones autoconscientes."
@@ -77,7 +77,7 @@
         "responses": [
             {
                 "text": "Cómo la información emocionalmente significativa para el individuo se procesa más rápidamente que la información emocionalmente neutra.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Cómo la información emocional neutra se procesa simultáneamente con la emocional."
@@ -94,7 +94,7 @@
         "responses": [
             {
                 "text": "Comunican a otros nuestro estado de ánimo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Preparan al organismo para la compensación interpersonal."
@@ -111,7 +111,7 @@
         "responses": [
             {
                 "text": "De compañero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Apasionado."
@@ -131,7 +131,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -145,7 +145,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -162,7 +162,7 @@
         "responses": [
             {
                 "text": "La ansiedad es a menudo 'preestímulo', mientras que el miedo es 'postestímulo'.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El miedo es 'preestímulo', mientras que la ansiedad es a menudo 'postestímulo'."
@@ -182,7 +182,7 @@
             },
             {
                 "text": "Aumento de la frecuencia cardíaca.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -196,7 +196,7 @@
         "responses": [
             {
                 "text": "Los sesgos en el procesamiento de la información.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La movilización de recursos conductuales."
@@ -216,7 +216,7 @@
             },
             {
                 "text": "La comparación con el entorno social.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -230,7 +230,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -247,7 +247,7 @@
         "responses": [
             {
                 "text": "Procesar los estímulos ambiguos dando preferencia al significado de peligro sobre el neutro.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Focalizar la atención preferente hacia los estímulos indicadores de peligro."
@@ -264,7 +264,7 @@
         "responses": [
             {
                 "text": "Requieren el desarrollo previo de ciertas habilidades cognitivas.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Requieren del desarrollo previo de ciertas habilidades sociales."
@@ -284,7 +284,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -298,7 +298,7 @@
         "responses": [
             {
                 "text": "El orgullo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El hubris."
@@ -315,7 +315,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -332,7 +332,7 @@
         "responses": [
             {
                 "text": "Tristeza.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Asco."
@@ -349,7 +349,7 @@
         "responses": [
             {
                 "text": "Neofobia ingestiva.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Interferencia concurrente."
@@ -366,7 +366,7 @@
         "responses": [
             {
                 "text": "En torno a los 2 y 3 años.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Junto a las primarias."
@@ -386,7 +386,7 @@
             },
             {
                 "text": "Las influencias recíprocas de la amígdala y las estructuras corticales superiores responsables del procesamiento cognitivo.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -403,7 +403,7 @@
             },
             {
                 "text": "La hipertensión.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -420,7 +420,7 @@
             },
             {
                 "text": "Inhibir el procesamiento de la información relacionada con la amenaza.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -434,7 +434,7 @@
         "responses": [
             {
                 "text": "Impiden la respuesta al estímulo condicionado de miedo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Impiden que la información sobre el estímulo de miedo llegue al córtex."
@@ -451,7 +451,7 @@
         "responses": [
             {
                 "text": "La adaptación de la conducta en función del significado emocional de los estímulos.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Con la inhibición de la respuesta a estímulos aversivos."
@@ -468,7 +468,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -485,7 +485,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -502,7 +502,7 @@
         "responses": [
             {
                 "text": "Interrumpe la acción que está desempeñando.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Aumenta su fluidez verbal."
@@ -522,7 +522,7 @@
             },
             {
                 "text": "Implica animadversión (cognición negativa) hacia el agente provocador.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -539,7 +539,7 @@
             },
             {
                 "text": "Involuntario.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -556,7 +556,7 @@
             },
             {
                 "text": "Predecir el nivel de activación necesario basándose en la anticipación de las demandas del organismo.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -573,7 +573,7 @@
             },
             {
                 "text": "Los cambios comportamentales que producen las emociones y que hacen que las personas se preparen para la acción.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -590,7 +590,7 @@
             },
             {
                 "text": "Un esfuerzo alto.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -604,7 +604,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -624,7 +624,7 @@
             },
             {
                 "text": "Asco.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -638,7 +638,7 @@
         "responses": [
             {
                 "text": "Primaria.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Secundaria."
@@ -655,7 +655,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -672,7 +672,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."

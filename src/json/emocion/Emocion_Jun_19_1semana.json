@@ -9,7 +9,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -26,7 +26,7 @@
         "responses": [
             {
                 "text": "La de codificar las condiciones estimulares.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La de la autoevaluación."
@@ -44,7 +44,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -65,7 +65,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 360)"
@@ -80,7 +80,7 @@
         "responses": [
             {
                 "text": "Está relacionada con las diferentes vías elegidas por las personas para obtener satisfacción con sus vidas.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Predispone a las personas a vivir más acontecimientos felices."
@@ -101,7 +101,7 @@
             },
             {
                 "text": "Algún tipo de juicio de la persona sobre sus propias acciones.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 431)"
@@ -119,7 +119,7 @@
             },
             {
                 "text": "Pueden tener efectos facilitadores o inhibidores.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 394)"
@@ -137,7 +137,7 @@
             },
             {
                 "text": "Primarias.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 92)"
@@ -152,7 +152,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -170,7 +170,7 @@
         "responses": [
             {
                 "text": "Estima los recursos de afrontamiento de la persona.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Determina la relevancia personal de los acontecimientos."
@@ -191,7 +191,7 @@
             },
             {
                 "text": "No existe un protocolo de respuesta estandarizada ni una motivación de meta y además se da falta de implicación personal o carencia de recursos de procesamiento.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 203)"
@@ -206,7 +206,7 @@
         "responses": [
             {
                 "text": "Cada impulso emocional produce un segundo impulso que tiende a modificar esa primera respuesta emocional en relación con las posibles consecuencias que tendría.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La presencia de condiciones favorables o desfavorables, facilitará la aparición de la respuesta emocional, pero es necesario que esas condiciones se den como fruto de cambios reales."
@@ -224,7 +224,7 @@
         "responses": [
             {
                 "text": "Cumplen la función de preparar al organismo para responder de forma adaptativa a situaciones de peligro.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Son antecedentes causales de la emoción."
@@ -242,7 +242,7 @@
         "responses": [
             {
                 "text": "El orgullo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La alegría."
@@ -263,7 +263,7 @@
             },
             {
                 "text": "Pasión y compromiso.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 425)"
@@ -278,7 +278,7 @@
         "responses": [
             {
                 "text": "La excitación se propaga desde los nodos emocionales a aquellos que producen un patrón de respuesta autónoma y de conducta expresiva propio de la emoción de que se trate.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La excitación se propaga desde los nodos emocionales indiscriminadamente hacia cualquier unidad de la red."
@@ -299,7 +299,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 226)"
@@ -317,7 +317,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 164)"
@@ -332,7 +332,7 @@
         "responses": [
             {
                 "text": "El hubris, porque este estado puede interferir en los deseos y necesidades de los otros.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "El orgullo, porque mantiene a la persona ligada a las situaciones interpersonales."
@@ -353,7 +353,7 @@
             },
             {
                 "text": "Posee una alta relevancia para el individuo.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 275)"
@@ -368,7 +368,7 @@
         "responses": [
             {
                 "text": "Miedo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La ira."
@@ -386,7 +386,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -407,7 +407,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 25)"
@@ -422,7 +422,7 @@
         "responses": [
             {
                 "text": "Establece asociaciones entre estímulos  dotadas de contenido afectivo (memoria implícita).",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Almacena el contenido de las experiencias emocionales (memoria declarativa)."
@@ -440,7 +440,7 @@
         "responses": [
             {
                 "text": "La creencia de que los otros están egoístamente motivados.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Considerar a los otros como mezquinos y no sociabies."
@@ -458,7 +458,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -479,7 +479,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -493,7 +493,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -514,7 +514,7 @@
             },
             {
                 "text": "Estímulos atemorizantes condicionados.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 252)"
@@ -532,7 +532,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 351)"
@@ -547,7 +547,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -565,7 +565,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -583,7 +583,7 @@
         "responses": [
             {
                 "text": "Una atribución interna de carácter global.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Una atribución interna focalizada en la acción."
@@ -601,7 +601,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -622,7 +622,7 @@
             },
             {
                 "text": "Conllevan diferentes tendencias de acción.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 445)"
@@ -637,7 +637,7 @@
         "responses": [
             {
                 "text": "Ejerce un control emocional inhibitorio que permite el cambio de conducta en función del significado emocional de los estímulos.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Controla la activación del sistema nervioso autónomo asociada a acontecimientos emocionales."
@@ -658,7 +658,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 80)"
@@ -676,7 +676,7 @@
             },
             {
                 "text": "De crucial importancia en la adaptación de los individuos a el entorno.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 188)"
@@ -691,7 +691,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -712,7 +712,7 @@
             },
             {
                 "text": "Permite movilizar anticipadamente acciones preventivas.",
-                "correct": "true"
+                "correct": true
             }
         ],
         "feedback": "(P. 377)"

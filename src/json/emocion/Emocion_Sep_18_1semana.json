@@ -9,7 +9,7 @@
         "responses": [
             {
                 "text": "Orgullo relativo a la conducta.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Orgullo relativo al self."
@@ -26,7 +26,7 @@
         "responses": [
             {
                 "text": "Ciertas situaciones tienden a elicitar el mismo patrón de reactividad psicofisiológica.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Los indicadores de activación siempre correlacionan alto entre sí."
@@ -43,7 +43,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -60,7 +60,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -77,7 +77,7 @@
         "responses": [
             {
                 "text": "Procesar los estímulos ambiguos dando preferencia al significado de peligro sobre el neutro.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Focalizar la atención preferente hacia los estímulos indicadores de peligro."
@@ -97,7 +97,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -114,7 +114,7 @@
             },
             {
                 "text": "Facilita el sistema de procesamiento de información significativa para el bienestar de la persona.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -128,7 +128,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -148,7 +148,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -165,7 +165,7 @@
             },
             {
                 "text": "Inhibir el procesamiento de la información relacionada con la amenaza.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -179,7 +179,7 @@
         "responses": [
             {
                 "text": "La información que llega a la amígdala directamente desde el tálamo es suficiente para que se forme la asociación entre el tono (EC) y el shock (EI).",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Las lesiones en el córtex auditivo impiden que se produzca el condicionamiento del miedo."
@@ -196,7 +196,7 @@
         "responses": [
             {
                 "text": "Demanda de respuestas imaginadas ante narraciones de situaciones emocionales.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Presentación de fotografías mientras se registra su actividad fisiológica."
@@ -213,7 +213,7 @@
         "responses": [
             {
                 "text": "Simplificar el proceso de razonamiento.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Clasificar emocionalmente las emociones."
@@ -230,7 +230,7 @@
         "responses": [
             {
                 "text": "Interrumpe la acción que está desempeñando.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Aumenta su fluidez verbal."
@@ -247,7 +247,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -267,7 +267,7 @@
             },
             {
                 "text": "Tristeza.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -284,7 +284,7 @@
             },
             {
                 "text": "Alegría.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -301,7 +301,7 @@
             },
             {
                 "text": "Los nodos emocionales se conectan a otras unidades de contenido semántico, como conductas y gestos con que expresamos estas emociones.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -315,7 +315,7 @@
         "responses": [
             {
                 "text": "Intimidad, pasión y compromiso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Afecto, pasión y atracción física."
@@ -332,7 +332,7 @@
         "responses": [
             {
                 "text": "Valora si hay cambios que son significativos para el organismo.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Valora si la estimulación es placentera o displacentera."
@@ -349,7 +349,7 @@
         "responses": [
             {
                 "text": "Cuando tratamos de responder a las preguntas de un examen mientras pensamos en las consecuencias aversivas de un posible suspenso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Cuando evitamos presentarnos a un examen por temor al suspenso."
@@ -369,7 +369,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -383,7 +383,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -403,7 +403,7 @@
             },
             {
                 "text": "La de exploración.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -420,7 +420,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -437,7 +437,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -451,7 +451,7 @@
         "responses": [
             {
                 "text": "Automático e involuntario.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Controlado y voluntario."
@@ -471,7 +471,7 @@
             },
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -488,7 +488,7 @@
             },
             {
                 "text": "Empatía.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -502,7 +502,7 @@
         "responses": [
             {
                 "text": "Conllevan diferentes tendencias de acción.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "La culpa es socio-moral y el orgullo es primario."
@@ -522,7 +522,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -539,7 +539,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -556,7 +556,7 @@
             },
             {
                 "text": "La evaluación que un sujeto realiza cada vez que se enfrenta a una situación.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -573,7 +573,7 @@
             },
             {
                 "text": "Autoconscientes.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -590,7 +590,7 @@
             },
             {
                 "text": "Hipervigilancia.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -604,7 +604,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -621,7 +621,7 @@
         "responses": [
             {
                 "text": "Falso.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Verdadero."
@@ -638,7 +638,7 @@
         "responses": [
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             },
             {
                 "text": "Falso."
@@ -658,7 +658,7 @@
             },
             {
                 "text": "Verdadero.",
-                "correct": "true"
+                "correct": true
             }
         ]
     },
@@ -675,7 +675,7 @@
             },
             {
                 "text": "Cada experiencia emocional posee un patrón fisiológico específico de respuestas somato-viscerales y motórico-expresivas.",
-                "correct": "true"
+                "correct": true
             }
         ]
     }
