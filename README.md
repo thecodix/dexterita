@@ -1,4 +1,4 @@
-# fechasexamen
+# Aplicación examenes UNED
 
 ## Project setup
 ```
