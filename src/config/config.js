@@ -23,8 +23,11 @@ import FIS_SEP_19_1 from '../json/fisiologica/fisiologica_sep_19_1semana.json';
 import FIS_JAN_20_1 from '../json/fisiologica/fisiologica_jan_20_1semana.json';
 import FIS_FEB_20_2 from '../json/fisiologica/fisiologica_feb_20_2semana.json';
 
+import MOTIV_JAN_18_1 from '../json/motivacion/motivacion_jan_18_1semana.json';
+import MOTIV_FEB_18_1 from '../json/motivacion/motivacion_feb_18_2semana.json';
 import MOTIV_SEP_18_1 from '../json/motivacion/motivacion_sep_18_1semana.json';
-import MOTIV_FEB_19_1 from '../json/motivacion/motivacion_feb_19_1semana.json';
+import MOTIV_JAN_19_1 from '../json/motivacion/motivacion_jan_19_1semana.json';
+import MOTIV_FEB_19_2 from '../json/motivacion/motivacion_feb_19_2semana.json';
 import MOTIV_SEP_19_1 from '../json/motivacion/motivacion_sep_19_1semana.json';
 import MOTIV_FEB_20_2 from '../json/motivacion/motivacion_feb_20_2semana.json';
 import MOTIV_JAN_20_1 from '../json/motivacion/motivacion_jan_20_1semana.json';
@@ -87,10 +90,13 @@ export const EXAMS = Object.freeze({
       february: MOTIV_FEB_20_2,
     },
     19: {
+      january: MOTIV_JAN_19_1,
+      february: MOTIV_FEB_19_2,
       september: MOTIV_SEP_19_1,
-      february: MOTIV_FEB_19_1,
     },
     18: {
+      january: MOTIV_JAN_18_1,
+      february: MOTIV_FEB_18_1,
       september: MOTIV_SEP_18_1,
     },
   },
