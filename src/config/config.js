@@ -23,6 +23,7 @@ import FIS_SEP_19_1 from '../json/fisiologica/fisiologica_sep_19_1semana.json';
 import FIS_JAN_20_1 from '../json/fisiologica/fisiologica_jan_20_1semana.json';
 import FIS_FEB_20_2 from '../json/fisiologica/fisiologica_feb_20_2semana.json';
 
+import MOTIV_SEP_18_1 from '../json/motivacion/motivacion_sep_18_1semana.json';
 import MOTIV_FEB_19_1 from '../json/motivacion/motivacion_feb_19_1semana.json';
 import MOTIV_SEP_19_1 from '../json/motivacion/motivacion_sep_19_1semana.json';
 import MOTIV_FEB_20_2 from '../json/motivacion/motivacion_feb_20_2semana.json';
@@ -88,6 +89,9 @@ export const EXAMS = Object.freeze({
     19: {
       september: MOTIV_SEP_19_1,
       february: MOTIV_FEB_19_1,
+    },
+    18: {
+      september: MOTIV_SEP_18_1,
     },
   },
   psicologia_de_grupos: {
