@@ -14,6 +14,8 @@ import EM_JUN_18 from '../json/emocion/Emocion_Jun_18_1semana.json';
 import EM_SEP_17 from '../json/emocion/Emocion_Sep_17_1semana.json';
 import EM_JUN_17 from '../json/emocion/Emocion_Jun_17_1semana.json';
 
+import FINV_SEP_19_1 from '../json/fundamentos_investigacion/fundamentos_de_investigacion_sep_19_1semana.json';
+
 import FIS_JAN_18_1 from '../json/fisiologica/fisiologica_jan_18_1semana.json';
 import FIS_FEB_18_1 from '../json/fisiologica/fisiologica_feb_18_2semana.json';
 import FIS_SEP_18_1 from '../json/fisiologica/fisiologica_sep_18_1semana.json';
@@ -66,6 +68,11 @@ export const EXAMS = Object.freeze({
     17: {
       september: EM_SEP_17,
       june: EM_JUN_17,
+    },
+  },
+  fundamentos_de_investigacion: {
+    19: {
+      september: FINV_SEP_19_1,
     },
   },
   fisiologica: {
