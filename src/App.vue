@@ -164,7 +164,7 @@
               </header>
 
               <!-- questionTitle -->
-              <p class="titleContainer title">{{ quiz.questions[questionIndex].text }}</p>
+              <p class="titleContainer title" v-html="quiz.questions[questionIndex].text"></p>
               <div class="titleDate"
                    v-if="quiz.questions[questionIndex].fecha">
                 {{ quiz.questions[questionIndex].fecha.mes }} -
