@@ -791,3 +791,96 @@ body {
         width: 100%;
     }
 }
+
+.curso {
+    /*width: calc(100% / 4 - 1rem) !important;*/
+    /*cursor: pointer;*/
+    /*position: relative;*/
+    /*display: inline-flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: space-between;*/
+    /*margin-left: 1rem;*/
+    /*margin-top: 1rem;*/
+    /*padding-top: 0.75rem;*/
+    /*-webkit-backface-visibility: hidden;*/
+    /*backface-visibility: hidden;*/
+    /*z-index: 1;*/
+
+    cursor: pointer;
+    position: relative;
+    width: calc(100% / 2 - 1rem);
+    display: inline-flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-radius: 6px;
+    background-color: white;
+    box-shadow: 0 0 0 1px #c5d0d1;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform-origin: 10% 50%;
+    transform-origin: 10% 50%;
+    z-index: 1;
+}
+.curso:hover {
+    cursor: pointer;
+}
+
+.curso_name {
+    top: 50%;
+    left: 30%;
+    position: relative;
+}
+
+.primer_curso {
+    background-color: #8FCFD2;
+    font-size: 1.3em;
+    /*width: 130px;*/
+    /*height: 130px;*/
+    /*border-radius: 16px;*/
+}
+.primer_curso:hover {
+    -webkit-box-shadow:inset 0px 0px 0px 20px #8FCFD2;
+    -moz-box-shadow:inset 0px 0px 0px 20px #8FCFD2;
+    box-shadow:inset 0px 0px 0px 20px #8FCFD2;
+    background-color: #b8e3e6;
+    color: black;
+    transition: background-color 0.8s, color 0.8s, box-shadow 0.8s;
+}
+
+.segundo_curso {
+    background-color: #DF5E89;
+    color: snow;
+    font-size: 1.3em;
+}
+
+.tercer_curso {
+    background-color: #F7AB6C;
+    color: snow;
+    font-size: 1.3em;
+}
+
+.cuarto_curso {
+    background-color: #F6EFA6;
+    font-size: 1.3em;
+}
+
+.primer_curso_detail {
+    width: calc(100% / 4 - 1rem) !important;
+    cursor: pointer;
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    z-index: 1;
+}

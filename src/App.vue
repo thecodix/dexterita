@@ -1,5 +1,73 @@
 <template>
+  <div>
+    <b-navbar toggleable="lg" type="dark" variant="info" sticky>
+      <b-navbar-brand href="#">UnedTest</b-navbar-brand>
+
+      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+
+      <b-collapse id="nav-collapse" is-nav>
+        <b-navbar-nav>
+          <b-nav-item href="#">Exámenes</b-nav-item>
+          <b-nav-item href="#">Recursos</b-nav-item>
+        </b-navbar-nav>
+
+        <!-- Right aligned nav items -->
+        <b-navbar-nav class="ml-auto">
+          <b-nav-form>
+            <b-nav-item @click="modal = !modal">Autor</b-nav-item>
+          </b-nav-form>
+<!--          <b-nav-form>-->
+<!--            <b-form-input size="sm" class="mr-sm-2" placeholder="Atención, Memoria...">-->
+<!--            </b-form-input>-->
+<!--            <b-button size="sm" class="my-2 my-sm-0" type="submit">Buscar</b-button>-->
+<!--          </b-nav-form>-->
+        </b-navbar-nav>
+      </b-collapse>
+    </b-navbar>
+
   <main id="app" class="content">
+    <div v-if="!started">
+      <transition-group name="company2" tag="ul" class="content__list">
+        <li class="curso"
+            v-for="curso in cursos"
+            @click="chooseCurso(curso)"
+            :key="curso.id"
+        :class="curso.id">
+<!--          <div :class="curso.id" >-->
+<!--            <h2 class="curso_name">{{ curso.name }}</h2>-->
+<!--          </div>-->
+          <div class="company__info">
+            <icon class="company__logo" :style="`fill:${curso.color}`" :use="curso.logo"></icon>
+            <h2 class="company__name">{{ curso.name }}</h2>
+            <blockquote class="company__slogan">{{ curso.slogan }}</blockquote>
+            <blockquote class="company__label">{{ curso.week }}</blockquote>
+          </div>
+        </li>
+      </transition-group>
+    </div>
+    <div v-if="!elegidoCurso">
+      <transition-group name="company3" tag="ul" class="content__list">
+        <li class="company"
+            v-for="asignatura in asignaturas"
+            @click="chooseAsignatura(asignatura)"
+            :key="asignatura.id">
+          <div class="company__info">
+            <icon class="company__logo" :style="`fill:${asignatura.color}`" :use="asignatura.logo">
+            </icon>
+            <h2 class="company__name">{{ asignatura.name }}</h2>
+            <blockquote class="company__slogan">{{ asignatura.cuatrimestre }}</blockquote>
+          </div>
+
+          <ul class="company__details" :class="asignatura.curso">
+
+            <li class="company__data" style="margin: 0 auto;">
+              <label class="company__label" style="font-size: 0.8em">
+                {{ asignatura.credits }} créditos</label>
+            </li>
+          </ul>
+        </li>
+      </transition-group>
+    </div>
     <div v-if="!chosenSubject">
       <nav class="nav" v-if="!chosenSubject">
         <menu class="nav__controls">
@@ -16,8 +84,6 @@
 
           <li class="nav__label nav__label--clear" @click="clearAllFilters">Borrar filtros</li>
         </menu>
-
-        <label class="nav__label" @click="modal = !modal">Autor</label>
       </nav>
 
       <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">
@@ -73,8 +139,6 @@
           </ul>
         </li>
       </transition-group>
-
-
       <transition name="modal">
         <section v-if="modal" class="modal" @click="modal = false">
           <article class="modal__content" @click.stop>
@@ -266,6 +330,7 @@
       <!--/container-->
     </div>
   </main>
+  </div>
 </template>
 <script>
 import _ from 'lodash';
@@ -280,6 +345,8 @@ export default {
 
   data() {
     return {
+      started: false,
+      elegidoCurso: false,
       chosenSubject: false,
       modal: false,
       companies: [],
@@ -291,6 +358,52 @@ export default {
       menus: {
         primero: false, segundo: false, tercero: false, cuarto: false, convocatoria: false,
       },
+      cursos: {
+        primero: {
+          id: 'primer_curso',
+          name: 'Primero',
+          bg_color: '#8FCFD2',
+        },
+        segundo: {
+          id: 'segundo_curso',
+          name: 'Segundo',
+          bg_color: '#8FCFD2',
+        },
+        tercero: {
+          id: 'tercer_curso',
+          name: 'Tercero',
+          bg_color: '#8FCFD2',
+        },
+        cuarto: {
+          id: 'cuarto_curso',
+          name: 'Cuarto',
+          bg_color: '#8FCFD2',
+        },
+      },
+      asignaturas: [
+        {
+          curso: 'primer_curso',
+          course_dg: '1',
+          credits: '6',
+          id: 'fundamentos_investigacion',
+          name: 'Fundamentos Investigación',
+          logo: '#logo5',
+          cuatrimestre: '1º cuatrimestre',
+          color: '#8FCFD2',
+          bg_color: '#8FCFD2',
+        },
+        {
+          curso: 'primer_curso',
+          course_dg: '1',
+          credits: '6',
+          id: 'atencion',
+          name: 'Psicología de la Atención',
+          logo: '#logo3',
+          cuatrimestre: '2º cuatrimestre',
+          color: '#8FCFD2',
+          bg_color: '#8FCFD2',
+        },
+      ],
       chosenQuiz: false,
       subjectMinutes: 40,
       corrects: 0,
