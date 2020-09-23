@@ -45,10 +45,10 @@
         </li>
       </transition-group>
     </div>
-    <div v-if="!elegidoCurso">
+    <div v-if="started && !chosenAsignatura">
       <transition-group name="company3" tag="ul" class="content__list">
         <li class="company"
-            v-for="asignatura in asignaturas"
+            v-for="asignatura in activeAsignaturas"
             @click="chooseAsignatura(asignatura)"
             :key="asignatura.id">
           <div class="company__info">
@@ -58,7 +58,7 @@
             <blockquote class="company__slogan">{{ asignatura.cuatrimestre }}</blockquote>
           </div>
 
-          <ul class="company__details" :class="asignatura.curso">
+          <ul class="company__details" :class="currentCurso">
 
             <li class="company__data" style="margin: 0 auto;">
               <label class="company__label" style="font-size: 0.8em">
@@ -68,7 +68,233 @@
         </li>
       </transition-group>
     </div>
-    <div v-if="!chosenSubject">
+    <div v-if="chosenAsignatura">
+      <input class="variation" id="bluepurple" type="radio" value="1" name="color"/>
+      <label for="bluepurple"></label>
+      <input class="variation" id="sunset" type="radio" value="2" name="color"/>
+      <label for="sunset"></label>
+      <input class="variation" id="godiva" type="radio" value="3" name="color"/>
+      <label for="godiva"></label>
+      <input class="variation" id="dark" type="radio" value="4" name="color"
+             checked="checked"/>
+      <label for="dark"></label>
+      <input class="variation" id="pinkaru" type="radio" value="5" name="color"/>
+      <label for="pinkaru"></label>
+      <main>
+        <section>
+          <div class="profile profile-long">
+            <div class="profile__image">
+              <img :src="currentAsignatura.imagesrc" alt="Foto"/></div>
+            <div class="profile__info">
+              <h3>{{ currentAsignatura.name }}</h3>
+              <!--              <p class="profile__info__extra">1 Curso.</p>-->
+            </div>
+            <!--            <div class="profile__stats">-->
+            <!--              <p class="profile__stats__title">Type</p>-->
+            <!--              <h5 class="profile__stats__info">Puppy</h5>-->
+            <!--            </div>-->
+            <!--            <div class="profile__stats">-->
+            <!--              <p class="profile__stats__title">Size</p>-->
+            <!--              <h5>Medium</h5>-->
+            <!--            </div>-->
+            <!--            <div class="profile__stats">-->
+            <!--              <p class="profile__stats__title">Weight</p>-->
+            <!--              <h5 class="profile__stats__info">45.85 lbs</h5>-->
+            <!--            </div>-->
+            <!--            <div class="profile__cta"><a class="button">Adopt Doggo!</a></div>-->
+          </div>
+        </section>
+        <section v-if="chosenAsignatura && !chosenSection">
+          <div class="profile profile-default">
+            <div class="profile__image"><img src="https://www.wwno.org/sites/wwno/files/201409/5843577306_1a98149efb_o.jpg" alt="Doggo"/></div>
+            <div class="profile__info">
+              <h3>Exámenes y autoevaluaciones</h3>
+              <p class="profile__info__extra">Practica con exámenes de años anteriores.</p>
+              <p class="profile__info__extra">También puedes descargar un recopilatorio
+                de exámenes de otras convocatorias.</p>
+            </div>
+            <div class="profile__cta">
+              <a class="button"
+                 @click="chooseSection('examenes'),
+                 clearAllFilters(),
+                 setFilter('primero', currentAsignatura.id)">
+                Empezar</a></div>
+          </div>
+          <div class="profile profile-default">
+            <div class="profile__image"><img src="https://previews.123rf.com/images/boarding1now/boarding1now1607/boarding1now160700019/61445985-group-of-people-holding-with-hands-the-word-info-information-message-news-announcement-announce.jpg" alt="Doggo"/></div>
+            <div class="profile__info">
+              <h3>Información importante</h3>
+              <p class="profile__info__extra">Guía académica.</p>
+              <p class="profile__info__extra">Horario del examen.</p>
+              <p class="profile__info__extra">Sistema de evaluación.</p>
+              <p class="profile__info__extra">Estadísticas de la asignatura.</p>
+            </div>
+            <div class="profile__cta">
+              <a class="button" @click="chooseSection('info')">Ver información</a></div>
+          </div>
+          <div class="profile profile-default">
+            <div class="profile__image"><img src="https://st.focusedcollection.com/13397678/i/1800/focused_168147658-stock-photo-university-lecturer-young-students-class.jpg" alt="Doggo"/></div>
+            <div class="profile__info">
+              <h3>Videoclases</h3>
+              <p class="profile__info__extra">Tutorías grabadas de profesores universitarios.</p>
+            </div>
+            <div class="profile__cta"><a class="button">Ver videoclases</a></div>
+          </div>
+          <div class="profile profile-default">
+            <div class="profile__image"><img src="https://i.pinimg.com/originals/71/af/26/71af260f19af61adc1bc408d72fe2778.jpg" alt="Apuntes"/></div>
+            <div class="profile__info">
+              <h3>Apuntes y material</h3>
+              <p class="profile__info__extra">Descárgate los apuntes más utilizados para esta
+                asignatura.</p>
+            </div>
+            <div class="profile__cta">
+              <a class="button" @click="chooseSection('apuntes')">Ir a apuntes</a></div>
+          </div>
+        </section>
+<!--        Exámenes-->
+        <div v-if="chosenSection && chosenSection =='examenes'">
+          <section>
+            <div class="profile profile-long" style="display: inherit">
+              <div class="profile__info"><h3>Exámenes</h3></div>
+              <div>
+                <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">
+                  <menu v-for="(options, filter) in filters" class="filters"
+                        v-show="filter === 'convocatoria' && menus[filter]"
+                        ref="menu" :key="filter">
+
+                    <li v-if="filter === 'convocatoria'" class="filters__convocatoria">
+                      <output>
+                        <label>Desde el año:&nbsp;</label>
+                        20{{ filters.convocatoria }}
+                      </output>
+
+                      <input v-model="filters.convocatoria" class="filters__range" type="range"
+                             :min="convocatoria.min" :max="convocatoria.max" step="1"/>
+                    </li>
+                  </menu>
+                </transition-group>
+
+                <transition-group
+                  v-if="!chosenSubject" name="company" tag="ul" class="content__list">
+                  <li class="company"
+                      v-for="company in list"
+                      @click="chooseSubject(company.subject, company)"
+                      :key="company.id">
+                    <div class="company__info">
+                      <icon class="company__logo"
+                            :style="`fill:${company.color}`" :use="company.logo">
+                      </icon>
+                      <h2 class="company__name">{{ company.name }}</h2>
+                      <blockquote class="company__slogan">{{ company.slogan }}</blockquote>
+                      <blockquote class="company__label">{{ company.week }}</blockquote>
+                    </div>
+
+                    <ul class="company__details">
+                      <li class="company__data">
+                        <label class="company__label">Curso</label>
+                        <p class="company__subject">
+                          {{ company.course_dg }}º
+                        </p>
+                      </li>
+
+                      <li class="company__data">
+                        <label class="company__label">{{ company.minutes }}:00 minutos</label>
+                        <p class="company__rating">{{ company.questions }} Preguntas</p>
+                      </li>
+                    </ul>
+                  </li>
+                </transition-group>
+                <transition name="modal">
+                  <section v-if="modal" class="modal" @click="modal = false">
+                    <article class="modal__content" @click.stop>
+                      <h4 class="modal__title">Alfredo Romeu</h4>
+                      <button class="modal__close" @click="modal = false">&times;</button>
+                    </article>
+                  </section>
+                </transition>
+              </div>
+
+            </div>
+          </section>
+
+        </div>
+<!--        Apuntes-->
+        <div v-if="chosenSection && chosenSection =='apuntes'">
+          <section
+            v-for="pdf in currentAsignatura.apuntes"
+            v-bind:key="pdf.id"
+          >
+            <div class="profile profile-long">
+              <div class="profile__info">
+                <h3>{{pdf.name}}</h3>
+              </div>
+              <div class="profile__cta" style="border: none; padding: 0;">
+                <b-link target="_blank" class="button"
+                        :href="'/pdfs/'+currentAsignatura.curso+
+                        '/'+currentAsignatura.id+'/'+pdf.filename">
+                  Descargar PDF</b-link>
+              </div>
+            </div>
+          </section>
+        </div>
+
+<!--        Información general-->
+        <section v-if="chosenSection && chosenSection =='info'">
+          <div class="profile profile-long"
+               style="grid-template-columns: none !important; padding: 20px 20px 15px;">
+            <a class="button" v-b-toggle.collapse-1 variant="primary">Información general</a>
+            <b-collapse id="collapse-1" class="mt-2">
+              <div class="profile__stats">
+                <p class="profile__stats__title">Curso</p>
+                <h5 class="profile__stats__info">{{currentAsignatura.course_dg}}</h5>
+              </div>
+              <div class="profile__stats">
+                <p class="profile__stats__title">Cuatrimestre</p>
+                <h5>{{currentAsignatura.cuatrimestre}}</h5>
+              </div>
+              <div class="profile__stats">
+                <p class="profile__stats__title">Créditos</p>
+                <h5 class="profile__stats__info">{{currentAsignatura.credits}}</h5>
+              </div>
+              <div class="profile__cta">
+                <b-link target="_blank" class="btn btn-success" :href="currentAsignatura.guiasrc">
+                  Ir a la guía oficial</b-link>
+                <!--                  <a class="button" target="_blank"-->
+                <!--                     :href="currentAsignatura.guiasrc">Ir a la guía</a>-->
+              </div>
+            </b-collapse>
+          </div>
+        </section>
+
+<!--        Sistema de evaluación-->
+        <section v-if="chosenSection && chosenSection =='info'">
+          <div class="profile profile-long"
+               style="grid-template-columns: none !important; padding: 20px 20px 15px;">
+            <a class="button" v-b-toggle.collapse-2 variant="primary">Sistema de evaluación</a>
+            <b-collapse id="collapse-2" class="mt-2">
+              <div class="profile__stats">
+                <p class="profile__stats__title">PEC?</p>
+                <h5 class="profile__stats__info">
+                  {{currentAsignatura.pec}} - {{currentAsignatura.pec_info}}</h5>
+              </div>
+              <div class="profile__stats">
+                <p class="profile__stats__title">Nota final:</p>
+                <h5>{{currentAsignatura.ponderacion}}</h5>
+              </div>
+            </b-collapse>
+          </div>
+        </section>
+        <div class="profile profile-long"
+             style="grid-template-columns: repeat(2,1fr) !important; padding: 20px 20px 15px;">
+          <a class="btn" @click="chosenAsignatura=false, chooseSection(null)" variant="secondary">
+            Elegir otra asignatura</a>
+          <a class="btn" @click="chooseSection(null)" variant="secondary">
+            Volver al menú</a>
+        </div>
+      </main>
+    </div>
+
+    <div v-if="elegidoCurso && !chosenSubject">
       <nav class="nav" v-if="!chosenSubject">
         <menu class="nav__controls">
           <icon class="nav__icon" use="#filter"></icon>
@@ -143,13 +369,6 @@
         <section v-if="modal" class="modal" @click="modal = false">
           <article class="modal__content" @click.stop>
             <h4 class="modal__title">Alfredo Romeu</h4>
-
-  <!--          <h5 class="modal__link" @click="modal = false">-->
-  <!--            <a href="https://snipcart.com/blog/vuejs-transitions-animations" target="_blank">-->
-  <!--              Con un poco de inspiración de aquí-->
-  <!--            </a>-->
-  <!--          </h5>-->
-
             <button class="modal__close" @click="modal = false">&times;</button>
           </article>
         </section>
@@ -329,12 +548,17 @@
       </transition>
       <!--/container-->
     </div>
+    <footer>
+      <div class="explanation">UnedTest 2020.</div>
+      <div>. Un proyecto desarrollado por y para estudiantes.</div>
+      <div class="social"></div>
+    </footer>
   </main>
   </div>
 </template>
 <script>
 import _ from 'lodash';
-import { ASIGNATURAS, EXAMS } from './config/config';
+import { ASIGNATURAS, ASIGNATURAS_META, EXAMS } from './config/config';
 
 const numQuestions = 2;
 
@@ -347,7 +571,11 @@ export default {
     return {
       started: false,
       elegidoCurso: false,
+      currentCurso: null,
       chosenSubject: false,
+      chosenAsignatura: false,
+      currentAsignatura: null,
+      chosenSection: null,
       modal: false,
       companies: [],
       dropdown: { height: 0 },
@@ -380,30 +608,7 @@ export default {
           bg_color: '#8FCFD2',
         },
       },
-      asignaturas: [
-        {
-          curso: 'primer_curso',
-          course_dg: '1',
-          credits: '6',
-          id: 'fundamentos_investigacion',
-          name: 'Fundamentos Investigación',
-          logo: '#logo5',
-          cuatrimestre: '1º cuatrimestre',
-          color: '#8FCFD2',
-          bg_color: '#8FCFD2',
-        },
-        {
-          curso: 'primer_curso',
-          course_dg: '1',
-          credits: '6',
-          id: 'atencion',
-          name: 'Psicología de la Atención',
-          logo: '#logo3',
-          cuatrimestre: '2º cuatrimestre',
-          color: '#8FCFD2',
-          bg_color: '#8FCFD2',
-        },
-      ],
+      asignaturas: [],
       chosenQuiz: false,
       subjectMinutes: 40,
       corrects: 0,
@@ -432,7 +637,13 @@ export default {
     activeMenu() {
       return Object.keys(this.menus).reduce(($$, set, i) => ((this.menus[set]) ? i : $$), -1);
     },
-
+    // eslint-disable-next-line vue/return-in-computed-property
+    activeAsignaturas() {
+      // eslint-disable-next-line func-names
+      return Object.values(this.asignaturas).filter(
+        (asignatura) => asignatura.curso === this.currentCurso,
+      );
+    },
     list() {
       const {
         cuarto, tercero, segundo, primero,
@@ -520,6 +731,18 @@ export default {
   },
 
   methods: {
+    chooseSection(section) {
+      this.chosenSection = section;
+    },
+    chooseCurso(curso) {
+      this.started = true;
+      this.currentCurso = curso.id;
+      this.asignaturas = ASIGNATURAS_META;
+    },
+    chooseAsignatura(asignatura) {
+      this.chosenAsignatura = true;
+      this.currentAsignatura = asignatura;
+    },
     beautifyOption(option) {
       return option.charAt(0).toUpperCase() + option.replace(/_/g, ' ').slice(1);
     },
