@@ -82,12 +82,237 @@
       <label for="pinkaru"></label>
       <main>
         <section>
-          <div class="profile profile-long">
-            <div class="profile__image">
-              <img :src="currentAsignatura.imagesrc" alt="Foto"/></div>
+          <div class="profile profile-long" style="display: inherit">
+<!--            <div class="profile__image">-->
+<!--              <img :src="currentAsignatura.imagesrc" alt="Foto"/></div>-->
             <div class="profile__info">
               <h3>{{ currentAsignatura.name }}</h3>
-              <!--              <p class="profile__info__extra">1 Curso.</p>-->
+              <p v-if="chosenSubject" class="profile__info__extra">Examen {{examDate}}</p>
+            </div>
+            <!--        Exámenes-->
+            <div v-if="chosenSection && chosenSection ==='examenes'">
+              <section>
+                  <div v-if="!chosenSubject">
+                    <transition-group name="dropdown" tag="section" class="dropdown"
+                                      :style="dropdown">
+                      <menu v-for="(_, filter) in filters" class="filters"
+                            v-show="filter === 'convocatoria' && menus[filter]"
+                            ref="menu" :key="filter">
+
+                        <li v-if="filter === 'convocatoria'" class="filters__convocatoria">
+                          <output>
+                            <label>Desde el año:&nbsp;</label>
+                            20{{ filters.convocatoria }}
+                          </output>
+
+                          <input v-model="filters.convocatoria" class="filters__range" type="range"
+                                 :min="convocatoria.min" :max="convocatoria.max" step="1"/>
+                        </li>
+                      </menu>
+                    </transition-group>
+
+                    <transition-group
+                      v-if="!chosenSubject" name="company" tag="ul" class="content__list">
+                      <li class="company"
+                          v-for="company in list"
+                          @click="chooseSubject(company.subject, company)"
+                          :key="company.id">
+                        <div class="company__info">
+                          <icon class="company__logo"
+                                :style="`fill:${company.color}`" :use="company.logo">
+                          </icon>
+                          <h2 class="company__name">{{ company.name }}</h2>
+                          <blockquote class="company__slogan">{{ company.slogan }}</blockquote>
+                          <blockquote class="company__label">{{ company.week }}</blockquote>
+                        </div>
+
+                        <ul class="company__details">
+                          <li class="company__data">
+                            <label class="company__label">Curso</label>
+                            <p class="company__subject">
+                              {{ company.course_dg }}º
+                            </p>
+                          </li>
+
+                          <li class="company__data">
+                            <label class="company__label">{{ company.minutes }}:00 minutos</label>
+                            <p class="company__rating">{{ company.questions }} Preguntas</p>
+                          </li>
+                        </ul>
+                      </li>
+                    </transition-group>
+                  </div>
+                  <div v-show="chosenSubject">
+<!--                <nav class="nav" v-if="!chosenQuiz">-->
+<!--                  <menu class="nav__controls">-->
+<!--                    <icon class="nav__icon" use="#filter"></icon>-->
+<!--                    <li class="nav__label">{{ title }}</li>-->
+<!--                  </menu>-->
+<!--                  <label class="nav__label" @click="restart()">Volver</label>-->
+<!--                </nav>-->
+                    <h2 v-if="!chosenQuiz" class="testTime">Elige el tiempo</h2>
+                    <transition-group
+                      v-if="!chosenQuiz" name="quizoptions" tag="ul" class="content__list">
+                      <li class="company"
+                          v-for="opt in quizOptions"
+                          @click="chooseOptions(opt)"
+                          :key="opt.id"
+                          :class="opt.id"
+                      >
+                        <div class="company__info">
+                          <h2 class="company__name">{{ opt.subjectMinutes }}:00 minutos</h2>
+                          <blockquote class="company__slogan">{{ opt.title }}</blockquote>
+                        </div>
+                      </li>
+                    </transition-group>
+                  </div>
+                  <div v-if="chosenQuiz">
+            <!--                <nav class="nav" v-if="chosenSubject">-->
+            <!--                  <menu class="nav__controls">-->
+            <!--                    <icon class="nav__icon" use="#filter"></icon>-->
+            <!--                    <li class="nav__label">{{ title }}</li>-->
+            <!--                  </menu>-->
+            <!--                  <label class="nav__label" @click="restart()">Volver</label>-->
+            <!--                </nav>-->
+
+                    <!--container-->
+                    <transition name="main_transition">
+                      <section class="container">
+
+                        <!--questionBox-->
+
+                        <div class="questionBox">
+
+                          <!-- transition -->
+                          <transition :duration="{ enter: 500, leave: 300 }"
+                                      enter-active-class="animated zoomIn"
+                                      leave-active-class="animated zoomOut"
+                                      mode="out-in">
+
+                            <!--questionContainer-->
+                            <div class="questionContainer"
+                                 v-if="chosenQuiz && questionIndex<quiz.questions.length"
+                                 v-bind:key="questionIndex">
+
+                              <header>
+                                <!--progress-->
+                                <div class="progressContainer">
+                                  <div class="progress">
+                                    <div class="progress-bar bg-success" role="progressbar"
+                                         :style="{ width: (corrects/quiz.questions.length)*100+'%'}"
+                                         aria-valuemin="0" aria-valuemax="100">{{corrects}}</div>
+                                    <div class="progress-bar bg-danger" role="progressbar"
+                                         :style="{width:(incorrects/quiz.questions.length)*100+'%'}"
+                                         aria-valuemin="0" aria-valuemax="100">{{incorrects}}</div>
+                                  </div>
+                                  <p>{{questionIndex+1}} de {{quiz.questions.length}} preguntas</p>
+                                  <p>Tiempo restante: {{timeLeft}}</p>
+                                </div>
+                                <!--/progress-->
+                              </header>
+                              <!--quizFooter: navigation and progress-->
+                              <footer class="questionFooter">
+                                <!--pagination-->
+                                <nav class="pagination" role="navigation" aria-label="pagination">
+
+                                  <!-- back button -->
+                                  <a class="btn btn-light"
+                                     v-on:click="prev()"
+                                     :disabled="questionIndex < 1">
+                                    Anterior
+                                  </a>
+
+                                  <!-- next button -->
+                                  <a class="btn btn-light" v-on:click="next()"
+                                     :disabled="questionIndex===quiz.questions.length">
+                                    {{ (userResponses[questionIndex]==null)?'Saltar pregunta':
+                                    'Siguiente' }}
+                                  </a>
+
+                                </nav>
+                                <!--/pagination-->
+
+                              </footer>
+                              <!--/quizFooter-->
+
+                              <!-- questionTitle -->
+                              <p class="titleContainer title"
+                                 v-html="quiz.questions[questionIndex].text"></p>
+                              <div class="titleDate"
+                                   v-if="quiz.questions[questionIndex].fecha">
+                                {{ quiz.questions[questionIndex].fecha.mes }} -
+                                {{ quiz.questions[questionIndex].fecha.year }}
+                              </div>
+
+                              <!-- quizOptions -->
+                              <div class="optionContainer">
+                                <div class="option"
+                                     v-for="(response, index)
+                          in quiz.questions[questionIndex].responses"
+                                     @click="selectOption(index, response)"
+                                     :class="{ 'is-correct':
+                              userResponses[questionIndex] === index
+                              && response.correct,
+                              'is-wrong':
+                              userResponses[questionIndex] === index
+                              && !response.correct}"
+                                     :key="index">
+                                  {{ index | charIndex }}. {{ response.text }}
+                                </div>
+                              </div>
+                            </div>
+                            <!--/questionContainer-->
+
+                            <!--quizCompletedResult-->
+                            <div v-if="chosenQuiz && questionIndex === quiz.questions.length"
+                                 v-bind:key="questionIndex"
+                                 class="quizCompleted has-text-centered">
+
+                              <!-- quizCompletedIcon: Achievement Icon -->
+                              <span class="icon">
+                <i class="fa"
+                   :class="score()>3
+                   ?'fa-check-circle-o is-active':'fa-times-circle'">
+                </i>
+              </span>
+
+                              <!--resultTitleBlock-->
+                              <h2 class="title">
+                                ¡Buen trabajo!
+                              </h2>
+                              <div class="progressContainer">
+
+                                <div class="progress">
+                                  <div class="progress-bar bg-success" role="progressbar"
+                                       :style="{ width: (corrects/quiz.questions.length)*100+'%'}"
+                                       aria-valuemin="0" aria-valuemax="100">{{corrects}}</div>
+                                  <div class="progress-bar bg-danger" role="progressbar"
+                                       :style="{ width: (incorrects/quiz.questions.length)*100+'%'}"
+                                       aria-valuemin="0" aria-valuemax="100">{{incorrects}}</div>
+                                </div>
+                              </div>
+                              <p class="subtitle">
+                                Puntuación total: {{ score() }} / 10
+                              </p>
+                              <br>
+                              <a class="button" @click="restart()">Volver a empezar
+                                <i class="fa fa-refresh"></i>
+                              </a>
+                              <!--/resultTitleBlock-->
+
+                            </div>
+                            <!--/quizCompetedResult-->
+
+                          </transition>
+
+                        </div>
+                        <!--/questionBox-->
+
+                      </section>
+                    </transition>
+                    <!--/container-->
+                  </div>
+              </section>
             </div>
             <!--            <div class="profile__stats">-->
             <!--              <p class="profile__stats__title">Type</p>-->
@@ -152,74 +377,241 @@
           </div>
         </section>
 <!--        Exámenes-->
-        <div v-if="chosenSection && chosenSection =='examenes'">
-          <section>
-            <div class="profile profile-long" style="display: inherit">
-              <div class="profile__info"><h3>Exámenes</h3></div>
-              <div>
-                <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">
-                  <menu v-for="(options, filter) in filters" class="filters"
-                        v-show="filter === 'convocatoria' && menus[filter]"
-                        ref="menu" :key="filter">
+<!--        <div v-if="chosenSection && chosenSection =='examenes'">-->
+<!--          <section>-->
+<!--            <div class="profile profile-long" style="display: inherit">-->
+<!--              <div class="profile__info"><h3>Exámenes</h3></div>-->
+<!--              <div v-if="!chosenSubject">-->
+<!--          <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">-->
+<!--                  <menu v-for="(options, filter) in filters" class="filters"-->
+<!--                        v-show="filter === 'convocatoria' && menus[filter]"-->
+<!--                        ref="menu" :key="filter">-->
 
-                    <li v-if="filter === 'convocatoria'" class="filters__convocatoria">
-                      <output>
-                        <label>Desde el año:&nbsp;</label>
-                        20{{ filters.convocatoria }}
-                      </output>
+<!--                    <li v-if="filter === 'convocatoria'" class="filters__convocatoria">-->
+<!--                      <output>-->
+<!--                        <label>Desde el año:&nbsp;</label>-->
+<!--                        20{{ filters.convocatoria }}-->
+<!--                      </output>-->
 
-                      <input v-model="filters.convocatoria" class="filters__range" type="range"
-                             :min="convocatoria.min" :max="convocatoria.max" step="1"/>
-                    </li>
-                  </menu>
-                </transition-group>
+<!--                    <input v-model="filters.convocatoria" class="filters__range" type="range"-->
+<!--                             :min="convocatoria.min" :max="convocatoria.max" step="1"/>-->
+<!--                    </li>-->
+<!--                  </menu>-->
+<!--                </transition-group>-->
 
-                <transition-group
-                  v-if="!chosenSubject" name="company" tag="ul" class="content__list">
-                  <li class="company"
-                      v-for="company in list"
-                      @click="chooseSubject(company.subject, company)"
-                      :key="company.id">
-                    <div class="company__info">
-                      <icon class="company__logo"
-                            :style="`fill:${company.color}`" :use="company.logo">
-                      </icon>
-                      <h2 class="company__name">{{ company.name }}</h2>
-                      <blockquote class="company__slogan">{{ company.slogan }}</blockquote>
-                      <blockquote class="company__label">{{ company.week }}</blockquote>
-                    </div>
+<!--                <transition-group-->
+<!--                  v-if="!chosenSubject" name="company" tag="ul" class="content__list">-->
+<!--                  <li class="company"-->
+<!--                      v-for="company in list"-->
+<!--                      @click="chooseSubject(company.subject, company)"-->
+<!--                      :key="company.id">-->
+<!--                    <div class="company__info">-->
+<!--                      <icon class="company__logo"-->
+<!--                            :style="`fill:${company.color}`" :use="company.logo">-->
+<!--                      </icon>-->
+<!--                      <h2 class="company__name">{{ company.name }}</h2>-->
+<!--                      <blockquote class="company__slogan">{{ company.slogan }}</blockquote>-->
+<!--                      <blockquote class="company__label">{{ company.week }}</blockquote>-->
+<!--                    </div>-->
 
-                    <ul class="company__details">
-                      <li class="company__data">
-                        <label class="company__label">Curso</label>
-                        <p class="company__subject">
-                          {{ company.course_dg }}º
-                        </p>
-                      </li>
+<!--                    <ul class="company__details">-->
+<!--                      <li class="company__data">-->
+<!--                        <label class="company__label">Curso</label>-->
+<!--                        <p class="company__subject">-->
+<!--                          {{ company.course_dg }}º-->
+<!--                        </p>-->
+<!--                      </li>-->
 
-                      <li class="company__data">
-                        <label class="company__label">{{ company.minutes }}:00 minutos</label>
-                        <p class="company__rating">{{ company.questions }} Preguntas</p>
-                      </li>
-                    </ul>
-                  </li>
-                </transition-group>
-                <transition name="modal">
-                  <section v-if="modal" class="modal" @click="modal = false">
-                    <article class="modal__content" @click.stop>
-                      <h4 class="modal__title">Alfredo Romeu</h4>
-                      <button class="modal__close" @click="modal = false">&times;</button>
-                    </article>
-                  </section>
-                </transition>
-              </div>
+<!--                      <li class="company__data">-->
+<!--                       <label class="company__label">{{ company.minutes }}:00 minutos</label>-->
+<!--                        <p class="company__rating">{{ company.questions }} Preguntas</p>-->
+<!--                      </li>-->
+<!--                    </ul>-->
+<!--                  </li>-->
+<!--                </transition-group>-->
+<!--              </div>-->
+<!--              <div v-show="chosenSubject">-->
+<!--&lt;!&ndash;                <nav class="nav" v-if="!chosenQuiz">&ndash;&gt;-->
+<!--&lt;!&ndash;                  <menu class="nav__controls">&ndash;&gt;-->
+<!--&lt;!&ndash;                    <icon class="nav__icon" use="#filter"></icon>&ndash;&gt;-->
+<!--&lt;!&ndash;                    <li class="nav__label">{{ title }}</li>&ndash;&gt;-->
+<!--&lt;!&ndash;                  </menu>&ndash;&gt;-->
+<!--&lt;!&ndash;           <label class="nav__label" @click="restart()">Volver</label>&ndash;&gt;-->
+<!--&lt;!&ndash;                </nav>&ndash;&gt;-->
+<!--                <h2 v-if="!chosenQuiz" class="testTime">Elige el tiempo</h2>-->
+<!--                <transition-group-->
+<!--                  v-if="!chosenQuiz" name="quizoptions" tag="ul" class="content__list">-->
+<!--                  <li class="company"-->
+<!--                      v-for="opt in quizOptions"-->
+<!--                      @click="chooseOptions(opt)"-->
+<!--                      :key="opt.id"-->
+<!--                      :class="opt.id"-->
+<!--                  >-->
+<!--                    <div class="company__info">-->
+<!--                      <h2 class="company__name">{{ opt.subjectMinutes }}:00 minutos</h2>-->
+<!--                      <blockquote class="company__slogan">{{ opt.title }}</blockquote>-->
+<!--                    </div>-->
+<!--                  </li>-->
+<!--                </transition-group>-->
+<!--              </div>-->
+<!--              <div v-if="chosenQuiz">-->
+<!--&lt;!&ndash;                <nav class="nav" v-if="chosenSubject">&ndash;&gt;-->
+<!--&lt;!&ndash;                  <menu class="nav__controls">&ndash;&gt;-->
+<!--&lt;!&ndash;                    <icon class="nav__icon" use="#filter"></icon>&ndash;&gt;-->
+<!--&lt;!&ndash;                    <li class="nav__label">{{ title }}</li>&ndash;&gt;-->
+<!--&lt;!&ndash;                  </menu>&ndash;&gt;-->
+<!--&lt;!&ndash;           <label class="nav__label" @click="restart()">Volver</label>&ndash;&gt;-->
+<!--&lt;!&ndash;                </nav>&ndash;&gt;-->
 
-            </div>
-          </section>
+<!--                &lt;!&ndash;container&ndash;&gt;-->
+<!--                <transition name="main_transition">-->
+<!--                  <section class="container">-->
 
-        </div>
+<!--                    &lt;!&ndash;questionBox&ndash;&gt;-->
+
+<!--                    <div class="questionBox">-->
+
+<!--                      &lt;!&ndash; transition &ndash;&gt;-->
+<!--                      <transition :duration="{ enter: 500, leave: 300 }"-->
+<!--                                  enter-active-class="animated zoomIn"-->
+<!--                                  leave-active-class="animated zoomOut"-->
+<!--                                  mode="out-in">-->
+
+<!--                        &lt;!&ndash;questionContainer&ndash;&gt;-->
+<!--                        <div class="questionContainer"-->
+<!--                             v-if="chosenQuiz && questionIndex<quiz.questions.length"-->
+<!--                             v-bind:key="questionIndex">-->
+
+<!--                          <header>-->
+<!--                            <h1 class="title is-6">{{title}}</h1>-->
+<!--                            <h4>{{examDate}}</h4>-->
+<!--                            &lt;!&ndash;progress&ndash;&gt;-->
+<!--                            <div class="progressContainer">-->
+<!--                              <div class="progress">-->
+<!--                                <div class="progress-bar bg-success" role="progressbar"-->
+<!--                                  :style="{ width: (corrects/quiz.questions.length)*100+'%'}"-->
+<!--                                     aria-valuemin="0" aria-valuemax="100">{{corrects}}</div>-->
+<!--                                <div class="progress-bar bg-danger" role="progressbar"-->
+<!--                                :style="{ width: (incorrects/quiz.questions.length)*100+'%'}"-->
+<!--                                   aria-valuemin="0" aria-valuemax="100">{{incorrects}}</div>-->
+<!--                              </div>-->
+<!--                           <p>{{questionIndex+1}} de {{quiz.questions.length}} preguntas</p>-->
+<!--                              <p>Tiempo restante: {{timeLeft}}</p>-->
+<!--                            </div>-->
+<!--                            &lt;!&ndash;/progress&ndash;&gt;-->
+<!--                          </header>-->
+
+<!--                          &lt;!&ndash; questionTitle &ndash;&gt;-->
+<!--                          <p class="titleContainer title"-->
+<!--                             v-html="quiz.questions[questionIndex].text"></p>-->
+<!--                          <div class="titleDate"-->
+<!--                               v-if="quiz.questions[questionIndex].fecha">-->
+<!--                            {{ quiz.questions[questionIndex].fecha.mes }} - -->
+<!--                            {{ quiz.questions[questionIndex].fecha.year }}-->
+<!--                          </div>-->
+
+<!--                          &lt;!&ndash; quizOptions &ndash;&gt;-->
+<!--                          <div class="optionContainer">-->
+<!--                            <div class="option"-->
+<!--                                 v-for="(response, index)-->
+<!--                          in quiz.questions[questionIndex].responses"-->
+<!--                                 @click="selectOption(index, response)"-->
+<!--                                 :class="{ 'is-correct':-->
+<!--                              userResponses[questionIndex] === index-->
+<!--                              && response.correct,-->
+<!--                              'is-wrong':-->
+<!--                              userResponses[questionIndex] === index-->
+<!--                              && !response.correct}"-->
+<!--                                 :key="index">-->
+<!--                              {{ index | charIndex }}. {{ response.text }}-->
+<!--                            </div>-->
+<!--                          </div>-->
+
+<!--                          &lt;!&ndash;quizFooter: navigation and progress&ndash;&gt;-->
+<!--                          <footer class="questionFooter">-->
+
+<!--                            &lt;!&ndash;pagination&ndash;&gt;-->
+<!--                           <nav class="pagination" role="navigation" aria-label="pagination">-->
+
+<!--                              &lt;!&ndash; back button &ndash;&gt;-->
+<!--                              <a class="button actionButton"-->
+<!--                                 v-on:click="prev()"-->
+<!--                                 :disabled="questionIndex < 1">-->
+<!--                                Anterior-->
+<!--                              </a>-->
+
+<!--                              &lt;!&ndash; next button &ndash;&gt;-->
+<!--                              <a class="button actionButton" v-on:click="next()"-->
+<!--                                 :disabled="questionIndex===quiz.questions.length">-->
+<!--                                {{ (userResponses[questionIndex]==null)?'Saltar pregunta':-->
+<!--                                'Siguiente' }}-->
+<!--                              </a>-->
+
+<!--                            </nav>-->
+<!--                            &lt;!&ndash;/pagination&ndash;&gt;-->
+
+<!--                          </footer>-->
+<!--                          &lt;!&ndash;/quizFooter&ndash;&gt;-->
+
+<!--                        </div>-->
+<!--                        &lt;!&ndash;/questionContainer&ndash;&gt;-->
+
+<!--                        &lt;!&ndash;quizCompletedResult&ndash;&gt;-->
+<!--                        <div v-if="chosenQuiz && questionIndex === quiz.questions.length"-->
+<!--                             v-bind:key="questionIndex"-->
+<!--                             class="quizCompleted has-text-centered">-->
+
+<!--                          &lt;!&ndash; quizCompletedIcon: Achievement Icon &ndash;&gt;-->
+<!--                          <span class="icon">-->
+<!--                <i class="fa"-->
+<!--                   :class="score()>3-->
+<!--                   ?'fa-check-circle-o is-active':'fa-times-circle'">-->
+<!--                </i>-->
+<!--              </span>-->
+
+<!--                          &lt;!&ndash;resultTitleBlock&ndash;&gt;-->
+<!--                          <h2 class="title">-->
+<!--                            ¡Buen trabajo!-->
+<!--                          </h2>-->
+<!--                          <div class="progressContainer">-->
+
+<!--                            <div class="progress">-->
+<!--                              <div class="progress-bar bg-success" role="progressbar"-->
+<!--                              :style="{ width: (corrects/quiz.questions.length)*100 + '%' }"-->
+<!--                                   aria-valuemin="0" aria-valuemax="100">{{corrects}}</div>-->
+<!--                              <div class="progress-bar bg-danger" role="progressbar"-->
+<!--                             :style="{ width: (incorrects/quiz.questions.length)*100 + '%' }"-->
+<!--                                   aria-valuemin="0" aria-valuemax="100">{{incorrects}}</div>-->
+<!--                            </div>-->
+<!--                          </div>-->
+<!--                          <p class="subtitle">-->
+<!--                            Puntuación total: {{ score() }} / 10-->
+<!--                          </p>-->
+<!--                          <br>-->
+<!--                          <a class="button" @click="restart()">Volver a empezar-->
+<!--                            <i class="fa fa-refresh"></i>-->
+<!--                          </a>-->
+<!--                          &lt;!&ndash;/resultTitleBlock&ndash;&gt;-->
+
+<!--                        </div>-->
+<!--                        &lt;!&ndash;/quizCompetedResult&ndash;&gt;-->
+
+<!--                      </transition>-->
+
+<!--                    </div>-->
+<!--                    &lt;!&ndash;/questionBox&ndash;&gt;-->
+
+<!--                  </section>-->
+<!--                </transition>-->
+<!--                &lt;!&ndash;/container&ndash;&gt;-->
+<!--              </div>-->
+
+<!--            </div>-->
+<!--          </section>-->
+
+<!--        </div>-->
 <!--        Apuntes-->
-        <div v-if="chosenSection && chosenSection =='apuntes'">
+        <div v-if="chosenSection && chosenSection ==='apuntes'">
           <section
             v-for="pdf in currentAsignatura.apuntes"
             v-bind:key="pdf.id"
@@ -239,10 +631,10 @@
         </div>
 
 <!--        Información general-->
-        <section v-if="chosenSection && chosenSection =='info'">
+        <section v-if="chosenSection && chosenSection ==='info'">
           <div class="profile profile-long"
                style="grid-template-columns: none !important; padding: 20px 20px 15px;">
-            <a class="button" v-b-toggle.collapse-1 variant="primary">Información general</a>
+            <a class="button" v-b-toggle.collapse-1>Información general</a>
             <b-collapse id="collapse-1" class="mt-2">
               <div class="profile__stats">
                 <p class="profile__stats__title">Curso</p>
@@ -267,10 +659,10 @@
         </section>
 
 <!--        Sistema de evaluación-->
-        <section v-if="chosenSection && chosenSection =='info'">
+        <section v-if="chosenSection && chosenSection ==='info'">
           <div class="profile profile-long"
                style="grid-template-columns: none !important; padding: 20px 20px 15px;">
-            <a class="button" v-b-toggle.collapse-2 variant="primary">Sistema de evaluación</a>
+            <a class="button" v-b-toggle.collapse-2>Sistema de evaluación</a>
             <b-collapse id="collapse-2" class="mt-2">
               <div class="profile__stats">
                 <p class="profile__stats__title">PEC?</p>
@@ -284,275 +676,281 @@
             </b-collapse>
           </div>
         </section>
+
+<!--        Botonera inferior-->
+
         <div class="profile profile-long"
              style="grid-template-columns: repeat(2,1fr) !important; padding: 20px 20px 15px;">
-          <a class="btn" @click="chosenAsignatura=false, chooseSection(null)" variant="secondary">
+          <a class="btn" @click="chosenAsignatura=false, chosenSubject=false,
+           chosenQuiz=false, chooseSection(null)">
             Elegir otra asignatura</a>
-          <a class="btn" @click="chooseSection(null)" variant="secondary">
+          <a class="btn" @click="chosenSubject=False,
+          chooseSection(null)">
             Volver al menú</a>
         </div>
       </main>
     </div>
 
-    <div v-if="elegidoCurso && !chosenSubject">
-      <nav class="nav" v-if="!chosenSubject">
-        <menu class="nav__controls">
-          <icon class="nav__icon" use="#filter"></icon>
+<!--    Legacy-->
+<!--    <div v-if="elegidoCurso && !chosenSubject">-->
+<!--      <nav class="nav" v-if="!chosenSubject">-->
+<!--        <menu class="nav__controls">-->
+<!--          <icon class="nav__icon" use="#filter"></icon>-->
 
-          <li v-for="(active, menu) in menus" class="nav__label"
-              v-bind:key="active"
-              :class="{
-              'nav__label--active' : active,
-              'nav__label--filter': activeFilters[menu].length
-            }" @click="setMenu(menu, active)">
-            {{ getDisplay(menu) }}
-          </li>
+<!--          <li v-for="(active, menu) in menus" class="nav__label"-->
+<!--              v-bind:key="active"-->
+<!--              :class="{-->
+<!--              'nav__label&#45;&#45;active' : active,-->
+<!--              'nav__label&#45;&#45;filter': activeFilters[menu].length-->
+<!--            }" @click="setMenu(menu, active)">-->
+<!--            {{ getDisplay(menu) }}-->
+<!--          </li>-->
 
-          <li class="nav__label nav__label--clear" @click="clearAllFilters">Borrar filtros</li>
-        </menu>
-      </nav>
+<!--<li class="nav__label nav__label&#45;&#45;clear" @click="clearAllFilters">Borrar filtros</li>-->
+<!--        </menu>-->
+<!--      </nav>-->
 
-      <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">
-        <menu v-for="(options, filter) in filters" class="filters"
-              v-show="menus[filter]" ref="menu" :key="filter">
+<!--      <transition-group name="dropdown" tag="section" class="dropdown" :style="dropdown">-->
+<!--        <menu v-for="(options, filter) in filters" class="filters"-->
+<!--              v-show="menus[filter]" ref="menu" :key="filter">-->
 
-          <li v-if="filter === 'convocatoria'" class="filters__convocatoria">
-            <output>
-              <label>Desde el año:&nbsp;</label>
-              20{{ filters.convocatoria }}
-            </output>
+<!--          <li v-if="filter === 'convocatoria'" class="filters__convocatoria">-->
+<!--            <output>-->
+<!--              <label>Desde el año:&nbsp;</label>-->
+<!--              20{{ filters.convocatoria }}-->
+<!--            </output>-->
 
-            <input v-model="filters.convocatoria" class="filters__range" type="range"
-                   :min="convocatoria.min" :max="convocatoria.max" step="1"/>
-          </li>
+<!--            <input v-model="filters.convocatoria" class="filters__range" type="range"-->
+<!--                   :min="convocatoria.min" :max="convocatoria.max" step="1"/>-->
+<!--          </li>-->
 
-          <template v-else>
-            <li v-for="(active, option) in options" class="filters__item"
-                v-bind:key="active"
-                :class="{ 'filters__item--active': active }"
-                @click="setFilter(filter, option)">
-              {{ beautifyOption(option) }}
-            </li>
-          </template>
-        </menu>
-      </transition-group>
+<!--          <template v-else>-->
+<!--            <li v-for="(active, option) in options" class="filters__item"-->
+<!--                v-bind:key="active"-->
+<!--                :class="{ 'filters__item&#45;&#45;active': active }"-->
+<!--                @click="setFilter(filter, option)">-->
+<!--              {{ beautifyOption(option) }}-->
+<!--            </li>-->
+<!--          </template>-->
+<!--        </menu>-->
+<!--      </transition-group>-->
 
-      <transition-group
-        v-if="!chosenSubject" name="company" tag="ul" class="content__list">
-        <li class="company"
-            v-for="company in list"
-            @click="chooseSubject(company.subject, company)"
-            :key="company.id">
-          <div class="company__info">
-            <icon class="company__logo" :style="`fill:${company.color}`" :use="company.logo"></icon>
-            <h2 class="company__name">{{ company.name }}</h2>
-            <blockquote class="company__slogan">{{ company.slogan }}</blockquote>
-            <blockquote class="company__label">{{ company.week }}</blockquote>
-          </div>
+<!--      <transition-group-->
+<!--        v-if="!chosenSubject" name="company" tag="ul" class="content__list">-->
+<!--        <li class="company"-->
+<!--            v-for="company in list"-->
+<!--            @click="chooseSubject(company.subject, company)"-->
+<!--            :key="company.id">-->
+<!--          <div class="company__info">-->
+<!--     <icon class="company__logo" :style="`fill:${company.color}`" :use="company.logo"></icon>-->
+<!--            <h2 class="company__name">{{ company.name }}</h2>-->
+<!--            <blockquote class="company__slogan">{{ company.slogan }}</blockquote>-->
+<!--            <blockquote class="company__label">{{ company.week }}</blockquote>-->
+<!--          </div>-->
 
-          <ul class="company__details">
-            <li class="company__data">
-              <label class="company__label">Curso</label>
-              <p class="company__subject">
-                {{ company.course_dg }}º
-              </p>
-            </li>
+<!--          <ul class="company__details">-->
+<!--            <li class="company__data">-->
+<!--              <label class="company__label">Curso</label>-->
+<!--              <p class="company__subject">-->
+<!--                {{ company.course_dg }}º-->
+<!--              </p>-->
+<!--            </li>-->
 
-            <li class="company__data">
-              <label class="company__label">{{ company.minutes }}:00 minutos</label>
-              <p class="company__rating">{{ company.questions }} Preguntas</p>
-            </li>
-          </ul>
-        </li>
-      </transition-group>
-      <transition name="modal">
-        <section v-if="modal" class="modal" @click="modal = false">
-          <article class="modal__content" @click.stop>
-            <h4 class="modal__title">Alfredo Romeu</h4>
-            <button class="modal__close" @click="modal = false">&times;</button>
-          </article>
-        </section>
-      </transition>
-    </div>
+<!--            <li class="company__data">-->
+<!--              <label class="company__label">{{ company.minutes }}:00 minutos</label>-->
+<!--              <p class="company__rating">{{ company.questions }} Preguntas</p>-->
+<!--            </li>-->
+<!--          </ul>-->
+<!--        </li>-->
+<!--      </transition-group>-->
+<!--      <transition name="modal">-->
+<!--        <section v-if="modal" class="modal" @click="modal = false">-->
+<!--          <article class="modal__content" @click.stop>-->
+<!--            <h4 class="modal__title">Alfredo Romeu</h4>-->
+<!--            <button class="modal__close" @click="modal = false">&times;</button>-->
+<!--          </article>-->
+<!--        </section>-->
+<!--      </transition>-->
+<!--    </div>-->
 
-    <div v-show="chosenSubject">
-      <nav class="nav" v-if="!chosenQuiz">
-        <menu class="nav__controls">
-          <icon class="nav__icon" use="#filter"></icon>
-          <li class="nav__label">{{ title }}</li>
-        </menu>
-        <label class="nav__label" @click="restart()">Volver</label>
-      </nav>
-      <h2 v-if="!chosenQuiz" class="testTime">Elige el tiempo</h2>
-      <transition-group v-if="!chosenQuiz" name="quizoptions" tag="ul" class="content__list">
-        <li class="company"
-            v-for="opt in quizOptions"
-            @click="chooseOptions(opt)"
-            :key="opt.id"
-            :class="opt.id"
-        >
-          <div class="company__info">
-            <h2 class="company__name">{{ opt.subjectMinutes }}:00 minutos</h2>
-            <blockquote class="company__slogan">{{ opt.title }}</blockquote>
-          </div>
-        </li>
-      </transition-group>
-    </div>
+<!--    <div v-show="chosenSubject">-->
+<!--      <nav class="nav" v-if="!chosenQuiz">-->
+<!--        <menu class="nav__controls">-->
+<!--          <icon class="nav__icon" use="#filter"></icon>-->
+<!--          <li class="nav__label">{{ title }}</li>-->
+<!--        </menu>-->
+<!--        <label class="nav__label" @click="restart()">Volver</label>-->
+<!--      </nav>-->
+<!--      <h2 v-if="!chosenQuiz" class="testTime">Elige el tiempo</h2>-->
+<!--      <transition-group v-if="!chosenQuiz" name="quizoptions" tag="ul" class="content__list">-->
+<!--        <li class="company"-->
+<!--            v-for="opt in quizOptions"-->
+<!--            @click="chooseOptions(opt)"-->
+<!--            :key="opt.id"-->
+<!--            :class="opt.id"-->
+<!--        >-->
+<!--          <div class="company__info">-->
+<!--            <h2 class="company__name">{{ opt.subjectMinutes }}:00 minutos</h2>-->
+<!--            <blockquote class="company__slogan">{{ opt.title }}</blockquote>-->
+<!--          </div>-->
+<!--        </li>-->
+<!--      </transition-group>-->
+<!--    </div>-->
 
-    <div v-if="chosenQuiz">
-      <nav class="nav" v-if="chosenSubject">
-        <menu class="nav__controls">
-          <icon class="nav__icon" use="#filter"></icon>
-          <li class="nav__label">{{ title }}</li>
-        </menu>
-        <label class="nav__label" @click="restart()">Volver</label>
-      </nav>
+<!--    <div v-if="chosenQuiz">-->
+<!--      <nav class="nav" v-if="chosenSubject">-->
+<!--        <menu class="nav__controls">-->
+<!--          <icon class="nav__icon" use="#filter"></icon>-->
+<!--          <li class="nav__label">{{ title }}</li>-->
+<!--        </menu>-->
+<!--        <label class="nav__label" @click="restart()">Volver</label>-->
+<!--      </nav>-->
 
-      <!--container-->
-      <transition name="main_transition">
-        <section class="container">
+<!--      &lt;!&ndash;container&ndash;&gt;-->
+<!--      <transition name="main_transition">-->
+<!--        <section class="container">-->
 
-        <!--questionBox-->
+<!--        &lt;!&ndash;questionBox&ndash;&gt;-->
 
-          <div class="questionBox">
+<!--          <div class="questionBox">-->
 
-          <!-- transition -->
-          <transition :duration="{ enter: 500, leave: 300 }"
-                      enter-active-class="animated zoomIn"
-                      leave-active-class="animated zoomOut"
-                      mode="out-in">
+<!--          &lt;!&ndash; transition &ndash;&gt;-->
+<!--          <transition :duration="{ enter: 500, leave: 300 }"-->
+<!--                      enter-active-class="animated zoomIn"-->
+<!--                      leave-active-class="animated zoomOut"-->
+<!--                      mode="out-in">-->
 
-            <!--questionContainer-->
-            <div class="questionContainer"
-                 v-if="chosenQuiz && questionIndex<quiz.questions.length"
-                 v-bind:key="questionIndex">
+<!--            &lt;!&ndash;questionContainer&ndash;&gt;-->
+<!--            <div class="questionContainer"-->
+<!--                 v-if="chosenQuiz && questionIndex<quiz.questions.length"-->
+<!--                 v-bind:key="questionIndex">-->
 
-              <header>
-                <h1 class="title is-6">{{title}}</h1>
-                <h4>{{examDate}}</h4>
-                <!--progress-->
-                <div class="progressContainer">
-                  <div class="progress">
-                    <div class="progress-bar bg-success" role="progressbar"
-                         v-bind:style="{ width: (corrects/quiz.questions.length)*100 + '%' }"
-                         aria-valuemin="0" aria-valuemax="100">{{corrects}}</div>
-                    <div class="progress-bar bg-danger" role="progressbar"
-                         v-bind:style="{ width: (incorrects/quiz.questions.length)*100 + '%' }"
-                         aria-valuemin="0" aria-valuemax="100">{{incorrects}}</div>
-                  </div>
-                  <p>{{questionIndex+1}} de {{quiz.questions.length}} preguntas</p>
-                  <p>Tiempo restante: {{timeLeft}}</p>
-                </div>
-                <!--/progress-->
-              </header>
+<!--              <header>-->
+<!--                <h1 class="title is-6">{{title}}</h1>-->
+<!--                <h4>{{examDate}}</h4>-->
+<!--                &lt;!&ndash;progress&ndash;&gt;-->
+<!--                <div class="progressContainer">-->
+<!--                  <div class="progress">-->
+<!--                    <div class="progress-bar bg-success" role="progressbar"-->
+<!--                         v-bind:style="{ width: (corrects/quiz.questions.length)*100 + '%' }"-->
+<!--                         aria-valuemin="0" aria-valuemax="100">{{corrects}}</div>-->
+<!--                    <div class="progress-bar bg-danger" role="progressbar"-->
+<!--                       v-bind:style="{ width: (incorrects/quiz.questions.length)*100 + '%' }"-->
+<!--                         aria-valuemin="0" aria-valuemax="100">{{incorrects}}</div>-->
+<!--                  </div>-->
+<!--                  <p>{{questionIndex+1}} de {{quiz.questions.length}} preguntas</p>-->
+<!--                  <p>Tiempo restante: {{timeLeft}}</p>-->
+<!--                </div>-->
+<!--                &lt;!&ndash;/progress&ndash;&gt;-->
+<!--              </header>-->
 
-              <!-- questionTitle -->
-              <p class="titleContainer title" v-html="quiz.questions[questionIndex].text"></p>
-              <div class="titleDate"
-                   v-if="quiz.questions[questionIndex].fecha">
-                {{ quiz.questions[questionIndex].fecha.mes }} -
-                {{ quiz.questions[questionIndex].fecha.year }}
-              </div>
+<!--              &lt;!&ndash; questionTitle &ndash;&gt;-->
+<!--            <p class="titleContainer title" v-html="quiz.questions[questionIndex].text"></p>-->
+<!--              <div class="titleDate"-->
+<!--                   v-if="quiz.questions[questionIndex].fecha">-->
+<!--                {{ quiz.questions[questionIndex].fecha.mes }} - -->
+<!--                {{ quiz.questions[questionIndex].fecha.year }}-->
+<!--              </div>-->
 
-              <!-- quizOptions -->
-              <div class="optionContainer">
-                <div class="option"
-                     v-for="(response, index)
-                          in quiz.questions[questionIndex].responses"
-                     @click="selectOption(index, response)"
-                     :class="{ 'is-correct':
-                              userResponses[questionIndex] === index
-                              && response.correct,
-                              'is-wrong':
-                              userResponses[questionIndex] === index
-                              && !response.correct}"
-                     :key="index">
-                  {{ index | charIndex }}. {{ response.text }}
-                </div>
-              </div>
+<!--              &lt;!&ndash; quizOptions &ndash;&gt;-->
+<!--              <div class="optionContainer">-->
+<!--                <div class="option"-->
+<!--                     v-for="(response, index)-->
+<!--                          in quiz.questions[questionIndex].responses"-->
+<!--                     @click="selectOption(index, response)"-->
+<!--                     :class="{ 'is-correct':-->
+<!--                              userResponses[questionIndex] === index-->
+<!--                              && response.correct,-->
+<!--                              'is-wrong':-->
+<!--                              userResponses[questionIndex] === index-->
+<!--                              && !response.correct}"-->
+<!--                     :key="index">-->
+<!--                  {{ index | charIndex }}. {{ response.text }}-->
+<!--                </div>-->
+<!--              </div>-->
 
-              <!--quizFooter: navigation and progress-->
-              <footer class="questionFooter">
+<!--              &lt;!&ndash;quizFooter: navigation and progress&ndash;&gt;-->
+<!--              <footer class="questionFooter">-->
 
-                <!--pagination-->
-                <nav class="pagination" role="navigation" aria-label="pagination">
+<!--                &lt;!&ndash;pagination&ndash;&gt;-->
+<!--                <nav class="pagination" role="navigation" aria-label="pagination">-->
 
-                  <!-- back button -->
-                  <a class="button actionButton"
-                     v-on:click="prev()"
-                     :disabled="questionIndex < 1">
-                    Anterior
-                  </a>
+<!--                  &lt;!&ndash; back button &ndash;&gt;-->
+<!--                  <a class="button actionButton"-->
+<!--                     v-on:click="prev()"-->
+<!--                     :disabled="questionIndex < 1">-->
+<!--                    Anterior-->
+<!--                  </a>-->
 
-                  <!-- next button -->
-                  <a class="button actionButton" v-on:click="next()"
-                     :disabled="questionIndex===quiz.questions.length">
-                    {{ (userResponses[questionIndex]==null)?'Saltar pregunta':'Siguiente' }}
-                  </a>
+<!--                  &lt;!&ndash; next button &ndash;&gt;-->
+<!--                  <a class="button actionButton" v-on:click="next()"-->
+<!--                     :disabled="questionIndex===quiz.questions.length">-->
+<!--                    {{ (userResponses[questionIndex]==null)?'Saltar pregunta':'Siguiente' }}-->
+<!--                  </a>-->
 
-                </nav>
-                <!--/pagination-->
+<!--                </nav>-->
+<!--                &lt;!&ndash;/pagination&ndash;&gt;-->
 
-              </footer>
-              <!--/quizFooter-->
+<!--              </footer>-->
+<!--              &lt;!&ndash;/quizFooter&ndash;&gt;-->
 
-            </div>
-            <!--/questionContainer-->
+<!--            </div>-->
+<!--            &lt;!&ndash;/questionContainer&ndash;&gt;-->
 
-            <!--quizCompletedResult-->
-            <div v-if="chosenQuiz && questionIndex === quiz.questions.length"
-                 v-bind:key="questionIndex"
-                 class="quizCompleted has-text-centered">
+<!--            &lt;!&ndash;quizCompletedResult&ndash;&gt;-->
+<!--            <div v-if="chosenQuiz && questionIndex === quiz.questions.length"-->
+<!--                 v-bind:key="questionIndex"-->
+<!--                 class="quizCompleted has-text-centered">-->
 
-              <!-- quizCompletedIcon: Achievement Icon -->
-              <span class="icon">
-                <i class="fa"
-                   :class="score()>3
-                   ?'fa-check-circle-o is-active':'fa-times-circle'">
-                </i>
-              </span>
+<!--              &lt;!&ndash; quizCompletedIcon: Achievement Icon &ndash;&gt;-->
+<!--              <span class="icon">-->
+<!--                <i class="fa"-->
+<!--                   :class="score()>3-->
+<!--                   ?'fa-check-circle-o is-active':'fa-times-circle'">-->
+<!--                </i>-->
+<!--              </span>-->
 
-              <!--resultTitleBlock-->
-              <h2 class="title">
-                ¡Buen trabajo!
-              </h2>
-              <div class="progressContainer">
+<!--              &lt;!&ndash;resultTitleBlock&ndash;&gt;-->
+<!--              <h2 class="title">-->
+<!--                ¡Buen trabajo!-->
+<!--              </h2>-->
+<!--              <div class="progressContainer">-->
 
-                <div class="progress">
-                  <div class="progress-bar bg-success" role="progressbar"
-                       v-bind:style="{ width: (corrects/quiz.questions.length)*100 + '%' }"
-                       aria-valuemin="0" aria-valuemax="100">{{corrects}}</div>
-                  <div class="progress-bar bg-danger" role="progressbar"
-                       v-bind:style="{ width: (incorrects/quiz.questions.length)*100 + '%' }"
-                       aria-valuemin="0" aria-valuemax="100">{{incorrects}}</div>
-                </div>
-              </div>
-              <p class="subtitle">
-                Puntuación total: {{ score() }} / 10
-              </p>
-              <br>
-              <a class="button" @click="restart()">Volver a empezar
-                <i class="fa fa-refresh"></i>
-              </a>
-              <!--/resultTitleBlock-->
+<!--                <div class="progress">-->
+<!--                  <div class="progress-bar bg-success" role="progressbar"-->
+<!--                       v-bind:style="{ width: (corrects/quiz.questions.length)*100 + '%' }"-->
+<!--                       aria-valuemin="0" aria-valuemax="100">{{corrects}}</div>-->
+<!--                  <div class="progress-bar bg-danger" role="progressbar"-->
+<!--                       v-bind:style="{ width: (incorrects/quiz.questions.length)*100 + '%' }"-->
+<!--                       aria-valuemin="0" aria-valuemax="100">{{incorrects}}</div>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--              <p class="subtitle">-->
+<!--                Puntuación total: {{ score() }} / 10-->
+<!--              </p>-->
+<!--              <br>-->
+<!--              <a class="button" @click="restart()">Volver a empezar-->
+<!--                <i class="fa fa-refresh"></i>-->
+<!--              </a>-->
+<!--              &lt;!&ndash;/resultTitleBlock&ndash;&gt;-->
 
-            </div>
-            <!--/quizCompetedResult-->
+<!--            </div>-->
+<!--            &lt;!&ndash;/quizCompetedResult&ndash;&gt;-->
 
-          </transition>
+<!--          </transition>-->
 
-        </div>
-        <!--/questionBox-->
+<!--        </div>-->
+<!--        &lt;!&ndash;/questionBox&ndash;&gt;-->
 
-        </section>
-      </transition>
-      <!--/container-->
-    </div>
-    <footer>
-      <div class="explanation">UnedTest 2020.</div>
-      <div>. Un proyecto desarrollado por y para estudiantes.</div>
-      <div class="social"></div>
-    </footer>
+<!--        </section>-->
+<!--      </transition>-->
+<!--      &lt;!&ndash;/container&ndash;&gt;-->
+<!--    </div>-->
+<!--    <footer>-->
+<!--      <div class="explanation">UnedTest 2020.</div>-->
+<!--      <div>. Un proyecto desarrollado por y para estudiantes.</div>-->
+<!--      <div class="social"></div>-->
+<!--    </footer>-->
   </main>
   </div>
 </template>
@@ -732,6 +1130,7 @@ export default {
 
   methods: {
     chooseSection(section) {
+      window.scrollTo(0, 0);
       this.chosenSection = section;
     },
     chooseCurso(curso) {
@@ -850,7 +1249,7 @@ export default {
     },
 
     restart() {
-      this.clearAllFilters();
+      // this.clearAllFilters();
       this.questionIndex = 0;
       this.corrects = 0;
       this.incorrects = 0;

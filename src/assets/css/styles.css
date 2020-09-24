@@ -571,6 +571,7 @@ body {
     margin: 0 auto;
     min-height: 30rem;
     background: #fafafa;
+    color: #2a313b;
     position: relative;
     display: -webkit-box;
     display: flex;
@@ -915,7 +916,7 @@ main {
 
 /*overall layout inu shiba cards*/
 main {
-    margin: 3em auto 8em;
+    margin: 0 auto 8em;
     color: var(--foregroundColor);
     text-align: left;
 }
@@ -1394,7 +1395,6 @@ footer {
     display: grid;
     text-align: center;
     width: 90%;
-    margin: 1em auto 4em;
     max-width: 800px;
     align-items: center;
 }
@@ -1496,7 +1496,6 @@ footer.dark, footer.dark a {
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 10px;
-    text-align: center;
 }
 .profile-smallimg .profile__image {
     margin-top: -40px;
@@ -1551,7 +1550,7 @@ footer.dark, footer.dark a {
 .profile-long .profile__info {
     grid-column: 1 / 5;
     grid-row: 1;
-    padding: 5px 20px 20px 0;
+    padding: 5px 20px 0 0;
 }
 .profile-long .profile__stats {
     min-width: 100px;
@@ -1624,7 +1623,7 @@ footer.dark, footer.dark a {
     overflow: hidden;
     width: 300px;
     display: grid;
-    grid: 390px 0px / 100%;
+    grid: 390px 0 / 100%;
 }
 .profile-imgonly:hover {
     grid: 334px 56px / 100%;
@@ -1666,7 +1665,7 @@ footer.dark, footer.dark a {
 .profile-bigimg {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 400px auto 0px;
+    grid-template-rows: 400px auto 0;
     border-radius: 10px;
     width: 650px;
     overflow: hidden;
