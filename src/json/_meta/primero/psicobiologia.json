@@ -17,5 +17,24 @@
     "verified": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
+  },
+  {
+    "id":"psicobio-1p-1chapter",
+    "name":"Tema 1",
+    "course":"Primero",
+    "course_dg":"1",
+    "subject":"psicobiologia",
+    "year": 20,
+    "month": "june",
+    "rating": 19,
+    "questions":30,
+    "plusScore": 0.3,
+    "minusScore":  0.15,
+    "minutes": 40,
+    "color":"#b7b583",
+    "slogan":"La Psicobiología",
+    "verified": true,
+    "logo":"#logo8",
+    "keywords":["biologia","psicobiologia"]
   }
 ]

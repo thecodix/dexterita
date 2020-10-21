@@ -36,6 +36,9 @@ import MOTIV_JAN_20_1 from '../json/motivacion/motivacion_jan_20_1semana.json';
 
 import PERC_SEP_17 from '../json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from '../json/p-grupos/p-grupos_feb_19.json';
+
+import PSICOBIO_TEMA_1 from '../json/psicobiologia/tema1.json';
+
 import SOC_JUN_19 from '../json/social/social_jun_19.json';
 import SOC_JUN_20 from '../json/social/social_jun_20.json';
 
@@ -123,6 +126,11 @@ export const EXAMS = Object.freeze({
   percepcion: {
     17: {
       september: PERC_SEP_17,
+    },
+  },
+  psicobiologia: {
+    20: {
+      june: PSICOBIO_TEMA_1,
     },
   },
 });
