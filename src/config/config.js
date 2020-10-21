@@ -227,6 +227,19 @@ export const ASIGNATURAS_META = Object.freeze({
     cuatrimestre: '2º cuatrimestre',
     color: '#8FCFD2',
     bg_color: '#8FCFD2',
+    apuntes: {
+      kreusel: {
+        id: 1,
+        filename: 'atencion_mirjam_kreusel_2020.pdf',
+        name: 'Apuntes Mirjam Kreusel (2019-2020)',
+      },
+      lala_uned: {
+        id: 2,
+        wuolah: true,
+        link: 'https://www.wuolah.com/profile/Lala1233/uploaded?folderId=4735',
+        name: 'Apuntes Lala Uned (2016-2017)',
+      },
+    },
   },
   emocion: {
     curso: 'primer_curso',
@@ -283,6 +296,13 @@ export const ASIGNATURAS_META = Object.freeze({
     cuatrimestre: '1º cuatrimestre',
     color: '#DF5E89',
     bg_color: '#DF5E89',
+    apuntes: {
+      kreusel: {
+        id: 1,
+        filename: 'psicologia_fisiologica_mirjam_kreusel_2019.pdf',
+        name: 'Apuntes Mirjam Kreusel (2018-2019)',
+      },
+    },
   },
   disenos_investigacion: {
     curso: 'segundo_curso',

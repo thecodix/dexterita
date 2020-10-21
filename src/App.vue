@@ -621,10 +621,17 @@
                 <h3>{{pdf.name}}</h3>
               </div>
               <div class="profile__cta" style="border: none; padding: 0;">
-                <b-link target="_blank" class="button"
-                        :href="'/pdfs/'+currentAsignatura.curso+
-                        '/'+currentAsignatura.id+'/'+pdf.filename">
+                <b-link
+                  v-if="!pdf.wuolah"
+                  target="_blank" class="button"
+                  :href="'/pdfs/'+currentAsignatura.curso+
+                  '/'+currentAsignatura.id+'/'+pdf.filename">
                   Descargar PDF</b-link>
+                <b-link
+                  v-if="pdf.wuolah"
+                  target="_blank" class="button"
+                  :href="pdf.link">
+                   Abrir en Wuolah</b-link>
               </div>
             </div>
           </section>
