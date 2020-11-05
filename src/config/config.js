@@ -38,9 +38,13 @@ import PERC_SEP_17 from '../json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from '../json/p-grupos/p-grupos_feb_19.json';
 
 import PSICOBIO_TEMA_1 from '../json/psicobiologia/tema1.json';
+import PSICOBIO_TEMA_2 from '../json/psicobiologia/tema2.json';
+
+import PSICOFARMA_TEMA_1_2 from '../json/psicofarmacologia/tema1-2.json';
 
 import SOC_JUN_19 from '../json/social/social_jun_19.json';
 import SOC_JUN_20 from '../json/social/social_jun_20.json';
+import SOC_TEMA1 from '../json/social/Social_1pp_Tema1.json';
 
 export const ASIGNATURAS = Object.freeze(ASIGNATURAS_PRIMERO.concat(
   ASIGNATURAS_SEGUNDO, ASIGNATURAS_TERCERO, ASIGNATURAS_CUARTO,
@@ -118,6 +122,7 @@ export const EXAMS = Object.freeze({
   psicologia_social: {
     20: {
       june: SOC_JUN_20,
+      tema1: SOC_TEMA1,
     },
     19: {
       june: SOC_JUN_19,
@@ -131,6 +136,12 @@ export const EXAMS = Object.freeze({
   psicobiologia: {
     20: {
       june: PSICOBIO_TEMA_1,
+      tema2: PSICOBIO_TEMA_2,
+    },
+  },
+  psicofarmacologia: {
+    20: {
+      june: PSICOFARMA_TEMA_1_2,
     },
   },
 });
@@ -389,6 +400,12 @@ export const ASIGNATURAS_META = Object.freeze({
     cuatrimestre: '1º cuatrimestre',
     color: '#F7AB6C',
     bg_color: '#F7AB6C',
+    guiasrc: 'http://portal.uned.es/portal/page?_pageid=93,70654783&_dad=portal&_schema=PORTAL&idAsignatura=62011014&idTitulacion=6201',
+    pec: 'Si',
+    pec_info: '1 punto máximo sobre la nota final',
+    ponderacion: 'Con PEC: Examen: 9, Nota PEC: 1. Sin PEC -> Examen: 10',
+    apuntes: {
+    },
   },
   desarrollo_2: {
     curso: 'tercer_curso',

@@ -1,4 +1,5 @@
 import GRUPOS from './psicologia_de_grupos.json';
+import PSICOFARMACOLOGIA from './psicofarmacologia.json';
 // import DESARROLLOI from './desarrollo-i.json';
 // import DIFERENCIAS_INDIVIDUALES from './diferencias-individuales.json';
 // import DISENOS_INVESTIGACION from './disenos-investigacion.json';
@@ -16,4 +17,6 @@ import GRUPOS from './psicologia_de_grupos.json';
 // ));
 
 // eslint-disable-next-line import/prefer-default-export
-export const ASIGNATURAS_TERCERO = Object.freeze(GRUPOS);
+export const ASIGNATURAS_TERCERO = Object.freeze(GRUPOS.concat(
+  PSICOFARMACOLOGIA,
+));
