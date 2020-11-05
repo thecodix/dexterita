@@ -45,6 +45,10 @@ import PSICOFARMA_TEMA_1_2 from '../json/psicofarmacologia/tema1-2.json';
 import SOC_JUN_19 from '../json/social/social_jun_19.json';
 import SOC_JUN_20 from '../json/social/social_jun_20.json';
 import SOC_TEMA1 from '../json/social/Social_1pp_Tema1.json';
+import SOC_TEMA2 from '../json/social/Social_1pp_Tema2.json';
+import SOC_TEMA3 from '../json/social/Social_1pp_Tema3.json';
+import SOC_TEMA4 from '../json/social/Social_1pp_Tema4.json';
+import SOC_TEMA5 from '../json/social/Social_1pp_Tema5.json';
 
 export const ASIGNATURAS = Object.freeze(ASIGNATURAS_PRIMERO.concat(
   ASIGNATURAS_SEGUNDO, ASIGNATURAS_TERCERO, ASIGNATURAS_CUARTO,
@@ -123,6 +127,10 @@ export const EXAMS = Object.freeze({
     20: {
       june: SOC_JUN_20,
       tema1: SOC_TEMA1,
+      tema2: SOC_TEMA2,
+      tema3: SOC_TEMA3,
+      tema4: SOC_TEMA4,
+      tema5: SOC_TEMA5,
     },
     19: {
       june: SOC_JUN_19,

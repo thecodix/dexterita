@@ -238,11 +238,11 @@
                               <!-- questionTitle -->
                               <p class="titleContainer title"
                                  v-html="quiz.questions[questionIndex].text"></p>
-                              <div class="titleDate"
-                                   v-if="quiz.questions[questionIndex].fecha">
-                                {{ quiz.questions[questionIndex].fecha.mes }} -
-                                {{ quiz.questions[questionIndex].fecha.year }}
-                              </div>
+<!--                              <div class="titleDate"-->
+<!--                                   v-if="quiz.questions[questionIndex].fecha">-->
+<!--                                {{ quiz.questions[questionIndex].fecha.mes }} - -->
+<!--                                {{ quiz.questions[questionIndex].fecha.year }}-->
+<!--                              </div>-->
 
                               <!-- quizOptions -->
                               <div class="optionContainer">
