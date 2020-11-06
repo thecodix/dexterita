@@ -49,6 +49,8 @@ import SOC_TEMA2 from '../json/social/Social_1pp_Tema2.json';
 import SOC_TEMA3 from '../json/social/Social_1pp_Tema3.json';
 import SOC_TEMA4 from '../json/social/Social_1pp_Tema4.json';
 import SOC_TEMA5 from '../json/social/Social_1pp_Tema5.json';
+import SOC_TEMA6 from '../json/social/Social_1pp_Tema6.json';
+import SOC_TEMA7 from '../json/social/Social_1pp_Tema7.json';
 
 export const ASIGNATURAS = Object.freeze(ASIGNATURAS_PRIMERO.concat(
   ASIGNATURAS_SEGUNDO, ASIGNATURAS_TERCERO, ASIGNATURAS_CUARTO,
@@ -131,6 +133,8 @@ export const EXAMS = Object.freeze({
       tema3: SOC_TEMA3,
       tema4: SOC_TEMA4,
       tema5: SOC_TEMA5,
+      tema6: SOC_TEMA6,
+      tema7: SOC_TEMA7,
     },
     19: {
       june: SOC_JUN_19,
