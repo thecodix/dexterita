@@ -41,6 +41,7 @@ import MOTIV_TEMA5 from '../json/motivacion/Motivacion_Tema5.json';
 import MOTIV_TEMA6 from '../json/motivacion/Motivacion_Tema6.json';
 import MOTIV_TEMA7 from '../json/motivacion/Motivacion_Tema7.json';
 import MOTIV_TEMA8 from '../json/motivacion/Motivacion_Tema8.json';
+import MOTIV_TEMA9 from '../json/motivacion/Motivacion_Tema9.json';
 
 import PERC_SEP_17 from '../json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from '../json/p-grupos/p-grupos_feb_19.json';
@@ -124,6 +125,7 @@ export const EXAMS = Object.freeze({
       tema6: MOTIV_TEMA6,
       tema7: MOTIV_TEMA7,
       tema8: MOTIV_TEMA8,
+      tema9: MOTIV_TEMA9,
     },
     19: {
       january: MOTIV_JAN_19_1,
