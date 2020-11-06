@@ -33,6 +33,14 @@ import MOTIV_FEB_19_2 from '../json/motivacion/motivacion_feb_19_2semana.json';
 import MOTIV_SEP_19_1 from '../json/motivacion/motivacion_sep_19_1semana.json';
 import MOTIV_FEB_20_2 from '../json/motivacion/motivacion_feb_20_2semana.json';
 import MOTIV_JAN_20_1 from '../json/motivacion/motivacion_jan_20_1semana.json';
+import MOTIV_TEMA1 from '../json/motivacion/Motivacion_Tema1.json';
+import MOTIV_TEMA2 from '../json/motivacion/Motivacion_Tema2.json';
+import MOTIV_TEMA3 from '../json/motivacion/Motivacion_Tema3.json';
+import MOTIV_TEMA4 from '../json/motivacion/Motivacion_Tema4.json';
+import MOTIV_TEMA5 from '../json/motivacion/Motivacion_Tema5.json';
+import MOTIV_TEMA6 from '../json/motivacion/Motivacion_Tema6.json';
+import MOTIV_TEMA7 from '../json/motivacion/Motivacion_Tema7.json';
+import MOTIV_TEMA8 from '../json/motivacion/Motivacion_Tema8.json';
 
 import PERC_SEP_17 from '../json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from '../json/p-grupos/p-grupos_feb_19.json';
@@ -108,6 +116,14 @@ export const EXAMS = Object.freeze({
     20: {
       january: MOTIV_JAN_20_1,
       february: MOTIV_FEB_20_2,
+      tema1: MOTIV_TEMA1,
+      tema2: MOTIV_TEMA2,
+      tema3: MOTIV_TEMA3,
+      tema4: MOTIV_TEMA4,
+      tema5: MOTIV_TEMA5,
+      tema6: MOTIV_TEMA6,
+      tema7: MOTIV_TEMA7,
+      tema8: MOTIV_TEMA8,
     },
     19: {
       january: MOTIV_JAN_19_1,
