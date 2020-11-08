@@ -15,6 +15,10 @@ import EM_SEP_17 from '../json/emocion/Emocion_Sep_17_1semana.json';
 import EM_JUN_17 from '../json/emocion/Emocion_Jun_17_1semana.json';
 
 import FINV_SEP_19_1 from '../json/fundamentos_investigacion/fundamentos_de_investigacion_sep_19_1semana.json';
+import FINV_TEMA1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema1.json';
+import FINV_TEMA2 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema2.json';
+import FINV_TEMA3 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema3.json';
+import FINV_TEMA4 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema4.json';
 
 import FIS_JAN_18_1 from '../json/fisiologica/fisiologica_jan_18_1semana.json';
 import FIS_FEB_18_1 from '../json/fisiologica/fisiologica_feb_18_2semana.json';
@@ -93,6 +97,12 @@ export const EXAMS = Object.freeze({
     },
   },
   fundamentos_de_investigacion: {
+    20: {
+      tema1: FINV_TEMA1,
+      tema2: FINV_TEMA2,
+      tema3: FINV_TEMA3,
+      tema4: FINV_TEMA4,
+    },
     19: {
       september: FINV_SEP_19_1,
     },
@@ -221,11 +231,11 @@ export const ASIGNATURAS_META = Object.freeze({
       },
     },
   },
-  fundamentos_investigacion: {
+  fundamentos_de_investigacion: {
     curso: 'primer_curso',
     course_dg: '1',
     credits: '6',
-    id: 'fundamentos_investigacion',
+    id: 'fundamentos_de_investigacion',
     name: 'F. de Investigación',
     logo: '#logo5',
     cuatrimestre: '1º cuatrimestre',
