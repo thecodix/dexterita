@@ -19,6 +19,13 @@ import FINV_TEMA1 from '../json/fundamentos_investigacion/Fundamentos_de_investi
 import FINV_TEMA2 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema2.json';
 import FINV_TEMA3 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema3.json';
 import FINV_TEMA4 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema4.json';
+import FINV_TEMA5 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema5.json';
+import FINV_TEMA6 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema6.json';
+import FINV_TEMA7 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema7.json';
+import FINV_TEMA8 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema8.json';
+import FINV_TEMA9 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema9.json';
+import FINV_TEMA10 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema10.json';
+import FINV_TEMA11 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema11.json';
 
 import FIS_JAN_18_1 from '../json/fisiologica/fisiologica_jan_18_1semana.json';
 import FIS_FEB_18_1 from '../json/fisiologica/fisiologica_feb_18_2semana.json';
@@ -102,6 +109,13 @@ export const EXAMS = Object.freeze({
       tema2: FINV_TEMA2,
       tema3: FINV_TEMA3,
       tema4: FINV_TEMA4,
+      tema5: FINV_TEMA5,
+      tema6: FINV_TEMA6,
+      tema7: FINV_TEMA7,
+      tema8: FINV_TEMA8,
+      tema9: FINV_TEMA9,
+      tema10: FINV_TEMA10,
+      tema11: FINV_TEMA11,
     },
     19: {
       september: FINV_SEP_19_1,
