@@ -58,7 +58,8 @@ import PERC_SEP_17 from '../json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from '../json/p-grupos/p-grupos_feb_19.json';
 
 import PSICOBIO_TEMA_1 from '../json/psicobiologia/tema1.json';
-import PSICOBIO_TEMA_2 from '../json/psicobiologia/tema2.json';
+import PSICOBIO_TEMA_2 from '../json/psicobiologia/Psicobiologia_Tema2.json';
+// import PSICOBIO_TEST from '../json/psicobiologia/Psicobiologia_test.json';
 
 import PSICOFARMA_TEMA_1_2 from '../json/psicofarmacologia/tema1-2.json';
 

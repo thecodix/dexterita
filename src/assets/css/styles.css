@@ -562,6 +562,11 @@ body {
     transition-duration: 0.15s;
 }
 
+#imagen {
+    width: 70%;
+    margin: 0 auto;
+}
+
 .container {
     margin: 0 auto;
     padding-top: 1em;

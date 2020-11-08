@@ -1,5 +1,24 @@
 [
   {
+    "id":"psicobio-1p-test",
+    "name":"Test",
+    "course":"Primero",
+    "course_dg":"1",
+    "subject":"psicobiologia",
+    "year": 20,
+    "month": "test",
+    "rating": 19,
+    "questions":30,
+    "plusScore": 0.3,
+    "minusScore":  0.15,
+    "minutes": 40,
+    "color":"#b7b583",
+    "slogan":"test",
+    "verified": false,
+    "logo":"#logo8",
+    "keywords":["biologia","psicobiologia"]
+  },
+  {
     "id":"psicobio-19-jun-2p-1week",
     "name":"Psicobiología",
     "course":"Primero",
@@ -46,7 +65,7 @@
     "year": 20,
     "month": "tema2",
     "rating": 19,
-    "questions":56,
+    "questions":275,
     "plusScore": 0.3,
     "minusScore":  0.15,
     "minutes": 40,

@@ -236,6 +236,9 @@
                               <!--/quizFooter-->
 
                               <!-- questionTitle -->
+                              <div v-if="quiz.questions[questionIndex].imagen" id='imagen'>
+                                <img :src=quiz.questions[questionIndex].imagen />
+                              </div>
                               <p class="titleContainer title"
                                  v-html="quiz.questions[questionIndex].text"></p>
 <!--                              <div class="titleDate"-->
