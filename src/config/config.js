@@ -62,6 +62,7 @@ import PSICOBIO_TEMA_2 from '../json/psicobiologia/Psicobiologia_Tema2.json';
 import PSICOBIO_TEMA_3 from '../json/psicobiologia/Psicobiologia_Tema3.json';
 import PSICOBIO_TEMA_4 from '../json/psicobiologia/Psicobiologia_Tema4.json';
 import PSICOBIO_TEMA_5 from '../json/psicobiologia/Psicobiologia_Tema5.json';
+import PSICOBIO_TEMA_6 from '../json/psicobiologia/Psicobiologia_Tema6.json';
 // import PSICOBIO_TEST from '../json/psicobiologia/Psicobiologia_test.json';
 
 import PSICOFARMA_TEMA_1_2 from '../json/psicofarmacologia/tema1-2.json';
@@ -198,6 +199,7 @@ export const EXAMS = Object.freeze({
       tema3: PSICOBIO_TEMA_3,
       tema4: PSICOBIO_TEMA_4,
       tema5: PSICOBIO_TEMA_5,
+      tema6: PSICOBIO_TEMA_6,
     },
   },
   psicofarmacologia: {

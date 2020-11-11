@@ -131,5 +131,24 @@
     "verified": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
+  },
+  {
+    "id":"psicobio-1p-tema6",
+    "name":"Tema 6",
+    "course":"Primero",
+    "course_dg":"1",
+    "subject":"psicobiologia",
+    "year": 20,
+    "month": "tema6",
+    "rating": 19,
+    "questions":82,
+    "plusScore": 0.3,
+    "minusScore":  0.15,
+    "minutes": 60,
+    "color":"#b7b583",
+    "slogan":"Organización del SN",
+    "verified": true,
+    "logo":"#logo8",
+    "keywords":["biologia","psicobiologia"]
   }
 ]
