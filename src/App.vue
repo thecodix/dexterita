@@ -87,7 +87,7 @@
 <!--              <img :src="currentAsignatura.imagesrc" alt="Foto"/></div>-->
             <div class="profile__info">
               <h3>{{ currentAsignatura.name }}</h3>
-              <p v-if="chosenSubject" class="profile__info__extra">Examen {{examDate}}</p>
+              <p v-if="chosenSubject" class="profile__info__extra">Test {{examDate}}</p>
             </div>
             <!--        Exámenes-->
             <div v-if="chosenSection && chosenSection ==='examenes'">

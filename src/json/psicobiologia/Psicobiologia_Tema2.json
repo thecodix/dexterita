@@ -418,17 +418,17 @@
         "feedback": "",
         "responses": [
             {
-                "text": "Lo dicho en la A y B es correcto.",
-                "correct": true
+                "text": "A/ Los heterocigóticos portadores de una mutación del gen receptor de MSH (MC4R) que impide su actividad padecerán obesidad."
             },
             {
-                "text": "A/ Los heterocigóticos portadores de una mutación del gen receptor de MSH (MC4R) que impide su actividad padecerán obesidad."
+                "text": "B/ Los homocigóticos portadores de dicha mutación probablemente sean más obesos que los heterocigóticos."
             },
             {
                 "text": "C/ Los homocigóticos para el alelo normal no se diferenciarán significativamente de los heterocigóticos."
             },
             {
-                "text": "B/ Los homocigóticos portadores de dicha mutación probablemente sean más obesos que los heterocigóticos."
+                "text": "Lo dicho en la A y B es correcto.",
+                "correct": true
             }
         ]
     },

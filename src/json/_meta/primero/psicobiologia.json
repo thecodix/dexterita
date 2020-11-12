@@ -150,5 +150,24 @@
     "verified": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
+  },
+  {
+    "id":"psicobio-1p-tema7",
+    "name":"Tema 7",
+    "course":"Primero",
+    "course_dg":"1",
+    "subject":"psicobiologia",
+    "year": 20,
+    "month": "tema7",
+    "rating": 19,
+    "questions":179,
+    "plusScore": 0.3,
+    "minusScore":  0.15,
+    "minutes": 60,
+    "color":"#b7b583",
+    "slogan":"Bases de la comunicación neuronal",
+    "verified": true,
+    "logo":"#logo8",
+    "keywords":["biologia","psicobiologia"]
   }
 ]
