@@ -87,7 +87,7 @@
 <!--              <img :src="currentAsignatura.imagesrc" alt="Foto"/></div>-->
             <div class="profile__info">
               <h3>{{ currentAsignatura.name }}</h3>
-              <p v-if="chosenSubject" class="profile__info__extra">Examen {{examDate}}</p>
+              <p v-if="chosenSubject" class="profile__info__extra">Test {{examDate}}</p>
             </div>
             <!--        Exámenes-->
             <div v-if="chosenSection && chosenSection ==='examenes'">
@@ -236,6 +236,9 @@
                               <!--/quizFooter-->
 
                               <!-- questionTitle -->
+                              <div v-if="quiz.questions[questionIndex].imagen" id='imagen'>
+                                <img :src=quiz.questions[questionIndex].imagen />
+                              </div>
                               <p class="titleContainer title"
                                  v-html="quiz.questions[questionIndex].text"></p>
 <!--                              <div class="titleDate"-->

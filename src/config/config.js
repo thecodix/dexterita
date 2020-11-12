@@ -36,6 +36,8 @@ import FIS_SEP_19_1 from '../json/fisiologica/fisiologica_sep_19_1semana.json';
 import FIS_JAN_20_1 from '../json/fisiologica/fisiologica_jan_20_1semana.json';
 import FIS_FEB_20_2 from '../json/fisiologica/fisiologica_feb_20_2semana.json';
 
+import MEMORIA_TEMA1 from '../json/memoria/Memoria_tema1.json';
+
 import MOTIV_JAN_18_1 from '../json/motivacion/motivacion_jan_18_1semana.json';
 import MOTIV_FEB_18_1 from '../json/motivacion/motivacion_feb_18_2semana.json';
 import MOTIV_SEP_18_1 from '../json/motivacion/motivacion_sep_18_1semana.json';
@@ -58,7 +60,13 @@ import PERC_SEP_17 from '../json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from '../json/p-grupos/p-grupos_feb_19.json';
 
 import PSICOBIO_TEMA_1 from '../json/psicobiologia/tema1.json';
-import PSICOBIO_TEMA_2 from '../json/psicobiologia/tema2.json';
+import PSICOBIO_TEMA_2 from '../json/psicobiologia/Psicobiologia_Tema2.json';
+import PSICOBIO_TEMA_3 from '../json/psicobiologia/Psicobiologia_Tema3.json';
+import PSICOBIO_TEMA_4 from '../json/psicobiologia/Psicobiologia_Tema4.json';
+import PSICOBIO_TEMA_5 from '../json/psicobiologia/Psicobiologia_Tema5.json';
+import PSICOBIO_TEMA_6 from '../json/psicobiologia/Psicobiologia_Tema6.json';
+import PSICOBIO_TEMA_7 from '../json/psicobiologia/Psicobiologia_Tema7.json';
+// import PSICOBIO_TEST from '../json/psicobiologia/Psicobiologia_test.json';
 
 import PSICOFARMA_TEMA_1_2 from '../json/psicofarmacologia/tema1-2.json';
 
@@ -137,6 +145,11 @@ export const EXAMS = Object.freeze({
       february: FIS_FEB_20_2,
     },
   },
+  memoria: {
+    20: {
+      tema1: MEMORIA_TEMA1,
+    },
+  },
   motivacion: {
     20: {
       january: MOTIV_JAN_20_1,
@@ -189,8 +202,13 @@ export const EXAMS = Object.freeze({
   },
   psicobiologia: {
     20: {
-      june: PSICOBIO_TEMA_1,
+      tema1: PSICOBIO_TEMA_1,
       tema2: PSICOBIO_TEMA_2,
+      tema3: PSICOBIO_TEMA_3,
+      tema4: PSICOBIO_TEMA_4,
+      tema5: PSICOBIO_TEMA_5,
+      tema6: PSICOBIO_TEMA_6,
+      tema7: PSICOBIO_TEMA_7,
     },
   },
   psicofarmacologia: {
