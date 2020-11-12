@@ -139,7 +139,6 @@ input[type='range']::-webkit-slider-thumb {
 }
 .content__list {
     position: relative;
-    margin-top: 1rem;
     padding-right: 1rem;
     padding-bottom: 5rem;
     -webkit-backface-visibility: hidden;

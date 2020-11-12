@@ -36,7 +36,8 @@ import FIS_SEP_19_1 from '../json/fisiologica/fisiologica_sep_19_1semana.json';
 import FIS_JAN_20_1 from '../json/fisiologica/fisiologica_jan_20_1semana.json';
 import FIS_FEB_20_2 from '../json/fisiologica/fisiologica_feb_20_2semana.json';
 
-import MEMORIA_TEMA1 from '../json/memoria/Memoria_tema1.json';
+import MEMORIA_TEMA1 from '../json/memoria/Memoria_Tema1.json';
+import MEMORIA_TEMA2 from '../json/memoria/Memoria_Tema2.json';
 
 import MOTIV_JAN_18_1 from '../json/motivacion/motivacion_jan_18_1semana.json';
 import MOTIV_FEB_18_1 from '../json/motivacion/motivacion_feb_18_2semana.json';
@@ -59,6 +60,17 @@ import MOTIV_TEMA9 from '../json/motivacion/Motivacion_Tema9.json';
 import PERC_SEP_17 from '../json/percepcion/percepcion_sep_17.json';
 import PGROUP_FEB_19 from '../json/p-grupos/p-grupos_feb_19.json';
 
+import PSICOBIO_JAN_17_1 from '../json/psicobiologia/Psicobiologia_Ene_17_1semana.json';
+import PSICOBIO_FEB_17_2 from '../json/psicobiologia/Psicobiologia_Feb_17_2semana.json';
+import PSICOBIO_SEP_17_1 from '../json/psicobiologia/Psicobiologia_Sep_17_1semana.json';
+import PSICOBIO_JAN_18_1 from '../json/psicobiologia/Psicobiologia_Ene_18_1semana.json';
+import PSICOBIO_FEB_18_2 from '../json/psicobiologia/Psicobiologia_Feb_18_2semana.json';
+import PSICOBIO_SEP_18_1 from '../json/psicobiologia/Psicobiologia_Sep_18_1semana.json';
+import PSICOBIO_JAN_19_1 from '../json/psicobiologia/Psicobiologia_Ene_19_1semana.json';
+import PSICOBIO_FEB_19_2 from '../json/psicobiologia/Psicobiologia_Feb_19_2semana.json';
+import PSICOBIO_SEP_19_1 from '../json/psicobiologia/Psicobiologia_Sep_19_1semana.json';
+import PSICOBIO_JAN_20_1 from '../json/psicobiologia/Psicobiologia_Ene_20_1semana.json';
+import PSICOBIO_FEB_20_2 from '../json/psicobiologia/Psicobiologia_Feb_20_2semana.json';
 import PSICOBIO_TEMA_1 from '../json/psicobiologia/tema1.json';
 import PSICOBIO_TEMA_2 from '../json/psicobiologia/Psicobiologia_Tema2.json';
 import PSICOBIO_TEMA_3 from '../json/psicobiologia/Psicobiologia_Tema3.json';
@@ -148,6 +160,7 @@ export const EXAMS = Object.freeze({
   memoria: {
     20: {
       tema1: MEMORIA_TEMA1,
+      tema2: MEMORIA_TEMA2,
     },
   },
   motivacion: {
@@ -202,6 +215,8 @@ export const EXAMS = Object.freeze({
   },
   psicobiologia: {
     20: {
+      january1: PSICOBIO_JAN_20_1,
+      february2: PSICOBIO_FEB_20_2,
       tema1: PSICOBIO_TEMA_1,
       tema2: PSICOBIO_TEMA_2,
       tema3: PSICOBIO_TEMA_3,
@@ -209,6 +224,21 @@ export const EXAMS = Object.freeze({
       tema5: PSICOBIO_TEMA_5,
       tema6: PSICOBIO_TEMA_6,
       tema7: PSICOBIO_TEMA_7,
+    },
+    19: {
+      september1: PSICOBIO_SEP_19_1,
+      february2: PSICOBIO_FEB_19_2,
+      january1: PSICOBIO_JAN_19_1,
+    },
+    18: {
+      september1: PSICOBIO_SEP_18_1,
+      february2: PSICOBIO_FEB_18_2,
+      january1: PSICOBIO_JAN_18_1,
+    },
+    17: {
+      september1: PSICOBIO_SEP_17_1,
+      february2: PSICOBIO_FEB_17_2,
+      january1: PSICOBIO_JAN_17_1,
     },
   },
   psicofarmacologia: {
