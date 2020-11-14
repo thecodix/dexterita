@@ -13,8 +13,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 1",
+  "slogan":"Introducción al estudio de la psicología",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -32,8 +33,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 2",
+  "slogan":"La motivación como proceso psicológico básico",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -51,8 +53,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 3",
+  "slogan":"El proceso motivacional",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -70,8 +73,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 4",
+  "slogan":"Los motivos innatos",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -89,8 +93,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 5",
+  "slogan":"Los motivos adquiridos",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -108,8 +113,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 6",
+  "slogan":"Motivación y conducta adaptativa",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -127,8 +133,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 7",
+  "slogan":"Motivación y aprendizaje",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -146,8 +153,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 8",
+  "slogan":"Motivación y cognición",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -165,8 +173,9 @@
   "minusScore":  0.15,
   "minutes": 45,
   "color":"#b7b583",
-  "slogan":"Tema 9",
+  "slogan":"Técnicas de medida",
   "verified": true,
+  "autoevaluacion": true,
   "logo":"#logo4",
   "keywords":["motivacion"]
  },
@@ -185,6 +194,7 @@
  "id": "motivacion-20-feb-1week",
  "subject": "motivacion",
  "verified": true,
+ "autoevaluacion": false,
  "name": "P. de la Motivacion",
  "plusScore": 0.3,
  "minutes": 40
@@ -200,6 +210,7 @@
  "id": "motivacion-20-feb-2week",
  "subject": "motivacion",
  "verified": true,
+  "autoevaluacion": false,
  "name": "P. de la Motivacion",
  "plusScore": 0.3, "minutes": 40}, {"week": "Semana 1",
  "rating": "20",
@@ -212,6 +223,7 @@
  "id": "motivacion-20-sep-1week",
  "subject": "motivacion",
  "verified": false,
+ "autoevaluacion": false,
  "name": "P. de la Motivacion",
  "plusScore": 0.3, "minutes": 40
 },
@@ -231,6 +243,7 @@
   "id": "motivacion-19-jan-1week",
   "subject": "motivacion",
   "verified": true,
+  "autoevaluacion": false,
   "name": "P. de la Motivacion",
   "plusScore": 0.3,
   "minutes": 40
@@ -251,6 +264,7 @@
   "id": "motivacion-19-feb-2week",
   "subject": "motivacion",
   "verified": true,
+  "autoevaluacion": false,
   "name": "P. de la Motivacion",
   "plusScore": 0.3,
   "minutes": 40
@@ -271,6 +285,7 @@
   "id": "motivacion-19-sep-1week",
   "subject": "motivacion",
   "verified": true,
+  "autoevaluacion": false,
   "name": "P. de la Motivacion",
   "plusScore": 0.3,
   "minutes": 40
@@ -289,6 +304,7 @@
   "id": "motivacion-18-jan-1week",
   "subject": "motivacion",
   "verified": true,
+  "autoevaluacion": false,
   "name": "P. de la Motivacion",
   "plusScore": 0.3,
   "minutes": 40
@@ -308,6 +324,7 @@
   "id": "motivacion-18-feb-2week",
   "subject": "motivacion",
   "verified": true,
+  "autoevaluacion": false,
   "name": "P. de la Motivacion",
   "plusScore": 0.3,
   "minutes": 40
@@ -327,6 +344,7 @@
   "id": "motivacion-18-sep-1week",
   "subject": "motivacion",
   "verified": true,
+  "autoevaluacion": false,
   "name": "P. de la Motivacion",
   "plusScore": 0.3,
   "minutes": 40
@@ -341,6 +359,7 @@
  "id": "motivacion-17-feb-1week",
  "subject": "motivacion",
  "verified": false,
+ "autoevaluacion": false,
  "name": "P. de la Motivacion",
  "plusScore": 0.3, "minutes": 40}, {"week": "Semana 2",
  "rating": "17",
@@ -353,6 +372,7 @@
  "id": "motivacion-17-feb-2week",
  "subject": "motivacion",
  "verified": false,
+ "autoevaluacion": false,
  "name": "P. de la Motivacion",
  "plusScore": 0.3, "minutes": 40}, {"week": "Semana 1",
  "rating": "17",
@@ -365,5 +385,6 @@
  "id": "motivacion-17-sep-1week",
  "subject": "motivacion",
  "verified": false,
+ "autoevaluacion": false,
  "name": "P. de la Motivacion",
  "plusScore": 0.3, "minutes": 40}]

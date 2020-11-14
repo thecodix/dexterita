@@ -15,6 +15,7 @@
     "color":"#b7b583",
     "slogan":"Junio 2019",
     "verified": false,
+    "autoevaluacion": false,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   },
@@ -32,8 +33,9 @@
     "minusScore":  0.15,
     "minutes": 45,
     "color":"#b7b583",
-    "slogan":"Tema 1",
+    "slogan":"¿Qué es la Psicología Social?",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   },
@@ -51,8 +53,9 @@
     "minusScore":  0.15,
     "minutes": 45,
     "color":"#b7b583",
-    "slogan":"Tema 2",
+    "slogan":"Influencia de la Evolución y la Cultura en los procesos psicosociales",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   },
@@ -70,8 +73,9 @@
     "minusScore":  0.15,
     "minutes": 45,
     "color":"#b7b583",
-    "slogan":"Tema 3",
+    "slogan":"Cognición Social",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   },
@@ -89,8 +93,9 @@
     "minusScore":  0.15,
     "minutes": 45,
     "color":"#b7b583",
-    "slogan":"Tema 4",
+    "slogan":"Percepción Social y Atribución",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   },
@@ -108,8 +113,9 @@
     "minusScore":  0.15,
     "minutes": 45,
     "color":"#b7b583",
-    "slogan":"Tema 5",
+    "slogan":"Autoconcepto e Identidad",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   },
@@ -127,8 +133,9 @@
     "minusScore":  0.15,
     "minutes": 45,
     "color":"#b7b583",
-    "slogan":"Tema 6",
+    "slogan":"Actitudes",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   },
@@ -146,8 +153,9 @@
     "minusScore":  0.15,
     "minutes": 45,
     "color":"#b7b583",
-    "slogan":"Tema 7",
+    "slogan":"Influencia, persuasión y cambio de actitudes",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   },
@@ -167,6 +175,7 @@
     "color":"#b7b583",
     "slogan":"Junio 2020",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo7",
     "keywords":["social", "psicologia-social", "primero"]
   }
