@@ -82,7 +82,11 @@ import PSICOBIO_TEMA_7 from '../json/psicobiologia/Psicobiologia_Tema7.json';
 
 import PSICOFARMA_TEMA_1_2 from '../json/psicofarmacologia/tema1-2.json';
 
-import SOC_JUN_19 from '../json/social/social_jun_19.json';
+import SOC_JAN_19_1 from '../json/social/Social_Ene_19_1semana.json';
+import SOC_FEB_19_2 from '../json/social/Social_Feb_19_2semana.json';
+import SOC_SEP_19_1 from '../json/social/Social_Sep_19_1semana.json';
+import SOC_JAN_20_1 from '../json/social/Social_Ene_20_1semana.json';
+import SOC_FEB_20_2 from '../json/social/Social_Feb_20_2semana.json';
 import SOC_JUN_20 from '../json/social/social_jun_20.json';
 import SOC_TEMA1 from '../json/social/Social_1pp_Tema1.json';
 import SOC_TEMA2 from '../json/social/Social_1pp_Tema2.json';
@@ -196,6 +200,8 @@ export const EXAMS = Object.freeze({
   psicologia_social: {
     20: {
       june: SOC_JUN_20,
+      february: SOC_FEB_20_2,
+      january: SOC_JAN_20_1,
       tema1: SOC_TEMA1,
       tema2: SOC_TEMA2,
       tema3: SOC_TEMA3,
@@ -205,7 +211,10 @@ export const EXAMS = Object.freeze({
       tema7: SOC_TEMA7,
     },
     19: {
-      june: SOC_JUN_19,
+      september: SOC_SEP_19_1,
+      february: SOC_FEB_19_2,
+      january: SOC_JAN_19_1,
+      // june: SOC_JUN_19,
     },
   },
   percepcion: {
