@@ -1,4 +1,111 @@
 
+.lista__curso a {
+    color: #111;
+    border-bottom: 0.1rem solid rgba(0,0,0,0.1);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.lista__curso a:hover {
+    color: #f04;
+    border-bottom: 0.1rem solid #f04;
+}
+
+.lista__curso {
+    width: 100%;
+    margin: 0.8rem 0 2.2rem 0;
+    border-spacing: 0;
+}
+
+.lista__curso th {
+    padding: 0.4rem 0.5rem;
+    font-weight: bold;
+    text-align: left;
+}
+
+.lista__curso .table_right {
+    text-align: right !important;
+}
+
+.lista__curso td {
+    padding: 1rem 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.lista__curso .tema_lista td {
+    border-bottom: 1px solid darkgray;
+}
+.tema_title {
+    border-bottom: 1px solid darkgray;
+    width:1%;
+    white-space:nowrap;
+}
+
+.tema_title_wrap {
+    border-bottom: 1px solid darkgray;
+}
+
+.lista__curso .tema_lista:hover {
+    background-color: #4d5563;
+    cursor: pointer;
+}
+
+.lista__curso td .btn {
+    display: inline;
+}
+
+.lista__curso .btn {
+    display: block;
+    width: 100%;
+    margin: 2rem 0 2rem 0;
+    padding: 1rem 2rem;
+    color: #111;
+    background: transparent;
+    border: 0.1rem solid #111;
+    outline: 0;
+    border-radius: 0.3rem;
+    font: inherit;
+    font-weight: bold;
+    line-height: 1;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    transition: all 0.25s ease;
+}
+
+.lista__curso .btn:visited {
+    color: #111;
+}
+
+.lista__curso .btn:hover,
+.lista__curso .btn:focus {
+    border: 0.1rem solid #f04;
+    color: #f04;
+}
+
+.lista__curso .btn.btn-main {
+    border: 0;
+    color: #fff;
+    background: #44a;
+}
+
+.lista__curso .btn.btn-main:visited {
+    color: #fff;
+}
+
+.lista__curso .btn.btn-main:hover,
+.lista__curso .btn.btn-main:focus {
+    background: #f04;
+}
+
+.lista__curso .grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 html {
      box-sizing: border-box;
      font-size: 100%;

@@ -15,6 +15,7 @@
     "color":"#b7b583",
     "slogan":"test",
     "verified": false,
+    "autoevaluacion": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -34,6 +35,7 @@
     "color":"#b7b583",
     "slogan":"La Psicobiología",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -53,6 +55,7 @@
     "color":"#b7b583",
     "slogan":"Genética Mendeliana",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -72,6 +75,7 @@
     "color":"#b7b583",
     "slogan":"Genética Conductual",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -91,6 +95,7 @@
     "color":"#b7b583",
     "slogan":"La evolución",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -110,6 +115,7 @@
     "color":"#b7b583",
     "slogan":"Ecología del comportamiento",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -129,6 +135,7 @@
     "color":"#b7b583",
     "slogan":"Organización del SN",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -148,6 +155,7 @@
     "color":"#b7b583",
     "slogan":"Bases de la comunicación neuronal",
     "verified": true,
+    "autoevaluacion": true,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -167,6 +175,7 @@
     "color":"#b7b583",
     "slogan":"Febrero 2020",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -186,6 +195,7 @@
     "color":"#b7b583",
     "slogan":"Enero 2020",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -205,6 +215,7 @@
     "color":"#b7b583",
     "slogan":"Septiembre 2019",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -224,6 +235,7 @@
     "color":"#b7b583",
     "slogan":"Febrero 2019",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -243,6 +255,7 @@
     "color":"#b7b583",
     "slogan":"Enero 2019",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -262,6 +275,7 @@
     "color":"#b7b583",
     "slogan":"Septiembre 2018",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -281,6 +295,7 @@
     "color":"#b7b583",
     "slogan":"Febrero 2018",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -300,6 +315,7 @@
     "color":"#b7b583",
     "slogan":"Enero 2018",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -319,6 +335,7 @@
     "color":"#b7b583",
     "slogan":"Septiembre 2017",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -338,6 +355,7 @@
     "color":"#b7b583",
     "slogan":"Febrero 2017",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   },
@@ -357,6 +375,7 @@
     "color":"#b7b583",
     "slogan":"Enero 2017",
     "verified": true,
+    "autoevaluacion": false,
     "logo":"#logo8",
     "keywords":["biologia","psicobiologia"]
   }
