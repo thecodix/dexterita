@@ -184,7 +184,7 @@
 <!--                    </transition-group>-->
                   </div>
                   <div v-show="chosenSubject">
-                    <h2 v-if="!chosenQuiz" class="testTime">Elige el tiempo</h2>
+                    <h2 v-if="!chosenQuiz" class="testTime">Elige el número de preguntas</h2>
                     <transition-group
                       v-if="!chosenQuiz" name="quizoptions" tag="ul" class="content__list">
                       <li class="company"
@@ -194,8 +194,12 @@
                           :class="opt.id"
                       >
                         <div class="company__info">
-                          <h2 class="company__name">{{ opt.subjectMinutes }}:00 minutos</h2>
-                          <blockquote class="company__slogan">{{ opt.title }}</blockquote>
+                          <h2
+                            v-if="opt.id === 'all'" class="company__name"
+                          >Todas ({{ opt.subjectQuestions }})</h2>
+                          <h2
+                            v-if="opt.id !== 'all'" class="company__name"
+                          >{{ opt.subjectQuestions }}</h2>
                         </div>
                       </li>
                     </transition-group>
@@ -537,6 +541,7 @@ export default {
       asignaturas: [],
       chosenQuiz: false,
       subjectMinutes: 40,
+      subjectQuestions: 25,
       corrects: 0,
       incorrects: 0,
       quiz: {
@@ -624,23 +629,26 @@ export default {
       return c;
     },
     quizOptions() {
-      return {
+      const q = {
         easy: {
           id: 'easy',
-          title: 'Fácil',
-          subjectMinutes: this.subjectMinutes + 20,
+          title: '15 preguntas',
+          subjectQuestions: 15,
         },
         standard: {
-          id: 'standard',
-          title: 'Estándar',
-          subjectMinutes: this.subjectMinutes,
+          id: '30preguntas',
+          title: '30 preguntas',
+          subjectQuestions: 30,
         },
-        hard: {
-          id: 'hard',
-          title: 'Difícil',
-          subjectMinutes: 20,
+        all: {
+          id: 'all',
+          title: 'Todas',
+          subjectQuestions: this.subjectQuestions,
         },
       };
+      return Object.values(q).filter(({
+        subjectQuestions, id,
+      }) => subjectQuestions < this.subjectQuestions || id === 'all');
     },
 
     activeFilters() {
@@ -692,6 +700,7 @@ export default {
     chooseSection(section) {
       window.scrollTo(0, 0);
       this.chosenSection = section;
+      this.chosenQuiz = false;
     },
     chooseCurso(curso) {
       this.started = true;
@@ -831,6 +840,7 @@ export default {
       this.rightWrong = Array(subject.questions).fill(null);
       this.time = subject.minutes * 60;
       this.subjectMinutes = subject.minutes;
+      this.subjectQuestions = subject.questions;
       this.corrects = 0;
       this.incorrects = 0;
       this.plusScore = subject.plusScore;
@@ -839,7 +849,11 @@ export default {
     },
     chooseOptions(option) {
       this.subjectMinutes = option.subjectMinutes;
-      this.time = this.subjectMinutes * 60;
+      this.quiz.questions = this.quiz.questions
+        .slice(0, option.subjectQuestions);
+      this.userResponses = Array(option.subjectQuestions).fill(null);
+      this.rightWrong = Array(option.subjectQuestions).fill(null);
+      // this.time = 3600;
       this.chosenQuiz = true;
     },
     selectOption(index, response) {
