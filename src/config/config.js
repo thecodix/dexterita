@@ -82,6 +82,18 @@ import PSICOBIO_TEMA_7 from '../json/psicobiologia/Psicobiologia_Tema7.json';
 
 import PSICOFARMA_TEMA_1_2 from '../json/psicofarmacologia/tema1-2.json';
 
+import SOC_JAN_15_1 from '../json/social/Social_Ene_15_1semana.json';
+import SOC_FEB_15_2 from '../json/social/Social_Feb_15_2semana.json';
+import SOC_SEP_15_1 from '../json/social/Social_Sep_15_1semana.json';
+import SOC_JAN_16_1 from '../json/social/Social_Ene_16_1semana.json';
+import SOC_FEB_16_2 from '../json/social/Social_Feb_16_2semana.json';
+import SOC_SEP_16_1 from '../json/social/Social_Sep_16_1semana.json';
+import SOC_JAN_17_1 from '../json/social/Social_Ene_17_1semana.json';
+import SOC_FEB_17_2 from '../json/social/Social_Feb_17_2semana.json';
+import SOC_SEP_17_1 from '../json/social/Social_Sep_17_1semana.json';
+import SOC_JAN_18_1 from '../json/social/Social_Ene_18_1semana.json';
+import SOC_FEB_18_2 from '../json/social/Social_Feb_18_2semana.json';
+import SOC_SEP_18_1 from '../json/social/Social_Sep_18_1semana.json';
 import SOC_JAN_19_1 from '../json/social/Social_Ene_19_1semana.json';
 import SOC_FEB_19_2 from '../json/social/Social_Feb_19_2semana.json';
 import SOC_SEP_19_1 from '../json/social/Social_Sep_19_1semana.json';
@@ -214,7 +226,26 @@ export const EXAMS = Object.freeze({
       september: SOC_SEP_19_1,
       february: SOC_FEB_19_2,
       january: SOC_JAN_19_1,
-      // june: SOC_JUN_19,
+    },
+    18: {
+      september: SOC_SEP_18_1,
+      february: SOC_FEB_18_2,
+      january: SOC_JAN_18_1,
+    },
+    17: {
+      september: SOC_SEP_17_1,
+      february: SOC_FEB_17_2,
+      january: SOC_JAN_17_1,
+    },
+    16: {
+      september: SOC_SEP_16_1,
+      february: SOC_FEB_16_2,
+      january: SOC_JAN_16_1,
+    },
+    15: {
+      september: SOC_SEP_15_1,
+      february: SOC_FEB_15_2,
+      january: SOC_JAN_15_1,
     },
   },
   percepcion: {
