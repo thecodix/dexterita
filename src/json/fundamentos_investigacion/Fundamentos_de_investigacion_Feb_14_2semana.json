@@ -1,0 +1,632 @@
+[
+    {
+        "text": "En los diseños de caso único, se puede considerar que existe efecto del tratamiento si se observa:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Variabilidad o pequeñas fluctuaciones de los datos a lo largo de todas las fases."
+            },
+            {
+                "text": "Un cambio de tendencia en la fase de línea base."
+            },
+            {
+                "text": "Un cambio de nivel o tendencia entre las fases.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La amenaza a la validez interna denominada maduración se refiere a:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que la familiaridad producida por la administración de la prueba puede provocar un cambio en la maduración de los participantes."
+            },
+            {
+                "text": "Acontecimientos que ocurren durante el desarrollo de la investigación."
+            },
+            {
+                "text": "Cambios en los procesos internos en los participantes que ocurren en el transcurso de la investigación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En diversas investigaciones en el ámbito educativo, se ha constatado la influencia que tiene el tipo de evaluación del aprendizaje en la eficacia de la director de un colegio privado de Madrid quiere comprobar la eficacia de un nuevo modelo evaluativo, consistente en una evaluación continua y formativa, sobre el rendimiento en la asignatura de Lengua Española. Para ello, al comienzo del curso propone a los profesores que impartirán esta asignatura en 20 de la ESO, que apliquen el nuevo tipo de modelo evaluativo. Al final del curso, se realiza un examen de la asignatura y las notas obtenidas se comparan con las que obtuvieron el año anterior los alumnos de 20 de la ESO, que siguieron el modelo evaluativo tradicional. Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua y formativa, obtuvieron notas medias superiores a las de los alumnos que siguieron el modelo tradicional.<br><br>Es un diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De tratamiento repetido."
+            },
+            {
+                "text": "De cohortes simple.",
+                "correct": true
+            },
+            {
+                "text": "Pretest-postest con grupo de control no equivalente."
+            }
+        ]
+    },
+    {
+        "text": "La pregunta ¿existe relación entre dos variables? hace principalmente referencia a la validez:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De constructo"
+            },
+            {
+                "text": "De conclusión estadística",
+                "correct": true
+            },
+            {
+                "text": "Externa"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes secuencias de órdenes de presentación de los tratamientos cumple la condición de cuadrado latino?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A-C-B, B-C-A, C-A-B."
+            },
+            {
+                "text": "C-A-B, A-C-B, B-A-C."
+            },
+            {
+                "text": "B-A-C, C-B-A, A-C-B.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En diversas investigaciones en el ámbito educativo, se ha constatado la influencia que tiene el tipo de evaluación del aprendizaje en la eficacia de la director de un colegio privado de Madrid quiere comprobar la eficacia de un nuevo modelo evaluativo, consistente en una evaluación continua y formativa, sobre el rendimiento en la asignatura de Lengua Española. Para ello, al comienzo del curso propone a los profesores que impartirán esta asignatura en 20 de la ESO, que apliquen el nuevo tipo de modelo evaluativo. Al final del curso, se realiza un examen de la asignatura y las notas obtenidas se comparan con las que obtuvieron el año anterior los alumnos de 20 de la ESO, que siguieron el modelo evaluativo tradicional. Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua y formativa, obtuvieron notas medias superiores a las de los alumnos que siguieron el modelo tradicional.<br><br>El grupo de control:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está formado por los alumnos que no siguen ningún modelo evaluativo."
+            },
+            {
+                "text": "No existe, porque en ambos grupos se aplica el tratamiento."
+            },
+            {
+                "text": "Está formado por los alumnos que siguen el modelo evaluativo tradicional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de caso único:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se registra la conducta del sujeto dos veces como máximo, una vez antes del tratamiento y otra después del tratamiento."
+            },
+            {
+                "text": "Hay una fase en la que no se mide la variable dependiente."
+            },
+            {
+                "text": "Se pueden establecer relaciones de causalidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si queremos investigar cómo incide la fatiga en la atención, ¿cuál sería la formulación del problema más adecuada?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La fatiga es la causa de la baja atención."
+            },
+            {
+                "text": "¿Influye el nivel de fatiga en el grado de atención?.",
+                "correct": true
+            },
+            {
+                "text": "Mientras más fatigado se está, peor será la atención."
+            }
+        ]
+    },
+    {
+        "text": "El muestreo realizado en un estudioobservacional se llama focal cuando el observador:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Registra durante toda la investigación una sola conducta."
+            },
+            {
+                "text": "Fija su atención durante un periodo de tiempo grande en un solo sujeto.",
+                "correct": true
+            },
+            {
+                "text": "Va focalizando a cada uno de los sujetos en periodos de tiempo muy breves, pasando de uno a otro en un orden establecido."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño evolutivo transversal se estudia:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El efecto de cohorte debido a la edad."
+            },
+            {
+                "text": "Las diferencias por edad.",
+                "correct": true
+            },
+            {
+                "text": "El cambio producido con la edad."
+            }
+        ]
+    },
+    {
+        "text": "La investigación etnográfica:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Investiga con grandes muestras de sujetos."
+            },
+            {
+                "text": "Tiene como finalidad interpretar lo que sucede dentro de un grupo cultural.",
+                "correct": true
+            },
+            {
+                "text": "Trabaja fundamentalmente con datos estructurados en categorías analíticas."
+            }
+        ]
+    },
+    {
+        "text": "El primer paso del Método Científico es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El establecimiento del procedimiento o plan de recogida de datos."
+            },
+            {
+                "text": "La formulación de hipótesis contrastables."
+            },
+            {
+                "text": "El planteamiento del problema.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La varianza error es la:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que se da entre las medias de los diferentes grupos."
+            },
+            {
+                "text": "Variabilidad de la variable dependiente debida a la influencia de las variables extrañas controladas."
+            },
+            {
+                "text": "Proporción de varianza total que todavía queda por explicar cuando se han eliminado todas las influencias sistemáticas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En diversas investigaciones en el ámbito educativo, se ha constatado la influencia que tiene el tipo de evaluación del aprendizaje en la eficacia de la director de un colegio privado de Madrid quiere comprobar la eficacia de un nuevo modelo evaluativo, consistente en una evaluación continua y formativa, sobre el rendimiento en la asignatura de Lengua Española. Para ello, al comienzo del curso propone a los profesores que impartirán esta asignatura en 20 de la ESO, que apliquen el nuevo tipo de modelo evaluativo. Al final del curso, se realiza un examen de la asignatura y las notas obtenidas se comparan con las que obtuvieron el año anterior los alumnos de 20 de la ESO, que siguieron el modelo evaluativo tradicional. Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua y formativa, obtuvieron notas medias superiores a las de los alumnos que siguieron el modelo tradicional.<br><br>La variable independiente es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La pertenencia al curso de 20 de la ESO."
+            },
+            {
+                "text": "El rendimiento, operativizado mediante la nota obtenida en el examen."
+            },
+            {
+                "text": "El tipo de modelo evaluativo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los diseños de línea base múltiple están recomendados en los casos en los que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es necesario retirar el tratamiento para observar su efectividad."
+            },
+            {
+                "text": "La variable dependiente no admite retirada.",
+                "correct": true
+            },
+            {
+                "text": "No se puede establecer una línea base sino que es preciso introducir el tratamiento desde el principio."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En diversas investigaciones en el ámbito educativo, se ha constatado la influencia que tiene el tipo de evaluación del aprendizaje en la eficacia de la director de un colegio privado de Madrid quiere comprobar la eficacia de un nuevo modelo evaluativo, consistente en una evaluación continua y formativa, sobre el rendimiento en la asignatura de Lengua Española. Para ello, al comienzo del curso propone a los profesores que impartirán esta asignatura en 20 de la ESO, que apliquen el nuevo tipo de modelo evaluativo. Al final del curso, se realiza un examen de la asignatura y las notas obtenidas se comparan con las que obtuvieron el año anterior los alumnos de 20 de la ESO, que siguieron el modelo evaluativo tradicional. Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua y formativa, obtuvieron notas medias superiores a las de los alumnos que siguieron el modelo tradicional.<br><br>Las notas obtenidas en el examen de Lengua Española son una medida:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De la variable independiente."
+            },
+            {
+                "text": "Pretratamiento."
+            },
+            {
+                "text": "De la variable dependiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un diseño intrasujeto se:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ejerce un mayor control interno que en el diseño intersujeto.",
+                "correct": true
+            },
+            {
+                "text": "Utiliza la técnica de equilibrado para igualar a los diferentes grupos experimentales."
+            },
+            {
+                "text": "Emplean más participantes que en un diseño intersujeto."
+            }
+        ]
+    },
+    {
+        "text": "En el apartado Método de un informe científico se incluye:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La discusión general."
+            },
+            {
+                "text": "El procedimiento y el diseño utilizado.",
+                "correct": true
+            },
+            {
+                "text": "Las palabras claves."
+            }
+        ]
+    },
+    {
+        "text": "El muestreo por conglomerados es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Probabilístico.",
+                "correct": true
+            },
+            {
+                "text": "No probabilístico."
+            },
+            {
+                "text": "Accidental."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En diversas investigaciones en el ámbito educativo, se ha constatado la influencia que tiene el tipo de evaluación del aprendizaje en la eficacia de la director de un colegio privado de Madrid quiere comprobar la eficacia de un nuevo modelo evaluativo, consistente en una evaluación continua y formativa, sobre el rendimiento en la asignatura de Lengua Española. Para ello, al comienzo del curso propone a los profesores que impartirán esta asignatura en 20 de la ESO, que apliquen el nuevo tipo de modelo evaluativo. Al final del curso, se realiza un examen de la asignatura y las notas obtenidas se comparan con las que obtuvieron el año anterior los alumnos de 20 de la ESO, que siguieron el modelo evaluativo tradicional. Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua y formativa, obtuvieron notas medias superiores a las de los alumnos que siguieron el modelo tradicional.<br><br>El hecho de que los alumnos sean de un colegio privado, puede afectar a:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El establecimiento de la relación causal."
+            },
+            {
+                "text": "La validez interna."
+            },
+            {
+                "text": "La validez externa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los diseños ex post facto retrospectivos se caracterizan porque el investigador:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede manipular intencionalmente la variable independiente."
+            },
+            {
+                "text": "Selecciona el grupo al que va a asignar el tratamiento."
+            },
+            {
+                "text": "No puede controlar la contigüidad temporal entre la variable independiente y la dependiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el diseño de retirada de tratamiento con pretest y postest:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Existen dos grupos, uno en el que se introduce el tratamiento y otro en el que se retira."
+            },
+            {
+                "text": "Se espera que los cambios entre 01 y 02 vayan en dirección opuesta a los cambios entre 03 y 04.",
+                "correct": true
+            },
+            {
+                "text": "La comparación de las medidas 01 y 02 es la que ejerce de control."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En diversas investigaciones en el ámbito educativo, se ha constatado la influencia que tiene el tipo de evaluación del aprendizaje en la eficacia de la director de un colegio privado de Madrid quiere comprobar la eficacia de un nuevo modelo evaluativo, consistente en una evaluación continua y formativa, sobre el rendimiento en la asignatura de Lengua Española. Para ello, al comienzo del curso propone a los profesores que impartirán esta asignatura en 20 de la ESO, que apliquen el nuevo tipo de modelo evaluativo. Al final del curso, se realiza un examen de la asignatura y las notas obtenidas se comparan con las que obtuvieron el año anterior los alumnos de 20 de la ESO, que siguieron el modelo evaluativo tradicional. Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua y formativa, obtuvieron notas medias superiores a las de los alumnos que siguieron el modelo tradicional.<br><br>Podemos considerar que es un diseño cuasiexperimental porque:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los grupos no han sido creados por asignación aleatoria.",
+                "correct": true
+            },
+            {
+                "text": "La variable independiente es cualitativa."
+            },
+            {
+                "text": "La variable independiente no se puede manipular."
+            }
+        ]
+    },
+    {
+        "text": "Cuando utilizamos el bloqueo como técnica de control conseguimos que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se debilite la validez interna del estudio."
+            },
+            {
+                "text": "Los resultados obtenidos se vean restringidos en su grado de generalización, en comparación con los diseños de grupos aleatorios.",
+                "correct": true
+            },
+            {
+                "text": "Los grupos experimentales sean más heterogéneos entre sí."
+            }
+        ]
+    },
+    {
+        "text": "En metodología observacional, la medida del número de veces que tras la ocurrencia de una determinada conducta tiene lugar otra conducta concreta se denomina:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Prevalencia."
+            },
+            {
+                "text": "Frecuencia de transición.",
+                "correct": true
+            },
+            {
+                "text": "Duración media."
+            }
+        ]
+    },
+    {
+        "text": "En la investigación psicológica con personas:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El investigador está obligado a ofrecer al participante información completa respecto al probable nivel de incomodidad.",
+                "correct": true
+            },
+            {
+                "text": "No está permitido causar estrés o incomodidad a los participantes."
+            },
+            {
+                "text": "El investigador debe garantizar la confidencialidad pero no es necesario mantener el anonimato de los participantes."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño cuasiexperimental, el investigador se encuentra especialmente limitado para:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Maximizar la varianza sistemática primaria."
+            },
+            {
+                "text": "Minimizar la varianza error."
+            },
+            {
+                "text": "Controlar la varianza sistemática secundaria.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En una investigación necesitamos una muestra de 100 sujetos. Se busca 25 indigentes y, a su vez, cada uno de ellos proporciona 3 personas, en la misma condición de indigencia, que también participarán en la investigación. Esta muestra de 100 sujetos ha sido formada utilizando el muestreo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aleatorio simple."
+            },
+            {
+                "text": "Por cuotas."
+            },
+            {
+                "text": "De 'bola de nieve'.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las características del Método Experimental es la utilización:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De la asignación aleatoria.",
+                "correct": true
+            },
+            {
+                "text": "Como mínimo, de tres condiciones experimentales."
+            },
+            {
+                "text": "Como mínimo, de una variable de sujeto."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En diversas investigaciones en el ámbito educativo, se ha constatado la influencia que tiene el tipo de evaluación del aprendizaje en la eficacia de la director de un colegio privado de Madrid quiere comprobar la eficacia de un nuevo modelo evaluativo, consistente en una evaluación continua y formativa, sobre el rendimiento en la asignatura de Lengua Española. Para ello, al comienzo del curso propone a los profesores que impartirán esta asignatura en 20 de la ESO, que apliquen el nuevo tipo de modelo evaluativo. Al final del curso, se realiza un examen de la asignatura y las notas obtenidas se comparan con las que obtuvieron el año anterior los alumnos de 20 de la ESO, que siguieron el modelo evaluativo tradicional. Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua y formativa, obtuvieron notas medias superiores a las de los alumnos que siguieron el modelo tradicional.<br><br>Se pueden considerar grupos no equivalentes porque no se ha:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2014",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Obtenido la misma nota en la asignatura de Lengua Española."
+            },
+            {
+                "text": "Tomado una medida pretratamiento para comprobarlo."
+            },
+            {
+                "text": "Utilizado la asignación aleatoria en la formación de los grupos.",
+                "correct": true
+            }
+        ]
+    }
+]

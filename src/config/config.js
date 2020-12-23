@@ -14,7 +14,24 @@ import EM_JUN_18 from '../json/emocion/Emocion_Jun_18_1semana.json';
 import EM_SEP_17 from '../json/emocion/Emocion_Sep_17_1semana.json';
 import EM_JUN_17 from '../json/emocion/Emocion_Jun_17_1semana.json';
 
-import FINV_SEP_19_1 from '../json/fundamentos_investigacion/fundamentos_de_investigacion_sep_19_1semana.json';
+import FINV_JAN_14_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Jan_14_1semana.json';
+import FINV_FEB_14_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Feb_14_2semana.json';
+import FINV_SEP_14_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Sep_14_1semana.json';
+import FINV_JAN_15_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Jan_15_1semana.json';
+import FINV_FEB_15_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Feb_15_2semana.json';
+import FINV_SEP_15_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Sep_15_1semana.json';
+import FINV_JAN_16_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Jan_16_1semana.json';
+import FINV_FEB_16_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Feb_16_2semana.json';
+import FINV_SEP_16_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Sep_16_1semana.json';
+import FINV_JAN_17_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Jan_17_1semana.json';
+import FINV_FEB_17_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Feb_17_2semana.json';
+import FINV_SEP_17_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Sep_17_1semana.json';
+import FINV_JAN_18_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Jan_18_1semana.json';
+import FINV_FEB_18_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Feb_18_2semana.json';
+import FINV_SEP_18_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Sep_18_1semana.json';
+import FINV_JAN_19_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Jan_19_1semana.json';
+import FINV_FEB_19_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Feb_19_2semana.json';
+import FINV_SEP_19_1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Sep_19_1semana.json';
 import FINV_TEMA1 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema1.json';
 import FINV_TEMA2 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema2.json';
 import FINV_TEMA3 from '../json/fundamentos_investigacion/Fundamentos_de_investigacion_Tema3.json';
@@ -155,6 +172,33 @@ export const EXAMS = Object.freeze({
     },
     19: {
       september: FINV_SEP_19_1,
+      february: FINV_FEB_19_1,
+      january: FINV_JAN_19_1,
+    },
+    18: {
+      september: FINV_SEP_18_1,
+      february: FINV_FEB_18_1,
+      january: FINV_JAN_18_1,
+    },
+    17: {
+      september: FINV_SEP_17_1,
+      february: FINV_FEB_17_1,
+      january: FINV_JAN_17_1,
+    },
+    16: {
+      september: FINV_SEP_16_1,
+      february: FINV_FEB_16_1,
+      january: FINV_JAN_16_1,
+    },
+    15: {
+      september: FINV_SEP_15_1,
+      february: FINV_FEB_15_1,
+      january: FINV_JAN_15_1,
+    },
+    14: {
+      september: FINV_SEP_14_1,
+      february: FINV_FEB_14_1,
+      january: FINV_JAN_14_1,
     },
   },
   fisiologica: {

@@ -1,0 +1,632 @@
+[
+    {
+        "text": "El diseño A-B-A-C-A es de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Línea base múltiple."
+            },
+            {
+                "text": "Reversión.",
+                "correct": true
+            },
+            {
+                "text": "No reversión."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño cuasiexperimental de series temporales interrumpidas, la efectividad del tratamiento se puede comprobar observando:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Si hay cambios de nivel o tendencia de la serie después de la introducción del tratamiento.",
+                "correct": true
+            },
+            {
+                "text": "La puntuación inmediatamente anterior y la posterior a la introducción del tratamiento."
+            },
+            {
+                "text": "Si hay cambios de nivel o tendencia de la serie antes de la introducción del tratamiento."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio cualitativo, cuando se produce saturación en el proceso de recogida de datos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hay que cambiar de modelo teórico y volver a la fase de reflexión."
+            },
+            {
+                "text": "Hay que seguir con el muestreo teórico y encontrar más participantes que añadan información."
+            },
+            {
+                "text": "No es necesario recoger más datos puesto que no aportan más elementos para la interpretación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Entre las características de la metodología cualitativa está la de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No ser participativa."
+            },
+            {
+                "text": "Ser holística.",
+                "correct": true
+            },
+            {
+                "text": "Producir un conocimiento nomotético."
+            }
+        ]
+    },
+    {
+        "text": "En una investigación observacional, el muestreo intersesional se refiere a:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Qué propiedades de la conducta serán registradas."
+            },
+            {
+                "text": "A qué participantes hay que observar."
+            },
+            {
+                "text": "Cuándo hay que observar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Entre las funciones del informe de investigación está la de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Comunicar los resultados obtenidos en una investigación científica.",
+                "correct": true
+            },
+            {
+                "text": "Recoger todo lo que hay hasta el momento sobre una disciplina de estudio."
+            },
+            {
+                "text": "Proporcionar información sobre los resultados de otras investigaciones que apoyan la hipótesis de partida."
+            }
+        ]
+    },
+    {
+        "text": "Un criterio necesario para considerar la observación cómo científica es que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se utilice para la obtención de datos en un diseño experimental."
+            },
+            {
+                "text": "Permita la replicabilidad de los resultados.",
+                "correct": true
+            },
+            {
+                "text": "Se registre la conducta en situaciones naturales."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un estudio llevado a cabo por un equipo de médicos e investigadores del Hospital Clínic y de la Universidad Autónoma de Barcelona, encontraron que realizar las compresiones torácicas con el ritmo de la popular canción 'La Macarena' mejora la calidad de dichas compresiones realizadas durante la reanimación cardiopulmonar (RCP).<br><br>El objetivo del estudio era comparar la efectividad de una aplicación de metrónomo para el móvil y un metrónomo 'mental' (la canción 'La Macarena') para mejorar la calidad de las compresiones torácicas. En la investigación participaron 164 estudiantes de medicina que debían realizar compresiones continuas de tórax en un maniquí durante dos minutos. Se formaron tres grupos mediante asignación aleatoria de los participantes a una de las siguientes condiciones: uno de los grupos no podía utilizar ninguna guía para mantener el ritmo del masaje, a otro grupo se les proporcionó como guía una aplicación de metrónomo en sus teléfonos inteligentes y a un tercer grupo se les pidió que realizaran compresiones de reanimación sobre los maniquíes mientras imaginaban el ritmo de “La Macarena”. Se aseguraron de que no hubiera contacto entre ellos, y que los miembros del grupo que debía seguir el ritmo de “La Macarena” se sabían la canción o, al menos, podían tararear el estribillo.<br><br>Los resultados del estudio revelaron que los que practicaron las maniobras de resucitación sin guía alguna solo alcanzaron el 24% de las compresiones adecuadas (entre los 100 y los 120 pulsos por minuto), mientras que los que lo hicieron al ritmo de “La Macarena” llegaron al 74% y los que lo hicieron siguiendo el compás del metrónomo llegaron al 91% de optimización de la RCP. El profesor de la Universidad de Barcelona Enrique Carrero Cardenal, quién dirigió la investigación, señaló que 'la ventaja de usar una aplicación de metrónomo es que todo el mundo tiene un móvil, es accesible, aunque faltan estudios de su eficacia' pero también apunta a que 'Recordar una canción es gratis, sencillo y es inmediato, es lo más fácil que hay, por eso decidimos hacer este estudio'. Esta investigación se presentó en el congreso de Euroanaesthesia en Copenhague (junio, 2018).<br><br>La variable independiente es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La utilización de un maniquí durante dos minutos."
+            },
+            {
+                "text": "El porcentaje de compresiones adecuadas."
+            },
+            {
+                "text": "La utilización de distintas formas de guía para realizar la reanimación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La variabilidad de los resultados de una investigación debida a factores aleatorios constituye la denominada varianza:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Error.",
+                "correct": true
+            },
+            {
+                "text": "Total."
+            },
+            {
+                "text": "Secundaria."
+            }
+        ]
+    },
+    {
+        "text": "La pregunta: En los últimos dos meses ¿Cuántas veces ha pensado en el juego?: Diariamente, una vez a la semana, una vez al mes, ninguna vez, es de tipo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Semiabierta."
+            },
+            {
+                "text": "Cerrada, de escala de categorías.",
+                "correct": true
+            },
+            {
+                "text": "Cerrada, de listados."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños de discontinuidad en la regresión se caracterizan porque:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No tienen grupo de control."
+            },
+            {
+                "text": "Se trabaja con grupos ya formados."
+            },
+            {
+                "text": "Los grupos se han formado por una regla de asignación conocida.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la PEC, una variable independiente o predictora del estudio es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El programa de intervención en ciberadicción y cyberbullying."
+            },
+            {
+                "text": "El sexo.",
+                "correct": true
+            },
+            {
+                "text": "La provincia de residencia."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un estudio llevado a cabo por un equipo de médicos e investigadores del Hospital Clínic y de la Universidad Autónoma de Barcelona, encontraron que realizar las compresiones torácicas con el ritmo de la popular canción 'La Macarena' mejora la calidad de dichas compresiones realizadas durante la reanimación cardiopulmonar (RCP).<br><br>El objetivo del estudio era comparar la efectividad de una aplicación de metrónomo para el móvil y un metrónomo 'mental' (la canción 'La Macarena') para mejorar la calidad de las compresiones torácicas. En la investigación participaron 164 estudiantes de medicina que debían realizar compresiones continuas de tórax en un maniquí durante dos minutos. Se formaron tres grupos mediante asignación aleatoria de los participantes a una de las siguientes condiciones: uno de los grupos no podía utilizar ninguna guía para mantener el ritmo del masaje, a otro grupo se les proporcionó como guía una aplicación de metrónomo en sus teléfonos inteligentes y a un tercer grupo se les pidió que realizaran compresiones de reanimación sobre los maniquíes mientras imaginaban el ritmo de “La Macarena”. Se aseguraron de que no hubiera contacto entre ellos, y que los miembros del grupo que debía seguir el ritmo de “La Macarena” se sabían la canción o, al menos, podían tararear el estribillo.<br><br>Los resultados del estudio revelaron que los que practicaron las maniobras de resucitación sin guía alguna solo alcanzaron el 24% de las compresiones adecuadas (entre los 100 y los 120 pulsos por minuto), mientras que los que lo hicieron al ritmo de “La Macarena” llegaron al 74% y los que lo hicieron siguiendo el compás del metrónomo llegaron al 91% de optimización de la RCP. El profesor de la Universidad de Barcelona Enrique Carrero Cardenal, quién dirigió la investigación, señaló que 'la ventaja de usar una aplicación de metrónomo es que todo el mundo tiene un móvil, es accesible, aunque faltan estudios de su eficacia' pero también apunta a que 'Recordar una canción es gratis, sencillo y es inmediato, es lo más fácil que hay, por eso decidimos hacer este estudio'. Esta investigación se presentó en el congreso de Euroanaesthesia en Copenhague (junio, 2018).<br><br>El que el investigador se asegurase de que no hubiera contacto entre los participantes de los diferentes grupos supone:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una amenaza a la validez interna debido a que no se mantienen constantes los niveles de la variable extraña."
+            },
+            {
+                "text": "Una amenaza a la validez externa debido a que no se puede generalizar a las situaciones reales en las que si hay contacto."
+            },
+            {
+                "text": "El control de posibles variables extrañas que pudieran confundirse con el verdadero efecto de la variable independiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la PEC, los objetivos de la investigación:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Están claramente definidos.",
+                "correct": true
+            },
+            {
+                "text": "No han sido definidos."
+            },
+            {
+                "text": "Están ligeramente delimitados al tratarse de una investigación exploratoria."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un estudio llevado a cabo por un equipo de médicos e investigadores del Hospital Clínic y de la Universidad Autónoma de Barcelona, encontraron que realizar las compresiones torácicas con el ritmo de la popular canción 'La Macarena' mejora la calidad de dichas compresiones realizadas durante la reanimación cardiopulmonar (RCP).<br><br>El objetivo del estudio era comparar la efectividad de una aplicación de metrónomo para el móvil y un metrónomo 'mental' (la canción 'La Macarena') para mejorar la calidad de las compresiones torácicas. En la investigación participaron 164 estudiantes de medicina que debían realizar compresiones continuas de tórax en un maniquí durante dos minutos. Se formaron tres grupos mediante asignación aleatoria de los participantes a una de las siguientes condiciones: uno de los grupos no podía utilizar ninguna guía para mantener el ritmo del masaje, a otro grupo se les proporcionó como guía una aplicación de metrónomo en sus teléfonos inteligentes y a un tercer grupo se les pidió que realizaran compresiones de reanimación sobre los maniquíes mientras imaginaban el ritmo de “La Macarena”. Se aseguraron de que no hubiera contacto entre ellos, y que los miembros del grupo que debía seguir el ritmo de “La Macarena” se sabían la canción o, al menos, podían tararear el estribillo.<br><br>Los resultados del estudio revelaron que los que practicaron las maniobras de resucitación sin guía alguna solo alcanzaron el 24% de las compresiones adecuadas (entre los 100 y los 120 pulsos por minuto), mientras que los que lo hicieron al ritmo de “La Macarena” llegaron al 74% y los que lo hicieron siguiendo el compás del metrónomo llegaron al 91% de optimización de la RCP. El profesor de la Universidad de Barcelona Enrique Carrero Cardenal, quién dirigió la investigación, señaló que 'la ventaja de usar una aplicación de metrónomo es que todo el mundo tiene un móvil, es accesible, aunque faltan estudios de su eficacia' pero también apunta a que 'Recordar una canción es gratis, sencillo y es inmediato, es lo más fácil que hay, por eso decidimos hacer este estudio'. Esta investigación se presentó en el congreso de Euroanaesthesia en Copenhague (junio, 2018).<br><br>Teniendo en cuenta el nivel de medida, la variable independiente se considera:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De razón, continua."
+            },
+            {
+                "text": "Ordinal, dicotómica."
+            },
+            {
+                "text": "Nominal, politómica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un estudio llevado a cabo por un equipo de médicos e investigadores del Hospital Clínic y de la Universidad Autónoma de Barcelona, encontraron que realizar las compresiones torácicas con el ritmo de la popular canción 'La Macarena' mejora la calidad de dichas compresiones realizadas durante la reanimación cardiopulmonar (RCP).<br><br>El objetivo del estudio era comparar la efectividad de una aplicación de metrónomo para el móvil y un metrónomo 'mental' (la canción 'La Macarena') para mejorar la calidad de las compresiones torácicas. En la investigación participaron 164 estudiantes de medicina que debían realizar compresiones continuas de tórax en un maniquí durante dos minutos. Se formaron tres grupos mediante asignación aleatoria de los participantes a una de las siguientes condiciones: uno de los grupos no podía utilizar ninguna guía para mantener el ritmo del masaje, a otro grupo se les proporcionó como guía una aplicación de metrónomo en sus teléfonos inteligentes y a un tercer grupo se les pidió que realizaran compresiones de reanimación sobre los maniquíes mientras imaginaban el ritmo de “La Macarena”. Se aseguraron de que no hubiera contacto entre ellos, y que los miembros del grupo que debía seguir el ritmo de “La Macarena” se sabían la canción o, al menos, podían tararear el estribillo.<br><br>Los resultados del estudio revelaron que los que practicaron las maniobras de resucitación sin guía alguna solo alcanzaron el 24% de las compresiones adecuadas (entre los 100 y los 120 pulsos por minuto), mientras que los que lo hicieron al ritmo de “La Macarena” llegaron al 74% y los que lo hicieron siguiendo el compás del metrónomo llegaron al 91% de optimización de la RCP. El profesor de la Universidad de Barcelona Enrique Carrero Cardenal, quién dirigió la investigación, señaló que 'la ventaja de usar una aplicación de metrónomo es que todo el mundo tiene un móvil, es accesible, aunque faltan estudios de su eficacia' pero también apunta a que 'Recordar una canción es gratis, sencillo y es inmediato, es lo más fácil que hay, por eso decidimos hacer este estudio'. Esta investigación se presentó en el congreso de Euroanaesthesia en Copenhague (junio, 2018).<br><br>¿Se puede considerar que los grupos son equivalentes?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sí, porque han sido formados por asignación al azar.",
+                "correct": true
+            },
+            {
+                "text": "No, porque no se asegura que todos se sepan igual de bien la canción de “la Macarena”."
+            },
+            {
+                "text": "No, porque son estudiantes de medicina."
+            }
+        ]
+    },
+    {
+        "text": "En los diseños ex post facto prospectivos simples hay:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Solo una variable independiente con al menos dos valores.",
+                "correct": true
+            },
+            {
+                "text": "Al menos dos variables independientes."
+            },
+            {
+                "text": "Más de una variable dependiente con dos valores cada una."
+            }
+        ]
+    },
+    {
+        "text": "En una encuesta censal se obtiene los datos de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una muestra extraída de la población."
+            },
+            {
+                "text": "De sucesivas muestras a lo largo del tiempo."
+            },
+            {
+                "text": "Toda la población.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En una investigación en la que la muestra está formada por voluntarios, podría estar amenazada en su validez externa debido a la:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Restricción del rango de variabilidad."
+            },
+            {
+                "text": "Interacción del tratamiento con la composición de la muestra.",
+                "correct": true
+            },
+            {
+                "text": "Selección diferencial."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un estudio llevado a cabo por un equipo de médicos e investigadores del Hospital Clínic y de la Universidad Autónoma de Barcelona, encontraron que realizar las compresiones torácicas con el ritmo de la popular canción 'La Macarena' mejora la calidad de dichas compresiones realizadas durante la reanimación cardiopulmonar (RCP).<br><br>El objetivo del estudio era comparar la efectividad de una aplicación de metrónomo para el móvil y un metrónomo 'mental' (la canción 'La Macarena') para mejorar la calidad de las compresiones torácicas. En la investigación participaron 164 estudiantes de medicina que debían realizar compresiones continuas de tórax en un maniquí durante dos minutos. Se formaron tres grupos mediante asignación aleatoria de los participantes a una de las siguientes condiciones: uno de los grupos no podía utilizar ninguna guía para mantener el ritmo del masaje, a otro grupo se les proporcionó como guía una aplicación de metrónomo en sus teléfonos inteligentes y a un tercer grupo se les pidió que realizaran compresiones de reanimación sobre los maniquíes mientras imaginaban el ritmo de “La Macarena”. Se aseguraron de que no hubiera contacto entre ellos, y que los miembros del grupo que debía seguir el ritmo de “La Macarena” se sabían la canción o, al menos, podían tararear el estribillo.<br><br>Los resultados del estudio revelaron que los que practicaron las maniobras de resucitación sin guía alguna solo alcanzaron el 24% de las compresiones adecuadas (entre los 100 y los 120 pulsos por minuto), mientras que los que lo hicieron al ritmo de “La Macarena” llegaron al 74% y los que lo hicieron siguiendo el compás del metrónomo llegaron al 91% de optimización de la RCP. El profesor de la Universidad de Barcelona Enrique Carrero Cardenal, quién dirigió la investigación, señaló que 'la ventaja de usar una aplicación de metrónomo es que todo el mundo tiene un móvil, es accesible, aunque faltan estudios de su eficacia' pero también apunta a que 'Recordar una canción es gratis, sencillo y es inmediato, es lo más fácil que hay, por eso decidimos hacer este estudio'. Esta investigación se presentó en el congreso de Euroanaesthesia en Copenhague (junio, 2018).<br><br>El tipo de diseño es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental multigrupo.",
+                "correct": true
+            },
+            {
+                "text": "Cuasiexperimental solo postratamiento."
+            },
+            {
+                "text": "Experimental de dos grupos aleatorios."
+            }
+        ]
+    },
+    {
+        "text": "La variable de bloqueo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tiene como objetivo asegurar la equivalencia de los grupos.",
+                "correct": true
+            },
+            {
+                "text": "Se mide una vez formados los grupos."
+            },
+            {
+                "text": "Tiene como objetivo comprobar la equivalencia entre los grupos."
+            }
+        ]
+    },
+    {
+        "text": "En el muestreo por cuotas, la selección de los participantes:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No es aleatoria.",
+                "correct": true
+            },
+            {
+                "text": "Se realiza siguiendo el criterio de accesibilidad."
+            },
+            {
+                "text": "Se obtiene una muestra total formada por submuestras elegidas al azar."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un estudio llevado a cabo por un equipo de médicos e investigadores del Hospital Clínic y de la Universidad Autónoma de Barcelona, encontraron que realizar las compresiones torácicas con el ritmo de la popular canción 'La Macarena' mejora la calidad de dichas compresiones realizadas durante la reanimación cardiopulmonar (RCP).<br><br>El objetivo del estudio era comparar la efectividad de una aplicación de metrónomo para el móvil y un metrónomo 'mental' (la canción 'La Macarena') para mejorar la calidad de las compresiones torácicas. En la investigación participaron 164 estudiantes de medicina que debían realizar compresiones continuas de tórax en un maniquí durante dos minutos. Se formaron tres grupos mediante asignación aleatoria de los participantes a una de las siguientes condiciones: uno de los grupos no podía utilizar ninguna guía para mantener el ritmo del masaje, a otro grupo se les proporcionó como guía una aplicación de metrónomo en sus teléfonos inteligentes y a un tercer grupo se les pidió que realizaran compresiones de reanimación sobre los maniquíes mientras imaginaban el ritmo de “La Macarena”. Se aseguraron de que no hubiera contacto entre ellos, y que los miembros del grupo que debía seguir el ritmo de “La Macarena” se sabían la canción o, al menos, podían tararear el estribillo.<br><br>Los resultados del estudio revelaron que los que practicaron las maniobras de resucitación sin guía alguna solo alcanzaron el 24% de las compresiones adecuadas (entre los 100 y los 120 pulsos por minuto), mientras que los que lo hicieron al ritmo de “La Macarena” llegaron al 74% y los que lo hicieron siguiendo el compás del metrónomo llegaron al 91% de optimización de la RCP. El profesor de la Universidad de Barcelona Enrique Carrero Cardenal, quién dirigió la investigación, señaló que 'la ventaja de usar una aplicación de metrónomo es que todo el mundo tiene un móvil, es accesible, aunque faltan estudios de su eficacia' pero también apunta a que 'Recordar una canción es gratis, sencillo y es inmediato, es lo más fácil que hay, por eso decidimos hacer este estudio'. Esta investigación se presentó en el congreso de Euroanaesthesia en Copenhague (junio, 2018).<br><br>¿Existe grupo de control?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sí, el grupo que sigue el ritmo de “La Macarena”."
+            },
+            {
+                "text": "No, ya que en todos los grupos se realiza una intervención."
+            },
+            {
+                "text": "Sí, el grupo que no utiliza guía para mantener el ritmo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El método mixto supone la complementariedad de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los estudios experimentales y cuasiexperimentales."
+            },
+            {
+                "text": "Las estrategias cualitativas y cuantitativas.",
+                "correct": true
+            },
+            {
+                "text": "Las diversas estrategias cualitativas."
+            }
+        ]
+    },
+    {
+        "text": "La pregunta de investigación ¿Existe relación entre la calificación en la asignatura de Lengua y el número de libros leídos al mes?, establece una relación de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Causalidad."
+            },
+            {
+                "text": "Clasificación."
+            },
+            {
+                "text": "Covariación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un estudio llevado a cabo por un equipo de médicos e investigadores del Hospital Clínic y de la Universidad Autónoma de Barcelona, encontraron que realizar las compresiones torácicas con el ritmo de la popular canción 'La Macarena' mejora la calidad de dichas compresiones realizadas durante la reanimación cardiopulmonar (RCP).<br><br>El objetivo del estudio era comparar la efectividad de una aplicación de metrónomo para el móvil y un metrónomo 'mental' (la canción 'La Macarena') para mejorar la calidad de las compresiones torácicas. En la investigación participaron 164 estudiantes de medicina que debían realizar compresiones continuas de tórax en un maniquí durante dos minutos. Se formaron tres grupos mediante asignación aleatoria de los participantes a una de las siguientes condiciones: uno de los grupos no podía utilizar ninguna guía para mantener el ritmo del masaje, a otro grupo se les proporcionó como guía una aplicación de metrónomo en sus teléfonos inteligentes y a un tercer grupo se les pidió que realizaran compresiones de reanimación sobre los maniquíes mientras imaginaban el ritmo de “La Macarena”. Se aseguraron de que no hubiera contacto entre ellos, y que los miembros del grupo que debía seguir el ritmo de “La Macarena” se sabían la canción o, al menos, podían tararear el estribillo.<br><br>Los resultados del estudio revelaron que los que practicaron las maniobras de resucitación sin guía alguna solo alcanzaron el 24% de las compresiones adecuadas (entre los 100 y los 120 pulsos por minuto), mientras que los que lo hicieron al ritmo de “La Macarena” llegaron al 74% y los que lo hicieron siguiendo el compás del metrónomo llegaron al 91% de optimización de la RCP. El profesor de la Universidad de Barcelona Enrique Carrero Cardenal, quién dirigió la investigación, señaló que 'la ventaja de usar una aplicación de metrónomo es que todo el mundo tiene un móvil, es accesible, aunque faltan estudios de su eficacia' pero también apunta a que 'Recordar una canción es gratis, sencillo y es inmediato, es lo más fácil que hay, por eso decidimos hacer este estudio'. Esta investigación se presentó en el congreso de Euroanaesthesia en Copenhague (junio, 2018).<br><br>La variable dependiente operativizada es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La reanimación cardiopulmonar (RCP)."
+            },
+            {
+                "text": "La utilización de guía para seguir el ritmo."
+            },
+            {
+                "text": "El número de compresiones adecuadas durante la RCP.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La estrategia de razonamiento que consiste en obtener conclusiones generales a partir de datos particulares se denomina:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Inducción.",
+                "correct": true
+            },
+            {
+                "text": "Hipotética-deductiva."
+            },
+            {
+                "text": "Deducción."
+            }
+        ]
+    },
+    {
+        "text": "La validez de las conclusiones de una investigación sobre la naturaleza causal de la relación entre las variables estudiadas, se refiere a la:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Validez de constructo."
+            },
+            {
+                "text": "Validez interna.",
+                "correct": true
+            },
+            {
+                "text": "Validez de conclusión estadística."
+            }
+        ]
+    },
+    {
+        "text": "Cuando en un diseño de caso único la línea base muestra una tendencia en el sentido contrario al esperado por el efecto del tratamiento:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se debe introducir el tratamiento en ningún caso."
+            },
+            {
+                "text": "Se puede introducir el tratamiento.",
+                "correct": true
+            },
+            {
+                "text": "Es recomendable esperar a que el sentido de la tendencia sea el mismo que el esperado por el tratamiento."
+            }
+        ]
+    },
+    {
+        "text": "Un experimento piloto consiste en:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un experimento similar a otro de laboratorio pero que se realiza en el entorno natural del participante."
+            },
+            {
+                "text": "Un ensayo para estudiar algunos aspectos antes de la realización del experimento.",
+                "correct": true
+            },
+            {
+                "text": "Repetir exacta o parcialmente las condiciones de otro experimento para comprobarlos resultados."
+            }
+        ]
+    }
+]

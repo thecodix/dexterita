@@ -700,6 +700,12 @@ export default {
     chooseSection(section) {
       window.scrollTo(0, 0);
       this.chosenSection = section;
+      this.questionIndex = 0;
+      this.corrects = 0;
+      this.incorrects = 0;
+      this.userResponses = Array(this.quiz.questions.length).fill(null);
+      this.time = 50 * 60;
+      this.chosenQuiz = false;
       this.chosenQuiz = false;
     },
     chooseCurso(curso) {

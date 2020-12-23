@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Un diseño evolutivo en el que se selecciona a los participantes por la edad (30 y 60 años) y el sexo es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Prospectivo de grupo."
+            },
+            {
+                "text": "Prospectivo complejo.",
+                "correct": true
+            },
+            {
+                "text": "Retrospectivo de grupo único."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué diseño de caso único es de no reversión?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A-B-A."
+            },
+            {
+                "text": "B-A-B."
+            },
+            {
+                "text": "Línea base múltiple.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un estudio de medidas repetidas o intrasujeto:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Existen tantas condiciones como niveles de la variable independiente.",
+                "correct": true
+            },
+            {
+                "text": "Cada grupo proporciona una medida de la variable dependiente."
+            },
+            {
+                "text": "Cada grupo pasa por una condición o nivel de la variable independiente."
+            }
+        ]
+    },
+    {
+        "text": "Las personas mayores sufren un descenso en sus capacidades cognitivas, y también ocurre en el procesamiento emocional. Esto puede ser debido a que prefieren las emociones positivas más que las negativas, o a los cambios neurológicos, o bien, a que el procesamiento emocional (por ejemplo, reconocer las expresiones faciales) demanda muchos recursos cognitivos puesto que no es una tarea automática, sino que requiere una gran demanda atencional.<br><br>Bajo esta última idea, un estudio plantea indagar sobre la causa de esta disminución utilizando el paradigma de la tarea dual. Este consiste en evaluar el rendimiento del individuo en una tarea cuando ésta compite con demandas atencionales de otra tarea. El grado en el que una tarea interfiere en otra indica la demanda cognitiva de cada tarea. Así, si el procesamiento de las expresiones faciales emocionales (EFE) fuese automático, la interferencia no tendría ningún efecto en la tarea. La tarea de identificación de las EFE ocurre durante el comportamiento social, en la que paralelamente ocurren otras situaciones a las que hay que atender. Por tanto, los fallos en la identificación de las EFE de las personas mayores podrían explicarse porque no existen suficientes recursos para completar la tarea. Para participar en el estudio se debían cumplir ciertos requisitos: no presentar desórdenes psiquiátricos, demencia o depresión geriátrica, evaluados a través de tres pruebas estandarizadas.<br><br>En este estudio, 24 personas de entre 69 y 86 años (50% mujeres) y 40 de entre 18 y 31 años (50% mujeres) realizaron tareas duales. Las tareas duales aplicadas consistían en una tarea de identificación de las EFE, la cual era interferida en un caso, durante la codificación, en otro, durante el recuerdo. La segunda tarea que hacía interferencia a la primera, en un caso, era una tarea verbal, y en otro, visoespacial, ésta última tarea demandaba los mismos recursos atencionales que la identificación EFE. A los participantes se les pedía que identificaran la expresión emocional (6 expresiones emocionales básicas) que aparecía en la pantalla durante 1200ms, en todas y cada una de las condiciones presentadas aleatoriamente. Los resultados mostraron que los mayores realizaron mucho peor las tareas que los jóvenes en todas las condiciones. Se encontró peor rendimiento en la identificación emocional cuando la interferencia ocurría durante la codificación y cuando ambas tareas demandaban el mismo recurso atencional. (Casares-Guillén, García-Rodríguez, Delgado y Ellgring, 2006)<br><br>El orden de presentación de las condiciones es una técnica de control denominada:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sujeto como control propio."
+            },
+            {
+                "text": "Contrabalanceo.",
+                "correct": true
+            },
+            {
+                "text": "Constancia."
+            }
+        ]
+    },
+    {
+        "text": "La ética en la investigación con animales:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cualquier persona que haya tenido animales sabe cómo tratarlos en la investigación."
+            },
+            {
+                "text": "Defiende una protección sobre su salud, pero no de su bienestar."
+            },
+            {
+                "text": "Alude a la protección de las condiciones incómodas, dolor, enfermedad a las que son sometidos durante la experimentación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una variable extraña en un estudio:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Adopta diferentes valores para crear las condiciones experimentales."
+            },
+            {
+                "text": "Aunque no es una variable de estudio, afecta a la variable dependiente.",
+                "correct": true
+            },
+            {
+                "text": "No afecta a la varianza total."
+            }
+        ]
+    },
+    {
+        "text": "Las personas mayores sufren un descenso en sus capacidades cognitivas, y también ocurre en el procesamiento emocional. Esto puede ser debido a que prefieren las emociones positivas más que las negativas, o a los cambios neurológicos, o bien, a que el procesamiento emocional (por ejemplo, reconocer las expresiones faciales) demanda muchos recursos cognitivos puesto que no es una tarea automática, sino que requiere una gran demanda atencional.<br><br>Bajo esta última idea, un estudio plantea indagar sobre la causa de esta disminución utilizando el paradigma de la tarea dual. Este consiste en evaluar el rendimiento del individuo en una tarea cuando ésta compite con demandas atencionales de otra tarea. El grado en el que una tarea interfiere en otra indica la demanda cognitiva de cada tarea. Así, si el procesamiento de las expresiones faciales emocionales (EFE) fuese automático, la interferencia no tendría ningún efecto en la tarea. La tarea de identificación de las EFE ocurre durante el comportamiento social, en la que paralelamente ocurren otras situaciones a las que hay que atender. Por tanto, los fallos en la identificación de las EFE de las personas mayores podrían explicarse porque no existen suficientes recursos para completar la tarea. Para participar en el estudio se debían cumplir ciertos requisitos: no presentar desórdenes psiquiátricos, demencia o depresión geriátrica, evaluados a través de tres pruebas estandarizadas.<br><br>En este estudio, 24 personas de entre 69 y 86 años (50% mujeres) y 40 de entre 18 y 31 años (50% mujeres) realizaron tareas duales. Las tareas duales aplicadas consistían en una tarea de identificación de las EFE, la cual era interferida en un caso, durante la codificación, en otro, durante el recuerdo. La segunda tarea que hacía interferencia a la primera, en un caso, era una tarea verbal, y en otro, visoespacial, ésta última tarea demandaba los mismos recursos atencionales que la identificación EFE. A los participantes se les pedía que identificaran la expresión emocional (6 expresiones emocionales básicas) que aparecía en la pantalla durante 1200ms, en todas y cada una de las condiciones presentadas aleatoriamente. Los resultados mostraron que los mayores realizaron mucho peor las tareas que los jóvenes en todas las condiciones. Se encontró peor rendimiento en la identificación emocional cuando la interferencia ocurría durante la codificación y cuando ambas tareas demandaban el mismo recurso atencional. (Casares-Guillén, García-Rodríguez, Delgado y Ellgring, 2006)<br><br>¿Cuántas variables independientes tiene este experimento?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "4."
+            },
+            {
+                "text": "3.",
+                "correct": true
+            },
+            {
+                "text": "6."
+            }
+        ]
+    },
+    {
+        "text": "En la metodología observacional, se decide a qué participantes observar utilizando un:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Muestreo intrasesional.",
+                "correct": true
+            },
+            {
+                "text": "Muestreo intersesional."
+            },
+            {
+                "text": "Registro activado de transiciones."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio de encuesta, una muestra sesgada:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se considera también representativa de la población."
+            },
+            {
+                "text": "Permite generalizar sus resultados a la población."
+            },
+            {
+                "text": "No comparte las características de la población.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Al utilizar el contrabalanceo se pretende:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Controlar los efectos de orden de los diseños intrasujeto.",
+                "correct": true
+            },
+            {
+                "text": "Controlar los efectos residuales de los diseños intersujeto."
+            },
+            {
+                "text": "Mantener la equivalencia inicial de los grupos."
+            }
+        ]
+    },
+    {
+        "text": "La estabilidad de la conducta en la línea base:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Indica que no es el momento adecuado de introducir el tratamiento."
+            },
+            {
+                "text": "Solo es útil en los diseños de reversión."
+            },
+            {
+                "text": "Permite estudiar el efecto del tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las personas mayores sufren un descenso en sus capacidades cognitivas, y también ocurre en el procesamiento emocional. Esto puede ser debido a que prefieren las emociones positivas más que las negativas, o a los cambios neurológicos, o bien, a que el procesamiento emocional (por ejemplo, reconocer las expresiones faciales) demanda muchos recursos cognitivos puesto que no es una tarea automática, sino que requiere una gran demanda atencional.<br><br>Bajo esta última idea, un estudio plantea indagar sobre la causa de esta disminución utilizando el paradigma de la tarea dual. Este consiste en evaluar el rendimiento del individuo en una tarea cuando ésta compite con demandas atencionales de otra tarea. El grado en el que una tarea interfiere en otra indica la demanda cognitiva de cada tarea. Así, si el procesamiento de las expresiones faciales emocionales (EFE) fuese automático, la interferencia no tendría ningún efecto en la tarea. La tarea de identificación de las EFE ocurre durante el comportamiento social, en la que paralelamente ocurren otras situaciones a las que hay que atender. Por tanto, los fallos en la identificación de las EFE de las personas mayores podrían explicarse porque no existen suficientes recursos para completar la tarea. Para participar en el estudio se debían cumplir ciertos requisitos: no presentar desórdenes psiquiátricos, demencia o depresión geriátrica, evaluados a través de tres pruebas estandarizadas.<br><br>En este estudio, 24 personas de entre 69 y 86 años (50% mujeres) y 40 de entre 18 y 31 años (50% mujeres) realizaron tareas duales. Las tareas duales aplicadas consistían en una tarea de identificación de las EFE, la cual era interferida en un caso, durante la codificación, en otro, durante el recuerdo. La segunda tarea que hacía interferencia a la primera, en un caso, era una tarea verbal, y en otro, visoespacial, ésta última tarea demandaba los mismos recursos atencionales que la identificación EFE. A los participantes se les pedía que identificaran la expresión emocional (6 expresiones emocionales básicas) que aparecía en la pantalla durante 1200ms, en todas y cada una de las condiciones presentadas aleatoriamente. Los resultados mostraron que los mayores realizaron mucho peor las tareas que los jóvenes en todas las condiciones. Se encontró peor rendimiento en la identificación emocional cuando la interferencia ocurría durante la codificación y cuando ambas tareas demandaban el mismo recurso atencional. (Casares-Guillén, García-Rodríguez, Delgado y Ellgring, 2006)<br><br>Este es un diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental porque se manipulan las variables independientes.",
+                "correct": true
+            },
+            {
+                "text": "Ex post facto porque se eligen a los participantes por la edad."
+            },
+            {
+                "text": "Cuasiexperimental porque se eligen los participantes por la edad y se manipulan las variables independientes."
+            }
+        ]
+    },
+    {
+        "text": "La Etnografía hace una contribución a la Psicología:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Generalizando sus resultados al explorar el fenómeno social y probar hipótesis."
+            },
+            {
+                "text": "Estudiando ciertos fenómenos psicológicos en contextos culturales diferentes.",
+                "correct": true
+            },
+            {
+                "text": "Formando categorías analíticas usando datos estructurados."
+            }
+        ]
+    },
+    {
+        "text": "En la investigación de la PEC, ¿Cuántas condiciones experimentales tiene el estudio?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tres, ya que son tres variables independientes."
+            },
+            {
+                "text": "Dos, puesto que la variable independiente tiene dos niveles.",
+                "correct": true
+            },
+            {
+                "text": "Una, ya que solo hay un tratamiento."
+            }
+        ]
+    },
+    {
+        "text": "Las personas mayores sufren un descenso en sus capacidades cognitivas, y también ocurre en el procesamiento emocional. Esto puede ser debido a que prefieren las emociones positivas más que las negativas, o a los cambios neurológicos, o bien, a que el procesamiento emocional (por ejemplo, reconocer las expresiones faciales) demanda muchos recursos cognitivos puesto que no es una tarea automática, sino que requiere una gran demanda atencional.<br><br>Bajo esta última idea, un estudio plantea indagar sobre la causa de esta disminución utilizando el paradigma de la tarea dual. Este consiste en evaluar el rendimiento del individuo en una tarea cuando ésta compite con demandas atencionales de otra tarea. El grado en el que una tarea interfiere en otra indica la demanda cognitiva de cada tarea. Así, si el procesamiento de las expresiones faciales emocionales (EFE) fuese automático, la interferencia no tendría ningún efecto en la tarea. La tarea de identificación de las EFE ocurre durante el comportamiento social, en la que paralelamente ocurren otras situaciones a las que hay que atender. Por tanto, los fallos en la identificación de las EFE de las personas mayores podrían explicarse porque no existen suficientes recursos para completar la tarea. Para participar en el estudio se debían cumplir ciertos requisitos: no presentar desórdenes psiquiátricos, demencia o depresión geriátrica, evaluados a través de tres pruebas estandarizadas.<br><br>En este estudio, 24 personas de entre 69 y 86 años (50% mujeres) y 40 de entre 18 y 31 años (50% mujeres) realizaron tareas duales. Las tareas duales aplicadas consistían en una tarea de identificación de las EFE, la cual era interferida en un caso, durante la codificación, en otro, durante el recuerdo. La segunda tarea que hacía interferencia a la primera, en un caso, era una tarea verbal, y en otro, visoespacial, ésta última tarea demandaba los mismos recursos atencionales que la identificación EFE. A los participantes se les pedía que identificaran la expresión emocional (6 expresiones emocionales básicas) que aparecía en la pantalla durante 1200ms, en todas y cada una de las condiciones presentadas aleatoriamente. Los resultados mostraron que los mayores realizaron mucho peor las tareas que los jóvenes en todas las condiciones. Se encontró peor rendimiento en la identificación emocional cuando la interferencia ocurría durante la codificación y cuando ambas tareas demandaban el mismo recurso atencional. (Casares-Guillén, García-Rodríguez, Delgado y Ellgring, 2006)<br><br>El tipo de diseño es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Evolutivo prospectivo complejo."
+            },
+            {
+                "text": "Factorial.",
+                "correct": true
+            },
+            {
+                "text": "Multigrupo."
+            }
+        ]
+    },
+    {
+        "text": "En un informe, al incluir un párrafo que ha sido escrito por otros autores:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Si no se enteran los autores originales que ha sido citado, no es un plagio."
+            },
+            {
+                "text": "Si está parafraseado, no requiere referenciar al autor original."
+            },
+            {
+                "text": "Si está convenientemente citado, no supone un plagio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La manipulación de la variable independiente la encontramos en los estudios:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De caso único (N=1).",
+                "correct": true
+            },
+            {
+                "text": "Observacionales."
+            },
+            {
+                "text": "De encuesta."
+            }
+        ]
+    },
+    {
+        "text": "En el método observacional, el investigador en la observación externa:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Interviene manipulando y controlando las variables."
+            },
+            {
+                "text": "No interviene en el fenómeno de estudio.",
+                "correct": true
+            },
+            {
+                "text": "Interviene en las observaciones del comportamiento espontáneo."
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de los siguientes enunciados es una hipótesis:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las nuevas tecnologías son más aceptadas por los jóvenes que por los mayores.",
+                "correct": true
+            },
+            {
+                "text": "¿Se aceptarán mejor las nuevas tecnologías?."
+            },
+            {
+                "text": "Los cambios de actitud ante las nuevas tecnologías."
+            }
+        ]
+    },
+    {
+        "text": "La elaboración de una encuesta consta de cuatro etapas, la fase de explotación de la encuesta:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se ocupa de la definición de los constructos y la elaboración de preguntas."
+            },
+            {
+                "text": "Consiste en la codificación y registro para el análisis de los datos.",
+                "correct": true
+            },
+            {
+                "text": "Se produce al inicio, planificando qué registrar."
+            }
+        ]
+    },
+    {
+        "text": "La amenaza, ambigüedad en la contigüidad temporal de la relación causal entre las variables independiente y dependiente suele producirse en diseños:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ex post facto.",
+                "correct": true
+            },
+            {
+                "text": "Cuasiexperimentales."
+            },
+            {
+                "text": "Experimentales."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños Expostfacto de casos y controles:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Establecen relaciones causales al mejorar la validez interna."
+            },
+            {
+                "text": "Consiguen mayor validez interna si se usa el emparejamiento.",
+                "correct": true
+            },
+            {
+                "text": "Seleccionan a los participantes por sus características en distintas variables independientes."
+            }
+        ]
+    },
+    {
+        "text": "En la investigación planteada en la PEC, los enfoques de aprendizaje adoptados por los alumnos son variables:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dependientes.",
+                "correct": true
+            },
+            {
+                "text": "Extrañas controladas."
+            },
+            {
+                "text": "Independientes."
+            }
+        ]
+    },
+    {
+        "text": "En los diseños de series temporales:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se puede tener grupo de control."
+            },
+            {
+                "text": "Se toman medidas únicamente después del tratamiento."
+            },
+            {
+                "text": "Se toman varias medidas a lo largo del tiempo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una variable dependiente:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se elimina para mantener constantes las condiciones entre los grupos."
+            },
+            {
+                "text": "Puede ser una variable de bloqueo.",
+                "correct": true
+            },
+            {
+                "text": "Es la que manipulamos en un estudio experimental."
+            }
+        ]
+    },
+    {
+        "text": "El muestreo probabilístico se clasifica en tres tipos de muestreo: Aleatorio simple, estratificado y...:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Rutas aleatorias."
+            },
+            {
+                "text": "Conglomerados.",
+                "correct": true
+            },
+            {
+                "text": "Por cuotas."
+            }
+        ]
+    },
+    {
+        "text": "La Historia es una amenaza a la validez interna que se caracteriza porque:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los procesos de cambio internos que ocurren en las personas a lo largo del tiempo son inevitables."
+            },
+            {
+                "text": "Es fácil de controlar mediante técnicas estadísticas."
+            },
+            {
+                "text": "Ocurren acontecimientos en el transcurso del experimento que afectan a la variabilidad de la variable dependiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El anonimato de los participantes en la investigación:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mantiene la confidencialidad de los datos de los participantes."
+            },
+            {
+                "text": "Salvaguarda la privacidad de los participantes."
+            },
+            {
+                "text": "Mantiene a salvo la revelación de la identidad de los participantes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las personas mayores sufren un descenso en sus capacidades cognitivas, y también ocurre en el procesamiento emocional. Esto puede ser debido a que prefieren las emociones positivas más que las negativas, o a los cambios neurológicos, o bien, a que el procesamiento emocional (por ejemplo, reconocer las expresiones faciales) demanda muchos recursos cognitivos puesto que no es una tarea automática, sino que requiere una gran demanda atencional.<br><br>Bajo esta última idea, un estudio plantea indagar sobre la causa de esta disminución utilizando el paradigma de la tarea dual. Este consiste en evaluar el rendimiento del individuo en una tarea cuando ésta compite con demandas atencionales de otra tarea. El grado en el que una tarea interfiere en otra indica la demanda cognitiva de cada tarea. Así, si el procesamiento de las expresiones faciales emocionales (EFE) fuese automático, la interferencia no tendría ningún efecto en la tarea. La tarea de identificación de las EFE ocurre durante el comportamiento social, en la que paralelamente ocurren otras situaciones a las que hay que atender. Por tanto, los fallos en la identificación de las EFE de las personas mayores podrían explicarse porque no existen suficientes recursos para completar la tarea. Para participar en el estudio se debían cumplir ciertos requisitos: no presentar desórdenes psiquiátricos, demencia o depresión geriátrica, evaluados a través de tres pruebas estandarizadas.<br><br>En este estudio, 24 personas de entre 69 y 86 años (50% mujeres) y 40 de entre 18 y 31 años (50% mujeres) realizaron tareas duales. Las tareas duales aplicadas consistían en una tarea de identificación de las EFE, la cual era interferida en un caso, durante la codificación, en otro, durante el recuerdo. La segunda tarea que hacía interferencia a la primera, en un caso, era una tarea verbal, y en otro, visoespacial, ésta última tarea demandaba los mismos recursos atencionales que la identificación EFE. A los participantes se les pedía que identificaran la expresión emocional (6 expresiones emocionales básicas) que aparecía en la pantalla durante 1200ms, en todas y cada una de las condiciones presentadas aleatoriamente. Los resultados mostraron que los mayores realizaron mucho peor las tareas que los jóvenes en todas las condiciones. Se encontró peor rendimiento en la identificación emocional cuando la interferencia ocurría durante la codificación y cuando ambas tareas demandaban el mismo recurso atencional. (Casares-Guillén, García-Rodríguez, Delgado y Ellgring, 2006)<br><br>El tiempo que aparece el estímulo en la pantalla es de 1200 ms en todas las condiciones, por tanto, supone:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una amenaza porque dura muy poco tiempo."
+            },
+            {
+                "text": "Una condición o nivel de la variable independiente."
+            },
+            {
+                "text": "Una variable extraña controlada por constancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los ciclos de la investigación-acción suponen las siguientes fases:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Formulación del problema, Hipótesis, Recogida de datos, Análisis de datos, Conclusiones."
+            },
+            {
+                "text": "Reflexión, Entrada, Recogida y análisis de datos, Fase de retirada, Escritura del informe."
+            },
+            {
+                "text": "Planificación, Acción y Observación, Reflexión.",
+                "correct": true
+            }
+        ]
+    }
+]

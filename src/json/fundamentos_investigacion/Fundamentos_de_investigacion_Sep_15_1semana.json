@@ -1,0 +1,632 @@
+[
+    {
+        "text": "¿Qué tipo de diseño de caso único emplearía si empiezo el estudio cuando el tratamiento ya está en marcha?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No puedo empezar un estudio de caso único sin obtener previamente una línea base estable."
+            },
+            {
+                "text": "A-B-A-B."
+            },
+            {
+                "text": "B-A-B.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un estudio demuestra que el sueño ejerce, de alguna manera, una función reguladora sobre el peso corporal. Para comprobarlo se analizó la duración del sueño, la ingesta de alimentos, el peso y los niveles de leptina (una hormona relacionada con el apetito y la obesidad) en una muestra de niños. En el estudio participaron 38 niños, de entre 8 y 11 años de edad, de los que el 27% tenían sobrepeso u obesidad. Aleatoriamente se forman dos grupos. Durante la primera semana, todos los niños durmieron el tiempo en ellos habitual y se registraron, en ambos grupos, el promedio diario de calorías consumidas, el peso corporal, los niveles de leptina en ayunas y el número de horas de sueño. En la siguiente semana, un grupo durmió una hora y media más, y el otro, una hora y media menos de lo habitual. Al finalizar esa semana, se vuelve a registrar, en ambos grupos, las medidas anteriores. Los resultados fueron concluyentes: los niños del grupo que aumentó el número de horas de sueño, informaron haber consumido un promedio de 134 kcal menos al día, pesaban 0,22 kg menos y tenían niveles de leptina en ayunas más bajos, en comparación con el grupo de niños que durmieron menos horas. Para los investigadores, estos hallazgos sugieren que una mejoría en el sueño de los niños en edad escolar podría tener implicaciones importantes para la prevención y el tratamiento de la obesidad.<br><br>La/s variable/s independiente/s es/son:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La ingesta de alimentos y el peso corporal."
+            },
+            {
+                "text": "Los niveles de leptina."
+            },
+            {
+                "text": "La duración del sueño.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un diseño factorial, el efecto diferencial se estudia si hallamos un efecto:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Principal estadísticamente significativo y tenemos más de dos niveles en el factor.",
+                "correct": true
+            },
+            {
+                "text": "De interacción estadísticamente significativo, independientemente del número de niveles de cada factor."
+            },
+            {
+                "text": "Principal estadísticamente significativo y tenemos dos niveles en el factor."
+            }
+        ]
+    },
+    {
+        "text": "Para que la hipótesis pueda ser contrastada, es necesario que las variables que en ella se reflejan:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tengan una relación causal."
+            },
+            {
+                "text": "Sean simples y generales."
+            },
+            {
+                "text": "Estén operativizadas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un estudio demuestra que el sueño ejerce, de alguna manera, una función reguladora sobre el peso corporal. Para comprobarlo se analizó la duración del sueño, la ingesta de alimentos, el peso y los niveles de leptina (una hormona relacionada con el apetito y la obesidad) en una muestra de niños. En el estudio participaron 38 niños, de entre 8 y 11 años de edad, de los que el 27% tenían sobrepeso u obesidad. Aleatoriamente se forman dos grupos. Durante la primera semana, todos los niños durmieron el tiempo en ellos habitual y se registraron, en ambos grupos, el promedio diario de calorías consumidas, el peso corporal, los niveles de leptina en ayunas y el número de horas de sueño. En la siguiente semana, un grupo durmió una hora y media más, y el otro, una hora y media menos de lo habitual. Al finalizar esa semana, se vuelve a registrar, en ambos grupos, las medidas anteriores. Los resultados fueron concluyentes: los niños del grupo que aumentó el número de horas de sueño, informaron haber consumido un promedio de 134 kcal menos al día, pesaban 0,22 kg menos y tenían niveles de leptina en ayunas más bajos, en comparación con el grupo de niños que durmieron menos horas. Para los investigadores, estos hallazgos sugieren que una mejoría en el sueño de los niños en edad escolar podría tener implicaciones importantes para la prevención y el tratamiento de la obesidad.<br><br>¿Qué técnica se emplea para controlar las diferencias asociadas al sobrepeso u obesidad de los niños?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Asignación aleatoria.",
+                "correct": true
+            },
+            {
+                "text": "Constancia."
+            },
+            {
+                "text": "Emparejamiento."
+            }
+        ]
+    },
+    {
+        "text": "Además de la observación, ¿qué otra metodología puede ser considerada también como una técnica de recogida de datos?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental."
+            },
+            {
+                "text": "Ex post facto."
+            },
+            {
+                "text": "Encuestas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El cuestionario es a la metodología de encuestas como es a la metodología observacional:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El investigador."
+            },
+            {
+                "text": "El sistema de categorías.",
+                "correct": true
+            },
+            {
+                "text": "La entrevista."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué estrategia tiene mayor validez interna?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Metodología Experimental.",
+                "correct": true
+            },
+            {
+                "text": "Metodología cuasiexperimental."
+            },
+            {
+                "text": "Metodología ex post facto."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de discontinuidad en la regresión, si el tratamiento es efectivo gráficamente se refleja mediante:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un desplazamiento de la recta de regresión del grupo experimental respecto al grupo control.",
+                "correct": true
+            },
+            {
+                "text": "Una única línea continua."
+            },
+            {
+                "text": "Una desaceleración en la pendiente de la línea de regresión."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué característica es típica de la metodología cualitativa?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Deductiva."
+            },
+            {
+                "text": "Nomotética."
+            },
+            {
+                "text": "Ideográfica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la investigación experimental, los factores se identifican con las variables:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Causales.",
+                "correct": true
+            },
+            {
+                "text": "Consecuente."
+            },
+            {
+                "text": "Criterio."
+            }
+        ]
+    },
+    {
+        "text": "Una muestra compuesta por allegados o conocidos de participantes del estudio se obtiene mediante muestreo de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Bola de nieve.",
+                "correct": true
+            },
+            {
+                "text": "Juicio."
+            },
+            {
+                "text": "Conveniencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes métodos NO pertenece a la metodología cualitativa?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La etnografía."
+            },
+            {
+                "text": "La investigación-acción."
+            },
+            {
+                "text": "El estudio experimental de caso único.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños cuasiexperimentales de discontinuidad en la regresión, la regla de asignación de los sujetos a los grupos es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No aleatoria y conocida.",
+                "correct": true
+            },
+            {
+                "text": "Aleatoria y conocida."
+            },
+            {
+                "text": "No aleatoria y desconocida."
+            }
+        ]
+    },
+    {
+        "text": "Si queremos consultar test u otros materiales de evaluación psicológica acudiremos a la:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Docimoteca.",
+                "correct": true
+            },
+            {
+                "text": "Mediateca."
+            },
+            {
+                "text": "Hemeroteca."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un estudio demuestra que el sueño ejerce, de alguna manera, una función reguladora sobre el peso corporal. Para comprobarlo se analizó la duración del sueño, la ingesta de alimentos, el peso y los niveles de leptina (una hormona relacionada con el apetito y la obesidad) en una muestra de niños. En el estudio participaron 38 niños, de entre 8 y 11 años de edad, de los que el 27% tenían sobrepeso u obesidad. Aleatoriamente se forman dos grupos. Durante la primera semana, todos los niños durmieron el tiempo en ellos habitual y se registraron, en ambos grupos, el promedio diario de calorías consumidas, el peso corporal, los niveles de leptina en ayunas y el número de horas de sueño. En la siguiente semana, un grupo durmió una hora y media más, y el otro, una hora y media menos de lo habitual. Al finalizar esa semana, se vuelve a registrar, en ambos grupos, las medidas anteriores. Los resultados fueron concluyentes: los niños del grupo que aumentó el número de horas de sueño, informaron haber consumido un promedio de 134 kcal menos al día, pesaban 0,22 kg menos y tenían niveles de leptina en ayunas más bajos, en comparación con el grupo de niños que durmieron menos horas. Para los investigadores, estos hallazgos sugieren que una mejoría en el sueño de los niños en edad escolar podría tener implicaciones importantes para la prevención y el tratamiento de la obesidad.<br><br>El diseño que emplea la investigación es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Prospectivo evolutivo longitudinal."
+            },
+            {
+                "text": "De dos grupos aleatorios con medida pre y postratamiento.",
+                "correct": true
+            },
+            {
+                "text": "Pretest-postest con grupo de control no equivalente."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un estudio demuestra que el sueño ejerce, de alguna manera, una función reguladora sobre el peso corporal. Para comprobarlo se analizó la duración del sueño, la ingesta de alimentos, el peso y los niveles de leptina (una hormona relacionada con el apetito y la obesidad) en una muestra de niños. En el estudio participaron 38 niños, de entre 8 y 11 años de edad, de los que el 27% tenían sobrepeso u obesidad. Aleatoriamente se forman dos grupos. Durante la primera semana, todos los niños durmieron el tiempo en ellos habitual y se registraron, en ambos grupos, el promedio diario de calorías consumidas, el peso corporal, los niveles de leptina en ayunas y el número de horas de sueño. En la siguiente semana, un grupo durmió una hora y media más, y el otro, una hora y media menos de lo habitual. Al finalizar esa semana, se vuelve a registrar, en ambos grupos, las medidas anteriores. Los resultados fueron concluyentes: los niños del grupo que aumentó el número de horas de sueño, informaron haber consumido un promedio de 134 kcal menos al día, pesaban 0,22 kg menos y tenían niveles de leptina en ayunas más bajos, en comparación con el grupo de niños que durmieron menos horas. Para los investigadores, estos hallazgos sugieren que una mejoría en el sueño de los niños en edad escolar podría tener implicaciones importantes para la prevención y el tratamiento de la obesidad.<br><br>Una de las amenazas a la validez de este estudio podría ser que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se lleva a cabo en población infantil."
+            },
+            {
+                "text": "Los grupos son muy pequeños.",
+                "correct": true
+            },
+            {
+                "text": "Es probable que se produzcan errores al medir los niveles de leptina."
+            }
+        ]
+    },
+    {
+        "text": "Un experimento se diferencia de un cuasiexperimento en la:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Asignación de los sujetos a los tratamientos.",
+                "correct": true
+            },
+            {
+                "text": "Manipulación de la/s variable/s independiente/s."
+            },
+            {
+                "text": "Estrategia de control de la amenaza vinculada a la administración de pruebas."
+            }
+        ]
+    },
+    {
+        "text": "En el análisis de datos, la herramienta que nos permite contrastar nuestras hipótesis es la estadística:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Descriptiva."
+            },
+            {
+                "text": "Inferencial.",
+                "correct": true
+            },
+            {
+                "text": "Estratificada."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un estudio demuestra que el sueño ejerce, de alguna manera, una función reguladora sobre el peso corporal. Para comprobarlo se analizó la duración del sueño, la ingesta de alimentos, el peso y los niveles de leptina (una hormona relacionada con el apetito y la obesidad) en una muestra de niños. En el estudio participaron 38 niños, de entre 8 y 11 años de edad, de los que el 27% tenían sobrepeso u obesidad. Aleatoriamente se forman dos grupos. Durante la primera semana, todos los niños durmieron el tiempo en ellos habitual y se registraron, en ambos grupos, el promedio diario de calorías consumidas, el peso corporal, los niveles de leptina en ayunas y el número de horas de sueño. En la siguiente semana, un grupo durmió una hora y media más, y el otro, una hora y media menos de lo habitual. Al finalizar esa semana, se vuelve a registrar, en ambos grupos, las medidas anteriores. Los resultados fueron concluyentes: los niños del grupo que aumentó el número de horas de sueño, informaron haber consumido un promedio de 134 kcal menos al día, pesaban 0,22 kg menos y tenían niveles de leptina en ayunas más bajos, en comparación con el grupo de niños que durmieron menos horas. Para los investigadores, estos hallazgos sugieren que una mejoría en el sueño de los niños en edad escolar podría tener implicaciones importantes para la prevención y el tratamiento de la obesidad.<br><br>Este estudio emplea una metodología:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuasiexperimental."
+            },
+            {
+                "text": "Experimental.",
+                "correct": true
+            },
+            {
+                "text": "Ex post facto."
+            }
+        ]
+    },
+    {
+        "text": "Según el grado de estructuración de la situación, la observación puede ser:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Objetiva o subjetiva."
+            },
+            {
+                "text": "Externa o participante."
+            },
+            {
+                "text": "Natural o estructurada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si la muestra es pequeña, ¿qué tipo de amenaza afectará en mayor medida a los diseños unifactoriales intersujetos con medidas postratamiento?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Maduración."
+            },
+            {
+                "text": "Selección diferencial.",
+                "correct": true
+            },
+            {
+                "text": "Historia."
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de los siguientes diseños ex post facto retrospectivo podemos emplear como técnica de control el emparejamiento?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Retrospectivo simple."
+            },
+            {
+                "text": "Retrospectivo de comparación de grupos.",
+                "correct": true
+            },
+            {
+                "text": "Retrospectivo de grupo único."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños ex post facto formulan sus hipótesis en términos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Descriptivos."
+            },
+            {
+                "text": "Relacionales.",
+                "correct": true
+            },
+            {
+                "text": "Causales."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un estudio demuestra que el sueño ejerce, de alguna manera, una función reguladora sobre el peso corporal. Para comprobarlo se analizó la duración del sueño, la ingesta de alimentos, el peso y los niveles de leptina (una hormona relacionada con el apetito y la obesidad) en una muestra de niños. En el estudio participaron 38 niños, de entre 8 y 11 años de edad, de los que el 27% tenían sobrepeso u obesidad. Aleatoriamente se forman dos grupos. Durante la primera semana, todos los niños durmieron el tiempo en ellos habitual y se registraron, en ambos grupos, el promedio diario de calorías consumidas, el peso corporal, los niveles de leptina en ayunas y el número de horas de sueño. En la siguiente semana, un grupo durmió una hora y media más, y el otro, una hora y media menos de lo habitual. Al finalizar esa semana, se vuelve a registrar, en ambos grupos, las medidas anteriores. Los resultados fueron concluyentes: los niños del grupo que aumentó el número de horas de sueño, informaron haber consumido un promedio de 134 kcal menos al día, pesaban 0,22 kg menos y tenían niveles de leptina en ayunas más bajos, en comparación con el grupo de niños que durmieron menos horas. Para los investigadores, estos hallazgos sugieren que una mejoría en el sueño de los niños en edad escolar podría tener implicaciones importantes para la prevención y el tratamiento de la obesidad.<br><br>Podemos decir que es un diseño:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intergrupo.",
+                "correct": true
+            },
+            {
+                "text": "Intragrupo."
+            },
+            {
+                "text": "Factorial."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes diseños controla dos variables de bloqueo simultáneamente?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Grupos aleatorios."
+            },
+            {
+                "text": "Cuadrado latino.",
+                "correct": true
+            },
+            {
+                "text": "Solomon."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un estudio demuestra que el sueño ejerce, de alguna manera, una función reguladora sobre el peso corporal. Para comprobarlo se analizó la duración del sueño, la ingesta de alimentos, el peso y los niveles de leptina (una hormona relacionada con el apetito y la obesidad) en una muestra de niños. En el estudio participaron 38 niños, de entre 8 y 11 años de edad, de los que el 27% tenían sobrepeso u obesidad. Aleatoriamente se forman dos grupos. Durante la primera semana, todos los niños durmieron el tiempo en ellos habitual y se registraron, en ambos grupos, el promedio diario de calorías consumidas, el peso corporal, los niveles de leptina en ayunas y el número de horas de sueño. En la siguiente semana, un grupo durmió una hora y media más, y el otro, una hora y media menos de lo habitual. Al finalizar esa semana, se vuelve a registrar, en ambos grupos, las medidas anteriores. Los resultados fueron concluyentes: los niños del grupo que aumentó el número de horas de sueño, informaron haber consumido un promedio de 134 kcal menos al día, pesaban 0,22 kg menos y tenían niveles de leptina en ayunas más bajos, en comparación con el grupo de niños que durmieron menos horas. Para los investigadores, estos hallazgos sugieren que una mejoría en el sueño de los niños en edad escolar podría tener implicaciones importantes para la prevención y el tratamiento de la obesidad.<br><br>¿Qué función podría tener la medida pre en este diseño?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Comprobar la equivalencia inicial de los grupos.",
+                "correct": true
+            },
+            {
+                "text": "Utilizarse como control de variables aleatorias extrañas."
+            },
+            {
+                "text": "Ser el criterio de formación de los grupos."
+            }
+        ]
+    },
+    {
+        "text": "Una revisión por pares significa que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Para que una investigación sea publicada en una revista de reconocido prestigio, el artículo enviado debe someterse a una estricta revisión por parte de expertos en el área.",
+                "correct": true
+            },
+            {
+                "text": "El envío de un artículo -candidato a publicarse- a una revista científica hay que hacerlo por duplicado."
+            },
+            {
+                "text": "Los coautores deben examinar conjuntamente el artículo."
+            }
+        ]
+    },
+    {
+        "text": "Una buena validez interna de un estudio supone:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Menor sistemática primaria."
+            },
+            {
+                "text": "La eliminación de la varianza error."
+            },
+            {
+                "text": "Menor sistemática secundaria.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños de caso único, NO debemos empezar a introducir el tratamiento si la línea base:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Presenta tendencia opuesta a la esperada por el tratamiento."
+            },
+            {
+                "text": "Presenta tendencia similar a la esperada por el tratamiento.",
+                "correct": true
+            },
+            {
+                "text": "Es estable."
+            }
+        ]
+    }
+]

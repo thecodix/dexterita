@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Dos principios que debemos tener en cuenta al formular las hipótesis son:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Abstracción y nivel de confianza."
+            },
+            {
+                "text": "Simplicidad y generalización.",
+                "correct": true
+            },
+            {
+                "text": "Normativo y denominativo."
+            }
+        ]
+    },
+    {
+        "text": "La afijación forma parte del muestreo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aleatorio estratificado.",
+                "correct": true
+            },
+            {
+                "text": "Aleatorio simple."
+            },
+            {
+                "text": "De rutas aleatorias."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En una investigación sobre la colaboración, inspirada en los trabajos de Rand, Greene y Nowak (2012), los investigadores se plantean como objetivo estudiar si los seres humanos somos propensos a colaborar o la colaboración es fruto de la reflexión. Parten del supuesto de que si una decisión de colaboración se realiza de forma rápida es intuitiva y reflejará el primer impulso, mientras que si es lenta se basará en un proceso reflexivo. Para realizar el estudio plantean una situación de juego en la que los participantes tienen que decidir con qué cantidad de dinero de su cuenta contribuyen para su equipo. Los participantes fueron estudiantes de Psicología voluntarios y se asignaron aleatoriamente a dos grupos. Un grupo tenía que tomar la decisión sobre su contribución en menos de 10 segundos y el otro grupo no tenía límite de tiempo para esa decisión. Los resultados mostraron que las contribuciones (en media) del grupo que tenía que tomar la decisión de forma rápida fueron significativamente superiores a las del grupo que no tuvo limitaciones de tiempo para tomar la decisión. Para los autores estos resultados informan de que el primer impucomportamiento intuitivo, del ser humano es de colaboración, aunque esto no significa que necesariamente sea un comportamiento innato ya que la socialización, la cultura y la experiencia diaria podrían explicar este comportamiento intuitivo.<br><br>La formación de la muestra con estudiantes voluntarios:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Limita la validez externa poblacional del estudio.",
+                "correct": true
+            },
+            {
+                "text": "Incrementa la validez externa ecológica del estudio."
+            },
+            {
+                "text": "No afecta a su validez ya que el problema de estudio es un impulso básico y universal."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En una investigación sobre la colaboración, inspirada en los trabajos de Rand, Greene y Nowak (2012), los investigadores se plantean como objetivo estudiar si los seres humanos somos propensos a colaborar o la colaboración es fruto de la reflexión. Parten del supuesto de que si una decisión de colaboración se realiza de forma rápida es intuitiva y reflejará el primer impulso, mientras que si es lenta se basará en un proceso reflexivo. Para realizar el estudio plantean una situación de juego en la que los participantes tienen que decidir con qué cantidad de dinero de su cuenta contribuyen para su equipo. Los participantes fueron estudiantes de Psicología voluntarios y se asignaron aleatoriamente a dos grupos. Un grupo tenía que tomar la decisión sobre su contribución en menos de 10 segundos y el otro grupo no tenía límite de tiempo para esa decisión. Los resultados mostraron que las contribuciones (en media) del grupo que tenía que tomar la decisión de forma rápida fueron significativamente superiores a las del grupo que no tuvo limitaciones de tiempo para tomar la decisión. Para los autores estos resultados informan de que el primer impucomportamiento intuitivo, del ser humano es de colaboración, aunque esto no significa que necesariamente sea un comportamiento innato ya que la socialización, la cultura y la experiencia diaria podrían explicar este comportamiento intuitivo.<br><br>La variable independiente es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La decisión de colaborar y la cantidad ofrecida como contribución."
+            },
+            {
+                "text": "El juego social simulado."
+            },
+            {
+                "text": "El tiempo disponible para la toma de decisiones sobre la contribución.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El diseño de línea base múltiple:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un diseño de reversión de tratamiento con esquema BAB."
+            },
+            {
+                "text": "Es un diseño con esquema AB que se aplica de forma consecutiva a diferentes conductas, situaciones o sujetos.",
+                "correct": true
+            },
+            {
+                "text": "Sigue un esquema ABA, con dos etapas de línea base, antes y después del tratamiento."
+            }
+        ]
+    },
+    {
+        "text": "En la observación, el sistema de categorías: :",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Incluye los criterios de inicio y finalización de las sesiones para el muestreo de conductas."
+            },
+            {
+                "text": "Se utiliza para controlar el posible efecto de reactividad a la observación."
+            },
+            {
+                "text": "Identifica y define las conductas relevantes que se deben registrar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un informe de investigación:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se debe citar a los autores y las publicaciones en las que nos basamos en la argumentación.",
+                "correct": true
+            },
+            {
+                "text": "No se debe hacer referencia a otros trabajos distintos del que se está exponiendo."
+            },
+            {
+                "text": "No se debe hacer referencia ni citar otros trabajos del propio autor."
+            }
+        ]
+    },
+    {
+        "text": "Las variables independientes en un diseño ex post facto son:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Manipulables."
+            },
+            {
+                "text": "Manipulables y de selección de valores."
+            },
+            {
+                "text": "De selección de valores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños de caso único o N=1 denominamos línea base a:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los datos normativos de la población con la que comparar los resultados de la intervención."
+            },
+            {
+                "text": "Los cambios de nivel en las observaciones de la variable dependiente."
+            },
+            {
+                "text": "La serie de observaciones de la variable dependiente realizadas en ausencia del tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un diseño factorial 2 x 4, tendremos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "2 variables independientes con 4 niveles cada una."
+            },
+            {
+                "text": "2 variables independientes, una con 2 niveles y otra con 4.",
+                "correct": true
+            },
+            {
+                "text": "2 variables independientes y 4 variables dependientes."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En una investigación sobre la colaboración, inspirada en los trabajos de Rand, Greene y Nowak (2012), los investigadores se plantean como objetivo estudiar si los seres humanos somos propensos a colaborar o la colaboración es fruto de la reflexión. Parten del supuesto de que si una decisión de colaboración se realiza de forma rápida es intuitiva y reflejará el primer impulso, mientras que si es lenta se basará en un proceso reflexivo. Para realizar el estudio plantean una situación de juego en la que los participantes tienen que decidir con qué cantidad de dinero de su cuenta contribuyen para su equipo. Los participantes fueron estudiantes de Psicología voluntarios y se asignaron aleatoriamente a dos grupos. Un grupo tenía que tomar la decisión sobre su contribución en menos de 10 segundos y el otro grupo no tenía límite de tiempo para esa decisión. Los resultados mostraron que las contribuciones (en media) del grupo que tenía que tomar la decisión de forma rápida fueron significativamente superiores a las del grupo que no tuvo limitaciones de tiempo para tomar la decisión. Para los autores estos resultados informan de que el primer impucomportamiento intuitivo, del ser humano es de colaboración, aunque esto no significa que necesariamente sea un comportamiento innato ya que la socialización, la cultura y la experiencia diaria podrían explicar este comportamiento intuitivo.<br><br>Los valores de la variable independiente son:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tantos como cantidades distintas de contribución al equipo se produzcan."
+            },
+            {
+                "text": "Uno: tiempo de decisión limitado a 10 segundos."
+            },
+            {
+                "text": "Dos: tiempo de decisión limitado a 10 segundos y tiempo de decisión no limitado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Decimos que un cuestionario es un instrumento de medida válido y fiable si:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permite detectar las amenazas a la validez interna del estudio y controlarlas."
+            },
+            {
+                "text": "Mide lo que pretende medir y sus medidas son consistentes.",
+                "correct": true
+            },
+            {
+                "text": "Tiene características tanto analíticas como explicativas."
+            }
+        ]
+    },
+    {
+        "text": "Si la hipótesis a contrastar en un estudio es: la lectura es una actividad distractora que aumenta la tolerancia al dolor, la variable independiente del estudio será:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La tolerancia a niveles de intensidad dolorosa mayores."
+            },
+            {
+                "text": "La lectura como actividad distractora.",
+                "correct": true
+            },
+            {
+                "text": "El tiempo de resistencia a un estímulo doloroso."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En una investigación sobre la colaboración, inspirada en los trabajos de Rand, Greene y Nowak (2012), los investigadores se plantean como objetivo estudiar si los seres humanos somos propensos a colaborar o la colaboración es fruto de la reflexión. Parten del supuesto de que si una decisión de colaboración se realiza de forma rápida es intuitiva y reflejará el primer impulso, mientras que si es lenta se basará en un proceso reflexivo. Para realizar el estudio plantean una situación de juego en la que los participantes tienen que decidir con qué cantidad de dinero de su cuenta contribuyen para su equipo. Los participantes fueron estudiantes de Psicología voluntarios y se asignaron aleatoriamente a dos grupos. Un grupo tenía que tomar la decisión sobre su contribución en menos de 10 segundos y el otro grupo no tenía límite de tiempo para esa decisión. Los resultados mostraron que las contribuciones (en media) del grupo que tenía que tomar la decisión de forma rápida fueron significativamente superiores a las del grupo que no tuvo limitaciones de tiempo para tomar la decisión. Para los autores estos resultados informan de que el primer impucomportamiento intuitivo, del ser humano es de colaboración, aunque esto no significa que necesariamente sea un comportamiento innato ya que la socialización, la cultura y la experiencia diaria podrían explicar este comportamiento intuitivo.<br><br>Los resultados sugieren que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La colaboración es fruto de la reflexión y se necesitan más de 10 segundos para que surja."
+            },
+            {
+                "text": "El ser humano está innatamente determinado hacia la colaboración si la decisión está forzada desde el exterior."
+            },
+            {
+                "text": "El primer impulso del ser humano es de colaboración.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si en un diseño intrasujeto tenemos un grupo de 20 participantes y 4 condiciones experimentales, aplicaremos como técnica de control del efecto del orden de aplicación de las condiciones:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Constancia."
+            },
+            {
+                "text": "Contrabalanceo intragrupo completo."
+            },
+            {
+                "text": "Contrabalanceo intragrupo incompleto: aleatorio o de cuadrado latino.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La investigación-acción:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se basa en una secuencia directa de acción, observación y conclusiones, sin etapa previa de planificación."
+            },
+            {
+                "text": "Es reflexiva en la medida en que al promover el cambio de la realidad promueve su análisis.",
+                "correct": true
+            },
+            {
+                "text": "Promueve cambios prácticos pero abandona el análisis crítico teórico."
+            }
+        ]
+    },
+    {
+        "text": "La técnica de ciego y doble ciego es útil para controlar la amenaza a la validez denominada:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Efecto reactivo a los dispositivos experimentales.",
+                "correct": true
+            },
+            {
+                "text": "Maduración."
+            },
+            {
+                "text": "Interacción selección x tratamiento."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En una investigación sobre la colaboración, inspirada en los trabajos de Rand, Greene y Nowak (2012), los investigadores se plantean como objetivo estudiar si los seres humanos somos propensos a colaborar o la colaboración es fruto de la reflexión. Parten del supuesto de que si una decisión de colaboración se realiza de forma rápida es intuitiva y reflejará el primer impulso, mientras que si es lenta se basará en un proceso reflexivo. Para realizar el estudio plantean una situación de juego en la que los participantes tienen que decidir con qué cantidad de dinero de su cuenta contribuyen para su equipo. Los participantes fueron estudiantes de Psicología voluntarios y se asignaron aleatoriamente a dos grupos. Un grupo tenía que tomar la decisión sobre su contribución en menos de 10 segundos y el otro grupo no tenía límite de tiempo para esa decisión. Los resultados mostraron que las contribuciones (en media) del grupo que tenía que tomar la decisión de forma rápida fueron significativamente superiores a las del grupo que no tuvo limitaciones de tiempo para tomar la decisión. Para los autores estos resultados informan de que el primer impucomportamiento intuitivo, del ser humano es de colaboración, aunque esto no significa que necesariamente sea un comportamiento innato ya que la socialización, la cultura y la experiencia diaria podrían explicar este comportamiento intuitivo.<br><br>La variable dependiente se mide a través de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El número de voluntarios dispuestos a participar en el juego."
+            },
+            {
+                "text": "La cantidad aportada como contribución a su equipo.",
+                "correct": true
+            },
+            {
+                "text": "El tiempo que tardan los participantes en tomar la decisión de colaborar."
+            }
+        ]
+    },
+    {
+        "text": "El apartado de Discusión de un informe de investigación debe:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aportar los resultados del estudio pero sin caer en interpretaciones."
+            },
+            {
+                "text": "Incluir y comentar las tablas y figuras necesarias para reflejar los resultados."
+            },
+            {
+                "text": "Valorar el significado de los resultados en relación con las hipótesis y el contexto de la investigación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El diseño ex post facto prospectivo complejo se caracteriza porque:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Utiliza todos los valores posibles de la variable independiente para analizar su relación con la dependiente."
+            },
+            {
+                "text": "Considera en el mismo estudio varias variables independientes de selección de valores y sus relaciones con la variable dependiente.",
+                "correct": true
+            },
+            {
+                "text": "Combina una variable de selección de valores con una variable de manipulación intencional."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño factorial 3 x 2 podremos analizar:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "3 efectos principales y el efecto de interacción."
+            },
+            {
+                "text": "2 efectos principales, 3 efectos diferenciales y el efecto de interacción.",
+                "correct": true
+            },
+            {
+                "text": "5 efectos diferenciales y el efecto de interacción."
+            }
+        ]
+    },
+    {
+        "text": "Para conocer la influencia de la variable independiente en un diseño de caso único observamos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los cambios de fase A a la B.",
+                "correct": true
+            },
+            {
+                "text": "Solo la fase B."
+            },
+            {
+                "text": "La línea base."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño unifactorial intrasujeto:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Necesitaremos tantos grupos como niveles tenga la variable independiente."
+            },
+            {
+                "text": "Solo existe una condición experimental y, por tanto, una sola situación de medida de la variable dependiente."
+            },
+            {
+                "text": "Obtendremos de los participantes tantas medidas como niveles tenga la variable Independiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El diseño cuasiexperimental de retirada de tratamiento con pretest y postest:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Maneja intervalos de tiempo desiguales entre las medidas, siendo la etapa de tratamiento el doble de larga que la etapa de retirada."
+            },
+            {
+                "text": "Es el más débil de los cuasiexperimentales porque carece de grupo de control."
+            },
+            {
+                "text": "Sigue una lógica similar al diseño experimental intrasujeto porque el mismo grupo es control de sí mismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los estudios cualitativos, la triangulación metodológica:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es una estrategia que permite contrastar los datos obtenidos a través de diferentes técnicas.",
+                "correct": true
+            },
+            {
+                "text": "Es la relación existente entre la etnografía, el estudio de caso y la investigación-acción."
+            },
+            {
+                "text": "Expresa la relación dinámica entre la pregunta, el diseño emergente y el investigador."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En una investigación sobre la colaboración, inspirada en los trabajos de Rand, Greene y Nowak (2012), los investigadores se plantean como objetivo estudiar si los seres humanos somos propensos a colaborar o la colaboración es fruto de la reflexión. Parten del supuesto de que si una decisión de colaboración se realiza de forma rápida es intuitiva y reflejará el primer impulso, mientras que si es lenta se basará en un proceso reflexivo. Para realizar el estudio plantean una situación de juego en la que los participantes tienen que decidir con qué cantidad de dinero de su cuenta contribuyen para su equipo. Los participantes fueron estudiantes de Psicología voluntarios y se asignaron aleatoriamente a dos grupos. Un grupo tenía que tomar la decisión sobre su contribución en menos de 10 segundos y el otro grupo no tenía límite de tiempo para esa decisión. Los resultados mostraron que las contribuciones (en media) del grupo que tenía que tomar la decisión de forma rápida fueron significativamente superiores a las del grupo que no tuvo limitaciones de tiempo para tomar la decisión. Para los autores estos resultados informan de que el primer impucomportamiento intuitivo, del ser humano es de colaboración, aunque esto no significa que necesariamente sea un comportamiento innato ya que la socialización, la cultura y la experiencia diaria podrían explicar este comportamiento intuitivo.<br><br>Este estudio tiene un diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental de dos grupos aleatorios.",
+                "correct": true
+            },
+            {
+                "text": "Ex post facto porque la generosidad es una variable de sujeto no manipulable."
+            },
+            {
+                "text": "Cuasiexperimental."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En una investigación sobre la colaboración, inspirada en los trabajos de Rand, Greene y Nowak (2012), los investigadores se plantean como objetivo estudiar si los seres humanos somos propensos a colaborar o la colaboración es fruto de la reflexión. Parten del supuesto de que si una decisión de colaboración se realiza de forma rápida es intuitiva y reflejará el primer impulso, mientras que si es lenta se basará en un proceso reflexivo. Para realizar el estudio plantean una situación de juego en la que los participantes tienen que decidir con qué cantidad de dinero de su cuenta contribuyen para su equipo. Los participantes fueron estudiantes de Psicología voluntarios y se asignaron aleatoriamente a dos grupos. Un grupo tenía que tomar la decisión sobre su contribución en menos de 10 segundos y el otro grupo no tenía límite de tiempo para esa decisión. Los resultados mostraron que las contribuciones (en media) del grupo que tenía que tomar la decisión de forma rápida fueron significativamente superiores a las del grupo que no tuvo limitaciones de tiempo para tomar la decisión. Para los autores estos resultados informan de que el primer impucomportamiento intuitivo, del ser humano es de colaboración, aunque esto no significa que necesariamente sea un comportamiento innato ya que la socialización, la cultura y la experiencia diaria podrían explicar este comportamiento intuitivo.<br><br>La asignación aleatoria de los participantes a los grupos tiene como objetivo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Asegurar la validez de constructo del estudio."
+            },
+            {
+                "text": "Procurar la equivalencia inicial de los grupos.",
+                "correct": true
+            },
+            {
+                "text": "Minimizar la varianza error de los resultados."
+            }
+        ]
+    },
+    {
+        "text": "La ambigüedad en la contigüidad temporal de la causa es una:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Amenaza a la validez interna.",
+                "correct": true
+            },
+            {
+                "text": "Amenaza a la validez de constructo y a la validez externa."
+            },
+            {
+                "text": "Característica de los estudios experimentales."
+            }
+        ]
+    },
+    {
+        "text": "La tasa de una categoría:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se calcula dividiendo la duración de una conducta entre su frecuencia de aparición."
+            },
+            {
+                "text": "Es poco aconsejable porque está afectada por la posible desigualdad de duración de las sesiones."
+            },
+            {
+                "text": "Se obtiene dividiendo la frecuencia registrada entre el tiempo de observación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La estrategia de investigación cuasiexperimental se diferencia de la estrategia experimental fundamentalmente porque en la cuasiexperimental:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se realiza asignación aleatoria de los participantes a las distintas condiciones de estudio.",
+                "correct": true
+            },
+            {
+                "text": "Se estudian casos únicos o grupos muy pequeños."
+            },
+            {
+                "text": "El estudio se realiza en contextos simulados."
+            }
+        ]
+    }
+]

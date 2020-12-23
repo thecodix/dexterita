@@ -1,0 +1,632 @@
+[
+    {
+        "text": "El muestreo por cuotas es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La denominación del muestreo aleatorio estratificado cuando elcriterio de afijación es proporcional."
+            },
+            {
+                "text": "Un muestreo en el que los participantes incorporan de forma progresiva a otros participantes de su red social."
+            },
+            {
+                "text": "Un muestreo no probabilístico semejante al muestreo estratificado en su criterio de organización interna de la muestra.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para el control de la maduración como amenaza a la validez interna resulta eficaz:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Eliminar los factores ambientales que puedan incidir en la variable dependiente."
+            },
+            {
+                "text": "Incluir un grupo control y reducir el tiempo que dura el estudio.",
+                "correct": true
+            },
+            {
+                "text": "Garantizar que la variable independiente antecede a la dependiente."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Matud, García y Matud (2002) realizaron un estudio sobre estrés laboral y salud en el profesorado. El objetivo fue analizar la relación entre estrés laboral y salud en función del tipo de enseñanza (primaria o secundaria) y del género del profesor. Para ello seleccionaron una muestra de 233 profesionales de la enseñanza, de los que el 53% trabajaba en educación primaria (88 mujeres y 37 hombres) y el 47% en secundaria (67 mujeres y 37 hombres). Los participantes respondieron una serie de cuestionarios de autoinforme. Para medir el estrés laboral, la salud y hábitos saludables se utilizaron, entre otros instrumentos, los siguientes cuestionarios: 1) Cuestionario sobre sucesos vitales estresantes (LESSQ), 2) Cuestionario de Salud General (GHQ-28), y 3) Cuestionario de hábitos saludables. Los resultados sobre el estrés laboral indicaron que no había diferencias significativas en función del género, pero sí en función del tipo de enseñanza, siendo el profesorado de secundaria el que informaba de mayor presión laboral. No se encontraron diferencias significativas en salud en función del tipo de enseñanza, pero sí en función del género, mostrando las profesoras más sintomatología somática. En relación con los hábitos saludables, la interacción de la variable tipo de enseñanza con la variable género resultó significativa, de forma que solo en el grupo de hombres hubo diferencias según la enseñanza, estas diferencias indicaban que los profesores de secundaria consumían más bebidas alcohólicas aunque también realizaban más ejercicio diario que los profesores de primaria. Los autores consideran que esos datos conductuales de los profesores de secundaria pueden entenderse como una forma de afrontar el mayor estrés al que están sometidos.<br><br>¿Cómo son las variables que ejercen el papel de variables independientes en estainvestigación?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una de manipulación intencional y otra de selección de valores."
+            },
+            {
+                "text": "Todas de selección de valores.",
+                "correct": true
+            },
+            {
+                "text": "Todas de manipulación intencional."
+            }
+        ]
+    },
+    {
+        "text": "Según las normas APA, en un informe de investigación las referencias de las fuentes citadas se escriben:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Al final de cada página del informe, utilizando el recurso de Notas a pie de página."
+            },
+            {
+                "text": "Por orden cronológico inverso, empezando por las más actuales."
+            },
+            {
+                "text": "En páginas aparte, después de finalizar el apartado de Discusión.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el estudio 1 de la PEC se indica que las variables tipo de aprendizaje y orientación espacial son de medidas repetidas porque:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En ambas el tiempo de respuesta se midió desde el momento que finalizó la pregunta y se inició la respuesta."
+            },
+            {
+                "text": "Todos los participantes pasan por sus diferentes niveles o condiciones.",
+                "correct": true
+            },
+            {
+                "text": "Ambas variables operativizan el mismo constructo."
+            }
+        ]
+    },
+    {
+        "text": "En los diseños ex post facto:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se pueden aplicar algunas técnicas de control como el emparejamiento de los participantes en potenciales variables extrañas.",
+                "correct": true
+            },
+            {
+                "text": "La aleatorización de los grupos a comparar es clave para obtener resultados válidos."
+            },
+            {
+                "text": "No hay posibilidad de aplicar técnicas de control porque los valores de la independiente ya vienen dados."
+            }
+        ]
+    },
+    {
+        "text": "La evaluación del efecto del tratamiento en el diseño de cambio de criterio se basa en:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La reversión de la fase de tratamiento."
+            },
+            {
+                "text": "La estabilidad de la línea base de las conductasno tratadas."
+            },
+            {
+                "text": "La asociación de cambios en la conducta con cada cambio de criterio en la aplicación del tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La fase de explotación de una encuesta:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se refiere al momento del trabajo de campo para la recogida de datos."
+            },
+            {
+                "text": "Incluye el proceso de codificación y análisis de los datos.",
+                "correct": true
+            },
+            {
+                "text": "Hace referencia al acto de divulgación pública del informe de resultados."
+            }
+        ]
+    },
+    {
+        "text": "La técnica de bloques:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permite controlar el efecto del error progresivo pero no el efecto residual o de arrastre."
+            },
+            {
+                "text": "Se basaen el control de la variable extraña por balanceo o equilibración.",
+                "correct": true
+            },
+            {
+                "text": "Es una forma de control de la variable extraña por eliminación."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Matud, García y Matud (2002) realizaron un estudio sobre estrés laboral y salud en el profesorado. Elobjetivo fue analizar la relación entre estrés laboral y salud en función del tipo de enseñanza (primariao secundaria) y del género del profesor. Para ello seleccionaron una muestra de 233 profesionales dela enseñanza, de los que el 53% trabajaba en educación primaria (88 mujeres y 37 hombres) y el 47%en secundaria (67 mujeres y 37 hombres). Los participantes respondieron una serie de cuestionariosde autoinforme. Para medir el estrés laboral, la salud y hábitos saludables se utilizaron, entre otrosinstrumentos, los siguientes cuestionarios: 1) Cuestionario sobre sucesos vitales estresantes(LESSQ), 2) Cuestionario de Salud General (GHQ-28), y 3) Cuestionario de hábitos saludables.Los resultados sobre el estrés laboral indicaron que no había diferencias significativas en función delgénero, pero sí en función del tipo de enseñanza, siendo el profesorado de secundaria el queinformaba de mayor presión laboral. No se encontraron diferencias significativas en salud en funcióndel tipo de enseñanza, pero sí en función del género, mostrando las profesoras más sintomatologíasomática. En relación con los hábitos saludables, la interacción de la variable tipo de enseñanza conla variable género resultó significativa, de forma que solo en el grupo de hombres hubo diferenciassegún la enseñanza, estas diferencias indicaban que los profesores de secundaria consumían másbebidas alcohólicas aunque también realizaban más ejercicio diario que los profesores de primaria.Los autores consideran que esos datos conductuales de los profesores de secundaria puedenentenderse como una forma de afrontar el mayor estrés al que están sometidos.<br><br>A partir de los resultados de este estudio, se podría concluir que la práctica docente:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Genera niveles altos de estrés, en todas las etapas educativas."
+            },
+            {
+                "text": "En educación secundaria se asocia con mayores niveles de estrés que el de educación primaria, independientemente del génerodel profesor.",
+                "correct": true
+            },
+            {
+                "text": "Se encuentra actualmente entre las profesiones más estresantes."
+            }
+        ]
+    },
+    {
+        "text": "El diseño evolutivo transversal:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es el más adecuado si los objetivos del estudio son elcambio evolutivo y la continuidad en el desarrollo."
+            },
+            {
+                "text": "Debe ser considerado cuasiexperimental por la naturalezade la variable independiente de estudio."
+            },
+            {
+                "text": "Se basa en la comparación de grupos de distintas edades evaluados en un mismo momento temporal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Matud, García y Matud (2002) realizaron un estudio sobre estrés laboral y salud en el profesorado. Elobjetivo fue analizar la relación entre estrés laboral y salud en función del tipo de enseñanza (primariao secundaria) y del género del profesor. Para ello seleccionaron una muestra de 233 profesionales dela enseñanza, de los que el 53% trabajaba en educación primaria (88 mujeres y 37 hombres) y el 47%en secundaria (67 mujeres y 37 hombres). Los participantes respondieron una serie de cuestionariosde autoinforme. Para medir el estrés laboral, la salud y hábitos saludables se utilizaron, entre otrosinstrumentos, los siguientes cuestionarios: 1) Cuestionario sobre sucesos vitales estresantes(LESSQ), 2) Cuestionario de Salud General (GHQ-28), y 3) Cuestionario de hábitos saludables.Los resultados sobre el estrés laboral indicaron que no había diferencias significativas en función delgénero, pero sí en función del tipo de enseñanza, siendo el profesorado de secundaria el queinformaba de mayor presión laboral. No se encontraron diferencias significativas en salud en funcióndel tipo de enseñanza, pero sí en función del género, mostrando las profesoras más sintomatologíasomática. En relación con los hábitos saludables, la interacción de la variable tipo de enseñanza conla variable género resultó significativa, de forma que solo en el grupo de hombres hubo diferenciassegún la enseñanza, estas diferencias indicaban que los profesores de secundaria consumían másbebidas alcohólicas aunque también realizaban más ejercicio diario que los profesores de primaria.Los autores consideran que esos datos conductuales de los profesores de secundaria puedenentenderse como una forma de afrontar el mayor estrés al que están sometidos.<br><br>Según lo descrito, la estructura del diseño sería:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "2 x 3, porque tiene dos variables independientes y tres variables dependientes."
+            },
+            {
+                "text": "4 x 3, porque se generan cuatro grupos que se evalúan con tres cuestionarios."
+            },
+            {
+                "text": "2 x 2, porque tiene dos variables independientes con dos valores cada una.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los resultados del estudio 1 de la PEC se informa de que la única diferencia entreciegos y videntes se localiza en la pregunta sobre relaciones espaciales más complejas(ángulo recto). Este resultado refleja el:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Efecto de interacción entre el factor grupo (con ceguera o vidente) y el factor orientación espacial.",
+                "correct": true
+            },
+            {
+                "text": "Efecto principal del factor orientación espacial."
+            },
+            {
+                "text": "Efecto principal del factor grupo (con ceguera o vidente)."
+            }
+        ]
+    },
+    {
+        "text": "Se denominan “participantes” de un estudio a:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los elementos de una población que comparten las características que la definen como tal."
+            },
+            {
+                "text": "Todos los agentes implicados en el estudio, incluyendo al investigador y las instituciones."
+            },
+            {
+                "text": "Los sujetos que constituyen la muestra utilizada en el estudio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el método hipotético-deductivo las hipótesis son:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Predicciones tentativas sobre el problema de estudio formuladas para su contrastación empírica.",
+                "correct": true
+            },
+            {
+                "text": "Supuestos generales basados enaxiomas indemostrables."
+            },
+            {
+                "text": "Un entramado lógico de afirmaciones que ordenan y sistematizan elconocimiento."
+            }
+        ]
+    },
+    {
+        "text": "En el diseño Solomon:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se plantea una estructura de diseño factorial con la variableindependiente objeto de estudio y la medida pretratamiento como segunda variable independiente.",
+                "correct": true
+            },
+            {
+                "text": "Todos los grupos tienen medida pretratamiento para poder evaluar su efecto."
+            },
+            {
+                "text": "Se valoran los resultados por comparación de las medidas pre y post para evaluar el cambio."
+            }
+        ]
+    },
+    {
+        "text": "En metodología observacional se identifica la reactividad como posible fuente de error en la medida que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El observador puede reaccionar a la experiencia desarrollando su propia interpretación de las categorías."
+            },
+            {
+                "text": "Los participantes pueden modificar su conducta natural por el hecho de sentirse observados.",
+                "correct": true
+            },
+            {
+                "text": "Los registros de dos observadores independientes muestren un gran número de desacuerdos."
+            }
+        ]
+    },
+    {
+        "text": "La selección diferencial constituye una amenaza a la validez de un estudio porque pone en riesgo:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La representatividad de la muestra."
+            },
+            {
+                "text": "La validez de constructo del estudio."
+            },
+            {
+                "text": "La necesaria equivalencia inicial de los grupos a comparar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la metodología cualitativa, la pregunta de investigación:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Debe ser válida para cualquier tipo de estrategia de investigación."
+            },
+            {
+                "text": "Debe ser precisa y completa desde el inicio para orientar correctamente el proceso investigador."
+            },
+            {
+                "text": "Debe ser amplia, y a menudo su perfeccionamiento se produce en el proceso de realización del estudio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La manipulación intencional de la variable independiente es crítica en la metodología experimental porque permite:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que el investigador pueda elegir las variables de estudio;."
+            },
+            {
+                "text": "Comparar grupos naturales con características diferentes y de interés para el estudio."
+            },
+            {
+                "text": "Asegurarla contigüidad temporal de la variable independiente como antecedente y la dependiente como consecuente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En metodología observacional, la frecuencia de conducta:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tiene su valor informativo asociado a las condiciones concretas y al tiempo de observación.",
+                "correct": true
+            },
+            {
+                "text": "Se basa en el recuento de las unidades de tiempo ocupado por las ocurrencias de las categorías."
+            },
+            {
+                "text": "Permite comparar directamente los resultados con los de otras investigaciones, independientemente de la duración de las sesiones."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Matud, García y Matud (2002) realizaron un estudio sobre estrés laboral y salud en el profesorado. Elobjetivo fue analizar la relación entre estrés laboral y salud en función del tipo de enseñanza (primariao secundaria) y del género del profesor. Para ello seleccionaron una muestra de 233 profesionales dela enseñanza, de los que el 53% trabajaba en educación primaria (88 mujeres y 37 hombres) y el 47%en secundaria (67 mujeres y 37 hombres). Los participantes respondieron una serie de cuestionariosde autoinforme. Para medir el estrés laboral, la salud y hábitos saludables se utilizaron, entre otrosinstrumentos, los siguientes cuestionarios: 1) Cuestionario sobre sucesos vitales estresantes(LESSQ), 2) Cuestionario de Salud General (GHQ-28), y 3) Cuestionario de hábitos saludables.Los resultados sobre el estrés laboral indicaron que no había diferencias significativas en función delgénero, pero sí en función del tipo de enseñanza, siendo el profesorado de secundaria el queinformaba de mayor presión laboral. No se encontraron diferencias significativas en salud en funcióndel tipo de enseñanza, pero sí en función del género, mostrando las profesoras más sintomatologíasomática. En relación con los hábitos saludables, la interacción de la variable tipo de enseñanza conla variable género resultó significativa, de forma que solo en el grupo de hombres hubo diferenciassegún la enseñanza, estas diferencias indicaban que los profesores de secundaria consumían másbebidas alcohólicas aunque también realizaban más ejercicio diario que los profesores de primaria.Los autores consideran que esos datos conductuales de los profesores de secundaria puedenentenderse como una forma de afrontar el mayor estrés al que están sometidos.<br><br>Las variables que ejercen el papel de variables independientes son:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El estrés laboral y el tipo de enseñanza que imparten."
+            },
+            {
+                "text": "El tipo de enseñanza que imparten y el género.",
+                "correct": true
+            },
+            {
+                "text": "Los hábitos saludables y el tipo de enseñanza."
+            }
+        ]
+    },
+    {
+        "text": "Si para valorar la eficacia de un programa nuevo de intervención educativa comparamos los resultados académicos de los grupos que lo han recibido con los resultados obtenidos por los alumnos de la promoción anterior, estaremos utilizando un diseño de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Series temporales."
+            },
+            {
+                "text": "De cohortes básico.",
+                "correct": true
+            },
+            {
+                "text": "Discontinuidad en la regresión."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Matud, García y Matud (2002) realizaron un estudio sobre estrés laboral y salud en el profesorado. Elobjetivo fue analizar la relación entre estrés laboral y salud en función del tipo de enseñanza (primariao secundaria) y del género del profesor. Para ello seleccionaron una muestra de 233 profesionales dela enseñanza, de los que el 53% trabajaba en educación primaria (88 mujeres y 37 hombres) y el 47%en secundaria (67 mujeres y 37 hombres). Los participantes respondieron una serie de cuestionariosde autoinforme. Para medir el estrés laboral, la salud y hábitos saludables se utilizaron, entre otrosinstrumentos, los siguientes cuestionarios: 1) Cuestionario sobre sucesos vitales estresantes(LESSQ), 2) Cuestionario de Salud General (GHQ-28), y 3) Cuestionario de hábitos saludables.Los resultados sobre el estrés laboral indicaron que no había diferencias significativas en función delgénero, pero sí en función del tipo de enseñanza, siendo el profesorado de secundaria el queinformaba de mayor presión laboral. No se encontraron diferencias significativas en salud en funcióndel tipo de enseñanza, pero sí en función del género, mostrando las profesoras más sintomatologíasomática. En relación con los hábitos saludables, la interacción de la variable tipo de enseñanza conla variable género resultó significativa, de forma que solo en el grupo de hombres hubo diferenciassegún la enseñanza, estas diferencias indicaban que los profesores de secundaria consumían másbebidas alcohólicas aunque también realizaban más ejercicio diario que los profesores de primaria.Los autores consideran que esos datos conductuales de los profesores de secundaria puedenentenderse como una forma de afrontar el mayor estrés al que están sometidos.<br><br>La interacción significativa entre el tipo de enseñanza y el género en los resultados dehábitos saludables refleja que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hay diferencias significativas en hábitos saludables en función del género pero no en función del tipo de enseñanza que ejercen."
+            },
+            {
+                "text": "Las diferencias en hábitos saludables entre el profesorado de secundaria y de primaria es independiente del género de los profesores."
+            },
+            {
+                "text": "La relación del tipo de enseñanza que ejercen (secundaria o primaria) con los hábitos saludables del profesorado varía en función del género de los profesores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El contrabalanceo aleatorio es una forma de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aleatorización de los grupos que realizarán las distintas condiciones experimentales."
+            },
+            {
+                "text": "Aplicación de la técnica de bloques aleatorios."
+            },
+            {
+                "text": "Contrabalanceo intragrupo incompleto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Matud, García y Matud (2002) realizaron un estudio sobre estrés laboral y salud en el profesorado. El objetivo fue analizar la relación entre estrés laboral y salud en función del tipo de enseñanza (primaria o secundaria) y del género del profesor. Para ello seleccionaron una muestra de 233 profesionales dela enseñanza, de los que el 53% trabajaba en educación primaria (88 mujeres y 37 hombres) y el 47% en secundaria (67 mujeres y 37 hombres). Los participantes respondieron una serie de cuestionarios de autoinforme. Para medir el estrés laboral, la salud y hábitos saludables se utilizaron, entre otros instrumentos, los siguientes cuestionarios: 1) Cuestionario sobre sucesos vitales estresantes(LESSQ), 2) Cuestionario de Salud General (GHQ-28), y 3) Cuestionario de hábitos saludables.Los resultados sobre el estrés laboral indicaron que no había diferencias significativas en función del género, pero sí en función del tipo de enseñanza, siendo el profesorado de secundaria el que informaba de mayor presión laboral. No se encontraron diferencias significativas en salud en función del tipo de enseñanza, pero sí en función del género, mostrando las profesoras más sintomatologías omática. En relación con los hábitos saludables, la interacción de la variable tipo de enseñanza con la variable género resultó significativa, de forma que solo en el grupo de hombres hubo diferencias según la enseñanza, estas diferencias indicaban que los profesores de secundaria consumían más bebidas alcohólicas aunque también realizaban más ejercicio diario que los profesores de primaria.Los autores consideran que esos datos conductuales de los profesores de secundaria pueden entenderse como una forma de afrontar el mayor estrés al que están sometidos.<br><br>El estudio se ajusta a las características de un diseño:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ex post facto complejo.",
+                "correct": true
+            },
+            {
+                "text": "Cuasiexperimental con grupo de control no equivalente y medidas post."
+            },
+            {
+                "text": "Experimental factorial 2 x 2."
+            }
+        ]
+    },
+    {
+        "text": "Cuando en un informe un autor hace referencia a trabajos anteriores propios, NO se considera plagio ni autoplagio si:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se publica más de una vez el mismo trabajo o los mismos resultados como si fueran novedosos, pero se hace en distintas revistas o libros."
+            },
+            {
+                "text": "El autor reconoce el origen de esos resultados de forma explícita y el nuevo documento realiza una contribución original.",
+                "correct": true
+            },
+            {
+                "text": "En el trabajo inicial que se reproduce, participaron también otros autores."
+            }
+        ]
+    },
+    {
+        "text": "La amenaza a la validez interna denominada “historia local” hace referencia a:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Acontecimientos históricos que pueden afectar a la generalización de los resultados a otros momentos temporales."
+            },
+            {
+                "text": "Acontecimientos externos durante la intervención que pueden afectar de forma distinta a losgrupos por su diferente procedencia.",
+                "correct": true
+            },
+            {
+                "text": "La artificialidad de la situaciónexperimental respecto al entorno natural del fenómeno de estudio."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio cualitativo, los índices de saturación:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son un indicador del alto grado de heterogeneidad de la muestra de estudio."
+            },
+            {
+                "text": "Nos indican que la información que se está obteniendo resulta ya repetitiva con respecto a la previamente obtenida.",
+                "correct": true
+            },
+            {
+                "text": "Nos orientan a seleccionar más casos con características comunes a los ya estudiados."
+            }
+        ]
+    },
+    {
+        "text": "El requisito de independencia de las conductas necesario para el diseño de línea base múltiple entre conductas se refiere a que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las conductas seleccionadas no deben ser sensibles a la posible influencia de las mismas variables extrañas."
+            },
+            {
+                "text": "Los participantes evaluados en una conducta deben ser distintos para las diferentes condiciones experimentales."
+            },
+            {
+                "text": "El tratamiento aplicado solo sobre una de las conductas no debería provocar cambios en las demás hasta que éstas sean tratadas.",
+                "correct": true
+            }
+        ]
+    }
+]

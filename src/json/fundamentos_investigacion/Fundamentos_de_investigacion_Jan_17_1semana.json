@@ -1,0 +1,632 @@
+[
+    {
+        "text": "En una hipótesis que expresa relaciones causales, la variable que refleja el efecto de otra es la variable:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Predictora."
+            },
+            {
+                "text": "Independiente."
+            },
+            {
+                "text": "Dependiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un equipo de psicólogos orientadores, inspirados en el estudio de Froh, Sefick y Emmons (2008), plantea una investigación para estudiar la gratitud y el bienestar psicológico en adolescentes. Solicitan permiso al director y a los padres de los alumnos de 4º curso de la ESO de uno de los colegios de su zona. Todos los padres dieron su consentimiento consiguiendo una muestra final de 67 adolescentes.<br>Para el estudio, el/la tutor/a de la clase pidió a los estudiantes que, como parte de sus tareas, durante dos semanas hicieran un ejercicio diario escribiendo al final del día sus experiencias. A uno de los grupos (4º A) su tutor les pidió que escribieran sus experiencias del día indicando expresamente todas aquellas cosas o motivos por los que se sentían agradecidos (condición de gratitud), mientras que al otro grupo (4º B) su tutora les pidió que escribieran sus experiencias del día indicando todas aquellas cosas que les habían irritado o provocado malestar (condición de malestar). Al finalizar las dos semanas todos los estudiantes fueron evaluados, mediante cuestionarios, en su bienestar psicológico, optimismo y satisfacción con el estudio.<br>Los resultados mostraron que los participantes de la condición de gratitud presentaron puntuaciones significativamente más altas en todas las variables medidas, mostrando mayores niveles de bienestar, optimismo y satisfacción con el estudio que el grupo que se había focalizado en su malestar. Los investigadores concluyen que actividades que lleven a los adolescentes a prestar atención a los aspectos positivos de sus experiencias y a las vivencias de gratitud pueden ser una prometedora línea de trabajo para mejorar el bienestar de los adolescentes.<br><br>Una de las amenazas a la validez interna del estudio es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La falta de garantías de equivalencia de los grupos.",
+                "correct": true
+            },
+            {
+                "text": "La interacción situación x tratamiento."
+            },
+            {
+                "text": "El efecto reactivo a las pruebas."
+            }
+        ]
+    },
+    {
+        "text": "Una investigación carece de validez poblacional cuando los resultados obtenidos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Solo pueden generalizarse a la población de referencia."
+            },
+            {
+                "text": "Están afectados de la amenaza de maduración."
+            },
+            {
+                "text": "Son el resultado de la interacción selección x tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En una investigación experimental, la varianza sistemática secundaria es 0 cuando:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se han podido controlar todas las variables extrañas con efecto sistemático.",
+                "correct": true
+            },
+            {
+                "text": "La variable dependiente es una constante."
+            },
+            {
+                "text": "Las variables independientes seleccionadas no son la causa del efecto."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un equipo de psicólogos orientadores, inspirados en el estudio de Froh, Sefick y Emmons (2008), plantea una investigación para estudiar la gratitud y el bienestar psicológico en adolescentes. Solicitan permiso al director y a los padres de los alumnos de 4º curso de la ESO de uno de los colegios de su zona. Todos los padres dieron su consentimiento consiguiendo una muestra final de 67 adolescentes.<br>Para el estudio, el/la tutor/a de la clase pidió a los estudiantes que, como parte de sus tareas, durante dos semanas hicieran un ejercicio diario escribiendo al final del día sus experiencias. A uno de los grupos (4º A) su tutor les pidió que escribieran sus experiencias del día indicando expresamente todas aquellas cosas o motivos por los que se sentían agradecidos (condición de gratitud), mientras que al otro grupo (4º B) su tutora les pidió que escribieran sus experiencias del día indicando todas aquellas cosas que les habían irritado o provocado malestar (condición de malestar). Al finalizar las dos semanas todos los estudiantes fueron evaluados, mediante cuestionarios, en su bienestar psicológico, optimismo y satisfacción con el estudio.<br>Los resultados mostraron que los participantes de la condición de gratitud presentaron puntuaciones significativamente más altas en todas las variables medidas, mostrando mayores niveles de bienestar, optimismo y satisfacción con el estudio que el grupo que se había focalizado en su malestar. Los investigadores concluyen que actividades que lleven a los adolescentes a prestar atención a los aspectos positivos de sus experiencias y a las vivencias de gratitud pueden ser una prometedora línea de trabajo para mejorar el bienestar de los adolescentes.<br><br>El estudio planteado es un diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ex post facto prospectivo de comparación de grupos."
+            },
+            {
+                "text": "Cuasi-experimental.",
+                "correct": true
+            },
+            {
+                "text": "Experimental de dos grupos."
+            }
+        ]
+    },
+    {
+        "text": "Según el principio MAX-MIN-CON, ¿qué varianza debemos minimizar?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La varianza sistemática secundaria."
+            },
+            {
+                "text": "La varianza error.",
+                "correct": true
+            },
+            {
+                "text": "La varianza sistemática primaria."
+            }
+        ]
+    },
+    {
+        "text": "En la construcción de un cuestionario debemos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aprovechar para obtener el máximo de información, aunque eso alargue el cuestionario."
+            },
+            {
+                "text": "Formular las preguntas para provocar deseabilidad social, para que completen el cuestionario."
+            },
+            {
+                "text": "Solicitar solo la información necesaria.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un equipo de psicólogos orientadores, inspirados en el estudio de Froh, Sefick y Emmons (2008), plantea una investigación para estudiar la gratitud y el bienestar psicológico en adolescentes. Solicitan permiso al director y a los padres de los alumnos de 4º curso de la ESO de uno de los colegios de su zona. Todos los padres dieron su consentimiento consiguiendo una muestra final de 67 adolescentes.<br>Para el estudio, el/la tutor/a de la clase pidió a los estudiantes que, como parte de sus tareas, durante dos semanas hicieran un ejercicio diario escribiendo al final del día sus experiencias. A uno de los grupos (4º A) su tutor les pidió que escribieran sus experiencias del día indicando expresamente todas aquellas cosas o motivos por los que se sentían agradecidos (condición de gratitud), mientras que al otro grupo (4º B) su tutora les pidió que escribieran sus experiencias del día indicando todas aquellas cosas que les habían irritado o provocado malestar (condición de malestar). Al finalizar las dos semanas todos los estudiantes fueron evaluados, mediante cuestionarios, en su bienestar psicológico, optimismo y satisfacción con el estudio.<br>Los resultados mostraron que los participantes de la condición de gratitud presentaron puntuaciones significativamente más altas en todas las variables medidas, mostrando mayores niveles de bienestar, optimismo y satisfacción con el estudio que el grupo que se había focalizado en su malestar. Los investigadores concluyen que actividades que lleven a los adolescentes a prestar atención a los aspectos positivos de sus experiencias y a las vivencias de gratitud pueden ser una prometedora línea de trabajo para mejorar el bienestar de los adolescentes.<br><br>El muestreo aplicado para obtener la muestra es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No probabilístico por cuotas."
+            },
+            {
+                "text": "No probabilístico accidental.",
+                "correct": true
+            },
+            {
+                "text": "Probabilístico."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un equipo de psicólogos orientadores, inspirados en el estudio de Froh, Sefick y Emmons (2008), plantea una investigación para estudiar la gratitud y el bienestar psicológico en adolescentes. Solicitan permiso al director y a los padres de los alumnos de 4º curso de la ESO de uno de los colegios de su zona. Todos los padres dieron su consentimiento consiguiendo una muestra final de 67 adolescentes.<br>Para el estudio, el/la tutor/a de la clase pidió a los estudiantes que, como parte de sus tareas, durante dos semanas hicieran un ejercicio diario escribiendo al final del día sus experiencias. A uno de los grupos (4º A) su tutor les pidió que escribieran sus experiencias del día indicando expresamente todas aquellas cosas o motivos por los que se sentían agradecidos (condición de gratitud), mientras que al otro grupo (4º B) su tutora les pidió que escribieran sus experiencias del día indicando todas aquellas cosas que les habían irritado o provocado malestar (condición de malestar). Al finalizar las dos semanas todos los estudiantes fueron evaluados, mediante cuestionarios, en su bienestar psicológico, optimismo y satisfacción con el estudio.<br>Los resultados mostraron que los participantes de la condición de gratitud presentaron puntuaciones significativamente más altas en todas las variables medidas, mostrando mayores niveles de bienestar, optimismo y satisfacción con el estudio que el grupo que se había focalizado en su malestar. Los investigadores concluyen que actividades que lleven a los adolescentes a prestar atención a los aspectos positivos de sus experiencias y a las vivencias de gratitud pueden ser una prometedora línea de trabajo para mejorar el bienestar de los adolescentes.<br><br>Los resultados del estudio:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Informan de la relación entre el optimismo, la satisfacción con los estudios y el bienestar psicológico."
+            },
+            {
+                "text": "Resultan sugerentes pero necesitan ser replicados en un estudio más controlado.",
+                "correct": true
+            },
+            {
+                "text": "Permiten concluir que el ejercicio diario de prestar atención al malestar no influye en el bienestar psicológico."
+            }
+        ]
+    },
+    {
+        "text": "En la investigación cualitativa, la triangulación:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se alcanza cuando los resultados han sido replicados en tres estudios distintos."
+            },
+            {
+                "text": "Expresa la relación entre tres elementos claves: investigador, participante y contexto histórico-social."
+            },
+            {
+                "text": "Se aplica como estrategia para obtener validez en los datos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un equipo de psicólogos orientadores, inspirados en el estudio de Froh, Sefick y Emmons (2008), plantea una investigación para estudiar la gratitud y el bienestar psicológico en adolescentes. Solicitan permiso al director y a los padres de los alumnos de 4º curso de la ESO de uno de los colegios de su zona. Todos los padres dieron su consentimiento consiguiendo una muestra final de 67 adolescentes.<br>Para el estudio, el/la tutor/a de la clase pidió a los estudiantes que, como parte de sus tareas, durante dos semanas hicieran un ejercicio diario escribiendo al final del día sus experiencias. A uno de los grupos (4º A) su tutor les pidió que escribieran sus experiencias del día indicando expresamente todas aquellas cosas o motivos por los que se sentían agradecidos (condición de gratitud), mientras que al otro grupo (4º B) su tutora les pidió que escribieran sus experiencias del día indicando todas aquellas cosas que les habían irritado o provocado malestar (condición de malestar). Al finalizar las dos semanas todos los estudiantes fueron evaluados, mediante cuestionarios, en su bienestar psicológico, optimismo y satisfacción con el estudio.<br>Los resultados mostraron que los participantes de la condición de gratitud presentaron puntuaciones significativamente más altas en todas las variables medidas, mostrando mayores niveles de bienestar, optimismo y satisfacción con el estudio que el grupo que se había focalizado en su malestar. Los investigadores concluyen que actividades que lleven a los adolescentes a prestar atención a los aspectos positivos de sus experiencias y a las vivencias de gratitud pueden ser una prometedora línea de trabajo para mejorar el bienestar de los adolescentes.<br><br>Las variables dependientes del estudio son:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La gratitud, el bienestar, el optimismo y la satisfacción con el estudio."
+            },
+            {
+                "text": "La gratitud y el bienestar."
+            },
+            {
+                "text": "El bienestar, el optimismo y la satisfacción con el estudio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La mortandad experimental:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se puede controlar con la aplicación de medidas pretratamiento."
+            },
+            {
+                "text": "Es una amenaza a la validez de conclusión estadística."
+            },
+            {
+                "text": "Supone una amenaza a la validez interna.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de estas referencias corresponde a un libro y es correcta según las normas APA?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Eco, U. (1989). ¿Cómo se hace una tesis? Barcelona: Gedisa.",
+                "correct": true
+            },
+            {
+                "text": "Balluerka, N. Planificación de la investigación. La validez del diseño. Salamanca (1989): Amorrortu."
+            },
+            {
+                "text": "Hubert, L. (1977). Kappa revisited. Psychological Bulletin, 84, 289-297."
+            }
+        ]
+    },
+    {
+        "text": "Si medimos el atractivo de un producto por el número de clientes que lo compran, tendremos una variable:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuasi-cuantitativa."
+            },
+            {
+                "text": "Cuantitativa continua."
+            },
+            {
+                "text": "Cuantitativa discreta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si en un diseño intrasujeto tenemos 5 condiciones experimentales y queremos utilizar el contrabalanceo intragrupo completo, ¿cuál es el número mínimo de participantes que debemos conseguir?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "5."
+            },
+            {
+                "text": "120.",
+                "correct": true
+            },
+            {
+                "text": "25."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la PEC se informa de que “se optó por realizar las observaciones en el jardín maternal por se este un ámbito familiar para la madre y el niño” y que “… el experimentador se sentaba detrás y a la derecha de la díada madre-niño para compartir con ellos la visión del libro y no interferir”. Esto indica que se trata de un estudio:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De observación externa.",
+                "correct": true
+            },
+            {
+                "text": "De observación participante."
+            },
+            {
+                "text": "Etnográfico."
+            }
+        ]
+    },
+    {
+        "text": "En los estudios observacionales, la reactividad:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se puede minimizar realizando controles sistemáticos de fiabilidad interobservadores."
+            },
+            {
+                "text": "Es una posible fuente de error procedente del sujeto de estudio.",
+                "correct": true
+            },
+            {
+                "text": "Está controlada por la propia naturaleza del estudio que carece de manipulación por parte del investigador."
+            }
+        ]
+    },
+    {
+        "text": "El diseño cuasiexperimental de tratamiento repetido:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Prescinde de las medidas pretratamiento, sustituyéndolas por la aplicación del tratamiento en más de dos ocasiones."
+            },
+            {
+                "text": "Utiliza la retirada y reintroducción del tratamiento como forma de control.",
+                "correct": true
+            },
+            {
+                "text": "Se basa en la aplicación del mismo tratamiento a diversos grupos y la comparación de sus resultados."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño experimental con medidas pre y postratamiento, comparamos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las medidas pre del grupo control con las medidas post del grupo experimental."
+            },
+            {
+                "text": "Las medidas pre con las medidas post, en cada grupo, para garantizar la equivalencia de los grupos."
+            },
+            {
+                "text": "Las medidas post de los distintos grupos para comprobar el efecto de la variable independiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños cuasiexperimentales, la amenaza de la interacción selección x historia (historia local) está relacionada con:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Procesos internos de los participantes por su diferente historia vital."
+            },
+            {
+                "text": "Acontecimientos externos que pueden afectar de forma diferente a los grupos del estudio.",
+                "correct": true
+            },
+            {
+                "text": "El efecto acumulativo de administración de pruebas para la selección de los participantes."
+            }
+        ]
+    },
+    {
+        "text": "Los resultados del estudio de la PEC informaron de que::",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los niños de nivel socio-económico bajo (NSEB) ingresan en la escuela con un desarrollo de lenguaje inferior a la media."
+            },
+            {
+                "text": "Las madres de nivel socio-económico medio (NSEM) demandaban una participación verbal más activa de los niños, haciéndoles más preguntas.",
+                "correct": true
+            },
+            {
+                "text": "Solo las madres de nivel socio-económico medio (NSEM) corregían las verbalizaciones incorrectas de sus hijos."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un equipo de psicólogos orientadores, inspirados en el estudio de Froh, Sefick y Emmons (2008), plantea una investigación para estudiar la gratitud y el bienestar psicológico en adolescentes. Solicitan permiso al director y a los padres de los alumnos de 4º curso de la ESO de uno de los colegios de su zona. Todos los padres dieron su consentimiento consiguiendo una muestra final de 67 adolescentes.<br>Para el estudio, el/la tutor/a de la clase pidió a los estudiantes que, como parte de sus tareas, durante dos semanas hicieran un ejercicio diario escribiendo al final del día sus experiencias. A uno de los grupos (4º A) su tutor les pidió que escribieran sus experiencias del día indicando expresamente todas aquellas cosas o motivos por los que se sentían agradecidos (condición de gratitud), mientras que al otro grupo (4º B) su tutora les pidió que escribieran sus experiencias del día indicando todas aquellas cosas que les habían irritado o provocado malestar (condición de malestar). Al finalizar las dos semanas todos los estudiantes fueron evaluados, mediante cuestionarios, en su bienestar psicológico, optimismo y satisfacción con el estudio.<br>Los resultados mostraron que los participantes de la condición de gratitud presentaron puntuaciones significativamente más altas en todas las variables medidas, mostrando mayores niveles de bienestar, optimismo y satisfacción con el estudio que el grupo que se había focalizado en su malestar. Los investigadores concluyen que actividades que lleven a los adolescentes a prestar atención a los aspectos positivos de sus experiencias y a las vivencias de gratitud pueden ser una prometedora línea de trabajo para mejorar el bienestar de los adolescentes.<br><br>El estudio podría haber alcanzado mayor validez interna si se hubiese/n:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Realizado medidas pretratamiento en ambos grupos.",
+                "correct": true
+            },
+            {
+                "text": "Planteado como un diseño de grupo único."
+            },
+            {
+                "text": "Manipulado la variable independiente."
+            }
+        ]
+    },
+    {
+        "text": "En el diseño de una encuesta, la operativización de la variable criterio:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es el procedimiento base para la selección de individuos representativos de la población."
+            },
+            {
+                "text": "Nos permitirá explicar causalmente la conducta de la población a través de los datos de la muestra."
+            },
+            {
+                "text": "Se traduce en las preguntas que formarán parte del cuestionario.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para no cometer plagio:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Debemos citar en el texto y en las referencias las fuentes en las que nos hemos basado para justificar o hacer el estudio.",
+                "correct": true
+            },
+            {
+                "text": "Todos los contenidos del informe deben ser novedosos y originales."
+            },
+            {
+                "text": "Basta con añadir a la lista final de bibliografía los trabajos en los que nos hemos basado."
+            }
+        ]
+    },
+    {
+        "text": "En los diseños de caso único, el efecto del tratamiento se detecta por:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las pequeñas fluctuaciones de la variable dependiente a lo largo del tiempo."
+            },
+            {
+                "text": "La ausencia de tendencia en los datos de la variable dependiente."
+            },
+            {
+                "text": "El estudio de los patrones de cambio de nivel o de tendencia de la variable dependiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un diseño evolutivo secuencial:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Evalúa con un solo momento de medida distintas muestras de la misma población."
+            },
+            {
+                "text": "Es un tipo de diseño ex post facto complejo en el que además de la edad se introduce una variable independiente de manipulación."
+            },
+            {
+                "text": "Estudia longitudinalmente varias cohortes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Entre los diseños de caso único, el diseño de cambio de criterio:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Utiliza un sistema de control que no requiere la reversión del tratamiento.",
+                "correct": true
+            },
+            {
+                "text": "Se aplica utilizando varias conductas independientes pero sensibles a las mismas variables."
+            },
+            {
+                "text": "Permite evaluar en el mismo diseño tratamientos alternativos diferentes."
+            }
+        ]
+    },
+    {
+        "text": "Si queremos estudiar la relación entre el nivel cultural (variable predictora) y la intolerancia con la violencia machista, el diseño más adecuado sería:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental multigrupo."
+            },
+            {
+                "text": "Cuasiexperimental de cohortes."
+            },
+            {
+                "text": "Ex post facto de grupo único.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La investigación-acción:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pretende describir, analizar e interpretar cómo los miembros de un grupo cultural viven y entienden el mundo."
+            },
+            {
+                "text": "Es participativa, puesto que son estudios sobre y con la comunidad.",
+                "correct": true
+            },
+            {
+                "text": "No planifica, solo analiza las acciones y cambios naturales."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un equipo de psicólogos orientadores, inspirados en el estudio de Froh, Sefick y Emmons (2008), plantea una investigación para estudiar la gratitud y el bienestar psicológico en adolescentes. Solicitan permiso al director y a los padres de los alumnos de 4º curso de la ESO de uno de los colegios de su zona. Todos los padres dieron su consentimiento consiguiendo una muestra final de 67 adolescentes.<br>Para el estudio, el/la tutor/a de la clase pidió a los estudiantes que, como parte de sus tareas, durante dos semanas hicieran un ejercicio diario escribiendo al final del día sus experiencias. A uno de los grupos (4º A) su tutor les pidió que escribieran sus experiencias del día indicando expresamente todas aquellas cosas o motivos por los que se sentían agradecidos (condición de gratitud), mientras que al otro grupo (4º B) su tutora les pidió que escribieran sus experiencias del día indicando todas aquellas cosas que les habían irritado o provocado malestar (condición de malestar). Al finalizar las dos semanas todos los estudiantes fueron evaluados, mediante cuestionarios, en su bienestar psicológico, optimismo y satisfacción con el estudio.<br>Los resultados mostraron que los participantes de la condición de gratitud presentaron puntuaciones significativamente más altas en todas las variables medidas, mostrando mayores niveles de bienestar, optimismo y satisfacción con el estudio que el grupo que se había focalizado en su malestar. Los investigadores concluyen que actividades que lleven a los adolescentes a prestar atención a los aspectos positivos de sus experiencias y a las vivencias de gratitud pueden ser una prometedora línea de trabajo para mejorar el bienestar de los adolescentes.<br><br>La variable independiente:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se manipula intencionalmente, con un solo nivel ya que todos escriben un diario durante dos semanas."
+            },
+            {
+                "text": "Es no manipulativa, se gestiona por selección de valores."
+            },
+            {
+                "text": "Se manipula intencionalmente, con dos niveles.",
+                "correct": true
+            }
+        ]
+    }
+]

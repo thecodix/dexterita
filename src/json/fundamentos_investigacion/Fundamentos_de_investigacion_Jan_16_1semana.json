@@ -1,0 +1,632 @@
+[
+    {
+        "text": "DISEÑO:<br>Según un estudio de la Universidad de Illinois (EE.UU.), la forma en que nos representamos en el mundo virtual, en concreto en los videojuegos a través de avatares (encarnaciones), puede afectar a la manera en que nos comportamos con los demás en el mundo real. Los entornos virtuales ofrecen a la gente la oportunidad de asumir identidades y experimentar circunstancias que no pueden tener en la vida real, lo que les proporciona 'un vehículo para la observación y la imitación, y para mostrarse a los demás' Los investigadores se preguntaban si estas experiencias virtuales, en concreto el uso de avatares heroicos o malvados, podrían trasladarse al comportamiento cotidiano. Para comprobarlo reclutaron a 194 estudiantes universitarios voluntarios de primero de grado, a los que hicieron participar en dos estudios supuestamente no relacionados. Se les asignó al azar a jugar como Superman (un avatar heroico), como Voldemort (el villano de Harry Potter, un avatar malvado), o como un avatar neutro. Jugaron durante 5 minutos a un videojuego en el que, en el papel de sus avatares, tuvieron que enfrentarse a varios enemigos. Luego, en un estudio supuestamente sin relación, participaron en una prueba a ciegas. Se les pidió que probaran una cucharada de chocolate y otra de chile, y que luego dieran a probar chocolate o salsa de chile y en la cantidad que estimasen oportuna a otro participante. Se les dijo que derramaran el alimento elegido en un plato de plástico, y que el futuro participante consumiría todo el alimento proporcionado. <br>Los resultados fueron reveladores: los participantes que jugaron como Superman vertieron en promedio casi el doble de chocolate que de salsa de chile para el participante siguiente, además, vertieron significativamente más chocolate que los que jugaron con cualquiera de los otros avatares. Por su parte, los participantes que jugaron como Voldemort derramaron casi el doble de la salsa de chile picante que de chocolate, y vertieron significativamente más salsa de chile que los participantes con otros avatares que también optaron por el picante. Los resultados del estudio indicaron que con tan sólo cinco minutos de juegos tipo rol en entornos virtuales, ya sea como héroe o como villano, se puede hacer fácilmente que la gente premie o castigue a anónimos desconocidos<br><br>La/s variable/s independiente/s es/son:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El tipo de avatar que se le asigna.",
+                "correct": true
+            },
+            {
+                "text": "El tiempo que juega."
+            },
+            {
+                "text": "La cantidad de chocolate o picante que ingiere."
+            }
+        ]
+    },
+    {
+        "text": "El apartado de Referencias Bibliográficas de un informe consta de un listado:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De las publicaciones que se han mencionado en el informe.",
+                "correct": true
+            },
+            {
+                "text": "Lo más exhaustivo posible de las publicaciones existentes sobre un tema."
+            },
+            {
+                "text": "De las publicaciones que se han consultado para llevar a cabo la investigación."
+            }
+        ]
+    },
+    {
+        "text": "La estrategia de investigación necesaria para obtener una explicación causal es de naturaleza:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Manipulativa.",
+                "correct": true
+            },
+            {
+                "text": "Pragmática."
+            },
+            {
+                "text": "Correlacional."
+            }
+        ]
+    },
+    {
+        "text": "En toda investigación experimental tratamos de controlar la varianza sistemática:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Secundaria.",
+                "correct": true
+            },
+            {
+                "text": "Primaria."
+            },
+            {
+                "text": "Error."
+            }
+        ]
+    },
+    {
+        "text": "Cuando todas las encuestas de una investigación se realizan en un único momento temporal, hablamos de encuestas:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Transversales.",
+                "correct": true
+            },
+            {
+                "text": "Acotadas."
+            },
+            {
+                "text": "Muestrales."
+            }
+        ]
+    },
+    {
+        "text": "Un sinónimo de tratamiento es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Condición experimental.",
+                "correct": true
+            },
+            {
+                "text": "Tipo de medida."
+            },
+            {
+                "text": "Nivel de la variable dependiente."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Según un estudio de la Universidad de Illinois (EE.UU.), la forma en que nos representamos en el mundo virtual, en concreto en los videojuegos a través de avatares (encarnaciones), puede afectar a la manera en que nos comportamos con los demás en el mundo real. Los entornos virtuales ofrecen a la gente la oportunidad de asumir identidades y experimentar circunstancias que no pueden tener en la vida real, lo que les proporciona 'un vehículo para la observación y la imitación, y para mostrarse a los demás' Los investigadores se preguntaban si estas experiencias virtuales, en concreto el uso de avatares heroicos o malvados, podrían trasladarse al comportamiento cotidiano. Para comprobarlo reclutaron a 194 estudiantes universitarios voluntarios de primero de grado, a los que hicieron participar en dos estudios supuestamente no relacionados. Se les asignó al azar a jugar como Superman (un avatar heroico), como Voldemort (el villano de Harry Potter, un avatar malvado), o como un avatar neutro. Jugaron durante 5 minutos a un videojuego en el que, en el papel de sus avatares, tuvieron que enfrentarse a varios enemigos. Luego, en un estudio supuestamente sin relación, participaron en una prueba a ciegas. Se les pidió que probaran una cucharada de chocolate y otra de chile, y que luego dieran a probar chocolate o salsa de chile y en la cantidad que estimasen oportuna a otro participante. Se les dijo que derramaran el alimento elegido en un plato de plástico, y que el futuro participante consumiría todo el alimento proporcionado. <br>Los resultados fueron reveladores: los participantes que jugaron como Superman vertieron en promedio casi el doble de chocolate que de salsa de chile para el participante siguiente, además, vertieron significativamente más chocolate que los que jugaron con cualquiera de los otros avatares. Por su parte, los participantes que jugaron como Voldemort derramaron casi el doble de la salsa de chile picante que de chocolate, y vertieron significativamente más salsa de chile que los participantes con otros avatares que también optaron por el picante. Los resultados del estudio indicaron que con tan sólo cinco minutos de juegos tipo rol en entornos virtuales, ya sea como héroe o como villano, se puede hacer fácilmente que la gente premie o castigue a anónimos desconocidos<br><br>¿Cuántas variables dependientes tiene el estudio?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tres: el tipo de alimento que selecciona para dar (chile o chocolate), la cantidad de chile o chocolate que derrama en el plato y si previamente ha consumido chile o chocolate."
+            },
+            {
+                "text": "Dos: el tipo de alimento que selecciona para dar (chile o chocolate) y la cantidad de chile o chocolate que derrama en el plato.",
+                "correct": true
+            },
+            {
+                "text": "Una: el tipo de alimento que selecciona para dar (chile o chocolate)."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes diseños ex post facto retrospectivos tiene una menor validez interna?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Retrospectivo de casos y controles."
+            },
+            {
+                "text": "Retrospectivo simple.",
+                "correct": true
+            },
+            {
+                "text": "Retrospectivo de comparación de grupos."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de caso único, si espero que el tratamiento produzca un efecto muy brusco respecto a la línea base ¿cómo se reflejará esto en el análisis visual de los resultados?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Por un cambio de nivel.",
+                "correct": true
+            },
+            {
+                "text": "A través de un cambio en la tasa de incremento o de decremento de la serie de observaciones."
+            },
+            {
+                "text": "Mediante un cambio de tendencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuántas variables independientes tenemos en el estudio de la PEC?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dos."
+            },
+            {
+                "text": "Una.",
+                "correct": true
+            },
+            {
+                "text": "Tres."
+            }
+        ]
+    },
+    {
+        "text": "El contrabalanceo nos permite controlar el efecto:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Asociado a las diferencias individuales de los participantes."
+            },
+            {
+                "text": "Vinculado a la artificialidad de la situación experimental."
+            },
+            {
+                "text": "Producido por el orden de presentación de las pruebas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En metodología observacional, la mutua exclusividad hace referencia a que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Debe existir una categoría para cada una de las conductas relevantes que puedan aparecer."
+            },
+            {
+                "text": "Las categorías deben ser amplias, aunque siempre se debe incluir un apartado 'otros' que evite que existan vacíos o lagunas en el registro."
+            },
+            {
+                "text": "Las categorías deben estar definidas sin ambigüedades, de forma que una conducta solo pueda ser asignada a una categoría.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El efecto de cohorte afecta a los diseños ex post facto evolutivos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Longitudinales."
+            },
+            {
+                "text": "Secuenciales."
+            },
+            {
+                "text": "Transversales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes es una fuente documental secundaria?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un acta de congreso."
+            },
+            {
+                "text": "Una tesis."
+            },
+            {
+                "text": "Una base de datos referenciales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Según un estudio de la Universidad de Illinois (EE.UU.), la forma en que nos representamos en el mundo virtual, en concreto en los videojuegos a través de avatares (encarnaciones), puede afectar a la manera en que nos comportamos con los demás en el mundo real. Los entornos virtuales ofrecen a la gente la oportunidad de asumir identidades y experimentar circunstancias que no pueden tener en la vida real, lo que les proporciona 'un vehículo para la observación y la imitación, y para mostrarse a los demás' Los investigadores se preguntaban si estas experiencias virtuales, en concreto el uso de avatares heroicos o malvados, podrían trasladarse al comportamiento cotidiano. Para comprobarlo reclutaron a 194 estudiantes universitarios voluntarios de primero de grado, a los que hicieron participar en dos estudios supuestamente no relacionados. Se les asignó al azar a jugar como Superman (un avatar heroico), como Voldemort (el villano de Harry Potter, un avatar malvado), o como un avatar neutro. Jugaron durante 5 minutos a un videojuego en el que, en el papel de sus avatares, tuvieron que enfrentarse a varios enemigos. Luego, en un estudio supuestamente sin relación, participaron en una prueba a ciegas. Se les pidió que probaran una cucharada de chocolate y otra de chile, y que luego dieran a probar chocolate o salsa de chile y en la cantidad que estimasen oportuna a otro participante. Se les dijo que derramaran el alimento elegido en un plato de plástico, y que el futuro participante consumiría todo el alimento proporcionado. <br>Los resultados fueron reveladores: los participantes que jugaron como Superman vertieron en promedio casi el doble de chocolate que de salsa de chile para el participante siguiente, además, vertieron significativamente más chocolate que los que jugaron con cualquiera de los otros avatares. Por su parte, los participantes que jugaron como Voldemort derramaron casi el doble de la salsa de chile picante que de chocolate, y vertieron significativamente más salsa de chile que los participantes con otros avatares que también optaron por el picante. Los resultados del estudio indicaron que con tan sólo cinco minutos de juegos tipo rol en entornos virtuales, ya sea como héroe o como villano, se puede hacer fácilmente que la gente premie o castigue a anónimos desconocidos<br><br>La selección de los participantes fue:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Accidental.",
+                "correct": true
+            },
+            {
+                "text": "Aleatoria."
+            },
+            {
+                "text": "Por conglomerados."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes diseños cuasi-experimentales tiene, necesariamente, dos grupos?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Diseño de discontinuidad en la regresión.",
+                "correct": true
+            },
+            {
+                "text": "Diseño de series temporales interrumpidas."
+            },
+            {
+                "text": "Diseño de retirada de tratamiento."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños de cohortes pueden ser considerados como diseños cuasi-experimentales:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De series temporales interrumpidas."
+            },
+            {
+                "text": "Sin grupo de control."
+            },
+            {
+                "text": "Con grupo de control.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué metodología hay una menor amenaza asociada a la ambigüedad de la contigüidad temporal de la causa?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De encuesta."
+            },
+            {
+                "text": "Experimental.",
+                "correct": true
+            },
+            {
+                "text": "Ex post facto."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Según un estudio de la Universidad de Illinois (EE.UU.), la forma en que nos representamos en el mundo virtual, en concreto en los videojuegos a través de avatares (encarnaciones), puede afectar a la manera en que nos comportamos con los demás en el mundo real. Los entornos virtuales ofrecen a la gente la oportunidad de asumir identidades y experimentar circunstancias que no pueden tener en la vida real, lo que les proporciona 'un vehículo para la observación y la imitación, y para mostrarse a los demás' Los investigadores se preguntaban si estas experiencias virtuales, en concreto el uso de avatares heroicos o malvados, podrían trasladarse al comportamiento cotidiano. Para comprobarlo reclutaron a 194 estudiantes universitarios voluntarios de primero de grado, a los que hicieron participar en dos estudios supuestamente no relacionados. Se les asignó al azar a jugar como Superman (un avatar heroico), como Voldemort (el villano de Harry Potter, un avatar malvado), o como un avatar neutro. Jugaron durante 5 minutos a un videojuego en el que, en el papel de sus avatares, tuvieron que enfrentarse a varios enemigos. Luego, en un estudio supuestamente sin relación, participaron en una prueba a ciegas. Se les pidió que probaran una cucharada de chocolate y otra de chile, y que luego dieran a probar chocolate o salsa de chile y en la cantidad que estimasen oportuna a otro participante. Se les dijo que derramaran el alimento elegido en un plato de plástico, y que el futuro participante consumiría todo el alimento proporcionado. <br>Los resultados fueron reveladores: los participantes que jugaron como Superman vertieron en promedio casi el doble de chocolate que de salsa de chile para el participante siguiente, además, vertieron significativamente más chocolate que los que jugaron con cualquiera de los otros avatares. Por su parte, los participantes que jugaron como Voldemort derramaron casi el doble de la salsa de chile picante que de chocolate, y vertieron significativamente más salsa de chile que los participantes con otros avatares que también optaron por el picante. Los resultados del estudio indicaron que con tan sólo cinco minutos de juegos tipo rol en entornos virtuales, ya sea como héroe o como villano, se puede hacer fácilmente que la gente premie o castigue a anónimos desconocidos<br><br>¿Qué técnica se emplea para controlar la variable nivel de estudios?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aleatorización."
+            },
+            {
+                "text": "Constancia.",
+                "correct": true
+            },
+            {
+                "text": "Contrabalanceo."
+            }
+        ]
+    },
+    {
+        "text": "Si realizamos un estudio en una clase de 20 de primaria en la que el tratamiento es largo, por lo que pasa bastante tiempo desde la medida pretratamiento a la medida postratamiento, podemos encontrar una amenaza a la validez interna debida a la:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Selección diferencial."
+            },
+            {
+                "text": "Maduración.",
+                "correct": true
+            },
+            {
+                "text": "Instrumentación."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes diseños quedaría fuera de los denominados diseños N=l?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "D. cuasi-experimentales de series temporales.",
+                "correct": true
+            },
+            {
+                "text": "D. de cambio de criterio."
+            },
+            {
+                "text": "D. de línea base múltiple."
+            }
+        ]
+    },
+    {
+        "text": "En metodología observacional, la cuantificación de los datos se realiza en el proceso de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Registro.",
+                "correct": true
+            },
+            {
+                "text": "Elaboración del sistema de categorías."
+            },
+            {
+                "text": "Muestreo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes pasos debemos realizar primero si queremos contrastar una hipótesis:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Definir de forma operativa las variables implicadas.",
+                "correct": true
+            },
+            {
+                "text": "Asignar aleatoriamente los sujetos a los grupos."
+            },
+            {
+                "text": "Recoger los datos del estudio."
+            }
+        ]
+    },
+    {
+        "text": "Un diseño experimental unifactorial con medida postest puede verse amenazado por el efecto reactivo a:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los dispositivos experimentales.",
+                "correct": true
+            },
+            {
+                "text": "La administración de las pruebas."
+            },
+            {
+                "text": "La selección diferencial."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué encuestas longitudinales miden el cambio en el mismo grupo de participantes?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Series temporales."
+            },
+            {
+                "text": "Panel.",
+                "correct": true
+            },
+            {
+                "text": "Tendencias."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Según un estudio de la Universidad de Illinois (EE.UU.), la forma en que nos representamos en el mundo virtual, en concreto en los videojuegos a través de avatares (encarnaciones), puede afectar a la manera en que nos comportamos con los demás en el mundo real. Los entornos virtuales ofrecen a la gente la oportunidad de asumir identidades y experimentar circunstancias que no pueden tener en la vida real, lo que les proporciona 'un vehículo para la observación y la imitación, y para mostrarse a los demás' Los investigadores se preguntaban si estas experiencias virtuales, en concreto el uso de avatares heroicos o malvados, podrían trasladarse al comportamiento cotidiano. Para comprobarlo reclutaron a 194 estudiantes universitarios voluntarios de primero de grado, a los que hicieron participar en dos estudios supuestamente no relacionados. Se les asignó al azar a jugar como Superman (un avatar heroico), como Voldemort (el villano de Harry Potter, un avatar malvado), o como un avatar neutro. Jugaron durante 5 minutos a un videojuego en el que, en el papel de sus avatares, tuvieron que enfrentarse a varios enemigos. Luego, en un estudio supuestamente sin relación, participaron en una prueba a ciegas. Se les pidió que probaran una cucharada de chocolate y otra de chile, y que luego dieran a probar chocolate o salsa de chile y en la cantidad que estimasen oportuna a otro participante. Se les dijo que derramaran el alimento elegido en un plato de plástico, y que el futuro participante consumiría todo el alimento proporcionado. <br>Los resultados fueron reveladores: los participantes que jugaron como Superman vertieron en promedio casi el doble de chocolate que de salsa de chile para el participante siguiente, además, vertieron significativamente más chocolate que los que jugaron con cualquiera de los otros avatares. Por su parte, los participantes que jugaron como Voldemort derramaron casi el doble de la salsa de chile picante que de chocolate, y vertieron significativamente más salsa de chile que los participantes con otros avatares que también optaron por el picante. Los resultados del estudio indicaron que con tan sólo cinco minutos de juegos tipo rol en entornos virtuales, ya sea como héroe o como villano, se puede hacer fácilmente que la gente premie o castigue a anónimos desconocidos<br><br>Este estudio emplea una metodología:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuasiexperimental."
+            },
+            {
+                "text": "Experimental.",
+                "correct": true
+            },
+            {
+                "text": "Ex post facto."
+            }
+        ]
+    },
+    {
+        "text": "Para obtener rigor en un estudio cualitativo, ¿qué procedimiento se utiliza?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Max-Min-Con."
+            },
+            {
+                "text": "Triangulación.",
+                "correct": true
+            },
+            {
+                "text": "Exhaustividad y Mutua Exclusividad (EME)."
+            }
+        ]
+    },
+    {
+        "text": "¿Con qué nombre se conocen también a los diseños de medidas repetidas?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intrasujetos.",
+                "correct": true
+            },
+            {
+                "text": "Transversales."
+            },
+            {
+                "text": "Multivariados."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Según un estudio de la Universidad de Illinois (EE.UU.), la forma en que nos representamos en el mundo virtual, en concreto en los videojuegos a través de avatares (encarnaciones), puede afectar a la manera en que nos comportamos con los demás en el mundo real. Los entornos virtuales ofrecen a la gente la oportunidad de asumir identidades y experimentar circunstancias que no pueden tener en la vida real, lo que les proporciona 'un vehículo para la observación y la imitación, y para mostrarse a los demás' Los investigadores se preguntaban si estas experiencias virtuales, en concreto el uso de avatares heroicos o malvados, podrían trasladarse al comportamiento cotidiano. Para comprobarlo reclutaron a 194 estudiantes universitarios voluntarios de primero de grado, a los que hicieron participar en dos estudios supuestamente no relacionados. Se les asignó al azar a jugar como Superman (un avatar heroico), como Voldemort (el villano de Harry Potter, un avatar malvado), o como un avatar neutro. Jugaron durante 5 minutos a un videojuego en el que, en el papel de sus avatares, tuvieron que enfrentarse a varios enemigos. Luego, en un estudio supuestamente sin relación, participaron en una prueba a ciegas. Se les pidió que probaran una cucharada de chocolate y otra de chile, y que luego dieran a probar chocolate o salsa de chile y en la cantidad que estimasen oportuna a otro participante. Se les dijo que derramaran el alimento elegido en un plato de plástico, y que el futuro participante consumiría todo el alimento proporcionado. <br>Los resultados fueron reveladores: los participantes que jugaron como Superman vertieron en promedio casi el doble de chocolate que de salsa de chile para el participante siguiente, además, vertieron significativamente más chocolate que los que jugaron con cualquiera de los otros avatares. Por su parte, los participantes que jugaron como Voldemort derramaron casi el doble de la salsa de chile picante que de chocolate, y vertieron significativamente más salsa de chile que los participantes con otros avatares que también optaron por el picante. Los resultados del estudio indicaron que con tan sólo cinco minutos de juegos tipo rol en entornos virtuales, ya sea como héroe o como villano, se puede hacer fácilmente que la gente premie o castigue a anónimos desconocidos<br><br>Podemos decir que es un diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intragrupo."
+            },
+            {
+                "text": "Factorial."
+            },
+            {
+                "text": "Intergrupo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Según un estudio de la Universidad de Illinois (EE.UU.), la forma en que nos representamos en el mundo virtual, en concreto en los videojuegos a través de avatares (encarnaciones), puede afectar a la manera en que nos comportamos con los demás en el mundo real. Los entornos virtuales ofrecen a la gente la oportunidad de asumir identidades y experimentar circunstancias que no pueden tener en la vida real, lo que les proporciona 'un vehículo para la observación y la imitación, y para mostrarse a los demás' Los investigadores se preguntaban si estas experiencias virtuales, en concreto el uso de avatares heroicos o malvados, podrían trasladarse al comportamiento cotidiano. Para comprobarlo reclutaron a 194 estudiantes universitarios voluntarios de primero de grado, a los que hicieron participar en dos estudios supuestamente no relacionados. Se les asignó al azar a jugar como Superman (un avatar heroico), como Voldemort (el villano de Harry Potter, un avatar malvado), o como un avatar neutro. Jugaron durante 5 minutos a un videojuego en el que, en el papel de sus avatares, tuvieron que enfrentarse a varios enemigos. Luego, en un estudio supuestamente sin relación, participaron en una prueba a ciegas. Se les pidió que probaran una cucharada de chocolate y otra de chile, y que luego dieran a probar chocolate o salsa de chile y en la cantidad que estimasen oportuna a otro participante. Se les dijo que derramaran el alimento elegido en un plato de plástico, y que el futuro participante consumiría todo el alimento proporcionado. <br>Los resultados fueron reveladores: los participantes que jugaron como Superman vertieron en promedio casi el doble de chocolate que de salsa de chile para el participante siguiente, además, vertieron significativamente más chocolate que los que jugaron con cualquiera de los otros avatares. Por su parte, los participantes que jugaron como Voldemort derramaron casi el doble de la salsa de chile picante que de chocolate, y vertieron significativamente más salsa de chile que los participantes con otros avatares que también optaron por el picante. Los resultados del estudio indicaron que con tan sólo cinco minutos de juegos tipo rol en entornos virtuales, ya sea como héroe o como villano, se puede hacer fácilmente que la gente premie o castigue a anónimos desconocidos<br><br>¿Qué validez externa está más amenazada en este diseño?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ecológica."
+            },
+            {
+                "text": "Histórica."
+            },
+            {
+                "text": "Poblacional.",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "text": "La historia local como amenaza a la validez interna se refiere:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A la principal amenaza de los diseños de retirada de tratamiento por tener solo un grupo."
+            },
+            {
+                "text": "A las limitaciones para la generalización de los resultados a otros momentos históricos."
+            },
+            {
+                "text": "Al riesgo de que ocurran acontecimientos que afecten de forma diferente a los grupos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de estas referencias de artículo está bien escrita conforme a las normas de la APA?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "CH. FARKAS (2012, 2, pp. 15-37). Revista de Investigación en Logopedia."
+            },
+            {
+                "text": "Farkas, Ch. (2012). Fomentando gestos simbólicos en infantes. Revista de Investigación en Logopedia, 2, 15-37.",
+                "correct": true
+            },
+            {
+                "text": "Fomentando gestos simbólicos en infantes. Por Ch. Farkas en la Revista de Investigación en Logopedia, 2012, 2, 15-37."
+            }
+        ]
+    },
+    {
+        "text": "PREGUNTA DE LA PEC: Teniendo en cuenta cómo se han formado los grupos en el estudio de la PEC, podríamos decir que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El diseño utilizado es experimental.",
+                "correct": true
+            },
+            {
+                "text": "No se ha intentado controlar la varianza sistemática secundaria debida a las variables de sujeto."
+            },
+            {
+                "text": "Los grupos podrían no ser equivalentes."
+            }
+        ]
+    },
+    {
+        "text": "Con un diseño de investigación ex post facto de 'casos y controles':",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aseguramos la relación antecedente-consecuente entre la variable independiente y la dependiente."
+            },
+            {
+                "text": "No debemos extraer conclusiones de causalidad porque existen amenazas a la validez interna debidas a variables extrañas.",
+                "correct": true
+            },
+            {
+                "text": "No podemos considerar variables como el género o la edad como variables de estudio por no ser manipulables."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los programas de intervención para potenciar el uso comunicativo de los gestos han demostrado ser eficaces para favorecer el desarrollo cognitivo, socioemocional y del lenguaje de los niños. Sin embargo, poco se ha estudiado sobre el impacto del uso de estos programas en los cuidadores. Farkas (2012) estudió los efectos en la percepción de autoeficacia y el estrés en madres usuarias de estos programas. Con este fin evaluó a 90 madres chilenas, de nivel socioeconómico bajo. Las madres fueron contactadas a través de los centros de atención primaria que habían sido previamente seleccionados aleatoriamente para el estudio. Los criterios de inclusión en la muestra fueron que sus hijos tuvieran menos de 10 meses y ellas fueran sus cuidadores principales, así como que no hubiera trastornos importantes en el desarrollo del niño, ni condiciones psicopatológicas graves en la madre, y que los ingresos familiares estuvieran en el tramo más bajo de la población chilena. Una vez que confirmaron su participación voluntaria en el estudio, fueron asignadas aleatoriamente a una de las condiciones del estudio: con y sin intervención (la mitad a cada grupo). Las madres del grupo con intervención fueron instruidas en el uso y beneficio de los gestos comunicativos y estimuladas a usarlos con sus hijos, durante un periodo de nueve meses. Las madres del grupo sin intervención no recibieron ninguna instrucción especial para la interacción con sus hijos. Todas las madres fueron evaluadas en su autoeficacia percibida y estrés en dos momentos, cuando sus hijos tenían en torno a los 9 meses (antes de iniciar el programa del grupo con intervención) y después, cuando sus hijos tenían en torno a los 18 meses. En las primeras medidas, tomadas antes del inicio del programa de intervención, la muestra general de las madres presentaba niveles adecuados en su percepción de autoeficacia materna y en los niveles de estrés asociados a la maternidad, y no había diferencias significativas entre los dos grupos en ninguna de estas dos medidas. La comparación de las medidas de ambos grupos al final del estudio, mostró que si bien no había diferencias significativas en la autoeficacia percibida, el grupo de madres con intervención presentó niveles de estrés más elevados que el grupo sin intervención. Estos resultados contradicen los resultados de otras investigaciones previas, lo que abre nuevos interrogantes para investigaciones futuras, tal como plantea la autora en la discusión del artículo. (Resumen adaptado del artículo publicado en Revista de Investigación en Logopedia).<br><br>Podemos decir que es un diseño:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ex post facto evolutivo."
+            },
+            {
+                "text": "Cuasiexperimental con grupo de control no equivalente."
+            },
+            {
+                "text": "Experimental intersujetos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué procedimiento específico de la metodología experimental hace que sea la más adecuada para contrastar una hipótesis de causalidad?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La identificación de posibles variables predictoras a través del análisis retrospectivo del fenómeno de estudio."
+            },
+            {
+                "text": "El muestreo representativo de los participantes."
+            },
+            {
+                "text": "La aplicación de variable independiente manipulada, con control de las posibles variables extrañas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando desconocemos si la relación entre las variables independiente y dependiente es lineal o de otro tipo, es recomendable utilizar:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Valores extremos como niveles de la variable independiente."
+            },
+            {
+                "text": "La estrategia de bloqueo en la asignación de participantes a las condiciones."
+            },
+            {
+                "text": "Un diseño multigrupo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué significa contrastar una hipótesis?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Definir los constructos implicados de manera operativa."
+            },
+            {
+                "text": "Ponerla a prueba a través de los hechos.",
+                "correct": true
+            },
+            {
+                "text": "Confirmarla como definitivamente cierta."
+            }
+        ]
+    },
+    {
+        "text": "La mortalidad experimental es una amenaza a la validez interna porque:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Disminuye la validez externa ecológica."
+            },
+            {
+                "text": "Es un indicador de reactividad a los dispositivos experimentales."
+            },
+            {
+                "text": "Puede afectar negativamente a la equivalencia inicial de los grupos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los diseños experimentales intrasujeto:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se caracterizan por utilizar variables independientes no manipuladas intencionalmente sino por selección de valores."
+            },
+            {
+                "text": "Tienen menor validez interna que los diseños intersujetos al no utilizar la asignación aleatoria."
+            },
+            {
+                "text": "Utilizan técnicas de control específicas para controlar los efectos asociados al orden de la aplicación de las condiciones experimentales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los programas de intervención para potenciar el uso comunicativo de los gestos han demostrado ser eficaces para favorecer el desarrollo cognitivo, socioemocional y del lenguaje de los niños. Sin embargo, poco se ha estudiado sobre el impacto del uso de estos programas en los cuidadores. Farkas (2012) estudió los efectos en la percepción de autoeficacia y el estrés en madres usuarias de estos programas. Con este fin evaluó a 90 madres chilenas, de nivel socioeconómico bajo. Las madres fueron contactadas a través de los centros de atención primaria que habían sido previamente seleccionados aleatoriamente para el estudio. Los criterios de inclusión en la muestra fueron que sus hijos tuvieran menos de 10 meses y ellas fueran sus cuidadores principales, así como que no hubiera trastornos importantes en el desarrollo del niño, ni condiciones psicopatológicas graves en la madre, y que los ingresos familiares estuvieran en el tramo más bajo de la población chilena. Una vez que confirmaron su participación voluntaria en el estudio, fueron asignadas aleatoriamente a una de las condiciones del estudio: con y sin intervención (la mitad a cada grupo). Las madres del grupo con intervención fueron instruidas en el uso y beneficio de los gestos comunicativos y estimuladas a usarlos con sus hijos, durante un periodo de nueve meses. Las madres del grupo sin intervención no recibieron ninguna instrucción especial para la interacción con sus hijos. Todas las madres fueron evaluadas en su autoeficacia percibida y estrés en dos momentos, cuando sus hijos tenían en torno a los 9 meses (antes de iniciar el programa del grupo con intervención) y después, cuando sus hijos tenían en torno a los 18 meses. En las primeras medidas, tomadas antes del inicio del programa de intervención, la muestra general de las madres presentaba niveles adecuados en su percepción de autoeficacia materna y en los niveles de estrés asociados a la maternidad, y no había diferencias significativas entre los dos grupos en ninguna de estas dos medidas. La comparación de las medidas de ambos grupos al final del estudio, mostró que si bien no había diferencias significativas en la autoeficacia percibida, el grupo de madres con intervención presentó niveles de estrés más elevados que el grupo sin intervención. Estos resultados contradicen los resultados de otras investigaciones previas, lo que abre nuevos interrogantes para investigaciones futuras, tal como plantea la autora en la discusión del artículo. (Resumen adaptado del artículo publicado en Revista de Investigación en Logopedia).<br><br>¿Cuántas variables dependientes tiene el estudio?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una con dos valores: la edad de los niños a los 9 y 18 meses."
+            },
+            {
+                "text": "Dos: la autoeficacia y el estrés maternal.",
+                "correct": true
+            },
+            {
+                "text": "Una: el nivel de estrés que es donde se encuentran diferencias."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los programas de intervención para potenciar el uso comunicativo de los gestos han demostrado ser eficaces para favorecer el desarrollo cognitivo, socioemocional y del lenguaje de los niños. Sin embargo, poco se ha estudiado sobre el impacto del uso de estos programas en los cuidadores. Farkas (2012) estudió los efectos en la percepción de autoeficacia y el estrés en madres usuarias de estos programas. Con este fin evaluó a 90 madres chilenas, de nivel socioeconómico bajo. Las madres fueron contactadas a través de los centros de atención primaria que habían sido previamente seleccionados aleatoriamente para el estudio. Los criterios de inclusión en la muestra fueron que sus hijos tuvieran menos de 10 meses y ellas fueran sus cuidadores principales, así como que no hubiera trastornos importantes en el desarrollo del niño, ni condiciones psicopatológicas graves en la madre, y que los ingresos familiares estuvieran en el tramo más bajo de la población chilena. Una vez que confirmaron su participación voluntaria en el estudio, fueron asignadas aleatoriamente a una de las condiciones del estudio: con y sin intervención (la mitad a cada grupo). Las madres del grupo con intervención fueron instruidas en el uso y beneficio de los gestos comunicativos y estimuladas a usarlos con sus hijos, durante un periodo de nueve meses. Las madres del grupo sin intervención no recibieron ninguna instrucción especial para la interacción con sus hijos. Todas las madres fueron evaluadas en su autoeficacia percibida y estrés en dos momentos, cuando sus hijos tenían en torno a los 9 meses (antes de iniciar el programa del grupo con intervención) y después, cuando sus hijos tenían en torno a los 18 meses. En las primeras medidas, tomadas antes del inicio del programa de intervención, la muestra general de las madres presentaba niveles adecuados en su percepción de autoeficacia materna y en los niveles de estrés asociados a la maternidad, y no había diferencias significativas entre los dos grupos en ninguna de estas dos medidas. La comparación de las medidas de ambos grupos al final del estudio, mostró que si bien no había diferencias significativas en la autoeficacia percibida, el grupo de madres con intervención presentó niveles de estrés más elevados que el grupo sin intervención. Estos resultados contradicen los resultados de otras investigaciones previas, lo que abre nuevos interrogantes para investigaciones futuras, tal como plantea la autora en la discusión del artículo. (Resumen adaptado del artículo publicado en Revista de Investigación en Logopedia).<br><br>El hecho de que las madres participantes fueran de nivel socioeconómico bajo puede constituir una amenaza a la validez externa por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Selección x tratamiento.",
+                "correct": true
+            },
+            {
+                "text": "Historia."
+            },
+            {
+                "text": "Selección diferencial."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños experimentales factoriales:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estudian los efectos de varias variables independientes y su posible efecto de interacción.",
+                "correct": true
+            },
+            {
+                "text": "Son poco adecuados si se sospecha que algunas de las variables del estudio pueden tener efectos de interacción."
+            },
+            {
+                "text": "Estudian el efecto de una variable independiente sobre varias variables dependientes."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños ex post facto prospectivos complejos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Combinan dos o más variables independientes basadas en las características de los participantes.",
+                "correct": true
+            },
+            {
+                "text": "Presentan serios problemas de validez externa que impiden la generalización de sus resultados."
+            },
+            {
+                "text": "Deben su denominación a la medida de varias variables dependientes."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se denomina 'línea base' en los diseños de investigación de caso único?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La serie de observaciones de la variable dependiente realizadas en ausencia del tratamiento.",
+                "correct": true
+            },
+            {
+                "text": "La diferencia existente entre las medidas pretest y postest del participante."
+            },
+            {
+                "text": "Los cambios de criterio en las distintas fases de aplicación del tratamiento."
+            }
+        ]
+    },
+    {
+        "text": "La investigación-acción es crítica en el sentido de que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuestiona las teorías psicológicas dominantes."
+            },
+            {
+                "text": "Promueve el análisis de las estructuras sociales del entorno de los participantes.",
+                "correct": true
+            },
+            {
+                "text": "El investigador mantiene una objetividad distante para obtener un conocimiento sobre los participantes."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los programas de intervención para potenciar el uso comunicativo de los gestos han demostrado ser eficaces para favorecer el desarrollo cognitivo, socioemocional y del lenguaje de los niños. Sin embargo, poco se ha estudiado sobre el impacto del uso de estos programas en los cuidadores. Farkas (2012) estudió los efectos en la percepción de autoeficacia y el estrés en madres usuarias de estos programas. Con este fin evaluó a 90 madres chilenas, de nivel socioeconómico bajo. Las madres fueron contactadas a través de los centros de atención primaria que habían sido previamente seleccionados aleatoriamente para el estudio. Los criterios de inclusión en la muestra fueron que sus hijos tuvieran menos de 10 meses y ellas fueran sus cuidadores principales, así como que no hubiera trastornos importantes en el desarrollo del niño, ni condiciones psicopatológicas graves en la madre, y que los ingresos familiares estuvieran en el tramo más bajo de la población chilena. Una vez que confirmaron su participación voluntaria en el estudio, fueron asignadas aleatoriamente a una de las condiciones del estudio: con y sin intervención (la mitad a cada grupo). Las madres del grupo con intervención fueron instruidas en el uso y beneficio de los gestos comunicativos y estimuladas a usarlos con sus hijos, durante un periodo de nueve meses. Las madres del grupo sin intervención no recibieron ninguna instrucción especial para la interacción con sus hijos. Todas las madres fueron evaluadas en su autoeficacia percibida y estrés en dos momentos, cuando sus hijos tenían en torno a los 9 meses (antes de iniciar el programa del grupo con intervención) y después, cuando sus hijos tenían en torno a los 18 meses. En las primeras medidas, tomadas antes del inicio del programa de intervención, la muestra general de las madres presentaba niveles adecuados en su percepción de autoeficacia materna y en los niveles de estrés asociados a la maternidad, y no había diferencias significativas entre los dos grupos en ninguna de estas dos medidas. La comparación de las medidas de ambos grupos al final del estudio, mostró que si bien no había diferencias significativas en la autoeficacia percibida, el grupo de madres con intervención presentó niveles de estrés más elevados que el grupo sin intervención. Estos resultados contradicen los resultados de otras investigaciones previas, lo que abre nuevos interrogantes para investigaciones futuras, tal como plantea la autora en la discusión del artículo. (Resumen adaptado del artículo publicado en Revista de Investigación en Logopedia).<br><br>La posibilidad de trastornos del desarrollo de los hijos es una variable controlada por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Bloqueo."
+            },
+            {
+                "text": "Eliminación.",
+                "correct": true
+            },
+            {
+                "text": "Contrabalanceo."
+            }
+        ]
+    },
+    {
+        "text": "Las frecuencias relativas de las categorías:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es una medida directa del tiempo ocupado por cada ocurrencia de cada categoría."
+            },
+            {
+                "text": "Nos informan del mayor o menor predominio de unas categorías sobre otras en la situación observada.",
+                "correct": true
+            },
+            {
+                "text": "Se obtienen dividiendo las frecuencias por el tiempo total de observación."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los programas de intervención para potenciar el uso comunicativo de los gestos han demostrado ser eficaces para favorecer el desarrollo cognitivo, socioemocional y del lenguaje de los niños. Sin embargo, poco se ha estudiado sobre el impacto del uso de estos programas en los cuidadores. Farkas (2012) estudió los efectos en la percepción de autoeficacia y el estrés en madres usuarias de estos programas. Con este fin evaluó a 90 madres chilenas, de nivel socioeconómico bajo. Las madres fueron contactadas a través de los centros de atención primaria que habían sido previamente seleccionados aleatoriamente para el estudio. Los criterios de inclusión en la muestra fueron que sus hijos tuvieran menos de 10 meses y ellas fueran sus cuidadores principales, así como que no hubiera trastornos importantes en el desarrollo del niño, ni condiciones psicopatológicas graves en la madre, y que los ingresos familiares estuvieran en el tramo más bajo de la población chilena. Una vez que confirmaron su participación voluntaria en el estudio, fueron asignadas aleatoriamente a una de las condiciones del estudio: con y sin intervención (la mitad a cada grupo). Las madres del grupo con intervención fueron instruidas en el uso y beneficio de los gestos comunicativos y estimuladas a usarlos con sus hijos, durante un periodo de nueve meses. Las madres del grupo sin intervención no recibieron ninguna instrucción especial para la interacción con sus hijos. Todas las madres fueron evaluadas en su autoeficacia percibida y estrés en dos momentos, cuando sus hijos tenían en torno a los 9 meses (antes de iniciar el programa del grupo con intervención) y después, cuando sus hijos tenían en torno a los 18 meses. En las primeras medidas, tomadas antes del inicio del programa de intervención, la muestra general de las madres presentaba niveles adecuados en su percepción de autoeficacia materna y en los niveles de estrés asociados a la maternidad, y no había diferencias significativas entre los dos grupos en ninguna de estas dos medidas. La comparación de las medidas de ambos grupos al final del estudio, mostró que si bien no había diferencias significativas en la autoeficacia percibida, el grupo de madres con intervención presentó niveles de estrés más elevados que el grupo sin intervención. Estos resultados contradicen los resultados de otras investigaciones previas, lo que abre nuevos interrogantes para investigaciones futuras, tal como plantea la autora en la discusión del artículo. (Resumen adaptado del artículo publicado en Revista de Investigación en Logopedia).<br><br>¿Qué técnica se emplea para controlar la equivalencia inicial de los grupos?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aleatorización.",
+                "correct": true
+            },
+            {
+                "text": "Equiparación con datos de la medida pre."
+            },
+            {
+                "text": "Bloqueo."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio, en el proceso de selección de los participantes:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se realiza un registro que se conoce como censo del estudio."
+            },
+            {
+                "text": "Primero se decide la población de estudio y después se selecciona la muestra.",
+                "correct": true
+            },
+            {
+                "text": "Se denominan unidades muestrales los grupos correspondientes a las distintas condiciones experimentales."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de caso con metodología cualitativa:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El estudio se focaliza en una conducta y un momento temporal único que es lo que se pretende explicar."
+            },
+            {
+                "text": "El investigador intenta manipular y controlar las variables para poder explicar la conducta del caso."
+            },
+            {
+                "text": "Se estudia al sujeto en su contexto desde una perspectiva holística.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El diseño de caso único tipo AB:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permite atribuir con seguridad al tratamiento los cambios observados en la fase B."
+            },
+            {
+                "text": "Se basa en la reversión del tratamiento."
+            },
+            {
+                "text": "Tiene baja validez interna por el posible enmascaramiento de la maduración y la reactividad experimental.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los programas de intervención para potenciar el uso comunicativo de los gestos han demostrado ser eficaces para favorecer el desarrollo cognitivo, socioemocional y del lenguaje de los niños. Sin embargo, poco se ha estudiado sobre el impacto del uso de estos programas en los cuidadores. Farkas (2012) estudió los efectos en la percepción de autoeficacia y el estrés en madres usuarias de estos programas. Con este fin evaluó a 90 madres chilenas, de nivel socioeconómico bajo. Las madres fueron contactadas a través de los centros de atención primaria que habían sido previamente seleccionados aleatoriamente para el estudio. Los criterios de inclusión en la muestra fueron que sus hijos tuvieran menos de 10 meses y ellas fueran sus cuidadores principales, así como que no hubiera trastornos importantes en el desarrollo del niño, ni condiciones psicopatológicas graves en la madre, y que los ingresos familiares estuvieran en el tramo más bajo de la población chilena. Una vez que confirmaron su participación voluntaria en el estudio, fueron asignadas aleatoriamente a una de las condiciones del estudio: con y sin intervención (la mitad a cada grupo). Las madres del grupo con intervención fueron instruidas en el uso y beneficio de los gestos comunicativos y estimuladas a usarlos con sus hijos, durante un periodo de nueve meses. Las madres del grupo sin intervención no recibieron ninguna instrucción especial para la interacción con sus hijos. Todas las madres fueron evaluadas en su autoeficacia percibida y estrés en dos momentos, cuando sus hijos tenían en torno a los 9 meses (antes de iniciar el programa del grupo con intervención) y después, cuando sus hijos tenían en torno a los 18 meses. En las primeras medidas, tomadas antes del inicio del programa de intervención, la muestra general de las madres presentaba niveles adecuados en su percepción de autoeficacia materna y en los niveles de estrés asociados a la maternidad, y no había diferencias significativas entre los dos grupos en ninguna de estas dos medidas. La comparación de las medidas de ambos grupos al final del estudio, mostró que si bien no había diferencias significativas en la autoeficacia percibida, el grupo de madres con intervención presentó niveles de estrés más elevados que el grupo sin intervención. Estos resultados contradicen los resultados de otras investigaciones previas, lo que abre nuevos interrogantes para investigaciones futuras, tal como plantea la autora en la discusión del artículo. (Resumen adaptado del artículo publicado en Revista de Investigación en Logopedia).<br><br>La/s variable/s independiente/s es/son:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La autoeficacia percibida y el estrés maternal."
+            },
+            {
+                "text": "El programa de intervención para el desarrollo de gestos comunicativos.",
+                "correct": true
+            },
+            {
+                "text": "La edad de los niños."
+            }
+        ]
+    },
+    {
+        "text": "La regresión estadística como amenaza a la validez:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es la principal amenaza a la validez de conclusión estadística."
+            },
+            {
+                "text": "Se puede solventar realizando y teniendo en cuenta varias medidas.",
+                "correct": true
+            },
+            {
+                "text": "Se puede controlar seleccionando a los participantes con valores extremo."
+            }
+        ]
+    },
+    {
+        "text": "En los diseños intrasujeto, las posibles variables extrañas de sujeto quedan controladas por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Contrabalanceo."
+            },
+            {
+                "text": "Constancia.",
+                "correct": true
+            },
+            {
+                "text": "Eliminación."
+            }
+        ]
+    },
+    {
+        "text": "En las investigaciones de encuesta se trabaja con muestras representativas de la población. Esto supone que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La información que obtendremos estará sesgada por las características de la muestra."
+            },
+            {
+                "text": "Su estructura y su tamaño son los adecuados para reflejar las características de la población.",
+                "correct": true
+            },
+            {
+                "text": "El objetivo de la encuesta es más explicativo que descriptivo."
+            }
+        ]
+    },
+    {
+        "text": "El efecto deriva del observador:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede producir una desviación importante del registro respecto a las definiciones originales de las categorías.",
+                "correct": true
+            },
+            {
+                "text": "Es controlable utilizando observadores que desconocen las hipótesis de la investigación."
+            },
+            {
+                "text": "Es controlable mediante la correcta habituación de los participantes a la situación de observación."
+            }
+        ]
+    },
+    {
+        "text": "Un cuestionario constituye un instrumento de medida válido si:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Detecta las posibles amenazas a la validez interna del estudio."
+            },
+            {
+                "text": "Mide lo que pretende medir.",
+                "correct": true
+            },
+            {
+                "text": "Permite generalizar los resultados a otras poblaciones, situaciones y momentos."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los programas de intervención para potenciar el uso comunicativo de los gestos han demostrado ser eficaces para favorecer el desarrollo cognitivo, socioemocional y del lenguaje de los niños. Sin embargo, poco se ha estudiado sobre el impacto del uso de estos programas en los cuidadores. Farkas (2012) estudió los efectos en la percepción de autoeficacia y el estrés en madres usuarias de estos programas. Con este fin evaluó a 90 madres chilenas, de nivel socioeconómico bajo. Las madres fueron contactadas a través de los centros de atención primaria que habían sido previamente seleccionados aleatoriamente para el estudio. Los criterios de inclusión en la muestra fueron que sus hijos tuvieran menos de 10 meses y ellas fueran sus cuidadores principales, así como que no hubiera trastornos importantes en el desarrollo del niño, ni condiciones psicopatológicas graves en la madre, y que los ingresos familiares estuvieran en el tramo más bajo de la población chilena. Una vez que confirmaron su participación voluntaria en el estudio, fueron asignadas aleatoriamente a una de las condiciones del estudio: con y sin intervención (la mitad a cada grupo). Las madres del grupo con intervención fueron instruidas en el uso y beneficio de los gestos comunicativos y estimuladas a usarlos con sus hijos, durante un periodo de nueve meses. Las madres del grupo sin intervención no recibieron ninguna instrucción especial para la interacción con sus hijos. Todas las madres fueron evaluadas en su autoeficacia percibida y estrés en dos momentos, cuando sus hijos tenían en torno a los 9 meses (antes de iniciar el programa del grupo con intervención) y después, cuando sus hijos tenían en torno a los 18 meses. En las primeras medidas, tomadas antes del inicio del programa de intervención, la muestra general de las madres presentaba niveles adecuados en su percepción de autoeficacia materna y en los niveles de estrés asociados a la maternidad, y no había diferencias significativas entre los dos grupos en ninguna de estas dos medidas. La comparación de las medidas de ambos grupos al final del estudio, mostró que si bien no había diferencias significativas en la autoeficacia percibida, el grupo de madres con intervención presentó niveles de estrés más elevados que el grupo sin intervención. Estos resultados contradicen los resultados de otras investigaciones previas, lo que abre nuevos interrogantes para investigaciones futuras, tal como plantea la autora en la discusión del artículo. (Resumen adaptado del artículo publicado en Revista de Investigación en Logopedia).<br><br>La selección de los participantes fue:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Accidental."
+            },
+            {
+                "text": "Por muestreo no probabilístico."
+            },
+            {
+                "text": "Por conglomerados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La debilidad de los diseños cuasiexperimentales radica en que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No permiten descartar hipótesis alternativas.",
+                "correct": true
+            },
+            {
+                "text": "Los grupos son muy pequeños."
+            },
+            {
+                "text": "Su validez externa es muy limitada."
+            }
+        ]
+    }
+]

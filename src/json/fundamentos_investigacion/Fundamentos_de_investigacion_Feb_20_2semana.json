@@ -1,0 +1,632 @@
+[
+    {
+        "text": "En la PEC, los datos del estudio se recogen a través de un cuestionario:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Auto-aplicado de papel y lápiz.",
+                "correct": true
+            },
+            {
+                "text": "Realizado mediante entrevista telefónica."
+            },
+            {
+                "text": "Cumplimentado on-line."
+            }
+        ]
+    },
+    {
+        "text": "Una de las características diferenciadoras de la investigación observacional es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que no se impone restricción a las respuestas de los participantes a través de las tareas o instrumentos de evaluación.",
+                "correct": true
+            },
+            {
+                "text": "El carácter nomotético de los estudios."
+            },
+            {
+                "text": "Que en la manipulación de la variable independiente se utilizan los valores más frecuentes en la manifestación natural del fenómeno en estudio."
+            }
+        ]
+    },
+    {
+        "text": "La estrategia que sigue la investigación planteada en el artículo de la PEC es de tipo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Observacional."
+            },
+            {
+                "text": "No manipulativa.",
+                "correct": true
+            },
+            {
+                "text": "Manipulativa."
+            }
+        ]
+    },
+    {
+        "text": "Según las normas APA, la referencia de un artículo debe especificar y en este orden:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los autores, fecha de publicación, título del trabajo, el nombre y volumen de la revista (en cursiva), páginas que ocupa y el DOI identificador.",
+                "correct": true
+            },
+            {
+                "text": "Los autores, título del trabajo, el nombre de la revista, ciudad y nombre de la editorial, fecha, volumen y páginas de la publicación."
+            },
+            {
+                "text": "Los autores (en mayúsculas), la revista, fecha, volumen y páginas de la publicación (en cursiva)."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un equipo de investigadores de la Universidad Federal de Paraíba (Brasil) y la Universidad de Salamanca (Fernández-Calvo, Rodríguez-Pérez, Contador, Rubio-Santorum y Ramos, 2011) realizaron un estudio para evaluar la eficacia, para atenuar el declive cognitivo, del Big Brain Academy (BBA) (un programa de entrenamiento cognitivo computarizado basado en un videojuego) frente al Programa de Psicoestimulación Integral (PPI) (una estrategia de entrenamiento cognitivo clásica basada en tareas de papel y lápiz) en pacientes con enfermedad de Alzheimer (EA).<br><br>Los participantes del estudio fueron reclutados en la Asociación de Familiares de Enfermos de Alzheimer de Salamanca. Se seleccionaron 45 pacientes con diagnóstico de EA “probable” según los criterios diagnósticos de la EA (McKhann et al., 1984). Todos los pacientes se encontraban en una fase leve de la demencia y recibían tratamiento farmacológico con anticolinesterásicos. Tras obtener el consentimiento informado del tutor legal o familiar más próximo, cada uno de los pacientes fue asignado, aleatoriamente, a una de las siguientes condiciones experimentales: 1. EABB: estimulación con el programa computarizado «Big Brain Academy», 2. EAPI: programa de psicoestimulación integral (PPI). 3. EANT: grupo control, en le que los pacientes fueron evaluados en los mismos momentos que los otros grupos pero mantenían solo su tratamiento farmacológico, quedando en lista de espera para recibir uno u otro tipo de entrenamiento cognitivo tras la finalización del estudio. Comparados los datos antes de iniciar el tratamiento los grupos no mostraron diferencias significativas previas en sus características socidemográficas ni en las variables clínicas evaluadas en su medida pre.<br><br>La eficacia diferencial de los programas se evaluó comparando las medidas neuropsicológicas, conductuales y funcionales obtenidas inmediatamente antes de iniciar el programa de entrenamiento con las que presentaban los participantes una vez finalizado este. Entre los resultados obtenidos destacan que el grupo EABB mostró un declive cognitivo significativamente más lento en comparación a los grupos EAPI y EANT. Además, el grupo EABB presentó una reducción de la sintomatología depresiva significativamente mayor que la mostrada por los grupos EAPI y EANT. Los autores concluyen que el programa BBA fue más efectivo que el PPI para reducir el declive cognitivo y los síntomas depresivos en los pacientes con EA.<br><br>El tipo de diseño utilizado es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Complejo o factorial 2 x 2."
+            },
+            {
+                "text": "Experimental multigrupo con medidas pre y post.",
+                "correct": true
+            },
+            {
+                "text": "Retrospectivo de casos y controles con medidas pre y post."
+            }
+        ]
+    },
+    {
+        "text": "Cuando en una investigación ex post facto se quiere estudiar la relación entre una amplia gama de valores de la variable dependiente y de la variable independiente, el diseño a utilizar sería un:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Diseño prospectivo complejo o factorial."
+            },
+            {
+                "text": "Diseño evolutivo secuencial."
+            },
+            {
+                "text": "Diseño de grupo único.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los errores en la explotación de los datos de una encuesta suelen estar relacionados con:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La falta de impacto de los resultados por carencia o problemas de difusión."
+            },
+            {
+                "text": "Errores en el cálculo del tamaño de la muestra necesario para obtener datos representativos."
+            },
+            {
+                "text": "Errores en el registro, codificación o grabación de los datos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La simplicidad de una teoría:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es una cualidad deseable y se refiere al número de proposiciones y componentes necesarios para lograr la explicación del fenómeno que trata.",
+                "correct": true
+            },
+            {
+                "text": "Refleja su escaso alcance explicativo, en cuanto al número y diversidad de los fenómenos que explica."
+            },
+            {
+                "text": "Es un requisito básico para que pueda ser considerada científica."
+            }
+        ]
+    },
+    {
+        "text": "Si por necesidades de la investigación, a un grupo de participantes, independientemente de su ejecución en las pruebas, se les hace creer que sus resultados son bajos o negativos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El investigador deberá informarles lo más pronto posible sobre la no veracidad del dato que han recibido y el carácter simulado de la situación.",
+                "correct": true
+            },
+            {
+                "text": "Esta situación no se considera estrictamente una forma de engaño porque en algunos casos el resultado real podría haber sido parecido al simulado."
+            },
+            {
+                "text": "Los participantes deben haber sido informados previamente de que van a participar en una investigación en la que se maneja el engaño como parte del procedimiento."
+            }
+        ]
+    },
+    {
+        "text": "La entrevista como técnica aplicada en una investigación cualitativa se caracteriza por:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Su carácter estructurado y con guion predeterminado que garantice que el diálogo no se desvíe a temas inesperados."
+            },
+            {
+                "text": "Generar un contexto interactivo y flexible de diálogo que permita tratar los temas y contextos relevantes para el objeto de estudio.",
+                "correct": true
+            },
+            {
+                "text": "La ausencia de preparación previa para evitar que las preguntas del investigador puedan condicionar el diálogo."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un equipo de investigadores de la Universidad Federal de Paraíba (Brasil) y la Universidad de Salamanca (Fernández-Calvo, Rodríguez-Pérez, Contador, Rubio-Santorum y Ramos, 2011) realizaron un estudio para evaluar la eficacia, para atenuar el declive cognitivo, del Big Brain Academy (BBA) (un programa de entrenamiento cognitivo computarizado basado en un videojuego) frente al Programa de Psicoestimulación Integral (PPI) (una estrategia de entrenamiento cognitivo clásica basada en tareas de papel y lápiz) en pacientes con enfermedad de Alzheimer (EA).<br><br>Los participantes del estudio fueron reclutados en la Asociación de Familiares de Enfermos de Alzheimer de Salamanca. Se seleccionaron 45 pacientes con diagnóstico de EA “probable” según los criterios diagnósticos de la EA (McKhann et al., 1984). Todos los pacientes se encontraban en una fase leve de la demencia y recibían tratamiento farmacológico con anticolinesterásicos. Tras obtener el consentimiento informado del tutor legal o familiar más próximo, cada uno de los pacientes fue asignado, aleatoriamente, a una de las siguientes condiciones experimentales: 1. EABB: estimulación con el programa computarizado «Big Brain Academy», 2. EAPI: programa de psicoestimulación integral (PPI). 3. EANT: grupo control, en le que los pacientes fueron evaluados en los mismos momentos que los otros grupos pero mantenían solo su tratamiento farmacológico, quedando en lista de espera para recibir uno u otro tipo de entrenamiento cognitivo tras la finalización del estudio. Comparados los datos antes de iniciar el tratamiento los grupos no mostraron diferencias significativas previas en sus características socidemográficas ni en las variables clínicas evaluadas en su medida pre.<br><br>La eficacia diferencial de los programas se evaluó comparando las medidas neuropsicológicas, conductuales y funcionales obtenidas inmediatamente antes de iniciar el programa de entrenamiento con las que presentaban los participantes una vez finalizado este. Entre los resultados obtenidos destacan que el grupo EABB mostró un declive cognitivo significativamente más lento en comparación a los grupos EAPI y EANT. Además, el grupo EABB presentó una reducción de la sintomatología depresiva significativamente mayor que la mostrada por los grupos EAPI y EANT. Los autores concluyen que el programa BBA fue más efectivo que el PPI para reducir el declive cognitivo y los síntomas depresivos en los pacientes con EA.<br><br>Las medidas realizadas antes del tratamiento han sido utilizadas para:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aplicar la equiparación como técnica de control de los efectos del orden de asignación de los tratamientos."
+            },
+            {
+                "text": "Comprobar la equivalencia inicial de los grupos y estudiar el efecto de los tratamientos por el cambio pre-post.",
+                "correct": true
+            },
+            {
+                "text": "Organizar los bloques y formar grupos homogéneos."
+            }
+        ]
+    },
+    {
+        "text": "El diseño cuasiexperimental de retirada de tratamiento con pretest y postest:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Compara los datos del grupo experimental con los de la cohorte de control evaluada cuando ya se ha finalizado el periodo de tratamiento."
+            },
+            {
+                "text": "Sigue una lógica similar a la del diseño experimental intragrupo porque el mismo grupo es control de sí mismo.",
+                "correct": true
+            },
+            {
+                "text": "Maneja intervalos de tiempo desiguales entre las medidas, siendo la etapa de tratamiento el doble de larga que la etapa de retirada."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un equipo de investigadores de la Universidad Federal de Paraíba (Brasil) y la Universidad de Salamanca (Fernández-Calvo, Rodríguez-Pérez, Contador, Rubio-Santorum y Ramos, 2011) realizaron un estudio para evaluar la eficacia, para atenuar el declive cognitivo, del Big Brain Academy (BBA) (un programa de entrenamiento cognitivo computarizado basado en un videojuego) frente al Programa de Psicoestimulación Integral (PPI) (una estrategia de entrenamiento cognitivo clásica basada en tareas de papel y lápiz) en pacientes con enfermedad de Alzheimer (EA).<br><br>Los participantes del estudio fueron reclutados en la Asociación de Familiares de Enfermos de Alzheimer de Salamanca. Se seleccionaron 45 pacientes con diagnóstico de EA “probable” según los criterios diagnósticos de la EA (McKhann et al., 1984). Todos los pacientes se encontraban en una fase leve de la demencia y recibían tratamiento farmacológico con anticolinesterásicos. Tras obtener el consentimiento informado del tutor legal o familiar más próximo, cada uno de los pacientes fue asignado, aleatoriamente, a una de las siguientes condiciones experimentales: 1. EABB: estimulación con el programa computarizado «Big Brain Academy», 2. EAPI: programa de psicoestimulación integral (PPI). 3. EANT: grupo control, en le que los pacientes fueron evaluados en los mismos momentos que los otros grupos pero mantenían solo su tratamiento farmacológico, quedando en lista de espera para recibir uno u otro tipo de entrenamiento cognitivo tras la finalización del estudio. Comparados los datos antes de iniciar el tratamiento los grupos no mostraron diferencias significativas previas en sus características socidemográficas ni en las variables clínicas evaluadas en su medida pre.<br><br>La eficacia diferencial de los programas se evaluó comparando las medidas neuropsicológicas, conductuales y funcionales obtenidas inmediatamente antes de iniciar el programa de entrenamiento con las que presentaban los participantes una vez finalizado este. Entre los resultados obtenidos destacan que el grupo EABB mostró un declive cognitivo significativamente más lento en comparación a los grupos EAPI y EANT. Además, el grupo EABB presentó una reducción de la sintomatología depresiva significativamente mayor que la mostrada por los grupos EAPI y EANT. Los autores concluyen que el programa BBA fue más efectivo que el PPI para reducir el declive cognitivo y los síntomas depresivos en los pacientes con EA.<br><br>Las medidas neuropsicológicas, conductuales y funcionales son:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Medidas de variables extrañas controladas."
+            },
+            {
+                "text": "Los valores de las variables independientes."
+            },
+            {
+                "text": "Medidas de las variables dependientes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según las normas APA, los informes de investigación debe estar estructurados especificando los siguientes apartados:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Título, Resumen y Abstract, Presentación, Procedimiento, Análisis de datos, Resultados, Conclusiones y Referencias."
+            },
+            {
+                "text": "Título, Resumen y Abstract, Justificación, Recogida y análisis de datos, Resultados y conclusiones, y Referencias."
+            },
+            {
+                "text": "Título, Resumen y Abstract, Introducción, Método, Resultados, Discusión y Referencias.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si en un estudio sobre el desgaste psicológico profesional del personal sanitario accedemos a la muestra eligiendo aleatoriamente un número determinado de hospitales de la comunidad autónoma, estaremos aplicando un muestreo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No probabilístico, de conveniencia."
+            },
+            {
+                "text": "Probabilístico, aleatorio estratificado con afijación óptima."
+            },
+            {
+                "text": "Probabilístico, de conglomerados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un equipo de investigadores de la Universidad Federal de Paraíba (Brasil) y la Universidad de Salamanca (Fernández-Calvo, Rodríguez-Pérez, Contador, Rubio-Santorum y Ramos, 2011) realizaron un estudio para evaluar la eficacia, para atenuar el declive cognitivo, del Big Brain Academy (BBA) (un programa de entrenamiento cognitivo computarizado basado en un videojuego) frente al Programa de Psicoestimulación Integral (PPI) (una estrategia de entrenamiento cognitivo clásica basada en tareas de papel y lápiz) en pacientes con enfermedad de Alzheimer (EA).<br><br>Los participantes del estudio fueron reclutados en la Asociación de Familiares de Enfermos de Alzheimer de Salamanca. Se seleccionaron 45 pacientes con diagnóstico de EA “probable” según los criterios diagnósticos de la EA (McKhann et al., 1984). Todos los pacientes se encontraban en una fase leve de la demencia y recibían tratamiento farmacológico con anticolinesterásicos. Tras obtener el consentimiento informado del tutor legal o familiar más próximo, cada uno de los pacientes fue asignado, aleatoriamente, a una de las siguientes condiciones experimentales: 1. EABB: estimulación con el programa computarizado «Big Brain Academy», 2. EAPI: programa de psicoestimulación integral (PPI). 3. EANT: grupo control, en le que los pacientes fueron evaluados en los mismos momentos que los otros grupos pero mantenían solo su tratamiento farmacológico, quedando en lista de espera para recibir uno u otro tipo de entrenamiento cognitivo tras la finalización del estudio. Comparados los datos antes de iniciar el tratamiento los grupos no mostraron diferencias significativas previas en sus características socidemográficas ni en las variables clínicas evaluadas en su medida pre.<br><br>La eficacia diferencial de los programas se evaluó comparando las medidas neuropsicológicas, conductuales y funcionales obtenidas inmediatamente antes de iniciar el programa de entrenamiento con las que presentaban los participantes una vez finalizado este. Entre los resultados obtenidos destacan que el grupo EABB mostró un declive cognitivo significativamente más lento en comparación a los grupos EAPI y EANT. Además, el grupo EABB presentó una reducción de la sintomatología depresiva significativamente mayor que la mostrada por los grupos EAPI y EANT. Los autores concluyen que el programa BBA fue más efectivo que el PPI para reducir el declive cognitivo y los síntomas depresivos en los pacientes con EA.<br><br>Las conclusiones del estudio:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se pueden considerar válidas y ajustadas a los resultados descritos.",
+                "correct": true
+            },
+            {
+                "text": "Carecen totalmente de validez externa porque el muestreo no ha sido probabilístico."
+            },
+            {
+                "text": "No deberían hablar de eficacia de los tratamientos para disminuir el declive cognitivo ya que la metodología de este tipo de estudios no permite establecer relaciones causales."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un equipo de investigadores de la Universidad Federal de Paraíba (Brasil) y la Universidad de Salamanca (Fernández-Calvo, Rodríguez-Pérez, Contador, Rubio-Santorum y Ramos, 2011) realizaron un estudio para evaluar la eficacia, para atenuar el declive cognitivo, del Big Brain Academy (BBA) (un programa de entrenamiento cognitivo computarizado basado en un videojuego) frente al Programa de Psicoestimulación Integral (PPI) (una estrategia de entrenamiento cognitivo clásica basada en tareas de papel y lápiz) en pacientes con enfermedad de Alzheimer (EA).<br><br>Los participantes del estudio fueron reclutados en la Asociación de Familiares de Enfermos de Alzheimer de Salamanca. Se seleccionaron 45 pacientes con diagnóstico de EA “probable” según los criterios diagnósticos de la EA (McKhann et al., 1984). Todos los pacientes se encontraban en una fase leve de la demencia y recibían tratamiento farmacológico con anticolinesterásicos. Tras obtener el consentimiento informado del tutor legal o familiar más próximo, cada uno de los pacientes fue asignado, aleatoriamente, a una de las siguientes condiciones experimentales: 1. EABB: estimulación con el programa computarizado «Big Brain Academy», 2. EAPI: programa de psicoestimulación integral (PPI). 3. EANT: grupo control, en le que los pacientes fueron evaluados en los mismos momentos que los otros grupos pero mantenían solo su tratamiento farmacológico, quedando en lista de espera para recibir uno u otro tipo de entrenamiento cognitivo tras la finalización del estudio. Comparados los datos antes de iniciar el tratamiento los grupos no mostraron diferencias significativas previas en sus características socidemográficas ni en las variables clínicas evaluadas en su medida pre.<br><br>La eficacia diferencial de los programas se evaluó comparando las medidas neuropsicológicas, conductuales y funcionales obtenidas inmediatamente antes de iniciar el programa de entrenamiento con las que presentaban los participantes una vez finalizado este. Entre los resultados obtenidos destacan que el grupo EABB mostró un declive cognitivo significativamente más lento en comparación a los grupos EAPI y EANT. Además, el grupo EABB presentó una reducción de la sintomatología depresiva significativamente mayor que la mostrada por los grupos EAPI y EANT. Los autores concluyen que el programa BBA fue más efectivo que el PPI para reducir el declive cognitivo y los síntomas depresivos en los pacientes con EA.<br><br>El tipo de estudio realizado es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ex post facto porque se selecciona a los participantes atendiendo a una característica particular como es tener EA."
+            },
+            {
+                "text": "Experimental, porque se manipula la variable independiente y se aplican técnicas de control para garantizar la equivalencia de los grupos.",
+                "correct": true
+            },
+            {
+                "text": "Cuasiexperimental, porque los grupos resultaron ser demasiado pequeños como para poder ser considerados equivalentes."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño ex post facto retrospectivo de comparación de grupos, se denomina “grupo de casos”:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A los participantes que presentan puntuaciones extremas en la variable predictora."
+            },
+            {
+                "text": "Al grupo de participantes seleccionados porque presentan una determinada característica propia del fenómeno que queremos estudiar.",
+                "correct": true
+            },
+            {
+                "text": "Al grupo de participantes que utilizamos con funciones de grupo control aunque no sea totalmente equivalente."
+            }
+        ]
+    },
+    {
+        "text": "En la realización de estudios cuasiexperimentales con grupo de control no equivalente podemos tratar de controlar las amenazas debidas a la selección diferencial:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Utilizando técnicas como el emparejamiento para lograr grupos lo más similares posibles en su composición, procedencia y contexto.",
+                "correct": true
+            },
+            {
+                "text": "Sustituyendo el grupo de control no equivalente por una medida pre de la variable dependiente."
+            },
+            {
+                "text": "Utilizando técnicas de muestreo probabilístico para la organización de los grupos."
+            }
+        ]
+    },
+    {
+        "text": "La técnica de contrabalanceo aleatorio es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una forma posible de aplicación del contrabalanceo intragrupo incompleto.",
+                "correct": true
+            },
+            {
+                "text": "Una forma extrema de aplicación de la técnica de bloques aleatorios, que supone un solo participante por bloque y condición."
+            },
+            {
+                "text": "Un procedimiento para la organización de los grupos de forma que las diferencias individuales queden equilibradas."
+            }
+        ]
+    },
+    {
+        "text": "Si queremos estudiar la relación entre el nivel de formación académica (estudios primarios, secundarios, superiores) y la actitud hacia la explotación y el uso de energía renovables, podríamos plantear una investigación:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuasiexperimental."
+            },
+            {
+                "text": "Ex post facto.",
+                "correct": true
+            },
+            {
+                "text": "Manipulativa."
+            }
+        ]
+    },
+    {
+        "text": "Se ha definido la Etnografía como “una experiencia de vida” porque requiere que el investigador:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Viva dentro del grupo cultural en estudio y comparta sus experiencias.",
+                "correct": true
+            },
+            {
+                "text": "Adquiera un compromiso social para cumplir con su objetivo de generar un cambio desde dentro de la comunidad estudiada."
+            },
+            {
+                "text": "Utilice el etnocentrismo, su propia cultura de origen, como la referencia más segura para la interpretación de lo observado."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un equipo de investigadores de la Universidad Federal de Paraíba (Brasil) y la Universidad de Salamanca (Fernández-Calvo, Rodríguez-Pérez, Contador, Rubio-Santorum y Ramos, 2011) realizaron un estudio para evaluar la eficacia, para atenuar el declive cognitivo, del Big Brain Academy (BBA) (un programa de entrenamiento cognitivo computarizado basado en un videojuego) frente al Programa de Psicoestimulación Integral (PPI) (una estrategia de entrenamiento cognitivo clásica basada en tareas de papel y lápiz) en pacientes con enfermedad de Alzheimer (EA).<br><br>Los participantes del estudio fueron reclutados en la Asociación de Familiares de Enfermos de Alzheimer de Salamanca. Se seleccionaron 45 pacientes con diagnóstico de EA “probable” según los criterios diagnósticos de la EA (McKhann et al., 1984). Todos los pacientes se encontraban en una fase leve de la demencia y recibían tratamiento farmacológico con anticolinesterásicos. Tras obtener el consentimiento informado del tutor legal o familiar más próximo, cada uno de los pacientes fue asignado, aleatoriamente, a una de las siguientes condiciones experimentales: 1. EABB: estimulación con el programa computarizado «Big Brain Academy», 2. EAPI: programa de psicoestimulación integral (PPI). 3. EANT: grupo control, en le que los pacientes fueron evaluados en los mismos momentos que los otros grupos pero mantenían solo su tratamiento farmacológico, quedando en lista de espera para recibir uno u otro tipo de entrenamiento cognitivo tras la finalización del estudio. Comparados los datos antes de iniciar el tratamiento los grupos no mostraron diferencias significativas previas en sus características socidemográficas ni en las variables clínicas evaluadas en su medida pre.<br><br>La eficacia diferencial de los programas se evaluó comparando las medidas neuropsicológicas, conductuales y funcionales obtenidas inmediatamente antes de iniciar el programa de entrenamiento con las que presentaban los participantes una vez finalizado este. Entre los resultados obtenidos destacan que el grupo EABB mostró un declive cognitivo significativamente más lento en comparación a los grupos EAPI y EANT. Además, el grupo EABB presentó una reducción de la sintomatología depresiva significativamente mayor que la mostrada por los grupos EAPI y EANT. Los autores concluyen que el programa BBA fue más efectivo que el PPI para reducir el declive cognitivo y los síntomas depresivos en los pacientes con EA.<br><br>El grado de avance (leve, moderado o severo) de la demencia asociada al EA constituye una:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Amenaza a la validez interna del estudio asociada a la selección diferencial."
+            },
+            {
+                "text": "Variable extraña no controlada."
+            },
+            {
+                "text": "Potencial variable extraña controlada por constancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando seleccionamos participantes con puntuaciones extremas, la regresión estadística puede ser una amenaza a la validez interna del estudio que se puede controlar:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Eliminando la medida pre del estudio."
+            },
+            {
+                "text": "Asegurando la aplicación de las técnicas estadísticas adecuadas a la naturaleza de los datos."
+            },
+            {
+                "text": "Utilizando al menos dos medidas de la variable como información para la selección de los participantes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si en un diseño de caso único, el tratamiento plantea problemas para su reversión, un diseño adecuado podría ser el diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De cambio de criterio.",
+                "correct": true
+            },
+            {
+                "text": "B-A-B."
+            },
+            {
+                "text": "A-B-A-B."
+            }
+        ]
+    },
+    {
+        "text": "El sentido de la reversión del tratamiento en un diseño de caso único es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Detectar la posible influencia de variables extrañas para poder extraer conclusiones válidas.",
+                "correct": true
+            },
+            {
+                "text": "Devolver al participante a su situación inicial para eliminar las consecuencias no deseadas del tratamiento experimental."
+            },
+            {
+                "text": "Aumentar la longitud de la serie de medidas para poder lograr la estabilidad de la fase A."
+            }
+        ]
+    },
+    {
+        "text": "El objetivo principal del control experimental es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Garantizar la validez externa de las conclusiones del estudio."
+            },
+            {
+                "text": "Asegurar que los datos obtenidos apoyen la hipótesis de investigación."
+            },
+            {
+                "text": "Poder concluir que los cambios observados en la variable dependiente se deben únicamente al efecto de la variable independiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO: Un equipo de investigadores de la Universidad Federal de Paraíba (Brasil) y la Universidad de Salamanca (Fernández-Calvo, Rodríguez-Pérez, Contador, Rubio-Santorum y Ramos, 2011) realizaron un estudio para evaluar la eficacia, para atenuar el declive cognitivo, del Big Brain Academy (BBA) (un programa de entrenamiento cognitivo computarizado basado en un videojuego) frente al Programa de Psicoestimulación Integral (PPI) (una estrategia de entrenamiento cognitivo clásica basada en tareas de papel y lápiz) en pacientes con enfermedad de Alzheimer (EA).<br><br>Los participantes del estudio fueron reclutados en la Asociación de Familiares de Enfermos de Alzheimer de Salamanca. Se seleccionaron 45 pacientes con diagnóstico de EA “probable” según los criterios diagnósticos de la EA (McKhann et al., 1984). Todos los pacientes se encontraban en una fase leve de la demencia y recibían tratamiento farmacológico con anticolinesterásicos. Tras obtener el consentimiento informado del tutor legal o familiar más próximo, cada uno de los pacientes fue asignado, aleatoriamente, a una de las siguientes condiciones experimentales: 1. EABB: estimulación con el programa computarizado «Big Brain Academy», 2. EAPI: programa de psicoestimulación integral (PPI). 3. EANT: grupo control, en le que los pacientes fueron evaluados en los mismos momentos que los otros grupos pero mantenían solo su tratamiento farmacológico, quedando en lista de espera para recibir uno u otro tipo de entrenamiento cognitivo tras la finalización del estudio. Comparados los datos antes de iniciar el tratamiento los grupos no mostraron diferencias significativas previas en sus características socidemográficas ni en las variables clínicas evaluadas en su medida pre.<br><br>La eficacia diferencial de los programas se evaluó comparando las medidas neuropsicológicas, conductuales y funcionales obtenidas inmediatamente antes de iniciar el programa de entrenamiento con las que presentaban los participantes una vez finalizado este. Entre los resultados obtenidos destacan que el grupo EABB mostró un declive cognitivo significativamente más lento en comparación a los grupos EAPI y EANT. Además, el grupo EABB presentó una reducción de la sintomatología depresiva significativamente mayor que la mostrada por los grupos EAPI y EANT. Los autores concluyen que el programa BBA fue más efectivo que el PPI para reducir el declive cognitivo y los síntomas depresivos en los pacientes con EA.<br><br>La/s variable/s independiente/s es/son:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El tipo de entrenamiento cognitivo.",
+                "correct": true
+            },
+            {
+                "text": "El declive cognitivo y los síntomas depresivos."
+            },
+            {
+                "text": "La enfermedad de Alzheimer."
+            }
+        ]
+    },
+    {
+        "text": "Los procedimientos de control ciego y doble ciego están orientados a:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Asegurar la validez externa de las conclusiones de un estudio evitando el riesgo de interacción del tratamiento con las características de la muestra."
+            },
+            {
+                "text": "Evitar el posible el sesgo en las medidas de los participantes por efecto de su reactividad.",
+                "correct": true
+            },
+            {
+                "text": "Garantizar la composición equilibrada y equivalente de los grupos."
+            }
+        ]
+    },
+    {
+        "text": "El registro del número de veces, en la sesión de observación, que tras la ocurrencia de una primera conducta determinada tiene lugar otra conducta concreta, dará lugar a la medida denominada:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Frecuencia relativa."
+            },
+            {
+                "text": "Prevalencia de la conducta."
+            },
+            {
+                "text": "Frecuencia de transición.",
+                "correct": true
+            }
+        ]
+    }
+]

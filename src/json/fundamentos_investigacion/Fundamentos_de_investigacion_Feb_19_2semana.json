@@ -1,0 +1,632 @@
+[
+    {
+        "text": "DISEÑO:<br>En un estudio realizado por investigadores norteamericanos e israelíes se comprobó que dar la mano a otra persona alivia su dolor. En dicha investigación también se encontró que el hecho de estar en presencia de la pareja genera cierta sincronización de ondas cerebrales y que esta sincronización aumenta cuando uno de los dos está padeciendo dolor. Los resultados encontrados en estudios previos, muestran además una sincronización en la frecuencia cardíaca y en la respiración cuando se da la mano a la pareja en situación de dolor. Basándose en estos estudios, se realizó la siguiente investigación. Se seleccionaron 21 parejas heterosexuales con edades comprendidas entre los 20 y 30 años que llevaban juntas al menos un año. Se consideraron tres escenarios o situaciones: Escenario A: la pareja está junta, pero sin tocarse, Escenario B: la pareja está junta y cogidos de las manos, Escenario C: los miembros de la pareja están en habitaciones diferentes. En todos los escenarios se aplica un ligero dolor mediante calor a las mujeres de cada pareja. Todas las parejas pasan por los tres escenarios. Se aplicaron las siguientes secuencias de escenarios: ABC, BCA, CAB, de forma que cada secuencia se presentó a un subgrupo de la muestra. En los tres escenarios se registró la actividad cerebral, la frecuencia cardíaca y la respiración de ambos miembros de la pareja. Los resultados encontrados, en consonancia con las investigaciones anteriores, fueron que al estar en presencia de la pareja (Escenario A) se genera sincronización de las ondas cerebrales, frecuencia cardiaca y respiración. Cuando unían sus manos la sincronización aumentaba (Escenario B). Sin embargo, esta sincronización desaparecía cuando estaban en habitaciones diferentes (Escenario C). Según señala el investigador principal, Pavel Goldstein de la Universidad de Colorado Boulder, en la sociedad actual cada vez recurrimos menos a las interacciones físicas con otras personas, pero estas investigaciones ponen en evidencia la importancia del contacto físico para la comunicación e incluso el alivio del dolor. <br><br>¿Cuántas secuencias de tratamientos se podrían utilizar en este estudio?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "3, las que se han utilizado."
+            },
+            {
+                "text": "7, al ser 21 sujetos y 3 tratamientos."
+            },
+            {
+                "text": "6, porque hay tres tratamientos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se produce cambio de nivel cuando los valores de la variable dependiente:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Muestran fluctuaciones a lo largo del tiempo."
+            },
+            {
+                "text": "Muestran un incremento o decremento de forma sistemática a lo largo del tiempo."
+            },
+            {
+                "text": "Cambian de forma brusca.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un estudio realizado por investigadores norteamericanos e israelíes se comprobó que dar la mano a otra persona alivia su dolor. En dicha investigación también se encontró que el hecho de estar en presencia de la pareja genera cierta sincronización de ondas cerebrales y que esta sincronización aumenta cuando uno de los dos está padeciendo dolor. Los resultados encontrados en estudios previos, muestran además una sincronización en la frecuencia cardíaca y en la respiración cuando se da la mano a la pareja en situación de dolor. Basándose en estos estudios, se realizó la siguiente investigación. Se seleccionaron 21 parejas heterosexuales con edades comprendidas entre los 20 y 30 años que llevaban juntas al menos un año. Se consideraron tres escenarios o situaciones: Escenario A: la pareja está junta, pero sin tocarse, Escenario B: la pareja está junta y cogidos de las manos, Escenario C: los miembros de la pareja están en habitaciones diferentes. En todos los escenarios se aplica un ligero dolor mediante calor a las mujeres de cada pareja. Todas las parejas pasan por los tres escenarios. Se aplicaron las siguientes secuencias de escenarios: ABC, BCA, CAB, de forma que cada secuencia se presentó a un subgrupo de la muestra. En los tres escenarios se registró la actividad cerebral, la frecuencia cardíaca y la respiración de ambos miembros de la pareja. Los resultados encontrados, en consonancia con las investigaciones anteriores, fueron que al estar en presencia de la pareja (Escenario A) se genera sincronización de las ondas cerebrales, frecuencia cardiaca y respiración. Cuando unían sus manos la sincronización aumentaba (Escenario B). Sin embargo, esta sincronización desaparecía cuando estaban en habitaciones diferentes (Escenario C). Según señala el investigador principal, Pavel Goldstein de la Universidad de Colorado Boulder, en la sociedad actual cada vez recurrimos menos a las interacciones físicas con otras personas, pero estas investigaciones ponen en evidencia la importancia del contacto físico para la comunicación e incluso el alivio del dolor. <br><br>En este estudio, la unidad muestral la constituye:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las 21 parejas."
+            },
+            {
+                "text": "Cada uno de los participantes."
+            },
+            {
+                "text": "Cada una de las parejas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la investigación de la PEC, el hecho de que el programa fuera llevado a cabo por un tutor distinto en cada grupo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Podría ser una variable extraña.",
+                "correct": true
+            },
+            {
+                "text": "Supone una amenaza a la validez externa de la investigación."
+            },
+            {
+                "text": "Garantiza que no se produzca el efecto del experimentador."
+            }
+        ]
+    },
+    {
+        "text": "La primera etapa en el método científico debe ser:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Establecimiento del procedimiento o plan de recogida de datos."
+            },
+            {
+                "text": "El planteamiento del problema.",
+                "correct": true
+            },
+            {
+                "text": "La formulación de hipótesis."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un estudio realizado por investigadores norteamericanos e israelíes se comprobó que dar la mano a otra persona alivia su dolor. En dicha investigación también se encontró que el hecho de estar en presencia de la pareja genera cierta sincronización de ondas cerebrales y que esta sincronización aumenta cuando uno de los dos está padeciendo dolor. Los resultados encontrados en estudios previos, muestran además una sincronización en la frecuencia cardíaca y en la respiración cuando se da la mano a la pareja en situación de dolor. Basándose en estos estudios, se realizó la siguiente investigación. Se seleccionaron 21 parejas heterosexuales con edades comprendidas entre los 20 y 30 años que llevaban juntas al menos un año. Se consideraron tres escenarios o situaciones: Escenario A: la pareja está junta, pero sin tocarse, Escenario B: la pareja está junta y cogidos de las manos, Escenario C: los miembros de la pareja están en habitaciones diferentes. En todos los escenarios se aplica un ligero dolor mediante calor a las mujeres de cada pareja. Todas las parejas pasan por los tres escenarios. Se aplicaron las siguientes secuencias de escenarios: ABC, BCA, CAB, de forma que cada secuencia se presentó a un subgrupo de la muestra. En los tres escenarios se registró la actividad cerebral, la frecuencia cardíaca y la respiración de ambos miembros de la pareja. Los resultados encontrados, en consonancia con las investigaciones anteriores, fueron que al estar en presencia de la pareja (Escenario A) se genera sincronización de las ondas cerebrales, frecuencia cardiaca y respiración. Cuando unían sus manos la sincronización aumentaba (Escenario B). Sin embargo, esta sincronización desaparecía cuando estaban en habitaciones diferentes (Escenario C). Según señala el investigador principal, Pavel Goldstein de la Universidad de Colorado Boulder, en la sociedad actual cada vez recurrimos menos a las interacciones físicas con otras personas, pero estas investigaciones ponen en evidencia la importancia del contacto físico para la comunicación e incluso el alivio del dolor. <br><br>El diseño utilizado en esta investigación es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Unifactorial intrasujeto.",
+                "correct": true
+            },
+            {
+                "text": "Unifactorial intersujeto."
+            },
+            {
+                "text": "Multigrupo."
+            }
+        ]
+    },
+    {
+        "text": "Las encuestas, tomando como criterio su objetivo, pueden clasificarse en:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Censales y muestrales."
+            },
+            {
+                "text": "Descriptivas y explicativas.",
+                "correct": true
+            },
+            {
+                "text": "Transversales y longitudinales."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un estudio realizado por investigadores norteamericanos e israelíes se comprobó que dar la mano a otra persona alivia su dolor. En dicha investigación también se encontró que el hecho de estar en presencia de la pareja genera cierta sincronización de ondas cerebrales y que esta sincronización aumenta cuando uno de los dos está padeciendo dolor. Los resultados encontrados en estudios previos, muestran además una sincronización en la frecuencia cardíaca y en la respiración cuando se da la mano a la pareja en situación de dolor. Basándose en estos estudios, se realizó la siguiente investigación. Se seleccionaron 21 parejas heterosexuales con edades comprendidas entre los 20 y 30 años que llevaban juntas al menos un año. Se consideraron tres escenarios o situaciones: Escenario A: la pareja está junta, pero sin tocarse, Escenario B: la pareja está junta y cogidos de las manos, Escenario C: los miembros de la pareja están en habitaciones diferentes. En todos los escenarios se aplica un ligero dolor mediante calor a las mujeres de cada pareja. Todas las parejas pasan por los tres escenarios. Se aplicaron las siguientes secuencias de escenarios: ABC, BCA, CAB, de forma que cada secuencia se presentó a un subgrupo de la muestra. En los tres escenarios se registró la actividad cerebral, la frecuencia cardíaca y la respiración de ambos miembros de la pareja. Los resultados encontrados, en consonancia con las investigaciones anteriores, fueron que al estar en presencia de la pareja (Escenario A) se genera sincronización de las ondas cerebrales, frecuencia cardiaca y respiración. Cuando unían sus manos la sincronización aumentaba (Escenario B). Sin embargo, esta sincronización desaparecía cuando estaban en habitaciones diferentes (Escenario C). Según señala el investigador principal, Pavel Goldstein de la Universidad de Colorado Boulder, en la sociedad actual cada vez recurrimos menos a las interacciones físicas con otras personas, pero estas investigaciones ponen en evidencia la importancia del contacto físico para la comunicación e incluso el alivio del dolor. <br><br>La actividad cerebral es una medida de la variable:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Independiente."
+            },
+            {
+                "text": "Extraña controlada."
+            },
+            {
+                "text": "Dependiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la investigación cualitativa se utiliza la triangulación metodológica para:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Obtener los datos textuales, pero no la actividad de los participantes."
+            },
+            {
+                "text": "Contrastar los datos obtenidos a través de diferentes técnicas.",
+                "correct": true
+            },
+            {
+                "text": "Recabar los datos de la entrevista."
+            }
+        ]
+    },
+    {
+        "text": "La pregunta '¿en qué medida se pueden generalizar los resultados obtenidos a otros contextos?', hace referencia a la validez:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Interna."
+            },
+            {
+                "text": "Histórica."
+            },
+            {
+                "text": "Ecológica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes técnicas de control se puede utilizar en un diseño ex post facto?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El emparejamiento de los participantes en variables extrañas relevantes.",
+                "correct": true
+            },
+            {
+                "text": "Contrabalanceo."
+            },
+            {
+                "text": "Asignación aleatoria de los participantes a los grupos."
+            }
+        ]
+    },
+    {
+        "text": "La variabilidad observada en la variable dependiente, debida a la manipulación de la variable independiente, se denomina:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Varianza sistemática primaria.",
+                "correct": true
+            },
+            {
+                "text": "Varianza sistemática secundaria."
+            },
+            {
+                "text": "Varianza total."
+            }
+        ]
+    },
+    {
+        "text": "La variable colores, con los siguientes valores: rojo, azul, verde y amarillo, se considera una variable:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cualitativa.",
+                "correct": true
+            },
+            {
+                "text": "Cuasi-cualitativa."
+            },
+            {
+                "text": "Dicotómica."
+            }
+        ]
+    },
+    {
+        "text": "Una de las ventajas del diseño de series temporales interrumpidas simple es que permite:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Controlar la amenaza debida a la historia."
+            },
+            {
+                "text": "Provocar cambios cíclicos."
+            },
+            {
+                "text": "Evaluar si se está produciendo un efecto de maduración.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un diseño intrasujeto, la influencia del orden de presentación de los tratamientos sobre la respuesta del sujeto se denomina:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Error progresivo.",
+                "correct": true
+            },
+            {
+                "text": "Efecto de los dispositivos experimentales."
+            },
+            {
+                "text": "Error aleatorio."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un estudio realizado por investigadores norteamericanos e israelíes se comprobó que dar la mano a otra persona alivia su dolor. En dicha investigación también se encontró que el hecho de estar en presencia de la pareja genera cierta sincronización de ondas cerebrales y que esta sincronización aumenta cuando uno de los dos está padeciendo dolor. Los resultados encontrados en estudios previos, muestran además una sincronización en la frecuencia cardíaca y en la respiración cuando se da la mano a la pareja en situación de dolor. Basándose en estos estudios, se realizó la siguiente investigación. Se seleccionaron 21 parejas heterosexuales con edades comprendidas entre los 20 y 30 años que llevaban juntas al menos un año. Se consideraron tres escenarios o situaciones: Escenario A: la pareja está junta, pero sin tocarse, Escenario B: la pareja está junta y cogidos de las manos, Escenario C: los miembros de la pareja están en habitaciones diferentes. En todos los escenarios se aplica un ligero dolor mediante calor a las mujeres de cada pareja. Todas las parejas pasan por los tres escenarios. Se aplicaron las siguientes secuencias de escenarios: ABC, BCA, CAB, de forma que cada secuencia se presentó a un subgrupo de la muestra. En los tres escenarios se registró la actividad cerebral, la frecuencia cardíaca y la respiración de ambos miembros de la pareja. Los resultados encontrados, en consonancia con las investigaciones anteriores, fueron que al estar en presencia de la pareja (Escenario A) se genera sincronización de las ondas cerebrales, frecuencia cardiaca y respiración. Cuando unían sus manos la sincronización aumentaba (Escenario B). Sin embargo, esta sincronización desaparecía cuando estaban en habitaciones diferentes (Escenario C). Según señala el investigador principal, Pavel Goldstein de la Universidad de Colorado Boulder, en la sociedad actual cada vez recurrimos menos a las interacciones físicas con otras personas, pero estas investigaciones ponen en evidencia la importancia del contacto físico para la comunicación e incluso el alivio del dolor. <br><br>¿Qué técnica de contrabalanceo se ha utilizado?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aleatorio."
+            },
+            {
+                "text": "Completo."
+            },
+            {
+                "text": "Con estructura de cuadrado latino.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la metodología observacional, la decisión sobre 'Qué observar' está relacionada con:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El registro de las conductas."
+            },
+            {
+                "text": "La elaboración de un sistema de categorías.",
+                "correct": true
+            },
+            {
+                "text": "El muestreo de la conducta del individuo."
+            }
+        ]
+    },
+    {
+        "text": "Pregunta sobre la PEC. ¿Cuál sería la formulación de la hipótesis nula correspondiente a la siguiente hipótesis de trabajo?: 'Los estudiantes del grupo experimental, en relación al control, una vez finalizada la intervención, mostrará en el postest un mayor conocimiento de estrategias de aprendizaje':",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los estudiantes del grupo experimental, una vez finalizada la intervención, mostrará en el postest un menor conocimiento de estrategias de aprendizaje que el grupo de control."
+            },
+            {
+                "text": "Los estudiantes del grupo experimental, una vez finalizada la intervención, mostraran el mismo nivel de conocimiento de las estrategias de aprendizaje que los del grupo de control.",
+                "correct": true
+            },
+            {
+                "text": "Los estudiantes del grupo experimental, una vez finalizada la intervención, mostraran un mayor conocimiento de estrategias de aprendizaje que en la medida pretest."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un estudio realizado por investigadores norteamericanos e israelíes se comprobó que dar la mano a otra persona alivia su dolor. En dicha investigación también se encontró que el hecho de estar en presencia de la pareja genera cierta sincronización de ondas cerebrales y que esta sincronización aumenta cuando uno de los dos está padeciendo dolor. Los resultados encontrados en estudios previos, muestran además una sincronización en la frecuencia cardíaca y en la respiración cuando se da la mano a la pareja en situación de dolor. Basándose en estos estudios, se realizó la siguiente investigación. Se seleccionaron 21 parejas heterosexuales con edades comprendidas entre los 20 y 30 años que llevaban juntas al menos un año. Se consideraron tres escenarios o situaciones: Escenario A: la pareja está junta, pero sin tocarse, Escenario B: la pareja está junta y cogidos de las manos, Escenario C: los miembros de la pareja están en habitaciones diferentes. En todos los escenarios se aplica un ligero dolor mediante calor a las mujeres de cada pareja. Todas las parejas pasan por los tres escenarios. Se aplicaron las siguientes secuencias de escenarios: ABC, BCA, CAB, de forma que cada secuencia se presentó a un subgrupo de la muestra. En los tres escenarios se registró la actividad cerebral, la frecuencia cardíaca y la respiración de ambos miembros de la pareja. Los resultados encontrados, en consonancia con las investigaciones anteriores, fueron que al estar en presencia de la pareja (Escenario A) se genera sincronización de las ondas cerebrales, frecuencia cardiaca y respiración. Cuando unían sus manos la sincronización aumentaba (Escenario B). Sin embargo, esta sincronización desaparecía cuando estaban en habitaciones diferentes (Escenario C). Según señala el investigador principal, Pavel Goldstein de la Universidad de Colorado Boulder, en la sociedad actual cada vez recurrimos menos a las interacciones físicas con otras personas, pero estas investigaciones ponen en evidencia la importancia del contacto físico para la comunicación e incluso el alivio del dolor. <br><br>¿Puede considerarse que en esta investigación se está controlando el efecto de orden? :",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sí, porque se aplican tres secuencias de tratamientos diferentes.",
+                "correct": true
+            },
+            {
+                "text": "No, porque todas las parejas pasan por los tres escenarios."
+            },
+            {
+                "text": "Sí, porque se utilizan tres escenarios diferentes."
+            }
+        ]
+    },
+    {
+        "text": "La investigación psicológica debe guiarse por consideraciones éticas, asegurando el anonimato de los participantes. Esto quiere decir que se debe garantizar que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La identidad del participante no se revelará nunca al publicarse los resultados.",
+                "correct": true
+            },
+            {
+                "text": "El participante pueda renunciar a intervenir en la investigación."
+            },
+            {
+                "text": "Los resultados no serán publicados sin el consentimiento de los participantes."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál sería el diseño de caso único más adecuado cuando se quiere disminuir el número de conductas utilizando un programa de refuerzo?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De cambio de criterio.",
+                "correct": true
+            },
+            {
+                "text": "B-A-B."
+            },
+            {
+                "text": "A-B."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la principal amenaza a la validez interna relacionada con la formación no aleatoria de los grupos?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Regresión estad ística."
+            },
+            {
+                "text": "Selección diferencial.",
+                "correct": true
+            },
+            {
+                "text": "Administración de pruebas."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños unifactoriales se caracterizan fundamentalmente porque:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estudian el influjo de una sola variable independiente sobre la dependiente.",
+                "correct": true
+            },
+            {
+                "text": "Los grupos están formados por sujetos diferentes."
+            },
+            {
+                "text": "Se basan en la equivalencia inicial de los grupos."
+            }
+        ]
+    },
+    {
+        "text": "La interacción historia x tratamiento es una amenaza relacionada con la validez:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ecológica."
+            },
+            {
+                "text": "Histórica.",
+                "correct": true
+            },
+            {
+                "text": "Poblacional."
+            }
+        ]
+    },
+    {
+        "text": "El diseño prospectivo complejo se caracteriza por:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El estudio del efecto de más de una variable independiente.",
+                "correct": true
+            },
+            {
+                "text": "El estudio del efecto de una variable independiente que ha ocurrido ya."
+            },
+            {
+                "text": "Que tanto la variable dependiente como la independiente han ocurrido ya."
+            }
+        ]
+    },
+    {
+        "text": "Cuando en una investigación se trabaja con variables poco estudiadas y se desconoce el tipo de relación entre ellas (lineal o curvilínea) se debe utilizar:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Muchos valores de la variable independiente para evitar llegar a conclusiones erróneas sobre su efectividad.",
+                "correct": true
+            },
+            {
+                "text": "Únicamente valores extremos de la variable independiente para incrementar su efecto."
+            },
+            {
+                "text": "Sólo valores intermedios de la variable independiente para detectar mejor su efecto."
+            }
+        ]
+    },
+    {
+        "text": "En un cuestionario la pregunta '¿Qué clase de programas de televisión ve con mayor frecuencia? a) películas, b) series, c) informativos, d) Otros. Especifique______', se considera:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Semiabierta.",
+                "correct": true
+            },
+            {
+                "text": "Abierta."
+            },
+            {
+                "text": "Cerrada."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un estudio realizado por investigadores norteamericanos e israelíes se comprobó que dar la mano a otra persona alivia su dolor. En dicha investigación también se encontró que el hecho de estar en presencia de la pareja genera cierta sincronización de ondas cerebrales y que esta sincronización aumenta cuando uno de los dos está padeciendo dolor. Los resultados encontrados en estudios previos, muestran además una sincronización en la frecuencia cardíaca y en la respiración cuando se da la mano a la pareja en situación de dolor. Basándose en estos estudios, se realizó la siguiente investigación. Se seleccionaron 21 parejas heterosexuales con edades comprendidas entre los 20 y 30 años que llevaban juntas al menos un año. Se consideraron tres escenarios o situaciones: Escenario A: la pareja está junta, pero sin tocarse, Escenario B: la pareja está junta y cogidos de las manos, Escenario C: los miembros de la pareja están en habitaciones diferentes. En todos los escenarios se aplica un ligero dolor mediante calor a las mujeres de cada pareja. Todas las parejas pasan por los tres escenarios. Se aplicaron las siguientes secuencias de escenarios: ABC, BCA, CAB, de forma que cada secuencia se presentó a un subgrupo de la muestra. En los tres escenarios se registró la actividad cerebral, la frecuencia cardíaca y la respiración de ambos miembros de la pareja. Los resultados encontrados, en consonancia con las investigaciones anteriores, fueron que al estar en presencia de la pareja (Escenario A) se genera sincronización de las ondas cerebrales, frecuencia cardiaca y respiración. Cuando unían sus manos la sincronización aumentaba (Escenario B). Sin embargo, esta sincronización desaparecía cuando estaban en habitaciones diferentes (Escenario C). Según señala el investigador principal, Pavel Goldstein de la Universidad de Colorado Boulder, en la sociedad actual cada vez recurrimos menos a las interacciones físicas con otras personas, pero estas investigaciones ponen en evidencia la importancia del contacto físico para la comunicación e incluso el alivio del dolor. <br><br>Para que la aplicación de dolor no sea considerado un problema ético:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los efectos negativos derivados de su aplicación deben ser consentidos por la pareja del que se le va a aplicar."
+            },
+            {
+                "text": "El investigador debe informar sobre la utilidad de la investigación."
+            },
+            {
+                "text": "El investigador debe ofrecer la información completa respecto al nivel probable de incomodidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños de discontinuidad en la regresión:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Al igual que en todos los diseños cuasiexperimentales, se trabaja con grupos ya formados."
+            },
+            {
+                "text": "La variable con la que se mide el pretest tiene que ser una variable continua.",
+                "correct": true
+            },
+            {
+                "text": "Se puede descartar la influencia de la amenaza debida a la interacción entre el tratamiento y la maduración."
+            }
+        ]
+    },
+    {
+        "text": "El contrabalanceo intrasujeto consiste en:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Administrar distintas secuencias de tratamientos a cada sujeto de forma aleatoria."
+            },
+            {
+                "text": "Que cada sujeto recibe los tratamientos en un determinado orden en primer lugar y en el orden inverso en segundo lugar.",
+                "correct": true
+            },
+            {
+                "text": "Que cada sujeto recibe todas las permutaciones posibles de los órdenes de los tratamientos."
+            }
+        ]
+    }
+]

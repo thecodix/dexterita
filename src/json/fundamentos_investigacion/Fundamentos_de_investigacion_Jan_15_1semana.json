@@ -1,0 +1,632 @@
+[
+    {
+        "text": "En los diseños de bloques aleatorios incompletos:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cada bloque constituye una réplica exacta del experimento."
+            },
+            {
+                "text": "El número de bloques en cada variable de bloqueo tiene que ser igual que el número de condiciones experimentales."
+            },
+            {
+                "text": "Se aplican sólo algunas condiciones dentro de cada bloque.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los niños que presentan Trastorno del Espectro del Autismo (TEA) pueden estar escolarizados en centros ordinarios, en los cuales comparten espacios de aprendizaje y juego con niños de de autismo, donde solamente interactúan con niños con TEA. Se plantea una investigación para comprobar el nivel de interacción social que presentan los niños con TEA que acuden a un tipo de centro educativo u otro. Esto permitirá proporcionar a los padres o tutores y profesionales algo más de información al respecto. Para ello se seleccionan niños con TEA de entre 5 y 6 años residentes en la Comunidad Valenciana que en el momento de iniciarse el estudio van a comenzar su primer curso de primaria en un centro escolar: ordinario o específico. Como criterio de inclusión en la muestra, se comprueba que todos los niños compartan el mismo (o muy similar) diagnóstico de TEA, que presenten un cociente intelectual similar, que no tengan hermanos y que no presenten otros tipos de trastornos. Todos los niños son grabados en el momento del recreo, en el comedor y durante la clase de educación física durante todo el curso escolar, dos veces al mes. En las hojas de registro se mide el número de veces que inician y reciben interacción, duración de la interacción, tipo de expresión emocional, tipo de juego (individual o colectivo), etc. Con todo ello se obtiene el nivel de interacción social. Los resultados muestran que el nivel de interacción social en los niños que acuden a centros ordinarios es mayor que el de los niños que acuden a centros específicos.<br><br>La variable dependiente es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Diagnóstico de TEA."
+            },
+            {
+                "text": "Tipo de centro al que acuden."
+            },
+            {
+                "text": "El nivel de interacción social.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños de cohortes se puede considerar que la equivalencia entre los grupos es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mayor que en el diseño de pretest postest con grupo de control no equivalente.",
+                "correct": true
+            },
+            {
+                "text": "Menor que en el diseño de pretest postest con grupo de control no equivalente."
+            },
+            {
+                "text": "Similar a la que se consigue con el diseño experimental de dos grupos aleatorios."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los niños que presentan Trastorno del Espectro del Autismo (TEA) pueden estar escolarizados en centros ordinarios, en los cuales comparten espacios de aprendizaje y juego con niños de de autismo, donde solamente interactúan con niños con TEA. Se plantea una investigación para comprobar el nivel de interacción social que presentan los niños con TEA que acuden a un tipo de centro educativo u otro. Esto permitirá proporcionar a los padres o tutores y profesionales algo más de información al respecto. Para ello se seleccionan niños con TEA de entre 5 y 6 años residentes en la Comunidad Valenciana que en el momento de iniciarse el estudio van a comenzar su primer curso de primaria en un centro escolar: ordinario o específico. Como criterio de inclusión en la muestra, se comprueba que todos los niños compartan el mismo (o muy similar) diagnóstico de TEA, que presenten un cociente intelectual similar, que no tengan hermanos y que no presenten otros tipos de trastornos. Todos los niños son grabados en el momento del recreo, en el comedor y durante la clase de educación física durante todo el curso escolar, dos veces al mes. En las hojas de registro se mide el número de veces que inician y reciben interacción, duración de la interacción, tipo de expresión emocional, tipo de juego (individual o colectivo), etc. Con todo ello se obtiene el nivel de interacción social. Los resultados muestran que el nivel de interacción social en los niños que acuden a centros ordinarios es mayor que el de los niños que acuden a centros específicos.<br><br>El que todos los niños compartan el mismo (o muy similar) diagnóstico de TEA, es una técnica de control por:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Constancia.",
+                "correct": true
+            },
+            {
+                "text": "Contrabalanceo."
+            },
+            {
+                "text": "Historia local."
+            }
+        ]
+    },
+    {
+        "text": "Un variable con nivel de medida ordinal es de tipo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cualitativa."
+            },
+            {
+                "text": "Cuantitativa."
+            },
+            {
+                "text": "Cuasi cuantitativa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los niños que presentan Trastorno del Espectro del Autismo (TEA) pueden estar escolarizados en centros ordinarios, en los cuales comparten espacios de aprendizaje y juego con niños de de autismo, donde solamente interactúan con niños con TEA. Se plantea una investigación para comprobar el nivel de interacción social que presentan los niños con TEA que acuden a un tipo de centro educativo u otro. Esto permitirá proporcionar a los padres o tutores y profesionales algo más de información al respecto. Para ello se seleccionan niños con TEA de entre 5 y 6 años residentes en la Comunidad Valenciana que en el momento de iniciarse el estudio van a comenzar su primer curso de primaria en un centro escolar: ordinario o específico. Como criterio de inclusión en la muestra, se comprueba que todos los niños compartan el mismo (o muy similar) diagnóstico de TEA, que presenten un cociente intelectual similar, que no tengan hermanos y que no presenten otros tipos de trastornos. Todos los niños son grabados en el momento del recreo, en el comedor y durante la clase de educación física durante todo el curso escolar, dos veces al mes. En las hojas de registro se mide el número de veces que inician y reciben interacción, duración de la interacción, tipo de expresión emocional, tipo de juego (individual o colectivo), etc. Con todo ello se obtiene el nivel de interacción social. Los resultados muestran que el nivel de interacción social en los niños que acuden a centros ordinarios es mayor que el de los niños que acuden a centros específicos.<br><br>El número de veces que inician y reciben interacción proporciona una medida de la variable:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Independiente."
+            },
+            {
+                "text": "De emparejamiento."
+            },
+            {
+                "text": "Dependiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En metodología observacional, la cuestión relacionada con cómo observar tiene que ver con el:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Establecimiento del sistema de categorías."
+            },
+            {
+                "text": "Muestreo."
+            },
+            {
+                "text": "Registro.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los artículos de reseña o recesión:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Realizan una revisión exhaustiva de los conocimientos existentes sobre un problema determinado.",
+                "correct": true
+            },
+            {
+                "text": "Solo presentan información empírica cuando afecta a aspectos teóricos."
+            },
+            {
+                "text": "Son estudios empíricos con los apartados del proceso de investigación."
+            }
+        ]
+    },
+    {
+        "text": "Los catálogos son fuentes de información:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Terciarias."
+            },
+            {
+                "text": "Primarias."
+            },
+            {
+                "text": "Secundarias.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En observación, el registro activado por transiciones de conducta (RAT) proporciona un registro:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Discontinuo y una información incompleta."
+            },
+            {
+                "text": "Continuo siempre y cuando el muestreo sea de barrido multifocal."
+            },
+            {
+                "text": "Continuo y completo de las conductas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de cambio de criterio, para comprobar el efecto del tratamiento:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se tiene que detectar el cambio en la última fase de introducción del tratamiento."
+            },
+            {
+                "text": "El cambio de criterio debe ir seguido de cambio en la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Tienen que producirse cambios en la línea base de cada una de las conductas evaluadas."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los niños que presentan Trastorno del Espectro del Autismo (TEA) pueden estar escolarizados en centros ordinarios, en los cuales comparten espacios de aprendizaje y juego con niños de de autismo, donde solamente interactúan con niños con TEA. Se plantea una investigación para comprobar el nivel de interacción social que presentan los niños con TEA que acuden a un tipo de centro educativo u otro. Esto permitirá proporcionar a los padres o tutores y profesionales algo más de información al respecto. Para ello se seleccionan niños con TEA de entre 5 y 6 años residentes en la Comunidad Valenciana que en el momento de iniciarse el estudio van a comenzar su primer curso de primaria en un centro escolar: ordinario o específico. Como criterio de inclusión en la muestra, se comprueba que todos los niños compartan el mismo (o muy similar) diagnóstico de TEA, que presenten un cociente intelectual similar, que no tengan hermanos y que no presenten otros tipos de trastornos. Todos los niños son grabados en el momento del recreo, en el comedor y durante la clase de educación física durante todo el curso escolar, dos veces al mes. En las hojas de registro se mide el número de veces que inician y reciben interacción, duración de la interacción, tipo de expresión emocional, tipo de juego (individual o colectivo), etc. Con todo ello se obtiene el nivel de interacción social. Los resultados muestran que el nivel de interacción social en los niños que acuden a centros ordinarios es mayor que el de los niños que acuden a centros específicos.<br><br>El tipo de diseño es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuasiexperimental con grupo de control no equivalente."
+            },
+            {
+                "text": "Experimental de dos grupos aleatorios."
+            },
+            {
+                "text": "Ex post facto prospectivo simple.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si se quiere evaluar el cambio neto que se produce en una población bajo unas determinadas condiciones, se utilizaría una encuesta con diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De panel."
+            },
+            {
+                "text": "De series temporales.",
+                "correct": true
+            },
+            {
+                "text": "Censal."
+            }
+        ]
+    },
+    {
+        "text": "En los diseños de caso único, se considera que se produce cambio de tendencia cuando se origina:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un cambio abrupto en la serie de observaciones al finalizar la línea base."
+            },
+            {
+                "text": "Un cambio en la tasa de incremento o decremento en la serie de observaciones.",
+                "correct": true
+            },
+            {
+                "text": "Una discontinuidad en la serie de observaciones."
+            }
+        ]
+    },
+    {
+        "text": "En un cuestionario, el tipo de preguntas denominadas de escalas de categorías consiste en preguntas:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Abiertas que suponen un trabajo posterior de categorización."
+            },
+            {
+                "text": "De elección múltiple que constan de un enunciado y un conjunto de categorías.",
+                "correct": true
+            },
+            {
+                "text": "Cerradas en las que el sujeto debe señalar aquellos elementos que pregunta."
+            }
+        ]
+    },
+    {
+        "text": "El diseño prospectivo de grupo único:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se selecciona una muestra de sujetos en los que están presentes todos los valores de las variables independientes.",
+                "correct": true
+            },
+            {
+                "text": "Tiene una sola variable dependiente y se selecciona a los sujetos por sus valores en ella."
+            },
+            {
+                "text": "Está formado por un grupo único para cada valor de la variable independiente."
+            }
+        ]
+    },
+    {
+        "text": "Los problemas de investigación:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No deben generar nuevos problemas de investigación."
+            },
+            {
+                "text": "Deben conducir a nuevos interrogantes.",
+                "correct": true
+            },
+            {
+                "text": "Deben plantearse independientemente de su viabilidad."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio que se utiliza un muestreo estratificado afijación aleatorio con proporcional, se selecciona:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A los participantes considerando el peso que cada estrato tiene en la población.",
+                "correct": true
+            },
+            {
+                "text": "La muestra teniendo en cuenta la homogeneidad-heterogeneidad de la población."
+            },
+            {
+                "text": "El mismo número de participantes dentro de cada estrato."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los niños que presentan Trastorno del Espectro del Autismo (TEA) pueden estar escolarizados en centros ordinarios, en los cuales comparten espacios de aprendizaje y juego con niños de de autismo, donde solamente interactúan con niños con TEA. Se plantea una investigación para comprobar el nivel de interacción social que presentan los niños con TEA que acuden a un tipo de centro educativo u otro. Esto permitirá proporcionar a los padres o tutores y profesionales algo más de información al respecto. Para ello se seleccionan niños con TEA de entre 5 y 6 años residentes en la Comunidad Valenciana que en el momento de iniciarse el estudio van a comenzar su primer curso de primaria en un centro escolar: ordinario o específico. Como criterio de inclusión en la muestra, se comprueba que todos los niños compartan el mismo (o muy similar) diagnóstico de TEA, que presenten un cociente intelectual similar, que no tengan hermanos y que no presenten otros tipos de trastornos. Todos los niños son grabados en el momento del recreo, en el comedor y durante la clase de educación física durante todo el curso escolar, dos veces al mes. En las hojas de registro se mide el número de veces que inician y reciben interacción, duración de la interacción, tipo de expresión emocional, tipo de juego (individual o colectivo), etc. Con todo ello se obtiene el nivel de interacción social. Los resultados muestran que el nivel de interacción social en los niños que acuden a centros ordinarios es mayor que el de los niños que acuden a centros específicos.<br><br>La variable independiente:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En este tipo de estudio se denomina variable criterio."
+            },
+            {
+                "text": "Es de selección de valores.",
+                "correct": true
+            },
+            {
+                "text": "Es de manipulación intencional."
+            }
+        ]
+    },
+    {
+        "text": "Para conseguir el objetivo de controlar la varianza sistemática secundaria se deben:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Utilizar técnicas de control como la aleatorización, constancia o eliminación.",
+                "correct": true
+            },
+            {
+                "text": "Elegir los valores de la variable independiente más adecuados para producir cambios en la variable dependiente."
+            },
+            {
+                "text": "Seleccionar muestras pequeñas."
+            }
+        ]
+    },
+    {
+        "text": "En metodología cualitativa, el objetivo de un estudio de caso intrínseco es estudiar el caso porque:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permite reflexionar sobre la teoría."
+            },
+            {
+                "text": "Representa a otros casos."
+            },
+            {
+                "text": "Es interesante.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Los niños que presentan Trastorno del Espectro del Autismo (TEA) pueden estar escolarizados en centros ordinarios, en los cuales comparten espacios de aprendizaje y juego con niños de de autismo, donde solamente interactúan con niños con TEA. Se plantea una investigación para comprobar el nivel de interacción social que presentan los niños con TEA que acuden a un tipo de centro educativo u otro. Esto permitirá proporcionar a los padres o tutores y profesionales algo más de información al respecto. Para ello se seleccionan niños con TEA de entre 5 y 6 años residentes en la Comunidad Valenciana que en el momento de iniciarse el estudio van a comenzar su primer curso de primaria en un centro escolar: ordinario o específico. Como criterio de inclusión en la muestra, se comprueba que todos los niños compartan el mismo (o muy similar) diagnóstico de TEA, que presenten un cociente intelectual similar, que no tengan hermanos y que no presenten otros tipos de trastornos. Todos los niños son grabados en el momento del recreo, en el comedor y durante la clase de educación física durante todo el curso escolar, dos veces al mes. En las hojas de registro se mide el número de veces que inician y reciben interacción, duración de la interacción, tipo de expresión emocional, tipo de juego (individual o colectivo), etc. Con todo ello se obtiene el nivel de interacción social. Los resultados muestran que el nivel de interacción social en los niños que acuden a centros ordinarios es mayor que el de los niños que acuden a centros específicos.<br><br>La variable independiente es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El nivel de interacción social."
+            },
+            {
+                "text": "El tipo de centro al que acuden.",
+                "correct": true
+            },
+            {
+                "text": "Estar diagnosticado de TEA."
+            }
+        ]
+    },
+    {
+        "text": "Uno de los requisitos que debe cumplir el método experimental es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección aleatoria de la muestra."
+            },
+            {
+                "text": "La utilización, como mínimo de tres condiciones experimentales."
+            },
+            {
+                "text": "Que al menos una variable independiente sea de manipulación intencional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la fase de explotación de la encuesta se lleva a cabo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El proceso de codificación y registro.",
+                "correct": true
+            },
+            {
+                "text": "El diseño del estudio."
+            },
+            {
+                "text": "La especificación de los objetivos."
+            }
+        ]
+    },
+    {
+        "text": "Un diseño experimental que nos puede dar información sobre el tipo de relación (lineal o no lineal) entre la variable independiente y la dependiente es el:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De bloques."
+            },
+            {
+                "text": "Factorial 2x2."
+            },
+            {
+                "text": "Multigrupo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Con la técnica de simple ciego se controla la amenaza a la validez debida a la:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Instrumentación."
+            },
+            {
+                "text": "Selección diferencial."
+            },
+            {
+                "text": "Características de la demanda de la situación experimental.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El diseño simple de series temporales interrumpidas tiene la ventaja de que se:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lleva a cabo en un solo momento temporal, por lo que es menos costoso en tiempo que los control no equivalente."
+            },
+            {
+                "text": "Puede descartar la amenaza a la validez interna debida a la historia."
+            },
+            {
+                "text": "Puede evaluar si se está produciendo un efecto de maduración.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las características de la investigación cualitativa es que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No es participativa."
+            },
+            {
+                "text": "Sigue un proceso deductivo de conocimiento."
+            },
+            {
+                "text": "Es holística.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La técnica de emparejamiento o equiparación consiste en conseguir grupos equivalentes asignando participantes:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Con puntuaciones similares en una variable extraña muy relacionada con la dependiente."
+            },
+            {
+                "text": "Con puntuaciones similares en la variable de bloqueo."
+            },
+            {
+                "text": "Que posean la misma puntuación en una variable extraña muy relacionada con la dependiente",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La no espuriedad para el establecimiento de relaciones causales se refiere a que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los cambios ocurridos en la variable dependiente no puedan atribuirse a variables extrañas.",
+                "correct": true
+            },
+            {
+                "text": "La muestra se haya seleccionado aleatoriamente."
+            },
+            {
+                "text": "Debe existir contigüidad temporal entre VI-VD."
+            }
+        ]
+    }
+]

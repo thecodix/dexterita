@@ -1,0 +1,632 @@
+[
+    {
+        "text": "La falta de equivalencia entre los grupos que afecta a la validez interna puede darse cuando:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La muestra no se ha seleccionado aleatoriamente, independientemente de su tamaño."
+            },
+            {
+                "text": "Los grupos, a pesar de ser grandes, se han formado aleatoriamente."
+            },
+            {
+                "text": "La mortalidad experimental afecta a un solo grupo y el número de sujetos que lo forman es pequeño.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La validez de constructo hace referencia al grado de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Correspondencia entre la manipulación de la variable independiente y la medida de la variable dependiente, por un lado, y el constructo teórico que se pretende estudiar o medir, por el otro.",
+                "correct": true
+            },
+            {
+                "text": "Probabilidad de obtener conclusiones correctas acerca del efecto de la variable independiente sobre la variable dependiente."
+            },
+            {
+                "text": "Generalización de los resultados de una investigación a poblaciones, a situaciones, o a momentos temporales diferentes a los utilizados en esa investigación."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes alternativas es correcta?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La variable de bloqueo se diferencia de la medida pretratamiento en que la primera se mide antes de la formación de los grupos y tiene como objetivo poder asegurar la equivalencia de éstos y la segunda se toma cuando los grupos ya están formados y su objetivo es comprobar que estos son equivalentes.",
+                "correct": true
+            },
+            {
+                "text": "En un diseño de grupos apareados o equiparados los sujetos de un bloque son todos diferentes entre sí y similares a los sujetos de otro bloque en la variable de apareo o variable equiparada."
+            },
+            {
+                "text": "La ventaja principal de la técnica de bloqueo es que evita los problemas de validez externa y de constructo."
+            }
+        ]
+    },
+    {
+        "text": "Un diseño Solomon:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es el resultado de dos grupos aleatorios, uno con medida solo pre y otro con medida pre y postratamiento."
+            },
+            {
+                "text": "Suele ser intrasujeto."
+            },
+            {
+                "text": "Se caracteriza porque permite estudiar la posible interacción entre la medida pre y el tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños de línea base múltiple entre conductas, se:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Registran diferentes líneas base de la conducta más susceptible de ser modificada por el tratamiento."
+            },
+            {
+                "text": "Aplican secuencialmente diferentes tratamientos a conductas interrelacionadas de un mismo sujeto."
+            },
+            {
+                "text": "Considera que el tratamiento ha tenido efecto cuando tras su aplicación, se da un cambio en la conducta tratada mientras que el resto de las conductas permanecen relativamente estables.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un centro de adelgazamiento están preocupados porque piensan que el ejercicio físico puede no ser adecuado para adelgazar, ya que las personas que practican algún tipo de deporte suelen comer después de haber terminado su sesión deportiva. Esta ingesta supone un aporte calórico que normalmente supera con creces las calorías quemadas por del ejercicio realizado. Para determinar empíricamente lo beneficioso que pueda ser el deporte en relación con la pérdida de peso, deciden llevar a cabo una investigación con participantes voluntarios seleccionados entre las personas que acuden por primera vez a dicho centro. Primero, seleccionan a un grupo de mujeres y otro de hombres con pesos similares. Cada uno de estos dos grupos iniciales, es dividido aleatoriamente en dos subgrupos: a uno de ellos, se le da una tabla de ejercicios, tanto aeróbicos como anaeróbicos, que deben completar cada día y, al otro, se le da la misma tabla pero deben realizar los ejercicios solo los fines de semana. Por otro lado, a la mitad de los participantes de cada subgrupo se les entrega, también de forma aleatoria, además de la tabla de ejercicios, una dieta en la que se indica qué alimentos deben tomar en cada comida, en qué cantidades y cómo deben estar cocinados. Del análisis de los datos se deduce que: 1) el ejercicio diario conduce a una disminución del peso que no se produce cuando sólo se hace los fines de semana, 2) cuando se considera únicamente a los participantes que realizan ejercicio diariamente, los hombres disminuyen más peso que las mujeres, pero esta diferencia no se produce entre los participantes que realizan ejercicio sólo los fines de semana, 3) cuando se tiene en cuenta únicamente a los participantes que realizan ejercicio diariamente, se observa una disminución de peso mayor en los participantes que siguen la dieta en comparación con los que no la siguen, pero esta disminución no se observa en los participantes que realizan ejercicio sólo los fines de semana (Ruiz, 1994).<br><br>Este estudio se considera:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuasiexperimental porque la muestra no se selecciona de forma aleatoria."
+            },
+            {
+                "text": "Ex post facto porque una de las variables independientes es de selección de valores."
+            },
+            {
+                "text": "Experimental porque a pesar de que la muestra no se selecciona aleatoriamente, se utiliza la manipulación intencional de al menos una variable independiente y técnicas de control.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un centro de adelgazamiento están preocupados porque piensan que el ejercicio físico puede no ser adecuado para adelgazar, ya que las personas que practican algún tipo de deporte suelen comer después de haber terminado su sesión deportiva. Esta ingesta supone un aporte calórico que normalmente supera con creces las calorías quemadas por del ejercicio realizado. Para determinar empíricamente lo beneficioso que pueda ser el deporte en relación con la pérdida de peso, deciden llevar a cabo una investigación con participantes voluntarios seleccionados entre las personas que acuden por primera vez a dicho centro. Primero, seleccionan a un grupo de mujeres y otro de hombres con pesos similares. Cada uno de estos dos grupos iniciales, es dividido aleatoriamente en dos subgrupos: a uno de ellos, se le da una tabla de ejercicios, tanto aeróbicos como anaeróbicos, que deben completar cada día y, al otro, se le da la misma tabla pero deben realizar los ejercicios solo los fines de semana. Por otro lado, a la mitad de los participantes de cada subgrupo se les entrega, también de forma aleatoria, además de la tabla de ejercicios, una dieta en la que se indica qué alimentos deben tomar en cada comida, en qué cantidades y cómo deben estar cocinados. Del análisis de los datos se deduce que: 1) el ejercicio diario conduce a una disminución del peso que no se produce cuando sólo se hace los fines de semana, 2) cuando se considera únicamente a los participantes que realizan ejercicio diariamente, los hombres disminuyen más peso que las mujeres, pero esta diferencia no se produce entre los participantes que realizan ejercicio sólo los fines de semana, 3) cuando se tiene en cuenta únicamente a los participantes que realizan ejercicio diariamente, se observa una disminución de peso mayor en los participantes que siguen la dieta en comparación con los que no la siguen, pero esta disminución no se observa en los participantes que realizan ejercicio sólo los fines de semana (Ruiz, 1994).<br><br>En este estudio, todas las variables independientes utilizadas han sido:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intersujeto.",
+                "correct": true
+            },
+            {
+                "text": "De manipulación intencional."
+            },
+            {
+                "text": "Intrasujeto."
+            }
+        ]
+    },
+    {
+        "text": "El primer paso que se sigue en el método científico es la:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Formulación de hipótesis científicas."
+            },
+            {
+                "text": "Definición del problema objeto de estudio.",
+                "correct": true
+            },
+            {
+                "text": "Elaboración de un plan de recogida de datos."
+            }
+        ]
+    },
+    {
+        "text": "El método:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Inductivo parte de la observación de la realidad para acumular datos, ordenarlos y establecer a partir de ellos conclusiones o leyes generales aplicables a todo el conjunto de observaciones.",
+                "correct": true
+            },
+            {
+                "text": "Deductivo parte de un conjunto de axiomas a los que se llega por un proceso de razonamiento apoyado en observaciones empíricas y establece un conjunto de leyes a partir de las cuales se realizan deducciones lógicas aplicables a los datos reales."
+            },
+            {
+                "text": "Hipotético-deductivo parte de hipótesis teóricas para deducir las leyes que rigen la naturaleza."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños evolutivos longitudinales:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estudian las diferencias en una muestra de sujetos con diferentes edades en el mismo momento temporal."
+            },
+            {
+                "text": "Registran datos de una misma muestra de sujetos en sucesivas ocasiones a lo largo del tiempo con el objetivo de estudiar el cambio debido a la edad.",
+                "correct": true
+            },
+            {
+                "text": "Son un tipo de diseños ex post facto retrospectivo que utilizan como variable independiente la edad."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un centro de adelgazamiento están preocupados porque piensan que el ejercicio físico puede no ser adecuado para adelgazar, ya que las personas que practican algún tipo de deporte suelen comer después de haber terminado su sesión deportiva. Esta ingesta supone un aporte calórico que normalmente supera con creces las calorías quemadas por del ejercicio realizado. Para determinar empíricamente lo beneficioso que pueda ser el deporte en relación con la pérdida de peso, deciden llevar a cabo una investigación con participantes voluntarios seleccionados entre las personas que acuden por primera vez a dicho centro. Primero, seleccionan a un grupo de mujeres y otro de hombres con pesos similares. Cada uno de estos dos grupos iniciales, es dividido aleatoriamente en dos subgrupos: a uno de ellos, se le da una tabla de ejercicios, tanto aeróbicos como anaeróbicos, que deben completar cada día y, al otro, se le da la misma tabla pero deben realizar los ejercicios solo los fines de semana. Por otro lado, a la mitad de los participantes de cada subgrupo se les entrega, también de forma aleatoria, además de la tabla de ejercicios, una dieta en la que se indica qué alimentos deben tomar en cada comida, en qué cantidades y cómo deben estar cocinados. Del análisis de los datos se deduce que: 1) el ejercicio diario conduce a una disminución del peso que no se produce cuando sólo se hace los fines de semana, 2) cuando se considera únicamente a los participantes que realizan ejercicio diariamente, los hombres disminuyen más peso que las mujeres, pero esta diferencia no se produce entre los participantes que realizan ejercicio sólo los fines de semana, 3) cuando se tiene en cuenta únicamente a los participantes que realizan ejercicio diariamente, se observa una disminución de peso mayor en los participantes que siguen la dieta en comparación con los que no la siguen, pero esta disminución no se observa en los participantes que realizan ejercicio sólo los fines de semana (Ruiz, 1994).<br><br>La variable dependiente del estudio es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Periodicidad del ejercicio."
+            },
+            {
+                "text": "Peso.",
+                "correct": true
+            },
+            {
+                "text": "Dieta."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño cuasiexperimental de series temporales interrumpidas sin grupo de control:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La regresión estadística constituye su principal amenaza a la validez externa."
+            },
+            {
+                "text": "La efectividad del tratamiento se basa en la comparación de las medidas postratamiento."
+            },
+            {
+                "text": "Se toman varias medidas de la variable dependiente antes y después de introducir el tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un centro de adelgazamiento están preocupados porque piensan que el ejercicio físico puede no ser adecuado para adelgazar, ya que las personas que practican algún tipo de deporte suelen comer después de haber terminado su sesión deportiva. Esta ingesta supone un aporte calórico que normalmente supera con creces las calorías quemadas por del ejercicio realizado. Para determinar empíricamente lo beneficioso que pueda ser el deporte en relación con la pérdida de peso, deciden llevar a cabo una investigación con participantes voluntarios seleccionados entre las personas que acuden por primera vez a dicho centro. Primero, seleccionan a un grupo de mujeres y otro de hombres con pesos similares. Cada uno de estos dos grupos iniciales, es dividido aleatoriamente en dos subgrupos: a uno de ellos, se le da una tabla de ejercicios, tanto aeróbicos como anaeróbicos, que deben completar cada día y, al otro, se le da la misma tabla pero deben realizar los ejercicios solo los fines de semana. Por otro lado, a la mitad de los participantes de cada subgrupo se les entrega, también de forma aleatoria, además de la tabla de ejercicios, una dieta en la que se indica qué alimentos deben tomar en cada comida, en qué cantidades y cómo deben estar cocinados. Del análisis de los datos se deduce que: 1) el ejercicio diario conduce a una disminución del peso que no se produce cuando sólo se hace los fines de semana, 2) cuando se considera únicamente a los participantes que realizan ejercicio diariamente, los hombres disminuyen más peso que las mujeres, pero esta diferencia no se produce entre los participantes que realizan ejercicio sólo los fines de semana, 3) cuando se tiene en cuenta únicamente a los participantes que realizan ejercicio diariamente, se observa una disminución de peso mayor en los participantes que siguen la dieta en comparación con los que no la siguen, pero esta disminución no se observa en los participantes que realizan ejercicio sólo los fines de semana (Ruiz, 1994).<br><br>Los resultados del estudio indican que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se da un efecto de interacción entre hacer ejercicio sólo los fines de semana y no seguir la dieta."
+            },
+            {
+                "text": "Uno de los efectos principales encontrados es el de la periodicidad del ejercicio.",
+                "correct": true
+            },
+            {
+                "text": "Se da un efecto de interacción entre el género y la dieta."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio observacional, la reactividad está relacionada con el hecho de que los:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Investigadores pueden desviarse de forma sistemática de las categorías en el registro de los datos."
+            },
+            {
+                "text": "Observadores pueden no percibir conductas que deberían registrar."
+            },
+            {
+                "text": "Participantes pueden modificar su conducta espontánea al sentirse observados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La técnica de eliminación consiste en:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Equilibrar el efecto de una variable extrañamanteniendo constante la proporción de cada valor de esa variable en todos los grupos."
+            },
+            {
+                "text": "Mantener constante el valor de una variable extraña en todos los participantes."
+            },
+            {
+                "text": "Utilizar solo el valor cero de la variable extraña, eliminando todos los demás valores en el estudio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La publicación repetida, de los mismos datos en diferentes revistas, por parte del autor de la investigación:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está permitido si los nombres de los artículos son diferentes."
+            },
+            {
+                "text": "Es una práctica habitual para constatar la fiabilidad y validez de los estudios."
+            },
+            {
+                "text": "Constituye un auto-plagio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La investigación cualitativa utiliza:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una única perspectiva para comprender el fenómeno de estudio."
+            },
+            {
+                "text": "La etnografía para comprobar hipótesis causales."
+            },
+            {
+                "text": "Como modo de proceder, la inducción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un centro de adelgazamiento están preocupados porque piensan que el ejercicio físico puede no ser adecuado para adelgazar, ya que las personas que practican algún tipo de deporte suelen comer después de haber terminado su sesión deportiva. Esta ingesta supone un aporte calórico que normalmente supera con creces las calorías quemadas por del ejercicio realizado. Para determinar empíricamente lo beneficioso que pueda ser el deporte en relación con la pérdida de peso, deciden llevar a cabo una investigación con participantes voluntarios seleccionados entre las personas que acuden por primera vez a dicho centro. Primero, seleccionan a un grupo de mujeres y otro de hombres con pesos similares. Cada uno de estos dos grupos iniciales, es dividido aleatoriamente en dos subgrupos: a uno de ellos, se le da una tabla de ejercicios, tanto aeróbicos como anaeróbicos, que deben completar cada día y, al otro, se le da la misma tabla pero deben realizar los ejercicios solo los fines de semana. Por otro lado, a la mitad de los participantes de cada subgrupo se les entrega, también de forma aleatoria, además de la tabla de ejercicios, una dieta en la que se indica qué alimentos deben tomar en cada comida, en qué cantidades y cómo deben estar cocinados. Del análisis de los datos se deduce que: 1) el ejercicio diario conduce a una disminución del peso que no se produce cuando sólo se hace los fines de semana, 2) cuando se considera únicamente a los participantes que realizan ejercicio diariamente, los hombres disminuyen más peso que las mujeres, pero esta diferencia no se produce entre los participantes que realizan ejercicio sólo los fines de semana, 3) cuando se tiene en cuenta únicamente a los participantes que realizan ejercicio diariamente, se observa una disminución de peso mayor en los participantes que siguen la dieta en comparación con los que no la siguen, pero esta disminución no se observa en los participantes que realizan ejercicio sólo los fines de semana (Ruiz, 1994).<br><br>En este estudio:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se utilizan ocho grupos distintos de participantes, cada uno de los cuales se asigna a una de las 8 condiciones que existen.",
+                "correct": true
+            },
+            {
+                "text": "Algunos participantes pasan por distintos niveles de las variables y otros pasan por todos los niveles de las variables."
+            },
+            {
+                "text": "Hay seis grupos de participantes formados aleatoriamente."
+            }
+        ]
+    },
+    {
+        "text": "Los diseños de caso único de no reversión se caracterizan porque una vez introducido el tratamiento:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se retira, debido a que entre otros motivos su efecto es irreversible.",
+                "correct": true
+            },
+            {
+                "text": "Se produce en la conducta una regresión a la línea base."
+            },
+            {
+                "text": "Se retira y se mide la conducta, para comprobar la irreversibilidad de su efecto."
+            }
+        ]
+    },
+    {
+        "text": "El diseño de tratamiento repetido consiste en un diseño de un solo grupo en el que se:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Realiza una medida pretest y otra postest, a continuación se le añade una tercera medida y posteriormente se retira el tratamiento y se vuelve a tomar una última medida."
+            },
+            {
+                "text": "Realiza una medida después de aplicar el tratamiento, a continuación se le aplica otro tratamiento y posteriormente se toma otra medida y, en función de los resultados que se vayan obteniendo, se puede aplicar otra vez el tratamiento."
+            },
+            {
+                "text": "Introduce, se retira y se vuelve a introducir el tratamiento, en diferentes momentos, aplicando medidas pre y post en todos estos momentos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La varianza sistemática primaria:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se estima en función de las diferencias que hay entre los datos de los participantes dentro de sus respectivos grupos."
+            },
+            {
+                "text": "Es la que todavía queda por explicar cuando se han eliminado todas las influencias sistemáticas."
+            },
+            {
+                "text": "Es la que se da entre las medias de los diferentes grupos y refleja la efectividad del tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños ex post facto:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se establecen hipótesis causales sino relacionales.",
+                "correct": true
+            },
+            {
+                "text": "Prospectivos, se seleccionan los participantes por sus valores en la variable dependiente y se buscan las posibles variables independientes que han ocasionado la respuesta."
+            },
+            {
+                "text": "Retrospectivos, se seleccionan los participantes por poseer determinados valores en la variable independiente y después se mide la variable dependiente."
+            }
+        ]
+    },
+    {
+        "text": "En el método observacional, la fiabilidad:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hace referencia al grado en que los datos miden lo que realmente quieren medir."
+            },
+            {
+                "text": "Está relacionada con la homogeneidad de los datos obtenidos por dos observadores que trabajan de forma independiente diferentes materiales."
+            },
+            {
+                "text": "Se valora calculando el índice de acuerdo de los registros proporcionados por dos observadores que han trabajado de forma independiente el mismo material.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un centro de adelgazamiento están preocupados porque piensan que el ejercicio físico puede no ser adecuado para adelgazar, ya que las personas que practican algún tipo de deporte suelen comer después de haber terminado su sesión deportiva. Esta ingesta supone un aporte calórico que normalmente supera con creces las calorías quemadas por del ejercicio realizado. Para determinar empíricamente lo beneficioso que pueda ser el deporte en relación con la pérdida de peso, deciden llevar a cabo una investigación con participantes voluntarios seleccionados entre las personas que acuden por primera vez a dicho centro. Primero, seleccionan a un grupo de mujeres y otro de hombres con pesos similares. Cada uno de estos dos grupos iniciales, es dividido aleatoriamente en dos subgrupos: a uno de ellos, se le da una tabla de ejercicios, tanto aeróbicos como anaeróbicos, que deben completar cada día y, al otro, se le da la misma tabla pero deben realizar los ejercicios solo los fines de semana. Por otro lado, a la mitad de los participantes de cada subgrupo se les entrega, también de forma aleatoria, además de la tabla de ejercicios, una dieta en la que se indica qué alimentos deben tomar en cada comida, en qué cantidades y cómo deben estar cocinados. Del análisis de los datos se deduce que: 1) el ejercicio diario conduce a una disminución del peso que no se produce cuando sólo se hace los fines de semana, 2) cuando se considera únicamente a los participantes que realizan ejercicio diariamente, los hombres disminuyen más peso que las mujeres, pero esta diferencia no se produce entre los participantes que realizan ejercicio sólo los fines de semana, 3) cuando se tiene en cuenta únicamente a los participantes que realizan ejercicio diariamente, se observa una disminución de peso mayor en los participantes que siguen la dieta en comparación con los que no la siguen, pero esta disminución no se observa en los participantes que realizan ejercicio sólo los fines de semana (Ruiz, 1994).<br><br>Las variables independientes son:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Género, disminución del peso y periodicidad del ejercicio."
+            },
+            {
+                "text": "Género, periodicidad del ejercicio y dieta.",
+                "correct": true
+            },
+            {
+                "text": "Género, disminución del peso y dieta."
+            }
+        ]
+    },
+    {
+        "text": "En el apartado Discusión de un informe se:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Debe describir con precisión y detalle, todo el proceso de investigación."
+            },
+            {
+                "text": "Incluyen los análisis de datos y se justifica el porqué de las técnicas utilizadas."
+            },
+            {
+                "text": "Deben conectar los resultados obtenidos con las hipótesis formuladas y comentar las semejanzas y diferencias con los estudios citados en la Introducción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la principal implicación educativa del estudio de la PEC?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se deberían mejorar las condiciones de aprendizaje que presenta el medio familiar y social del niño en familias de nivel socioeconómico bajo, previniendo así posteriores situaciones de fracaso escolar.",
+                "correct": true
+            },
+            {
+                "text": "Sería recomendable adelantar el inicio del aprendizaje escolar de habilidades de lecto-escritura para compensar las carencias de experiencias en entornos deprivados."
+            },
+            {
+                "text": "Sería recomendable implementar programas que permitan aumentar el tiempo de interacción entre madres y niños de niveles socioeconómicos bajos."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la PEC, los resultados informan de que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las madres de NSEM emplearon más estrategias de distanciamiento que las madres de NSEB.",
+                "correct": true
+            },
+            {
+                "text": "No hubo diferencias en las estrategias de distanciamiento entre las madres de los dos grupos."
+            },
+            {
+                "text": "Las madres de NSEB emplearon más estrategias de distanciamiento que las madres de NSEM."
+            }
+        ]
+    },
+    {
+        "text": "La encuesta:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es la alternativa del método experimental cuando las muestras son grandes."
+            },
+            {
+                "text": "Puede ser considerada como una metodología de investigación o una técnica de recogida de datos.",
+                "correct": true
+            },
+            {
+                "text": "Es un procedimiento para valorar el efecto de una intervención específica en la conducta espontánea de los participantes."
+            }
+        ]
+    },
+    {
+        "text": "El muestreo por conglomerados consiste en obtener la muestra:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Directamente de los individuos de la población."
+            },
+            {
+                "text": "De grupos que están interesados en formar parte del estudio."
+            },
+            {
+                "text": "Partiendo de grupos ya formados en lugar de hacerlo directamente de los individuos de la población.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>En un centro de adelgazamiento están preocupados porque piensan que el ejercicio físico puede no ser adecuado para adelgazar, ya que las personas que practican algún tipo de deporte suelen comer después de haber terminado su sesión deportiva. Esta ingesta supone un aporte calórico que normalmente supera con creces las calorías quemadas por del ejercicio realizado. Para determinar empíricamente lo beneficioso que pueda ser el deporte en relación con la pérdida de peso, deciden llevar a cabo una investigación con participantes voluntarios seleccionados entre las personas que acuden por primera vez a dicho centro. Primero, seleccionan a un grupo de mujeres y otro de hombres con pesos similares. Cada uno de estos dos grupos iniciales, es dividido aleatoriamente en dos subgrupos: a uno de ellos, se le da una tabla de ejercicios, tanto aeróbicos como anaeróbicos, que deben completar cada día y, al otro, se le da la misma tabla pero deben realizar los ejercicios solo los fines de semana. Por otro lado, a la mitad de los participantes de cada subgrupo se les entrega, también de forma aleatoria, además de la tabla de ejercicios, una dieta en la que se indica qué alimentos deben tomar en cada comida, en qué cantidades y cómo deben estar cocinados. Del análisis de los datos se deduce que: 1) el ejercicio diario conduce a una disminución del peso que no se produce cuando sólo se hace los fines de semana, 2) cuando se considera únicamente a los participantes que realizan ejercicio diariamente, los hombres disminuyen más peso que las mujeres, pero esta diferencia no se produce entre los participantes que realizan ejercicio sólo los fines de semana, 3) cuando se tiene en cuenta únicamente a los participantes que realizan ejercicio diariamente, se observa una disminución de peso mayor en los participantes que siguen la dieta en comparación con los que no la siguen, pero esta disminución no se observa en los participantes que realizan ejercicio sólo los fines de semana (Ruiz, 1994).<br><br>El problema principal de la investigación es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "¿ayuda a adelgazar el ejercicio físico?",
+                "correct": true
+            },
+            {
+                "text": "Comparar a un grupo de personas que realizan ejercicio y que comen sin ningún tipo de restricción, con un grupo de personas semejantes que realizan el mismo ejercicio pero deben seguir una dieta."
+            },
+            {
+                "text": "El adelgazamiento alcanzado con el ejercicio no es duradero ya que las personas que hacen ejercicio tienden a comer más."
+            }
+        ]
+    }
+]

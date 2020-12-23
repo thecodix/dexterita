@@ -1,0 +1,611 @@
+[
+    {
+        "text": "En el diseño de retirada del tratamiento con pretest y postest solo se puede aplicar el tratamiento cuando:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se ha consolidado su efecto."
+            },
+            {
+                "text": "Se ha conseguido la estabilidad en el postest."
+            },
+            {
+                "text": "El efecto inicial del tratamiento es transitorio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La pregunta ¿la relación entre dos variables es de naturaleza causal o puede darse sin tratamiento? hace referencia a la validez:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Poblacional."
+            },
+            {
+                "text": "Externa."
+            },
+            {
+                "text": "Interna.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la investigación cualitativa se utiliza la triangulación metodológica con la finalidad de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Obtener validez y rigor en los datos.",
+                "correct": true
+            },
+            {
+                "text": "Seleccionar la estrategia de investigación adecuada."
+            },
+            {
+                "text": "Preparar al investigador para la recogida de datos."
+            }
+        ]
+    },
+    {
+        "text": "Un estudio piloto consiste en la:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Repetición del procedimiento realizado en una investigación con otro grupo de sujetos."
+            },
+            {
+                "text": "Aplicación del procedimiento de investigación en un grupo en lista de espera."
+            },
+            {
+                "text": "Aplicación del procedimiento previsto para la investigación a una pequeña muestra.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un sistema de categorías debe cumplir la exigencia de Exhaustividad, la cual hace referencia a que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Debe existir una categoría para cada una de las conductas relevantes posibles.",
+                "correct": true
+            },
+            {
+                "text": "Cada conducta observada solo puede ser asignada a una categoría."
+            },
+            {
+                "text": "Debe incluir todas las categorías señaladas en la literatura científica sobre el tema."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Se ha comprobado que el recién nacido prematuro es fisiológicamente inmaduro y vulnerable. El soporte vital (las bombas de perfusión, los pulsioxímetros, los compresores de oxígeno, las diversas pruebas invasivas, etc.) que garantiza la supervivencia del niño dentro de una unidad de cuidados intensivos neonatales (UCIN), conforma un conglomerado de estímulos nocivos, susceptibles de dejar secuelas. Por otra parte, la marcada ausencia de una madre que 'acompañe' y 'sostenga' afectivamente al recién nacido en su dolorosa experiencia contribuye a la inadaptación a un medio percibido como hostil. Esta situación genera en el prematuro respuestas desestructuradas con movimientos mioclónicos repetitivos, movimientos de caída al vacío y rigidez en los miembros, entre otros.<br>La Unidad de Investigación y el Servicio de Pediatría de un hospital pretenden evaluar la influencia del contacto físico de la madre con el niño durante su ingreso en una UCIN sobre la frecuencia de respuestas consideradas patológicas. Para llevar a cabo esta investigación se seleccionó un grupo formado por 15 niños prematuros de entre 30 y 35 semanas de gestación, con un peso inferior a 2 Kg, ingresados en la UCIN del hospital durante un mínimo de 10 días. Una vez que los padres fueron informados del objetivo y procedimiento de la investigación, se les solicitó el consentimiento informado.<br>Se estableció una sesión diaria de treinta minutos de duración durante diez días. En estas sesiones se registraba siempre a la misma hora, la frecuencia de respuestas patológicas de los niños. Durante las 5 primeras sesiones, el recién nacido estaba en la incubadora, en las 5 sesiones siguientes se volvían a registrar las respuestas patológicas de los niños mientras estaban con sus madres. Los promedios de respuestas patológicas por sesión fueron los siguientes:<br>Situación en la incubadora: 20-18-19-19-20<br>Situación con la madre: 8-6-7-7-7<br>A la vista de estos resultados los investigadores concluyeron que el contacto materno durante la estancia en la UCIN de los niños prematuros disminuye la frecuencia de respuestas patológicas y, por tanto, el nivel de estrés de estos niños.<br><br>Este diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se caracteriza porque se registra la variable dependiente únicamente durante la aplicación del tratamiento."
+            },
+            {
+                "text": "Consta de dos grupos, niños en la incubadora y niños con la madre."
+            },
+            {
+                "text": "Es similar al diseño preexperimental pretest-postest, pero en este caso se toman varias medidas antes y después de introducir el tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones es la correcta?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En la observación externa, el observador se integra en la dinámica del fenómeno de estudio."
+            },
+            {
+                "text": "En la observación estructurada el investigador no realiza ningún tipo de modificación de la situación en la que se observa."
+            },
+            {
+                "text": "La observación como técnica de recogida de datos puede utilizarse para medir la variable dependiente en un diseño experimental.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La amenaza a la maduración ocurre cuando:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se dan cambios internos en los participantes como consecuencia del transcurso del tiempo.",
+                "correct": true
+            },
+            {
+                "text": "No está clara la contigüidad temporal entre edad y crecimiento."
+            },
+            {
+                "text": "En el desarrollo de la investigación, ocurren acontecimientos externos que pueden confundir los resultados."
+            }
+        ]
+    },
+    {
+        "text": "La variable 'enfermedades congénitas':",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Nunca podría utilizarse como variable independiente."
+            },
+            {
+                "text": "Es de selección de valores.",
+                "correct": true
+            },
+            {
+                "text": "Se puede manipular de forma intencional."
+            }
+        ]
+    },
+    {
+        "text": "El grado en que la variable dependiente, evaluada a través de un cuestionario, está relacionada con el constructo que está siendo medido, hace referencia a la validez:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De contenido.",
+                "correct": true
+            },
+            {
+                "text": "De criterio."
+            },
+            {
+                "text": "Factorial."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de caso único, para poder comprobar la efectividad del tratamiento, la línea base debe mostrar:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un cambio de nivel previo a la introducción del tratamiento."
+            },
+            {
+                "text": "Una tendencia a bajar a lo largo del tiempo."
+            },
+            {
+                "text": "Una variabilidad relativamente pequeña.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las características de la investigación cualitativa es que el tipo de conocimiento al que se llega es de carácter:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ideográfico.",
+                "correct": true
+            },
+            {
+                "text": "Nomotético."
+            },
+            {
+                "text": "Deductivo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes estrategias sirve para minimizar la varianza error?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Utilización de valores extremos de la variable dependiente."
+            },
+            {
+                "text": "Incremento del tamaño de los grupos.",
+                "correct": true
+            },
+            {
+                "text": "Contrabalanceo de variables extrañas."
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de las siguientes técnicas de muestreo es necesario saber la proporción de la población que tiene determinada característica considerada importante para el estudio?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Muestreo por conglomerados."
+            },
+            {
+                "text": "Muestreo aleatorio simple."
+            },
+            {
+                "text": "Muestreo por cuotas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el artículo de la PEC, ambos estudios se identifican como un diseño factorial mixto porque:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los grupos están formados por hombres y mujeres."
+            },
+            {
+                "text": "Hay al menos un factor intersujeto y otro intrasujeto.",
+                "correct": true
+            },
+            {
+                "text": "Combinan variables de manipulación intencional con variables de selección de valores."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Se ha comprobado que el recién nacido prematuro es fisiológicamente inmaduro y vulnerable. El soporte vital (las bombas de perfusión, los pulsioxímetros, los compresores de oxígeno, las diversas pruebas invasivas, etc.) que garantiza la supervivencia del niño dentro de una unidad de cuidados intensivos neonatales (UCIN), conforma un conglomerado de estímulos nocivos, susceptibles de dejar secuelas. Por otra parte, la marcada ausencia de una madre que 'acompañe' y 'sostenga' afectivamente al recién nacido en su dolorosa experiencia contribuye a la inadaptación a un medio percibido como hostil. Esta situación genera en el prematuro respuestas desestructuradas con movimientos mioclónicos repetitivos, movimientos de caída al vacío y rigidez en los miembros, entre otros.<br>La Unidad de Investigación y el Servicio de Pediatría de un hospital pretenden evaluar la influencia del contacto físico de la madre con el niño durante su ingreso en una UCIN sobre la frecuencia de respuestas consideradas patológicas. Para llevar a cabo esta investigación se seleccionó un grupo formado por 15 niños prematuros de entre 30 y 35 semanas de gestación, con un peso inferior a 2 Kg, ingresados en la UCIN del hospital durante un mínimo de 10 días. Una vez que los padres fueron informados del objetivo y procedimiento de la investigación, se les solicitó el consentimiento informado.<br>Se estableció una sesión diaria de treinta minutos de duración durante diez días. En estas sesiones se registraba siempre a la misma hora, la frecuencia de respuestas patológicas de los niños. Durante las 5 primeras sesiones, el recién nacido estaba en la incubadora, en las 5 sesiones siguientes se volvían a registrar las respuestas patológicas de los niños mientras estaban con sus madres. Los promedios de respuestas patológicas por sesión fueron los siguientes:<br>Situación en la incubadora: 20-18-19-19-20<br>Situación con la madre: 8-6-7-7-7<br>A la vista de estos resultados los investigadores concluyeron que el contacto materno durante la estancia en la UCIN de los niños prematuros disminuye la frecuencia de respuestas patológicas y, por tanto, el nivel de estrés de estos niños.<br><br>Considerando la tasa media de respuestas patológicas obtenida, podemos decir que:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Existe una tendencia a disminuir con el tiempo la frecuencia de respuestas patológicas en la situación de incubadora."
+            },
+            {
+                "text": "Se detectan cambios cíclicos en el grupo que está con la madre."
+            },
+            {
+                "text": "Se produce un cambio de nivel al pasar de la situación de incubadora a la situación con las madres.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Se ha comprobado que el recién nacido prematuro es fisiológicamente inmaduro y vulnerable. El soporte vital (las bombas de perfusión, los pulsioxímetros, los compresores de oxígeno, las diversas pruebas invasivas, etc.) que garantiza la supervivencia del niño dentro de una unidad de cuidados intensivos neonatales (UCIN), conforma un conglomerado de estímulos nocivos, susceptibles de dejar secuelas. Por otra parte, la marcada ausencia de una madre que 'acompañe' y 'sostenga' afectivamente al recién nacido en su dolorosa experiencia contribuye a la inadaptación a un medio percibido como hostil. Esta situación genera en el prematuro respuestas desestructuradas con movimientos mioclónicos repetitivos, movimientos de caída al vacío y rigidez en los miembros, entre otros.<br>La Unidad de Investigación y el Servicio de Pediatría de un hospital pretenden evaluar la influencia del contacto físico de la madre con el niño durante su ingreso en una UCIN sobre la frecuencia de respuestas consideradas patológicas. Para llevar a cabo esta investigación se seleccionó un grupo formado por 15 niños prematuros de entre 30 y 35 semanas de gestación, con un peso inferior a 2 Kg, ingresados en la UCIN del hospital durante un mínimo de 10 días. Una vez que los padres fueron informados del objetivo y procedimiento de la investigación, se les solicitó el consentimiento informado.<br>Se estableció una sesión diaria de treinta minutos de duración durante diez días. En estas sesiones se registraba siempre a la misma hora, la frecuencia de respuestas patológicas de los niños. Durante las 5 primeras sesiones, el recién nacido estaba en la incubadora, en las 5 sesiones siguientes se volvían a registrar las respuestas patológicas de los niños mientras estaban con sus madres. Los promedios de respuestas patológicas por sesión fueron los siguientes:<br>Situación en la incubadora: 20-18-19-19-20<br>Situación con la madre: 8-6-7-7-7<br>A la vista de estos resultados los investigadores concluyeron que el contacto materno durante la estancia en la UCIN de los niños prematuros disminuye la frecuencia de respuestas patológicas y, por tanto, el nivel de estrés de estos niños.<br><br>La variable independiente es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El nivel de estrés."
+            },
+            {
+                "text": "El contacto materno.",
+                "correct": true
+            },
+            {
+                "text": "Las semanas de gestación."
+            }
+        ]
+    },
+    {
+        "text": "Si queremos estudiar la relación del nivel de estudios (primaria-secundaria- universitario) con la velocidad lectora, ¿cuál sería el diseño más adecuado para investigarlo?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ex post facto.",
+                "correct": true
+            },
+            {
+                "text": "Cuasiexperimental."
+            },
+            {
+                "text": "Experimental."
+            }
+        ]
+    },
+    {
+        "text": "El diseño prospectivo complejo se caracteriza porque:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estudia el efecto de más de una variable independiente.",
+                "correct": true
+            },
+            {
+                "text": "Se selecciona a los sujetos por sus valores en dos variables dependientes."
+            },
+            {
+                "text": "Se selecciona una muestra de sujetos en las que están presentes todos los valores de las variables independientes."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Se ha comprobado que el recién nacido prematuro es fisiológicamente inmaduro y vulnerable. El soporte vital (las bombas de perfusión, los pulsioxímetros, los compresores de oxígeno, las diversas pruebas invasivas, etc.) que garantiza la supervivencia del niño dentro de una unidad de cuidados intensivos neonatales (UCIN), conforma un conglomerado de estímulos nocivos, susceptibles de dejar secuelas. Por otra parte, la marcada ausencia de una madre que 'acompañe' y 'sostenga' afectivamente al recién nacido en su dolorosa experiencia contribuye a la inadaptación a un medio percibido como hostil. Esta situación genera en el prematuro respuestas desestructuradas con movimientos mioclónicos repetitivos, movimientos de caída al vacío y rigidez en los miembros, entre otros.<br>La Unidad de Investigación y el Servicio de Pediatría de un hospital pretenden evaluar la influencia del contacto físico de la madre con el niño durante su ingreso en una UCIN sobre la frecuencia de respuestas consideradas patológicas. Para llevar a cabo esta investigación se seleccionó un grupo formado por 15 niños prematuros de entre 30 y 35 semanas de gestación, con un peso inferior a 2 Kg, ingresados en la UCIN del hospital durante un mínimo de 10 días. Una vez que los padres fueron informados del objetivo y procedimiento de la investigación, se les solicitó el consentimiento informado.<br>Se estableció una sesión diaria de treinta minutos de duración durante diez días. En estas sesiones se registraba siempre a la misma hora, la frecuencia de respuestas patológicas de los niños. Durante las 5 primeras sesiones, el recién nacido estaba en la incubadora, en las 5 sesiones siguientes se volvían a registrar las respuestas patológicas de los niños mientras estaban con sus madres. Los promedios de respuestas patológicas por sesión fueron los siguientes:<br>Situación en la incubadora: 20-18-19-19-20<br>Situación con la madre: 8-6-7-7-7<br>A la vista de estos resultados los investigadores concluyeron que el contacto materno durante la estancia en la UCIN de los niños prematuros disminuye la frecuencia de respuestas patológicas y, por tanto, el nivel de estrés de estos niños.<br><br>¿Puede considerarse que en esta investigación se han tenido en cuenta algunos principios éticos?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No, porque los participantes son menores de edad."
+            },
+            {
+                "text": "No, porque se realiza en una situación de estrés para los participantes."
+            },
+            {
+                "text": "Sí, porque se obtiene el consentimiento informado de los padres.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Se ha comprobado que el recién nacido prematuro es fisiológicamente inmaduro y vulnerable. El soporte vital (las bombas de perfusión, los pulsioxímetros, los compresores de oxígeno, las diversas pruebas invasivas, etc.) que garantiza la supervivencia del niño dentro de una unidad de cuidados intensivos neonatales (UCIN), conforma un conglomerado de estímulos nocivos, susceptibles de dejar secuelas. Por otra parte, la marcada ausencia de una madre que 'acompañe' y 'sostenga' afectivamente al recién nacido en su dolorosa experiencia contribuye a la inadaptación a un medio percibido como hostil. Esta situación genera en el prematuro respuestas desestructuradas con movimientos mioclónicos repetitivos, movimientos de caída al vacío y rigidez en los miembros, entre otros.<br>La Unidad de Investigación y el Servicio de Pediatría de un hospital pretenden evaluar la influencia del contacto físico de la madre con el niño durante su ingreso en una UCIN sobre la frecuencia de respuestas consideradas patológicas. Para llevar a cabo esta investigación se seleccionó un grupo formado por 15 niños prematuros de entre 30 y 35 semanas de gestación, con un peso inferior a 2 Kg, ingresados en la UCIN del hospital durante un mínimo de 10 días. Una vez que los padres fueron informados del objetivo y procedimiento de la investigación, se les solicitó el consentimiento informado.<br>Se estableció una sesión diaria de treinta minutos de duración durante diez días. En estas sesiones se registraba siempre a la misma hora, la frecuencia de respuestas patológicas de los niños. Durante las 5 primeras sesiones, el recién nacido estaba en la incubadora, en las 5 sesiones siguientes se volvían a registrar las respuestas patológicas de los niños mientras estaban con sus madres. Los promedios de respuestas patológicas por sesión fueron los siguientes:<br>Situación en la incubadora: 20-18-19-19-20<br>Situación con la madre: 8-6-7-7-7<br>A la vista de estos resultados los investigadores concluyeron que el contacto materno durante la estancia en la UCIN de los niños prematuros disminuye la frecuencia de respuestas patológicas y, por tanto, el nivel de estrés de estos niños.<br><br>Se trata de un diseño:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental de un solo grupo."
+            },
+            {
+                "text": "Cuasiexperimental pretest-postest."
+            },
+            {
+                "text": "Cuasiexperimental de series temporales interrumpidas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Se ha comprobado que el recién nacido prematuro es fisiológicamente inmaduro y vulnerable. El soporte vital (las bombas de perfusión, los pulsioxímetros, los compresores de oxígeno, las diversas pruebas invasivas, etc.) que garantiza la supervivencia del niño dentro de una unidad de cuidados intensivos neonatales (UCIN), conforma un conglomerado de estímulos nocivos, susceptibles de dejar secuelas. Por otra parte, la marcada ausencia de una madre que 'acompañe' y 'sostenga' afectivamente al recién nacido en su dolorosa experiencia contribuye a la inadaptación a un medio percibido como hostil. Esta situación genera en el prematuro respuestas desestructuradas con movimientos mioclónicos repetitivos, movimientos de caída al vacío y rigidez en los miembros, entre otros.<br>La Unidad de Investigación y el Servicio de Pediatría de un hospital pretenden evaluar la influencia del contacto físico de la madre con el niño durante su ingreso en una UCIN sobre la frecuencia de respuestas consideradas patológicas. Para llevar a cabo esta investigación se seleccionó un grupo formado por 15 niños prematuros de entre 30 y 35 semanas de gestación, con un peso inferior a 2 Kg, ingresados en la UCIN del hospital durante un mínimo de 10 días. Una vez que los padres fueron informados del objetivo y procedimiento de la investigación, se les solicitó el consentimiento informado.<br>Se estableció una sesión diaria de treinta minutos de duración durante diez días. En estas sesiones se registraba siempre a la misma hora, la frecuencia de respuestas patológicas de los niños. Durante las 5 primeras sesiones, el recién nacido estaba en la incubadora, en las 5 sesiones siguientes se volvían a registrar las respuestas patológicas de los niños mientras estaban con sus madres. Los promedios de respuestas patológicas por sesión fueron los siguientes:<br>Situación en la incubadora: 20-18-19-19-20<br>Situación con la madre: 8-6-7-7-7<br>A la vista de estos resultados los investigadores concluyeron que el contacto materno durante la estancia en la UCIN de los niños prematuros disminuye la frecuencia de respuestas patológicas y, por tanto, el nivel de estrés de estos niños.<br><br>Este diseño mejoraría en validez interna si:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Considerásemos solo las conductas en presencia de la madre."
+            },
+            {
+                "text": "Añadiésemos medidas en el pretest."
+            },
+            {
+                "text": "Añadiésemos un grupo de control.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Se ha comprobado que el recién nacido prematuro es fisiológicamente inmaduro y vulnerable. El soporte vital (las bombas de perfusión, los pulsioxímetros, los compresores de oxígeno, las diversas pruebas invasivas, etc.) que garantiza la supervivencia del niño dentro de una unidad de cuidados intensivos neonatales (UCIN), conforma un conglomerado de estímulos nocivos, susceptibles de dejar secuelas. Por otra parte, la marcada ausencia de una madre que 'acompañe' y 'sostenga' afectivamente al recién nacido en su dolorosa experiencia contribuye a la inadaptación a un medio percibido como hostil. Esta situación genera en el prematuro respuestas desestructuradas con movimientos mioclónicos repetitivos, movimientos de caída al vacío y rigidez en los miembros, entre otros.<br>La Unidad de Investigación y el Servicio de Pediatría de un hospital pretenden evaluar la influencia del contacto físico de la madre con el niño durante su ingreso en una UCIN sobre la frecuencia de respuestas consideradas patológicas. Para llevar a cabo esta investigación se seleccionó un grupo formado por 15 niños prematuros de entre 30 y 35 semanas de gestación, con un peso inferior a 2 Kg, ingresados en la UCIN del hospital durante un mínimo de 10 días. Una vez que los padres fueron informados del objetivo y procedimiento de la investigación, se les solicitó el consentimiento informado.<br>Se estableció una sesión diaria de treinta minutos de duración durante diez días. En estas sesiones se registraba siempre a la misma hora, la frecuencia de respuestas patológicas de los niños. Durante las 5 primeras sesiones, el recién nacido estaba en la incubadora, en las 5 sesiones siguientes se volvían a registrar las respuestas patológicas de los niños mientras estaban con sus madres. Los promedios de respuestas patológicas por sesión fueron los siguientes:<br>Situación en la incubadora: 20-18-19-19-20<br>Situación con la madre: 8-6-7-7-7<br>A la vista de estos resultados los investigadores concluyeron que el contacto materno durante la estancia en la UCIN de los niños prematuros disminuye la frecuencia de respuestas patológicas y, por tanto, el nivel de estrés de estos niños.<br><br>La variable dependiente se mide mediante:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La frecuencia de respuestas consideradas patológicas.",
+                "correct": true
+            },
+            {
+                "text": "El tiempo de estancia en la UCIN."
+            },
+            {
+                "text": "El tiempo que los niños estaban con la madre."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son las diferencias principales en el diseño de los dos estudios presentados en el artículo de la PEC?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El primero es un diseño multivariado y el segundo univariado."
+            },
+            {
+                "text": "En el primero todas las variables independientes tienen dos niveles y en el segundo una de las variables independientes tiene tres niveles."
+            },
+            {
+                "text": "El primero utiliza tres variables independientes y el segundo solo dos, y la complejidad de la tarea a realizar es mayor en el segundo estudio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un informe de investigación, las hipótesis de trabajo se deben plantear en el apartado de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Método."
+            },
+            {
+                "text": "Discusión."
+            },
+            {
+                "text": "Introducción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los diseños experimentales se pueden clasificar, atendiendo al número de variables dependientes, en:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Univariados-multivariados.",
+                "correct": true
+            },
+            {
+                "text": "Unifactoriales-factoriales."
+            },
+            {
+                "text": "Intersujetos-intrasujetos."
+            }
+        ]
+    },
+    {
+        "text": "Si utilizamos la técnica de bloques completos para formar los grupos en un diseño factorial 2x2x3, el número mínimo de sujetos por bloque será:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "7."
+            },
+            {
+                "text": "12.",
+                "correct": true
+            },
+            {
+                "text": "3."
+            }
+        ]
+    },
+    {
+        "text": "La variabilidad de la medida de la variable dependiente debida a la influencia de la manipulación de la variable independiente constituye la varianza:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sistemática primaria.",
+                "correct": true
+            },
+            {
+                "text": "Sistemática secundaria."
+            },
+            {
+                "text": "Error."
+            }
+        ]
+    },
+    {
+        "text": "La amenaza a la validez interna denominada interacción selección x historia puede darse en los diseños cuasiexperimentales de:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Series temporales interrumpidas simple."
+            },
+            {
+                "text": "Grupo de control no equivalente.",
+                "correct": true
+            },
+            {
+                "text": "Tratamiento repetido."
+            }
+        ]
+    }
+]

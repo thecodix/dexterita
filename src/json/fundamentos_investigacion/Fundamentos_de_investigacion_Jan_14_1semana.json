@@ -1,0 +1,632 @@
+[
+    {
+        "text": "El diseño prospectivo complejo necesariamente tiene más de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una variable dependiente."
+            },
+            {
+                "text": "Una variable independiente.",
+                "correct": true
+            },
+            {
+                "text": "Dos niveles de la variable independiente."
+            }
+        ]
+    },
+    {
+        "text": "El diseño cuasiexperimental de tratamiento repetido resulta interpretable cuando los cambios observados con la primera y segunda introducción del tratamiento:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son el reflejo de la maduración cíclica de la muestra."
+            },
+            {
+                "text": "Van en direcciones opuestas."
+            },
+            {
+                "text": "Van en la misma dirección.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo podemos controlar la reactividad de los dispositivos experimentales?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Utilizando dispositivos válidos y fiables y, por tanto, menos reactivos."
+            },
+            {
+                "text": "Aleatorizando la presentación de los dispositivos."
+            },
+            {
+                "text": "Empleando técnicas de simple y doble ciego.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El método hipotético-deductivo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Va tanto de la teoría a los datos como de los datos a la teoría.",
+                "correct": true
+            },
+            {
+                "text": "Parte de la observación de la realidad para llegar a la formulación de la ley."
+            },
+            {
+                "text": "Parte de la ley general y de ella deduce consecuencias lógicas aplicables a la realidad."
+            }
+        ]
+    },
+    {
+        "text": "Un problema de investigación debe:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Formularse en términos afirmativos."
+            },
+            {
+                "text": "Ser viable para el investigador.",
+                "correct": true
+            },
+            {
+                "text": "Ser sometido a contrastación empírica en diferentes poblaciones."
+            }
+        ]
+    },
+    {
+        "text": "La relevancia de una teoría está relacionada con su capacidad para:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Explicar de la forma más sencilla las relaciones que existen entre los hechos de la naturaleza."
+            },
+            {
+                "text": "Poderse modificar a la vista de nuevas evidencias empíricas."
+            },
+            {
+                "text": "Ocuparse de aspectos significativos que supongan un incremento del conocimiento en alguna parcela concreta de la realidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un aspecto básico que caracteriza a los diseños de caso único es la:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Utilización de más de una variable independiente."
+            },
+            {
+                "text": "Validez externa garantizada, dada la alta representatividad de los sujetos."
+            },
+            {
+                "text": "Realización de registros sucesivos a lo largo del tiempo de la conducta de un sujeto o de un grupo pequeño de sujetos, antes, tratamiento, en situaciones controladas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El experimento de más de dos grupos permite elegir varios valores de la variable:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dependiente."
+            },
+            {
+                "text": "Extraña."
+            },
+            {
+                "text": "Independiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las características esenciales del método observacional es la de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Garantizar la estabilidad de los datos ya que los estudios carecen de hipótesis."
+            },
+            {
+                "text": "Permitir el estudio del comportamiento tal y como ocurre de forma natural.",
+                "correct": true
+            },
+            {
+                "text": "Carecer de fuentes de error."
+            }
+        ]
+    },
+    {
+        "text": "En la elaboración de las preguntas de un cuestionario:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hay que tener en cuenta el sistema de recogida de datos.",
+                "correct": true
+            },
+            {
+                "text": "Debemos utilizar un lenguaje científico, aunque no sea conocido por toda la población."
+            },
+            {
+                "text": "Es aconsejable que el orden de las preguntas influya en las respuestas de los encuestados."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>De acuerdo con algunas investigaciones sobre la adquisición de la lectura existe una alta correlación positiva entre el nivel de desarrollo del lenguaje oral y la facilidad para aprender a leer. Un psicólogo escolar se propone evaluar el efecto facilitador de un programa de entrenamiento en 'la estructura de palabras habladas' (rima y organización interna) sobre el aprendizaje de la lectura. Antes de empezar con el programa se obtiene, mediante un test, el nivel de desarrollo lingüístico de los niños de segundo ciclo de educación infantil (5 años) de un centro educativo. De acuerdo a la puntuación obtenida en el test, se formaron dos grupos (A y B) de 15 participantes igualados uno a uno, pero asignados aleatoriamente a cada una de las condiciones experimentales. Los participantes del grupo A recibieron, antes de cada clase de lectura, el programa de entrenamiento de la 'estructura de palabras habladas'. Los niños del grupo B ocuparon ese tiempo con tareas de expresión plástica. Después, los dos grupos recibían juntos, en la misma aula, las clases de lectura siguiendo el mismo método con el mismo profesor. Finalizado el primer semestre del programa, el psicólogo evaluó mediante un test específico, el aprendizaje de la lectura en los niños. Las puntuaciones obtenidas le confirmaron su hipótesis inicial.<br><br>El tipo de diseño es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Factorial 2X2."
+            },
+            {
+                "text": "De dos grupos al azar con medidas pre y postratamiento."
+            },
+            {
+                "text": "De dos grupos equiparados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La amenaza a la validez interna de un diseño denominada 'regresión estadística', tiene que ver con:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La prueba matemática aplicada a los datos del experimento."
+            },
+            {
+                "text": "La elección de los sujetos en función de sus puntuaciones extremas en una variable.",
+                "correct": true
+            },
+            {
+                "text": "El tipo de instrumento que se aplica a los sujetos para la medida de la dependiente."
+            }
+        ]
+    },
+    {
+        "text": "Señale la afirmación correcta:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El experimentador elige la variable independiente que más le interesa sin tener en cuenta la hipótesis."
+            },
+            {
+                "text": "Generalmente una variable puede ser, desde el punto de vista metodológico, dependiente e independiente en función de la hipótesis de trabajo.",
+                "correct": true
+            },
+            {
+                "text": "La variable dependiente es la que manipula el experimentador y la independiente es la que se mide."
+            }
+        ]
+    },
+    {
+        "text": "La fiabilidad de un cuestionario significa que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La medida es consistente en sus mediciones.",
+                "correct": true
+            },
+            {
+                "text": "Los ítems que están midiendo el constructo realmente coincidan con lo que estamos midiendo."
+            },
+            {
+                "text": "Es sensible a la diversidad de respuestas obtenidas."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>De acuerdo con algunas investigaciones sobre la adquisición de la lectura existe una alta correlación positiva entre el nivel de desarrollo del lenguaje oral y la facilidad para aprender a leer. Un psicólogo escolar se propone evaluar el efecto facilitador de un programa de entrenamiento en 'la estructura de palabras habladas' (rima y organización interna) sobre el aprendizaje de la lectura. Antes de empezar con el programa se obtiene, mediante un test, el nivel de desarrollo lingüístico de los niños de segundo ciclo de educación infantil (5 años) de un centro educativo. De acuerdo a la puntuación obtenida en el test, se formaron dos grupos (A y B) de 15 participantes igualados uno a uno, pero asignados aleatoriamente a cada una de las condiciones experimentales. Los participantes del grupo A recibieron, antes de cada clase de lectura, el programa de entrenamiento de la 'estructura de palabras habladas'. Los niños del grupo B ocuparon ese tiempo con tareas de expresión plástica. Después, los dos grupos recibían juntos, en la misma aula, las clases de lectura siguiendo el mismo método con el mismo profesor. Finalizado el primer semestre del programa, el psicólogo evaluó mediante un test específico, el aprendizaje de la lectura en los niños. Las puntuaciones obtenidas le confirmaron su hipótesis inicial.<br><br>El nivel de desarrollo del lenguaje oral es una variable:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dependiente."
+            },
+            {
+                "text": "Extraña no controlada."
+            },
+            {
+                "text": "De equiparación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El diseño cuasiexperimental de series temporales:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Implica necesariamente la eliminación del tratamiento como recurso de control."
+            },
+            {
+                "text": "Es útil cuando disponemos de, al dos grupos control."
+            },
+            {
+                "text": "Se caracteriza por tomar varias medidas de la variable dependiente antes y durante el tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si queremos evaluar el efecto de interacción de la medida pretratamiento con la variable independiente, el diseño más adecuado sería:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De dos grupos al azar, antes y después."
+            },
+            {
+                "text": "Solomon.",
+                "correct": true
+            },
+            {
+                "text": "De dos grupos al azar solamente después."
+            }
+        ]
+    },
+    {
+        "text": "Mediante la asignación aleatoria de los sujetos a los grupos se:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Controla la varianza sistemática secundaria.",
+                "correct": true
+            },
+            {
+                "text": "Gana en validez externa."
+            },
+            {
+                "text": "Disminuye la validez interna."
+            }
+        ]
+    },
+    {
+        "text": "El diseño de línea base múltiple se caracteriza:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se considera que el tratamiento ha tenido efecto mientras que el resto de las conductas permanecen relativamente estables.",
+                "correct": true
+            },
+            {
+                "text": "Carece de intervención o tratamiento."
+            },
+            {
+                "text": "Las conductas porque: seleccionadas deben ser sensibles a diferentes variables."
+            }
+        ]
+    },
+    {
+        "text": "En un experimento, el grupo de control tiene como objetivo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Comprobar el efecto de la variable independiente sobre la dependiente.",
+                "correct": true
+            },
+            {
+                "text": "Comparar las características de los sujetos."
+            },
+            {
+                "text": "Controlar a los sujetos experimentales para que sigan las instrucciones del experimentador."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>De acuerdo con algunas investigaciones sobre la adquisición de la lectura existe una alta correlación positiva entre el nivel de desarrollo del lenguaje oral y la facilidad para aprender a leer. Un psicólogo escolar se propone evaluar el efecto facilitador de un programa de entrenamiento en 'la estructura de palabras habladas' (rima y organización interna) sobre el aprendizaje de la lectura. Antes de empezar con el programa se obtiene, mediante un test, el nivel de desarrollo lingüístico de los niños de segundo ciclo de educación infantil (5 años) de un centro educativo. De acuerdo a la puntuación obtenida en el test, se formaron dos grupos (A y B) de 15 participantes igualados uno a uno, pero asignados aleatoriamente a cada una de las condiciones experimentales. Los participantes del grupo A recibieron, antes de cada clase de lectura, el programa de entrenamiento de la 'estructura de palabras habladas'. Los niños del grupo B ocuparon ese tiempo con tareas de expresión plástica. Después, los dos grupos recibían juntos, en la misma aula, las clases de lectura siguiendo el mismo método con el mismo profesor. Finalizado el primer semestre del programa, el psicólogo evaluó mediante un test específico, el aprendizaje de la lectura en los niños. Las puntuaciones obtenidas le confirmaron su hipótesis inicial.<br><br>La variable dependiente es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El aprendizaje de la lectura evaluado mediante un test específico.",
+                "correct": true
+            },
+            {
+                "text": "La puntuación obtenida en el test de desarrollo del lenguaje oral."
+            },
+            {
+                "text": "La diferencia de rendimiento académico entre los grupos A y B."
+            }
+        ]
+    },
+    {
+        "text": "Dentro del informe de investigación, en el apartado 'Introducción' debe haber una descripción concreta del problema de que se trata y:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una formulación operacional de la hipótesis nula."
+            },
+            {
+                "text": "Un análisis detallado del diseño que se ha utilizado y de los principales resultados de la investigación."
+            },
+            {
+                "text": "De la teoría y estudios relacionados con dicho problema.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El registro observacional consiste en:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Seleccionar y definir los diferentes aspectos de la conducta que se consideran relevantes para la investigación."
+            },
+            {
+                "text": "Transformar los datos obtenidos en conducta observable."
+            },
+            {
+                "text": "Anotar las conductas para tener constancia de su ocurrencia, sus propiedades y su orden de aparición.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La validez interna y la validez externa de una investigación, son elementos claves que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tienen el mismo significado a la hora de explicar los resultados."
+            },
+            {
+                "text": "Hay considerar en cualquier diseño de que investigación.",
+                "correct": true
+            },
+            {
+                "text": "No guardan ninguna relación entre sí."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>De acuerdo con algunas investigaciones sobre la adquisición de la lectura existe una alta correlación positiva entre el nivel de desarrollo del lenguaje oral y la facilidad para aprender a leer. Un psicólogo escolar se propone evaluar el efecto facilitador de un programa de entrenamiento en 'la estructura de palabras habladas' (rima y organización interna) sobre el aprendizaje de la lectura. Antes de empezar con el programa se obtiene, mediante un test, el nivel de desarrollo lingüístico de los niños de segundo ciclo de educación infantil (5 años) de un centro educativo. De acuerdo a la puntuación obtenida en el test, se formaron dos grupos (A y B) de 15 participantes igualados uno a uno, pero asignados aleatoriamente a cada una de las condiciones experimentales. Los participantes del grupo A recibieron, antes de cada clase de lectura, el programa de entrenamiento de la 'estructura de palabras habladas'. Los niños del grupo B ocuparon ese tiempo con tareas de expresión plástica. Después, los dos grupos recibían juntos, en la misma aula, las clases de lectura siguiendo el mismo método con el mismo profesor. Finalizado el primer semestre del programa, el psicólogo evaluó mediante un test específico, el aprendizaje de la lectura en los niños. Las puntuaciones obtenidas le confirmaron su hipótesis inicial.<br><br>En este tipo de diseño:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los dos grupos son esencialmente iguales, en lo que se refiere a la variable dependiente, al terminar el experimento."
+            },
+            {
+                "text": "Lo más complicado es conseguir una variable de equiparación estrechamente relacionada con la variable extraña."
+            },
+            {
+                "text": "Los grupos deben tener el mismo número de sujetos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la Metodología Cualitativa:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La triangulación metodológica es una estrategia cuya finalidad es obtener básicamente datos textuales para analizar el discurso."
+            },
+            {
+                "text": "Los criterios para seleccionar a los participantes están más en función de los objetivos del estudio que de acuerdo a criterios poblacionales o de selección aleatoria.",
+                "correct": true
+            },
+            {
+                "text": "El diseño tiene una estructura claramente predefinida de antemano."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>De acuerdo con algunas investigaciones sobre la adquisición de la lectura existe una alta correlación positiva entre el nivel de desarrollo del lenguaje oral y la facilidad para aprender a leer. Un psicólogo escolar se propone evaluar el efecto facilitador de un programa de entrenamiento en 'la estructura de palabras habladas' (rima y organización interna) sobre el aprendizaje de la lectura. Antes de empezar con el programa se obtiene, mediante un test, el nivel de desarrollo lingüístico de los niños de segundo ciclo de educación infantil (5 años) de un centro educativo. De acuerdo a la puntuación obtenida en el test, se formaron dos grupos (A y B) de 15 participantes igualados uno a uno, pero asignados aleatoriamente a cada una de las condiciones experimentales. Los participantes del grupo A recibieron, antes de cada clase de lectura, el programa de entrenamiento de la 'estructura de palabras habladas'. Los niños del grupo B ocuparon ese tiempo con tareas de expresión plástica. Después, los dos grupos recibían juntos, en la misma aula, las clases de lectura siguiendo el mismo método con el mismo profesor. Finalizado el primer semestre del programa, el psicólogo evaluó mediante un test específico, el aprendizaje de la lectura en los niños. Las puntuaciones obtenidas le confirmaron su hipótesis inicial.<br><br>Algunas variables extrañas que pueden amenazar a la validez interna de este experimento son:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección diferencial de los grupos y la escasa representatividad de la muestra."
+            },
+            {
+                "text": "La historia y la maduración.",
+                "correct": true
+            },
+            {
+                "text": "Los de los reactivos dispositivos experimentales."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>De acuerdo con algunas investigaciones sobre la adquisición de la lectura existe una alta correlación positiva entre el nivel de desarrollo del lenguaje oral y la facilidad para aprender a leer. Un psicólogo escolar se propone evaluar el efecto facilitador de un programa de entrenamiento en 'la estructura de palabras habladas' (rima y organización interna) sobre el aprendizaje de la lectura. Antes de empezar con el programa se obtiene, mediante un test, el nivel de desarrollo lingüístico de los niños de segundo ciclo de educación infantil (5 años) de un centro educativo. De acuerdo a la puntuación obtenida en el test, se formaron dos grupos (A y B) de 15 participantes igualados uno a uno, pero asignados aleatoriamente a cada una de las condiciones experimentales. Los participantes del grupo A recibieron, antes de cada clase de lectura, el programa de entrenamiento de la 'estructura de palabras habladas'. Los niños del grupo B ocuparon ese tiempo con tareas de expresión plástica. Después, los dos grupos recibían juntos, en la misma aula, las clases de lectura siguiendo el mismo método con el mismo profesor. Finalizado el primer semestre del programa, el psicólogo evaluó mediante un test específico, el aprendizaje de la lectura en los niños. Las puntuaciones obtenidas le confirmaron su hipótesis inicial.<br><br>La/s variable/s independiente/s es/son:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El desarrollo del lenguaje oral y la facilidad para aprender a leer."
+            },
+            {
+                "text": "El programa de entrenamiento en la estructura de palabras habladas.",
+                "correct": true
+            },
+            {
+                "text": "El método de enseñanza de la lectura."
+            }
+        ]
+    },
+    {
+        "text": "En el diseño de estudio de casos y controles:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se miden, en primer lugar, todas las variables independientes que queremos investigar y, posteriormente, se mide la variable dependiente y se estudia la relación entre las variables."
+            },
+            {
+                "text": "Es necesario que la única diferencia entre el grupo de casos y el grupo de controles sea que el primero posea la característica que interesa investigar y el segundo carezca de ella.",
+                "correct": true
+            },
+            {
+                "text": "El grupo de sujetos seleccionados equivalente al grupo control de los diseños experimentales."
+            }
+        ]
+    },
+    {
+        "text": "En el diseño cuasiexperimental de retirada del tratamiento con pretest y postest:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2014",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El número de participantes suele ser muy pequeño."
+            },
+            {
+                "text": "Es conveniente que el efecto inicial del tratamiento perdure."
+            },
+            {
+                "text": "La retirada del tratamiento puede causar frustración.",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,611 @@
+[
+    {
+        "text": "El primer paso que se sigue en el método científico es la:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Definición del problema.",
+                "correct": true
+            },
+            {
+                "text": "Deducción de hipótesis contrastables."
+            },
+            {
+                "text": "Elaboración de un plan de actuación."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio cuasiexperimental:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es muy importante la identificación de las posibles amenazas a la validez interna debido a que los grupos no se forman por asignación aleatoria.",
+                "correct": true
+            },
+            {
+                "text": "Se van añadiendo variables independientes en función de los resultados que se vayan obteniendo."
+            },
+            {
+                "text": "Se pueden inferir relaciones causales con garantías siempre que haya grupo de control."
+            }
+        ]
+    },
+    {
+        "text": "En función del número de variables independientes que utilicemos en un experimento, el diseño será:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De dos grupos o multigrupo."
+            },
+            {
+                "text": "Intersujeto o intrasujeto."
+            },
+            {
+                "text": "Unifactorial o factorial.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el diseño de series temporales interrumpidas:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La historia se controla espaciando los intervalos temporales."
+            },
+            {
+                "text": "La maduración es una amenaza a la validez interna difícil de controlar debido a las diferencias individuales."
+            },
+            {
+                "text": "Se toman varias medidas antes y después de introducir el tratamiento y la efectividad del mismo se comprueba analizando si existen cambios, en el nivel o tendencia de la serie, antes y después de introducir el tratamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las normas éticas de la investigación indican que se debe comunicar a los participantes el procedimiento de la investigación:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Empleando un consentimiento informado que debe firmar el participante.",
+                "correct": true
+            },
+            {
+                "text": "Oralmente una vez terminada la investigación."
+            },
+            {
+                "text": "Dando libertad a cada investigador para actuar como crea conveniente."
+            }
+        ]
+    },
+    {
+        "text": "La encuesta:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se puede considerar una metodología de investigación o una técnica de recogida de datos.",
+                "correct": true
+            },
+            {
+                "text": "Valora los efectos generales de una intervención específica en la población."
+            },
+            {
+                "text": "Registra el comportamiento espontáneo de las personas."
+            }
+        ]
+    },
+    {
+        "text": "La amenaza a la validez interna denominada regresión estadística:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se relaciona con la falta de validez de los instrumentos de medida."
+            },
+            {
+                "text": "Se controla utilizando una medida pretratamiento."
+            },
+            {
+                "text": "Se puede dar cuando se selecciona a los participantes en función de las puntuaciones extremas obtenidas en la medición de una variable.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los diseños de caso único:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se utilizan tanto en la investigación básica como en la aplicada.",
+                "correct": true
+            },
+            {
+                "text": "No permiten concluir relaciones causales."
+            },
+            {
+                "text": "Carecen de validez interna."
+            }
+        ]
+    },
+    {
+        "text": "En el apartado de un informe de investigación denominado:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Método, se comentan los resultados obtenidos en función de las hipótesis planteadas y de los resultados de otras investigaciones mencionadas en la Introducción."
+            },
+            {
+                "text": "Referencias Bibliográficas, se reseñan todos los documentos relacionados con el objetivo de la investigación."
+            },
+            {
+                "text": "Introducción, se debe comenzar con una descripción general del tema: historia, curso y estado actual del problema que se aborda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La selección aleatoria se diferencia de la asignación aleatoria en que la primera está relacionada con:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La equivalencia de los grupos y la segunda con la representatividad de la muestra."
+            },
+            {
+                "text": "La validez interna y la segunda con la validez externa."
+            },
+            {
+                "text": "La forma de seleccionar los sujetos de la población que van a formar parte de la muestra y la segunda con la forma de asignar esos sujetos de la muestra a los diferentes grupos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un diseño experimental, la medida pretratamiento se registra en una variable muy relacionada con la variable dependiente e incluso en la misma variable dependiente:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Después de la formación de los grupos, para decidir a qué grupo se le asigna cada uno de los diferentes niveles de la variable independiente."
+            },
+            {
+                "text": "Una vez formados los grupos, para comprobar que son equivalentes en esa variable antes de la introducción del tratamiento.",
+                "correct": true
+            },
+            {
+                "text": "Antes de la constitución de los grupos, para hacer bloques de sujetos en función de las puntuaciones obtenidas en dicha medida."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué validez está relacionada con la inferencia causal?:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Poblacional."
+            },
+            {
+                "text": "Interna.",
+                "correct": true
+            },
+            {
+                "text": "Externa."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de N=1:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De línea base múltiple entre situaciones, se aplica el tratamiento sucesivamente a la misma conducta de un mismo sujeto en situaciones distintas e independientes.",
+                "correct": true
+            },
+            {
+                "text": "La efectividad del tratamiento se basa en el cambio de tendencia y/o de nivel en la fase de línea base."
+            },
+            {
+                "text": "La línea base se define como la fase en la que se toman medidas repetidas de la variable dependiente durante la introducción del tratamiento."
+            }
+        ]
+    },
+    {
+        "text": "Un diseño ex post facto:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Prospectivo de grupo único, estudia las relaciones entre los diferentes niveles de la variable independiente."
+            },
+            {
+                "text": "Retrospectivo, tanto la variable dependiente como las independientes han tomado sus valores antes de comenzar la investigación.",
+                "correct": true
+            },
+            {
+                "text": "Prospectivo simple, estudia la relación entre todos los valores de las variables objeto de estudio en un grupo de sujetos."
+            }
+        ]
+    },
+    {
+        "text": "El diseño del estudio 2 del artículo de la PEC tiene:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dos condiciones experimentales: una intersujetos y la otra intrasujeto."
+            },
+            {
+                "text": "Un factor intersujetos y el otro intrasujeto.",
+                "correct": true
+            },
+            {
+                "text": "Una variable dependiente intersujetos y la otra intrasujeto."
+            }
+        ]
+    },
+    {
+        "text": "En metodología observacional:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El coeficiente Kappa de Cohen sirve para valorar si las medidas obtenidas, por la aplicación de un sistema de categorías, constituyen buenos indicadores de la conducta de interés."
+            },
+            {
+                "text": "El registro activado por transiciones (RAT) permite registrar la ocurrencia, la duración de las conductas y su orden de aparición.",
+                "correct": true
+            },
+            {
+                "text": "La realización del muestreo intersesional se refiere a la toma de decisiones sobre a quién observar en cada sesión."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio cualitativo:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La triangulación metodológica tiene como finalidad obtener validez y rigor en los datos y ofrecer una visión global desde diferentes perspectivas, contrastando desde diferentes fuentes los datos que genera una investigación.",
+                "correct": true
+            },
+            {
+                "text": "El análisis de datos supone la última fase de la investigación."
+            },
+            {
+                "text": "El diseño tiene una estructura claramente predefinida de antemano."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un laboratorio farmacéutico quiere comprobar experimentalmente si el consumo de un nuevo fármaco afecta a la capacidad de conducción de las personas. Para ello se selecciona aleatoriamente de una muestra de 60 personas que conducen habitualmente entre 300 y 500 Km a la semana un grupo de 20 sujetos, 10 hombres y 10 mujeres. En un circuito se prepara un recorrido que incluye giros, maniobras, frenadas, etc. para que lo recorran los participantes en 30 minutos acompañados cada uno por un experimentador que va registrando los errores que cometen en el recorrido. Todos los participantes emplean el mismo modelo de coche y realizan el primer recorrido del circuito a la misma hora de la mañana después de haberles suministrado una sustancia placebo. Ese mismo día por la tarde, también a la misma hora todos los participantes vuelven a repetir el mismo recorrido después de haber tomado el nuevo fármaco acompañados de otro experimentador que va registrando los errores cometidos utilizando el mismo sistema de registro que el que se ha utilizado por la mañana. El análisis de los resultados indica que existen diferencias significativas entre las frecuencia de errores cometidos en los dos recorridos, siendo mayor la frecuencia en el primer recorrido.<br><br>Una de las amenazas a la validez interna que se ha controlado ha sido el efecto:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De orden o error progresivo."
+            },
+            {
+                "text": "Residual del fármaco.",
+                "correct": true
+            },
+            {
+                "text": "Del experimentador."
+            }
+        ]
+    },
+    {
+        "text": "En la investigación cualitativa:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se recogen datos para evaluar hipótesis o teorías preconcebidas."
+            },
+            {
+                "text": "El método denominado investigación-acción tiene como objetivo comprender y transformar la realidad social.",
+                "correct": true
+            },
+            {
+                "text": "Se utiliza, como modo de proceder, el método deductivo."
+            }
+        ]
+    },
+    {
+        "text": "El término contraste en el método científico está relacionado con:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La hipótesis.",
+                "correct": true
+            },
+            {
+                "text": "El constructo."
+            },
+            {
+                "text": "El problema."
+            }
+        ]
+    },
+    {
+        "text": "La varianza error:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se suele producir por factores de carácter aleatorio.",
+                "correct": true
+            },
+            {
+                "text": "Se puede controlar eligiendo valores extremos de la variable independiente."
+            },
+            {
+                "text": "Se debe a variables conocidas por el experimentador."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un laboratorio farmacéutico quiere comprobar experimentalmente si el consumo de un nuevo fármaco afecta a la capacidad de conducción de las personas. Para ello se selecciona aleatoriamente de una muestra de 60 personas que conducen habitualmente entre 300 y 500 Km a la semana un grupo de 20 sujetos, 10 hombres y 10 mujeres. En un circuito se prepara un recorrido que incluye giros, maniobras, frenadas, etc. para que lo recorran los participantes en 30 minutos acompañados cada uno por un experimentador que va registrando los errores que cometen en el recorrido. Todos los participantes emplean el mismo modelo de coche y realizan el primer recorrido del circuito a la misma hora de la mañana después de haberles suministrado una sustancia placebo. Ese mismo día por la tarde, también a la misma hora todos los participantes vuelven a repetir el mismo recorrido después de haber tomado el nuevo fármaco acompañados de otro experimentador que va registrando los errores cometidos utilizando el mismo sistema de registro que el que se ha utilizado por la mañana. El análisis de los resultados indica que existen diferencias significativas entre las frecuencia de errores cometidos en los dos recorridos, siendo mayor la frecuencia en el primer recorrido.<br><br>El diseño utilizado es:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental ya que el grupo se selecciona aleatoriamente, la variable independiente es de manipulación intencional y se utilizan técnicas de control.",
+                "correct": true
+            },
+            {
+                "text": "De caso único porque primero hay una fase sin tratamiento (placebo) y después otra con tratamiento (fármaco)."
+            },
+            {
+                "text": "Ex post facto porque una de las variables independientes es de selección de valores."
+            }
+        ]
+    },
+    {
+        "text": "En los resultados del estudio 1 del artículo de la PEC se detecta que tanto el grupo de participantes con ceguera como el grupo de videntes tardaron más en responder a las preguntas sobre ángulo recto que a las de izquierda-derecha o arriba-abajo. Esto refleja un efecto:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De interacción entre estas dos variables citadas."
+            },
+            {
+                "text": "Principal de la variable grupo (con ceguera o videntes)."
+            },
+            {
+                "text": "Principal de la variable tipo de relación espacial preguntada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los diseños ex post facto:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La variable independiente es de selección de valores.",
+                "correct": true
+            },
+            {
+                "text": "Se controlan las variables extrañas intrasujeto asignando aleatoriamente los sujetos a los grupos."
+            },
+            {
+                "text": "Se establecen relaciones causales ya que la variable independiente antecede a la dependiente, hay covariación entre ellas y se pueden descartar explicaciones alternativas."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un laboratorio farmacéutico quiere comprobar experimentalmente si el consumo de un nuevo fármaco afecta a la capacidad de conducción de las personas. Para ello se selecciona aleatoriamente de una muestra de 60 personas que conducen habitualmente entre 300 y 500 Km a la semana un grupo de 20 sujetos, 10 hombres y 10 mujeres. En un circuito se prepara un recorrido que incluye giros, maniobras, frenadas, etc. para que lo recorran los participantes en 30 minutos acompañados cada uno por un experimentador que va registrando los errores que cometen en el recorrido. Todos los participantes emplean el mismo modelo de coche y realizan el primer recorrido del circuito a la misma hora de la mañana después de haberles suministrado una sustancia placebo. Ese mismo día por la tarde, también a la misma hora todos los participantes vuelven a repetir el mismo recorrido después de haber tomado el nuevo fármaco acompañados de otro experimentador que va registrando los errores cometidos utilizando el mismo sistema de registro que el que se ha utilizado por la mañana. El análisis de los resultados indica que existen diferencias significativas entre las frecuencia de errores cometidos en los dos recorridos, siendo mayor la frecuencia en el primer recorrido.<br><br>En este estudio:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se concluye que el nuevo fármaco mejora la capacidad de conducción ya que los participantes comenten menos errores cuando han consumido el fármaco que cuando han tomado el placebo."
+            },
+            {
+                "text": "No se puede saber si la diferencia encontrada en el número de errores cometidos se debe al efecto del fármaco o al efecto del aprendizaje.",
+                "correct": true
+            },
+            {
+                "text": "No se puede saber si los errores cometidos se deben a las características del circuito o al efecto del fármaco."
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un laboratorio farmacéutico quiere comprobar experimentalmente si el consumo de un nuevo fármaco afecta a la capacidad de conducción de las personas. Para ello se selecciona aleatoriamente de una muestra de 60 personas que conducen habitualmente entre 300 y 500 Km a la semana un grupo de 20 sujetos, 10 hombres y 10 mujeres. En un circuito se prepara un recorrido que incluye giros, maniobras, frenadas, etc. para que lo recorran los participantes en 30 minutos acompañados cada uno por un experimentador que va registrando los errores que cometen en el recorrido. Todos los participantes emplean el mismo modelo de coche y realizan el primer recorrido del circuito a la misma hora de la mañana después de haberles suministrado una sustancia placebo. Ese mismo día por la tarde, también a la misma hora todos los participantes vuelven a repetir el mismo recorrido después de haber tomado el nuevo fármaco acompañados de otro experimentador que va registrando los errores cometidos utilizando el mismo sistema de registro que el que se ha utilizado por la mañana. El análisis de los resultados indica que existen diferencias significativas entre las frecuencia de errores cometidos en los dos recorridos, siendo mayor la frecuencia en el primer recorrido.<br><br>La/s variable/s independiente/s es/son:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las características del circuito."
+            },
+            {
+                "text": "Las características del circuito y el género."
+            },
+            {
+                "text": "El consumo del nuevo fármaco.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO:<br>Un laboratorio farmacéutico quiere comprobar experimentalmente si el consumo de un nuevo fármaco afecta a la capacidad de conducción de las personas. Para ello se selecciona aleatoriamente de una muestra de 60 personas que conducen habitualmente entre 300 y 500 Km a la semana un grupo de 20 sujetos, 10 hombres y 10 mujeres. En un circuito se prepara un recorrido que incluye giros, maniobras, frenadas, etc. para que lo recorran los participantes en 30 minutos acompañados cada uno por un experimentador que va registrando los errores que cometen en el recorrido. Todos los participantes emplean el mismo modelo de coche y realizan el primer recorrido del circuito a la misma hora de la mañana después de haberles suministrado una sustancia placebo. Ese mismo día por la tarde, también a la misma hora todos los participantes vuelven a repetir el mismo recorrido después de haber tomado el nuevo fármaco acompañados de otro experimentador que va registrando los errores cometidos utilizando el mismo sistema de registro que el que se ha utilizado por la mañana. El análisis de los resultados indica que existen diferencias significativas entre las frecuencia de errores cometidos en los dos recorridos, siendo mayor la frecuencia en el primer recorrido.<br><br>La variable dependiente del estudio se mide mediante:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El número de errores cometidos durante el recorrido del circuito.",
+                "correct": true
+            },
+            {
+                "text": "La velocidad en el recorrido del circuito."
+            },
+            {
+                "text": "El tiempo que tardan en recorrer el circuito."
+            }
+        ]
+    },
+    {
+        "text": "Si el objetivo de una investigación es estudiar la interacción entre dos hermanos gemelos, se debería utilizar una estrategia:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental."
+            },
+            {
+                "text": "Cuasiexperimental."
+            },
+            {
+                "text": "Observacional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La validez de criterio de una encuesta se refiere a:",
+        "fecha": {
+            "mes": "Modelo",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que los ítems que están midiendo el constructo realmente coincidan con lo que queremos medir.",
+                "correct": true
+            },
+            {
+                "text": "La consistencia de las respuestas cuando se pasa varias veces a los mismos sujetos en situaciones diferentes."
+            },
+            {
+                "text": "Si se ha establecido un criterio claro para discriminar las diferentes posiciones que ocupan las respuestas de los sujetos a lo largo de la escala de medición."
+            }
+        ]
+    }
+]
